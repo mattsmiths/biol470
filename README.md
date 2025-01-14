@@ -1,2 +1,2 @@
-# biol470
-The code repository for BIOL470: Systems and Behavioral Neuroscience
+# BIOL-470
+Welcome to the code repository for BIOL470: Systems and Behavioral Neuroscience
