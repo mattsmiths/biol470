@@ -1,6 +1,10 @@
 # BIOL-470
 Welcome to the code repository for BIOL470: Systems and Behavioral Neuroscience
 
+## Week 5
+For this activity we explored some improved tracking methods for our opto-genetic and thermo-genetic experiments
+*  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/mattsmiths/biol470/blob/main/week5/simpleDrosophilaTracking.ipynb)
+
 ## Week 4
 For this activity we explored some image manipulation to track flies moving in the videos we recorded in Week-3
 *  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/mattsmiths/biol470/blob/main/week4/drosophilaTracking.ipynb)
