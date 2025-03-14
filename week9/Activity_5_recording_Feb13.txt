@@ -1,0 +1,1653 @@
+1
+00:00:11,970 --> 00:00:16,640
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Okay. Um. Sorry I am late again.
+
+2
+00:00:17,030 --> 00:00:21,350
+Uh, but yeah, we'll get started with activity for week five.
+
+3
+00:00:21,770 --> 00:00:27,700
+Um, today? Yeah, I think it's a cool activity that I'll definitely have to.
+
+4
+00:00:27,710 --> 00:00:29,270
+I'll take a little time setting up.
+
+5
+00:00:29,270 --> 00:00:39,140
+So I kind of built in time for y'all to work on some of the other the write ups for activities three and four and do some of the image processing.
+
+6
+00:00:39,590 --> 00:00:43,970
+Um, so I'll give you all time to do that after I go through a few intro slides.
+
+7
+00:00:44,330 --> 00:00:51,979
+Uh, and I fixed a lot of the code and so now it should I'll show you how to upload or change the directory path,
+
+8
+00:00:51,980 --> 00:00:56,020
+and it'll generate a bunch of really nice or interesting figures, I think to me.
+
+9
+00:00:56,030 --> 00:00:59,370
+And maybe you all are welcome to use those figures.
+
+10
+00:00:59,390 --> 00:01:05,930
+It'll also export that CSV with all that data. So you're welcome to play around with Excel if you want to.
+
+11
+00:01:06,170 --> 00:01:12,350
+Uh, but I think a good baseline of figures will be automatically generated that you can start to try and,
+
+12
+00:01:12,350 --> 00:01:16,520
+um, uh, prove or disprove your hypotheses about.
+
+13
+00:01:16,820 --> 00:01:21,350
+Um, for our, our experiments three and potentially today.
+
+14
+00:01:23,100 --> 00:01:25,920
+Cool. All right. Um.
+
+15
+00:01:26,220 --> 00:01:34,380
+All right, so I'll that's for the write up, which we saw last week, and I'll bring that back, um, after I go through the intro here.
+
+16
+00:01:35,100 --> 00:01:43,320
+But yeah. So for today, we're going to play around with a really interesting neuroscience behavioral neuroscience tool called optogenetics.
+
+17
+00:01:43,830 --> 00:01:56,040
+Um, so does anyone want to give a like 1 or 2 sentence explanation or attempt to explain what optogenetics could could mean?
+
+18
+00:01:59,290 --> 00:02:03,790
+Yeah, well, considering this, um.
+
+19
+00:02:04,210 --> 00:02:08,480
+Dream for us and strengthen us. Something to do with labeling.
+
+20
+00:02:09,290 --> 00:02:12,710
+A certain genetic transfer of GFP. Yeah.
+
+21
+00:02:12,720 --> 00:02:21,470
+So the GFP is actually a little of a, uh, throws you off from the main function of the the optogenetics, but, yeah,
+
+22
+00:02:21,500 --> 00:02:29,690
+good, good pick up, because often, um, our optogenetic proteins are labeled with some other fluorescent tags.
+
+23
+00:02:29,690 --> 00:02:33,350
+So you actually can see where this protein is being expressed in the brain.
+
+24
+00:02:33,920 --> 00:02:38,810
+Um, but I guess we can start to break down, um, opto.
+
+25
+00:02:39,500 --> 00:02:42,850
+Um, we're just talking about the visual system.
+
+26
+00:02:43,190 --> 00:02:46,340
+Um, we're looking at some options.
+
+27
+00:02:46,820 --> 00:02:54,590
+Uh, so opto standing for, um, being light activated or light sensitive oven light genetics.
+
+28
+00:02:54,590 --> 00:03:01,280
+So, uh, often these are, um, genetically engineered proteins that are light sensitive.
+
+29
+00:03:01,700 --> 00:03:08,329
+Uh, and so they're expressed in all of our classic, uh, behavioral neuroscience model organisms.
+
+30
+00:03:08,330 --> 00:03:16,520
+So of course, Drosophila theologians, um, all types of, uh, mice in rat model systems.
+
+31
+00:03:16,910 --> 00:03:25,460
+Uh, and so the big benefit to this is potentially a, um, much less invasive way of activating a population of neurons.
+
+32
+00:03:26,030 --> 00:03:31,519
+However, to do a technique like this, of course, you need to know quite a bit about the genetics, right?
+
+33
+00:03:31,520 --> 00:03:40,640
+And then be able to have some expression system within that animal to actually be able to target this protein to a particular, uh, set of neurons.
+
+34
+00:03:41,120 --> 00:03:52,040
+Right? So the main idea is that when this protein is expressed, you can shine light, uh, on this animal and this protein will activate or this,
+
+35
+00:03:52,130 --> 00:03:58,250
+uh, ion channel will activate, causing depolarization if it's in, uh, a set of neurons.
+
+36
+00:03:59,810 --> 00:04:00,049
+Right.
+
+37
+00:04:00,050 --> 00:04:10,280
+So that's we're going to play around with some Drosophila where we have this technique, um, uh, or optogenetics, a channelrhodopsin being expressed.
+
+38
+00:04:11,150 --> 00:04:17,719
+Uh, and the other one is this idea of thermo genetics, which I feel like this term isn't used super commonly,
+
+39
+00:04:17,720 --> 00:04:26,210
+but, uh, the idea is, um, now having a thermally sensitive ion channel into, uh, population of neurons.
+
+40
+00:04:26,570 --> 00:04:32,990
+And so now if you raise the temperature above, uh, some, uh, set threshold, uh,
+
+41
+00:04:32,990 --> 00:04:41,690
+you'll get this channel starting to open and will lead to some neural response and wherever, uh, that, that ion channel is being expressed.
+
+42
+00:04:42,290 --> 00:04:52,159
+Right. So we also have some, uh, just soft light, which we've expressed, uh, this channel trip A1, uh, which is also in humans,
+
+43
+00:04:52,160 --> 00:04:59,660
+it's, uh, it does uh, a whole host of functions in terms of, um, signaling different pathways.
+
+44
+00:04:59,660 --> 00:05:08,630
+But often we think of it as a pain receptor. Um, it triggers a ton of like inflammation responses throughout the body immuno responses.
+
+45
+00:05:08,900 --> 00:05:13,520
+Um, so a pretty, uh, wide reaching, uh, ion channel.
+
+46
+00:05:14,840 --> 00:05:18,979
+All right. And so the last bit to this puzzle, which was kind of, uh, touching on,
+
+47
+00:05:18,980 --> 00:05:25,430
+is how do you actually express these proteins in different tissues or in different, uh, neuro populations?
+
+48
+00:05:25,850 --> 00:05:30,980
+And so that comes from knowing a ton about the genetics of your model organism.
+
+49
+00:05:31,340 --> 00:05:36,620
+So we know a lot about Drosophila. Uh, we know um, right.
+
+50
+00:05:36,860 --> 00:05:46,249
+We can typically think of all of our, our DNA present in all of our cells, but it is, um, promoters,
+
+51
+00:05:46,250 --> 00:05:52,880
+transcription factors that are actually regulating where genes are expressed in different tissue types throughout our body.
+
+52
+00:05:53,420 --> 00:05:59,750
+Um, we know a lot about these, uh, promoters and gene expression systems in Drosophila.
+
+53
+00:05:59,990 --> 00:06:09,740
+So we can take advantage of that and say, okay, I'll take the promoter for a certain neuron or a neuron that's releasing serotonin.
+
+54
+00:06:10,220 --> 00:06:16,700
+Uh, I'll then add in this gene, this let's say channel rhodopsin gene, uh,
+
+55
+00:06:17,060 --> 00:06:22,880
+coupled to this, uh, promoter in a region where I know this promoter will bind,
+
+56
+00:06:23,300 --> 00:06:32,210
+uh, and actually transcribe whatever, uh, gene is after that particular, um, promoter sequence.
+
+57
+00:06:32,660 --> 00:06:40,700
+And so that can lead to, again, targeting proteins to different areas, uh, of our brain, of not our brain, but, uh, model organisms brains.
+
+58
+00:06:42,080 --> 00:06:43,990
+Yeah. And so that's, that's the main idea.
+
+59
+00:06:44,000 --> 00:06:52,250
+So, uh, we'll play around again with thermo genetics, optogenetic tools, the way we activate those neurons again for thermo genetics,
+
+60
+00:06:52,250 --> 00:06:57,740
+raising the temperature of the environment that an animal is in, optogenetics is shining a light,
+
+61
+00:06:58,040 --> 00:07:05,570
+um, whatever wavelength of light that particular, uh, optogenetic protein is sensitive to.
+
+62
+00:07:05,720 --> 00:07:11,660
+So in this case, it's going to be red light, which is very convenient to us because, uh, of a.
+
+63
+00:07:12,010 --> 00:07:16,090
+Insects cannot see past the visible red spectrum.
+
+64
+00:07:16,300 --> 00:07:21,010
+Right. So this they won't be, um, stimulated by.
+
+65
+00:07:21,190 --> 00:07:27,339
+Or their visual neurons won't be stimulated by red light. But presumably this channel of rhodopsin will be stimulated.
+
+66
+00:07:27,340 --> 00:07:31,240
+Right. So it supposedly creates a little cleaner. Uh, experiment.
+
+67
+00:07:33,310 --> 00:07:39,360
+Cool. All right, so the lines where these, um, ion channels being expressed.
+
+68
+00:07:39,370 --> 00:07:45,340
+So we have the crimson, the light sensitive ion channel expressing some dopamine neurons.
+
+69
+00:07:45,850 --> 00:07:55,030
+Uh, and then our control is crimson, uh, the gene being present, but not under this, uh, binary expression system in the software.
+
+70
+00:07:55,540 --> 00:08:01,210
+And then for the thermo genetics, we'll have that trip channel, um, that will be expressed in the ventral nerve cord.
+
+71
+00:08:01,540 --> 00:08:10,420
+And we'll touch on this next week. But the ventral nerve cord we can think of almost as an equivalent to the spine in invertebrates.
+
+72
+00:08:10,780 --> 00:08:16,599
+Uh, so it runs basically, uh, longitudinal along, uh, the body of our insects.
+
+73
+00:08:16,600 --> 00:08:22,120
+And you have a lot of, uh, branching kind of motor neurons coming off of that ventral nerve cord.
+
+74
+00:08:22,420 --> 00:08:26,320
+So again, almost like a spine for our invertebrates.
+
+75
+00:08:27,130 --> 00:08:30,430
+All right. Uh, yeah. That's all I had for the intro.
+
+76
+00:08:30,460 --> 00:08:35,200
+Ivy, activity should be on canvas.
+
+77
+00:08:38,550 --> 00:08:46,200
+And so while I'm getting the rest of this set up, y'all can go to the activity.
+
+78
+00:08:57,800 --> 00:09:05,450
+Oh. Uh, in in the bottom half, I have updated instructions on how to run, uh, the, uh,
+
+79
+00:09:05,450 --> 00:09:12,290
+Google Colab for processing, uh, the videos that we generated in lecture or, uh, activity three.
+
+80
+00:09:13,050 --> 00:09:16,280
+It's just not loading right now. Uh.
+
+81
+00:09:18,360 --> 00:09:23,790
+But, uh, I made a new colab called Simple Drosophila Tracking.
+
+82
+00:09:23,790 --> 00:09:27,540
+And I'll just quickly show y'all some tricks to run it.
+
+83
+00:09:28,440 --> 00:09:33,089
+Right. So we have all our classic, uh, little coding buttons to press.
+
+84
+00:09:33,090 --> 00:09:36,180
+So mounting your drive, importing your libraries.
+
+85
+00:09:36,990 --> 00:09:42,360
+Uh, and then this will test that everything is mounted correctly.
+
+86
+00:09:42,360 --> 00:09:46,500
+If not, there are instructions to get your drive mounted correctly in the activity.
+
+87
+00:09:46,800 --> 00:09:54,060
+But I think everyone should be in a good spot since we've we've done it a few times now once you get to here right now,
+
+88
+00:09:54,060 --> 00:10:00,120
+I made it a little easier to just change this directory path whenever you want to process a different video.
+
+89
+00:10:00,510 --> 00:10:03,950
+So even right now I have a video from activity three, right.
+
+90
+00:10:03,990 --> 00:10:07,440
+So if you want to change it just cut that out.
+
+91
+00:10:08,160 --> 00:10:14,210
+Go to your mounted drive right and pull out your bio for 70.
+
+92
+00:10:15,180 --> 00:10:18,390
+I have some instructions in the activity as well.
+
+93
+00:10:22,400 --> 00:10:30,170
+Right, Matt. Uh, and then you can click on this path, insert the text here.
+
+94
+00:10:31,910 --> 00:10:35,880
+Hopefully. Right.
+
+95
+00:10:36,620 --> 00:10:40,569
+Okay. And then the last thing. So now I added a feature.
+
+96
+00:10:40,570 --> 00:10:45,160
+So instead of having to click all these buttons, if you want to just generate everything really fast,
+
+97
+00:10:45,550 --> 00:10:50,110
+you can just click on this dropdown arrow and then just hit the single play button.
+
+98
+00:10:50,110 --> 00:10:53,380
+And it should run everything within that section.
+
+99
+00:10:54,950 --> 00:11:00,069
+Uh, and then again this will make a new folder, uh, within this section here.
+
+100
+00:11:00,070 --> 00:11:10,270
+And it'll start populating with a bunch of uh, figures describing the speed, the position of, uh, of your animals, um, and some.
+
+101
+00:11:10,270 --> 00:11:15,580
+Yeah, fun scatter plots, histograms, uh, describing the behavior during a particular experiment.
+
+102
+00:11:17,740 --> 00:11:22,430
+Who? Uh, yeah.
+
+103
+00:11:22,440 --> 00:11:26,400
+So you're submitting poop, poop, poop.
+
+104
+00:11:28,320 --> 00:11:33,880
+Here. Um.
+
+105
+00:11:34,060 --> 00:11:41,980
+So for our first activity three, where we had our Drosophila olfactory kind of behavior, guessing the genotype,
+
+106
+00:11:42,790 --> 00:11:47,800
+you're just submitting your hypothesis for each genotype and how it respond to an odor.
+
+107
+00:11:48,220 --> 00:11:54,490
+And then any observations you may have made that may support that hypothesis just from looking at videos.
+
+108
+00:11:55,180 --> 00:12:05,690
+Uh, for the image processing section, uh, you just need to submit two, um, actually not videos, but, uh.
+
+109
+00:12:08,970 --> 00:12:17,940
+Oh, yeah. So what, you'll just be submitting to, uh, graphs, comparing two videos, uh, and then interpreting the results of your graph.
+
+110
+00:12:17,940 --> 00:12:25,830
+So processing at least two videos, um, and you can pick, uh, whichever pair you're interested in comparing.
+
+111
+00:12:26,160 --> 00:12:30,090
+Um, or you could do more if, if you're, um, really motivated.
+
+112
+00:12:30,630 --> 00:12:37,800
+Uh, and then this last bit, um, is just state your hypothesis for how each genotype will respond to the stimulus.
+
+113
+00:12:38,400 --> 00:12:41,670
+Hopefully we'll get to processing the videos and then generate a graph.
+
+114
+00:12:41,670 --> 00:12:46,350
+And then um, just say if your observations support your hypothesis.
+
+115
+00:12:47,430 --> 00:12:54,510
+Cool. All right. So I'll give you all time to work on that. And I'll be able to pop around, answer some questions.
+
+116
+00:12:54,870 --> 00:13:05,160
+Um, so and I recommend using the videos I generated for, uh, this step here, uh, doing, processing, generating those graphs.
+
+117
+00:13:05,880 --> 00:13:09,540
+Uh, and then I'll get activity through. So yeah.
+
+118
+00:13:09,600 --> 00:13:13,670
+Question will be posted to uh canvas.
+
+119
+00:13:14,310 --> 00:13:18,210
+Yeah, yeah. I'll hopefully maybe even do it before the in the class.
+
+120
+00:13:18,300 --> 00:13:24,750
+I'll make an assignment where I'll have this and maybe some more details on each, uh, each deliverable.
+
+121
+00:13:25,640 --> 00:13:31,160
+Yeah. Um, right now it's next Thursday.
+
+122
+00:13:31,160 --> 00:13:37,840
+But depending on how flexible I can, I can give us more time giving that.
+
+123
+00:13:37,910 --> 00:13:43,280
+Uh, yeah, we had a little a few hiccups. Um, so for now, it's next Thursday.
+
+124
+00:13:43,820 --> 00:13:47,010
+Yeah. Cool.
+
+125
+00:13:55,710 --> 00:13:58,800
+Um, if you didn't have video and I would recommend you.
+
+126
+00:13:59,430 --> 00:14:05,040
+Yeah, I would, yeah, I would use videos for, um, that I generated.
+
+127
+00:14:05,400 --> 00:14:09,600
+Even if you did get some videos, I think they're going to be kind of noisy when you track them.
+
+128
+00:14:10,350 --> 00:14:21,030
+So again, if you go to my drive by, uh, activity three, go that group mat and then you can just pick whatever fly you're interested in.
+
+129
+00:14:22,210 --> 00:14:26,100
+Yep. And then you'll have all your videos associated there too.
+
+130
+00:14:30,850 --> 00:14:38,550
+Yeah. Yeah.
+
+131
+00:14:39,450 --> 00:14:42,600
+So let's see.
+
+132
+00:14:42,630 --> 00:14:48,720
+So if you navigate here um, you can just highlight that and delete it.
+
+133
+00:14:49,650 --> 00:14:57,000
+And then to pick the video you click on that this folder icon here on the left.
+
+134
+00:14:58,080 --> 00:15:02,640
+Uh and that will open something that looks like this. Click on drive.
+
+135
+00:15:04,380 --> 00:15:13,500
+My drive. Um, bio for 70 should pop up if it doesn't.
+
+136
+00:15:14,100 --> 00:15:23,580
+Um, the instructions for mounting it are in the, uh, activity and then go to activity three group mat.
+
+137
+00:15:24,840 --> 00:15:34,140
+And then you should see once you're there, if you hover your mouse over the right side, you should see three buttons or three dots appear.
+
+138
+00:15:34,950 --> 00:15:40,440
+And you can just click on that copy path and then paste it in there.
+
+139
+00:15:41,540 --> 00:15:46,790
+Yeah. And so you want to make sure. Yep.
+
+140
+00:15:46,980 --> 00:15:54,020
+Yep. And you can pick whatever two videos you want. You can compare, um, the same genotype, like air versus an odor.
+
+141
+00:15:54,050 --> 00:15:59,930
+You can compare different genotypes. Um, again, just, uh, any group.
+
+142
+00:15:59,930 --> 00:16:06,710
+I'll let you. Yeah. Your pick. If it were me, I'd probably do like a same genotype er versus in Oder.
+
+143
+00:16:06,890 --> 00:16:09,950
+But again, you could do them all. Um.
+
+144
+00:16:21,770 --> 00:17:58,640
+So. That's.
+
+145
+00:18:48,160 --> 00:18:52,660
+It was. You're really.
+
+146
+00:18:54,750 --> 00:18:58,620
+The fun time. Um, so I'll tell you.
+
+147
+00:18:59,100 --> 00:19:02,130
+Yeah. Okay. So I'll tell y'all once we submit it.
+
+148
+00:19:02,880 --> 00:19:08,400
+Yeah. Part of it is just coming up with, you know, a guess based on behavior.
+
+149
+00:19:08,970 --> 00:19:15,930
+I'm guessing the behavior is going to be a little bit noisy. Um, so we'll do the big reveal after everyone turns in.
+
+150
+00:19:45,440 --> 00:19:49,260
+What we're here for. You know. Oh, yes.
+
+151
+00:19:50,010 --> 00:19:54,899
+Um, so if you go to and I'll.
+
+152
+00:19:54,900 --> 00:19:58,830
+Yeah. Include those when I post the final versions, but.
+
+153
+00:20:17,030 --> 00:20:20,390
+Yeah. So if you go to activity three. Um.
+
+154
+00:20:22,780 --> 00:20:30,240
+We'll be here. The wild type of potassium ion channel mutation of dopamine.
+
+155
+00:20:30,250 --> 00:20:35,559
+No functional mutation in the center for Learning and Memory, which is.
+
+156
+00:20:35,560 --> 00:20:39,070
+Yeah. And even more specific for odor cues and just asthma.
+
+157
+00:20:39,670 --> 00:20:45,249
+And then, um, a kind of broad, uh, nonfunctional filament like protein,
+
+158
+00:20:45,250 --> 00:20:53,050
+which provides a lot of cytoskeletal support for a lot of neuro populations, uh, within the Drosophila brain.
+
+159
+00:20:58,940 --> 00:21:02,770
+Yeah. In the back. Yeah, yeah.
+
+160
+00:21:03,850 --> 00:21:51,290
+Um. Either way. Uh.
+
+161
+00:22:09,430 --> 00:22:24,760
+That possibility is going to displace. Okay.
+
+162
+00:22:29,340 --> 00:22:46,470
+How do you do that? Yeah.
+
+163
+00:22:47,130 --> 00:22:50,790
+Sounds like maybe a few people are hitting an error at this process.
+
+164
+00:22:50,790 --> 00:22:56,910
+Video step. I think a common error is just that, uh, you have to increase this frame count number.
+
+165
+00:22:57,450 --> 00:23:00,570
+I tried to kind of guess at the length of all the videos.
+
+166
+00:23:00,840 --> 00:23:08,010
+Some are a little longer than 800 frames. So yeah, you can do a thousand or even 1200.
+
+167
+00:23:11,090 --> 00:23:43,650
+And that should work. Tissues.
+
+168
+00:26:06,100 --> 00:26:44,740
+That's. So yeah.
+
+169
+00:26:45,400 --> 00:26:49,960
+The. It shouldn't have been there.
+
+170
+00:27:04,290 --> 00:27:13,670
+Confused. Since we can.
+
+171
+00:27:23,040 --> 00:27:28,740
+I guess. It's something you wish.
+
+172
+00:27:29,580 --> 00:27:33,960
+I mean, I'm trying to remember this over and over.
+
+173
+00:27:45,590 --> 00:27:51,430
+She's. It was only six.
+
+174
+00:28:37,840 --> 00:28:52,240
+Yes. Yeah.
+
+175
+00:28:53,340 --> 00:29:08,100
+In has. If it gets stuck in the middle and you still have probably a good chunk of data so I can show you how to skip the rest of.
+
+176
+00:29:49,270 --> 00:29:52,760
+She's been. Okay.
+
+177
+00:29:56,760 --> 00:30:00,390
+I just, you know, I just I don't know. Yes.
+
+178
+00:30:04,050 --> 00:30:18,260
+Yeah. Yeah, yeah, it's a bit actually, you know, three to go, but, um, there is a video with the.
+
+179
+00:30:18,980 --> 00:30:25,610
+If you want to see what's happening. I would say that this kind of place and I think it's just fabulous.
+
+180
+00:30:25,700 --> 00:30:31,260
+So yeah, the video is, um, is going to give to the community.
+
+181
+00:30:31,700 --> 00:30:38,810
+So is you can use these figures to try and pull out, you know, differences between your vlogs and explore different.
+
+182
+00:30:40,030 --> 00:30:43,790
+Different types of diabetes. Take a guess.
+
+183
+00:30:43,970 --> 00:30:49,400
+Yeah. So if you're looking at things like this today or if you just.
+
+184
+00:30:51,760 --> 00:31:02,780
+Yeah. Yeah, exactly. The treatment system needs a special treatment.
+
+185
+00:31:02,790 --> 00:31:07,510
+But still, that's the order. So we shouldn't have to make a mess or anything.
+
+186
+00:31:11,310 --> 00:31:19,980
+I feel like, you know, because this is. The two.
+
+187
+00:31:29,410 --> 00:31:38,300
+Um. I don't know what it is. I just. Stop.
+
+188
+00:31:39,290 --> 00:31:43,490
+Turns red in his. Manually pressed.
+
+189
+00:31:46,720 --> 00:31:50,080
+Okay. Thank you. Hi, Rick. What do you think?
+
+190
+00:31:50,080 --> 00:31:58,150
+That's right. Well, I definitely want you to hold this.
+
+191
+00:31:58,300 --> 00:32:01,950
+Yes. He. He is like the ladies.
+
+192
+00:32:02,400 --> 00:32:08,640
+Like, doesn't. He's basically with me as well until, like, my brother.
+
+193
+00:32:10,710 --> 00:32:16,790
+And I'm just kind of like kind of, you know. It gets nothing, I swear.
+
+194
+00:32:16,830 --> 00:32:22,010
+But you can like. But you're just want him. So sometimes, I mean, I.
+
+195
+00:32:24,570 --> 00:32:30,140
+It wasn't so bad. I think they actually tried to pass.
+
+196
+00:32:30,770 --> 00:32:37,890
+Like sometimes he the Romans. That way I would go him.
+
+197
+00:32:45,280 --> 00:32:50,040
+Which was it, 15 or 20 years ago?
+
+198
+00:32:51,190 --> 00:32:56,940
+Thank you, thank you, thank you. Thank you.
+
+199
+00:33:00,230 --> 00:33:03,480
+What are you doing? Me?
+
+200
+00:33:04,640 --> 00:33:09,570
+Why? Okay.
+
+201
+00:33:09,920 --> 00:33:17,190
+Not really. Okay. So I guess it could be over us, but like, I different.
+
+202
+00:33:18,850 --> 00:33:22,360
+You can do something.
+
+203
+00:33:22,910 --> 00:33:29,450
+You know, um. You might want to.
+
+204
+00:33:32,840 --> 00:33:36,260
+Look at my mathematical analysis.
+
+205
+00:33:37,820 --> 00:33:41,870
+It actually talks about that. It's like, oh, that was, you know, exactly what I.
+
+206
+00:33:43,560 --> 00:33:49,900
+If you don't hear. Just like.
+
+207
+00:33:53,190 --> 00:33:56,780
+Excuse me. Sorry. Okay.
+
+208
+00:33:58,290 --> 00:34:06,990
+Come to my home. Yeah.
+
+209
+00:34:07,290 --> 00:34:15,140
+And it might not work on every so if you're getting hit in some areas.
+
+210
+00:34:15,720 --> 00:34:20,030
+So we are just started. But yeah.
+
+211
+00:34:20,490 --> 00:34:23,820
+Thank you so much for coming.
+
+212
+00:34:23,910 --> 00:34:27,030
+You know like and this is our first one.
+
+213
+00:34:27,630 --> 00:34:33,010
+Okay I think this is very important. Yeah.
+
+214
+00:34:35,360 --> 00:34:38,920
+Yeah. You can keep it on the.
+
+215
+00:34:40,930 --> 00:34:46,220
+How's it going? How's it going?
+
+216
+00:34:46,600 --> 00:34:50,510
+I'm going to work on it. Oh my God. Yeah.
+
+217
+00:34:51,500 --> 00:34:55,420
+Yeah. I'm not really sure what he's measuring.
+
+218
+00:34:56,210 --> 00:34:59,260
+Yeah. Maybe you can.
+
+219
+00:35:04,700 --> 00:35:08,820
+That's a lot of. Yeah, yeah.
+
+220
+00:35:09,170 --> 00:35:12,459
+Yeah. In order to simplify. Yeah. Yeah.
+
+221
+00:35:12,460 --> 00:35:17,300
+A lot of the group flies. I think they're a little bit small for this practice.
+
+222
+00:35:18,470 --> 00:35:23,360
+So I think I like the ones I like.
+
+223
+00:35:24,210 --> 00:35:29,720
+I don't know. Yeah. Yeah I realized that this morning.
+
+224
+00:35:32,360 --> 00:35:35,920
+Yeah. Well, I'm going to try this. Yeah.
+
+225
+00:35:36,130 --> 00:35:39,740
+So that. Oh.
+
+226
+00:35:42,540 --> 00:35:47,160
+Yeah, I think for us. Yeah, we sort of behaviorally have a little bit.
+
+227
+00:35:47,250 --> 00:35:50,580
+Um, I have to say even. Oh.
+
+228
+00:35:50,890 --> 00:35:54,590
+That's good. Uh. Yeah.
+
+229
+00:35:54,710 --> 00:35:59,020
+When I say my. Yeah. Yeah.
+
+230
+00:35:59,020 --> 00:36:04,270
+Of course. I mean, most of you think so.
+
+231
+00:36:04,490 --> 00:36:12,270
+I mean, I can't. Be sure how I feel about it.
+
+232
+00:36:13,660 --> 00:36:17,130
+Yeah. Yeah, yeah.
+
+233
+00:36:20,470 --> 00:36:25,960
+Who are you working with? This is. I try this?
+
+234
+00:36:26,940 --> 00:36:35,810
+Yeah. I. Mean, you just said stick it in there.
+
+235
+00:36:35,930 --> 00:36:39,860
+That's why. I don't like it.
+
+236
+00:36:41,330 --> 00:36:46,610
+Oh, I don't know if you're going to come back here late last night.
+
+237
+00:36:47,250 --> 00:36:52,100
+Yeah, it was actually I lived in a before. Yeah.
+
+238
+00:36:58,250 --> 00:37:07,400
+It has to do with, um, the kind of music that you've heard in flights, in contrast to the very basic algorithm.
+
+239
+00:37:08,630 --> 00:37:21,230
+Thank you. That's it, I got it, I got it, I got I got no one.
+
+240
+00:37:23,300 --> 00:37:26,600
+2043. Okay. So if you're saying.
+
+241
+00:37:29,060 --> 00:37:36,290
+So you haven't discussed that I actually think it means I think I can I guess I would say greater on.
+
+242
+00:37:38,300 --> 00:37:41,330
+Social media okay. No we're not really.
+
+243
+00:37:42,620 --> 00:37:46,880
+Yeah. Yeah. Yeah.
+
+244
+00:37:47,300 --> 00:37:58,850
+You can just trust me. You know, so, you know, like, if I want to come back, but, I mean, my kind of granny.
+
+245
+00:37:58,850 --> 00:38:09,830
+And I was, like, ready to. Do this.
+
+246
+00:38:14,780 --> 00:38:18,439
+Thing. Um. And I was like, uh.
+
+247
+00:38:18,440 --> 00:38:22,010
+Yeah. And then if you open those features, then you should see a bunch, uh, go.
+
+248
+00:38:23,150 --> 00:38:27,139
+Yeah, yeah. And then you'll see a bunch of stuff. I started trying really hard.
+
+249
+00:38:27,140 --> 00:38:33,350
+Night company. Right. Yeah. Yeah.
+
+250
+00:38:34,160 --> 00:38:40,280
+Um, yeah. It's, uh, like old factory learning and memory and fruit flies.
+
+251
+00:38:40,850 --> 00:38:45,440
+Um, yeah. In in the structure of the brain, actually, it looks like a mushroom,
+
+252
+00:38:45,740 --> 00:38:51,830
+which is really interesting, but, um, yeah, it's a very commonly manipulated neural structure.
+
+253
+00:38:52,340 --> 00:38:55,580
+Replies. Because people try to attribute to, like, the hippocampus.
+
+254
+00:38:56,090 --> 00:39:04,250
+Um, yeah. So I would expect some pretty weird behavior if you're manipulating the mushroom body for.
+
+255
+00:39:04,940 --> 00:39:13,940
+Yeah, yeah, I don't know. Um, so cuz I can hear what it sounds like if you compare the grass, is this or like these,
+
+256
+00:39:13,940 --> 00:39:18,620
+the graphs that we're comparing or like because you ask us like we generated this.
+
+257
+00:39:18,620 --> 00:39:22,129
+Yeah. Like or. Yeah.
+
+258
+00:39:22,130 --> 00:39:25,700
+Is this what we're supposed to do. So. Or is it these.
+
+259
+00:39:25,700 --> 00:39:31,430
+So I added some I added some Yeezy generated graphs okay.
+
+260
+00:39:32,060 --> 00:39:35,330
+You can do either more I wanted to give a few people.
+
+261
+00:39:35,330 --> 00:39:41,810
+Do you want to. You did a great job there sifting through this, um, playing around with that very messy data.
+
+262
+00:39:42,530 --> 00:39:50,780
+So this is only for like, this is only like fly, like the deep group air.
+
+263
+00:39:50,870 --> 00:40:01,130
+Like that's what this is. Yeah, exactly. So was it like we were supposed to compare like this to, like, a different person?
+
+264
+00:40:02,450 --> 00:40:06,739
+That's. And how would you get that? Um, yeah. So, you know, it doesn't have to be on one.
+
+265
+00:40:06,740 --> 00:40:11,960
+Okay. You can just say this is, um, flies to respond in the air.
+
+266
+00:40:12,410 --> 00:40:19,580
+I think the responding going, here are my two graphs and maybe I see some differences, maybe I don't.
+
+267
+00:40:19,850 --> 00:40:27,229
+Okay. I mean, I would say, you know, all the experimental nobody's all of the things that could impact you.
+
+268
+00:40:27,230 --> 00:40:30,530
+Neighbor replies that maybe. You sure. Yeah.
+
+269
+00:40:30,530 --> 00:40:36,200
+You had some hypotheses. Maybe you grab some comments that trying to evaporate,
+
+270
+00:40:36,650 --> 00:40:44,420
+trying to come up with some idea so you don't care if we use this or if we use like this kind of scenario,
+
+271
+00:40:44,420 --> 00:40:48,080
+but I encourage you to use the one you generate. Exactly. But yeah okay.
+
+272
+00:40:48,380 --> 00:40:51,500
+Okay. All right. Yeah. Yeah.
+
+273
+00:40:52,580 --> 00:40:56,690
+Um, and try to get it to work with some of your other videos.
+
+274
+00:40:56,690 --> 00:41:00,530
+Yes. He's getting this error. Yeah. It is for you.
+
+275
+00:41:00,530 --> 00:41:05,450
+Yeah. I tried to.
+
+276
+00:41:10,750 --> 00:41:17,290
+I told him so. Just let me see how many frames you got time to announce.
+
+277
+00:41:18,130 --> 00:41:26,500
+Okay. So you.
+
+278
+00:41:28,910 --> 00:41:32,950
+So if you can't move last. Well, at least.
+
+279
+00:41:38,680 --> 00:41:44,920
+It was great. And so the control.
+
+280
+00:42:03,180 --> 00:42:06,660
+All right, I'll let you do it. Um, yeah, you can run that.
+
+281
+00:42:07,530 --> 00:42:11,290
+And that will at least you. So we got rid of the video.
+
+282
+00:42:12,610 --> 00:42:19,240
+I guess it looks pretty noisy. And then. I mean.
+
+283
+00:42:33,420 --> 00:42:37,770
+So my guess. Try try some more videos. I have a question.
+
+284
+00:42:38,060 --> 00:42:42,920
+What's the difference between this new, um, call that you gave and last week?
+
+285
+00:42:42,920 --> 00:42:46,410
+So call me because I got some graphs with it. Yeah, that looks great.
+
+286
+00:42:46,430 --> 00:42:49,460
+So this one is from I mean, I don't know what I did to put this. Yeah.
+
+287
+00:42:50,880 --> 00:42:56,870
+Yeah. This one's from the. Thank you. So for some sent and this one's like just air.
+
+288
+00:42:57,080 --> 00:43:01,400
+Yeah. So there is some difference. Can I use these graphs or do I have to like.
+
+289
+00:43:02,090 --> 00:43:05,870
+No. You're welcome to uh, to use the graphs some more in the last class.
+
+290
+00:43:06,200 --> 00:43:12,050
+So this one I attempted to clean it up a bit and like for that one it was kind of looking at course movement.
+
+291
+00:43:12,440 --> 00:43:16,700
+Overall this one has more individual trying to track an individual fly.
+
+292
+00:43:17,240 --> 00:43:24,680
+Um, so you'll have more accurate kind of traces of both of them and yet.
+
+293
+00:43:24,950 --> 00:43:28,230
+No. Yeah. Feel free to use last class, you know.
+
+294
+00:43:28,310 --> 00:43:31,639
+Looks really good. So I got a bunch of graphs actually.
+
+295
+00:43:31,640 --> 00:43:35,450
+So I just did this thing where you can, you know, this works.
+
+296
+00:43:35,450 --> 00:43:38,920
+And I got so many. Oh, yeah. Me I often feel.
+
+297
+00:43:41,500 --> 00:43:44,840
+Yeah. Yeah. Okay. That's great. Yeah.
+
+298
+00:46:55,150 --> 00:46:58,800
+For the first part of the write up. When it's so, it's like how?
+
+299
+00:46:58,990 --> 00:47:05,200
+Who's for? How to respond to voters? Like, do you want us to be like, just general?
+
+300
+00:47:05,200 --> 00:47:09,390
+Or do you want to be like the wild type would respond like this to the peppermint?
+
+301
+00:47:09,880 --> 00:47:20,830
+Like, um, I was thinking, yeah, more on kind of thinking about what the impact of each genotype,
+
+302
+00:47:20,830 --> 00:47:25,510
+each manipulation would be on potentially an odor or behavioral response.
+
+303
+00:47:25,510 --> 00:47:30,549
+And then that's how you can frame all of your, um, kind of hypotheses.
+
+304
+00:47:30,550 --> 00:47:38,020
+So like wild type your, um, for flies approaching, kind of like complex odors or peppermint.
+
+305
+00:47:38,740 --> 00:47:45,970
+I mean, it is I would you can say maybe a strong behavioral response because,
+
+306
+00:47:46,270 --> 00:47:51,250
+you know, you'd expect the olfactory circuit to be, you know, working as intended.
+
+307
+00:47:51,700 --> 00:47:56,589
+Unclear, right. If peppermint would evoke an aversive or in a positive.
+
+308
+00:47:56,590 --> 00:47:59,469
+So if they would maybe approach the odor or avoid it.
+
+309
+00:47:59,470 --> 00:48:07,690
+But, um, I think the hypothesis is right that they would there would be some kind of strong behavioral response to some,
+
+310
+00:48:07,990 --> 00:48:15,130
+um, pretty significant odor coming in. Yeah. Okay. So it's not for like each specific or it's just like a general like this is.
+
+311
+00:48:15,430 --> 00:48:18,790
+Yeah. Like for me, a really good advertisement. It would be.
+
+312
+00:48:19,150 --> 00:48:27,280
+Yeah. Definitely more thinking on like comparing the genotypes than using the odors as kind of a context to really try and pick apart,
+
+313
+00:48:27,700 --> 00:48:35,040
+um, that, that response across the gene types. It's like guessing type.
+
+314
+00:48:35,190 --> 00:48:39,629
+So part of that could be like, how would a wild type respond to air?
+
+315
+00:48:39,630 --> 00:48:43,620
+Verses say the dopamine no mutant respond to air.
+
+316
+00:48:44,280 --> 00:48:53,460
+Um, yeah. Which is like maybe not necessarily an odorant is present, but when it was a stimulus.
+
+317
+00:48:54,030 --> 00:48:59,790
+Exactly. And removing dopamine from a big chunk of the learning and memory.
+
+318
+00:49:00,420 --> 00:49:07,260
+Um, yeah. Make a hypothesis on how that might even impact, uh, different uh, uh, air puff.
+
+319
+00:49:30,920 --> 00:50:14,970
+The biggest. All right.
+
+320
+00:50:15,280 --> 00:50:17,890
+Well, we'll see if we.
+
+321
+00:50:18,580 --> 00:50:31,510
+So these are flies, um, that have trip, uh, temperature sensitive, uh, ion channel expressed in, uh, the, uh, ventral nerve cord.
+
+322
+00:50:31,510 --> 00:50:37,120
+Right. So the spine will start, uh, it's kind of outlined in the activity.
+
+323
+00:50:37,540 --> 00:50:41,080
+The way we can heat them up is using. We call it a Peltier element.
+
+324
+00:50:41,530 --> 00:50:45,160
+Uh, essentially, you can run a current through. It's like a little ceramic.
+
+325
+00:50:45,670 --> 00:50:50,440
+See if I have another one. Yeah, a little ceramic cube.
+
+326
+00:50:50,740 --> 00:50:55,810
+Um, since you one side will heat up to pretty significant temperatures and the other side will cool down.
+
+327
+00:50:56,350 --> 00:51:02,080
+Um, often, you know, similar things are used for refrigerators or other kind of cooling devices.
+
+328
+00:51:02,440 --> 00:51:06,010
+So, uh, yeah, we'll use this to heat up our flies. We'll see what we get.
+
+329
+00:51:06,400 --> 00:51:14,410
+Um, I yeah, and I'll, I'll update what I want y'all to do for this assignment, since we probably won't get very far.
+
+330
+00:51:14,860 --> 00:51:18,879
+Um, which might just be stating the hypotheses.
+
+331
+00:51:18,880 --> 00:51:23,980
+And then I can prevent present the videos. Uh, next class.
+
+332
+00:51:25,810 --> 00:51:42,400
+So. You. Cool, and it'll probably take a few minutes to heat up so y'all can keep working and watch the screen periodically if you want.
+
+333
+00:53:45,110 --> 00:55:45,000
+Hold on one second. See? Yes.
+
+334
+00:56:39,400 --> 00:57:08,550
+Uh. So if you can just.
+
+335
+00:57:15,620 --> 00:57:34,910
+So. Um.
+
+336
+00:57:47,780 --> 00:57:55,430
+Very slow, right? Does anyone have a hypothesis of what would happen if, uh.
+
+337
+00:57:56,510 --> 00:58:01,670
+Um, once the. He starts activating these neurons that are expressed?
+
+338
+00:58:01,700 --> 00:58:06,210
+Oh, no. Uh, right.
+
+339
+00:58:06,230 --> 00:58:09,310
+Activating these neurons, they're essentially expressed.
+
+340
+00:58:09,320 --> 00:58:14,840
+They're part of the spine. What do you think? What could be a plausible behavior that might come out of it?
+
+341
+00:58:16,850 --> 00:58:25,190
+Knowing that. What type of neurons are coming, uh, coming out of the spine.
+
+342
+00:58:28,220 --> 00:58:33,299
+Maybe some. Yeah, right.
+
+343
+00:58:33,300 --> 00:58:44,490
+So thinking of all all the different motor neurons, right, that are, um, connected in various circuits coming out of the, uh, ventral nerve cord.
+
+344
+00:58:44,940 --> 00:58:47,579
+So what we I was hoping we would see.
+
+345
+00:58:47,580 --> 00:58:54,330
+And what you often see when you're activating this neuron is, uh, actually, like a looming response, so they actually will jump.
+
+346
+00:58:54,840 --> 00:59:01,800
+So, yeah, hopefully we'll get a video or maybe we'll reach that point, but they'll reach a high enough temperature.
+
+347
+00:59:02,100 --> 00:59:05,040
+Uh, the trip channels will start opening up,
+
+348
+00:59:05,040 --> 00:59:11,160
+and you think you're you're getting a ton of depolarization down the ventral nerve cord, the spine of these fruit flies.
+
+349
+00:59:11,400 --> 00:59:14,459
+And so they just start kind of behaving really erratically.
+
+350
+00:59:14,460 --> 00:59:19,530
+And it kind of, um, manifests as this big, kind of repetitive jumping.
+
+351
+00:59:20,460 --> 00:59:25,110
+Uh, so, yeah, keep reading and see. But yeah, sorry.
+
+352
+00:59:25,110 --> 00:59:31,410
+This our activity was a little bit of a fail today. We didn't even get the optogenetics going, but I'll.
+
+353
+00:59:33,790 --> 00:59:37,769
+I'll update, um, the write up likely.
+
+354
+00:59:37,770 --> 00:59:44,400
+We'll just maybe state a couple hypotheses. You won't have to process these videos unless you want to for fun.
+
+355
+00:59:44,790 --> 00:59:51,400
+Uh, I mean, I can run through them next class. So let's see.
+
+356
+01:00:09,730 --> 01:00:18,100
+Um, so as of now for the write up submissions, are we just doing activity three or are we going to use your videos for activity five?
+
+357
+01:00:18,790 --> 01:00:22,570
+Um, just activity basically three and four.
+
+358
+01:00:22,750 --> 01:00:32,380
+So three being, uh, I'll go back to it for a second and that I promise to have this posted today.
+
+359
+01:00:34,150 --> 01:00:37,930
+Um, this being three the different genotypes.
+
+360
+01:00:38,350 --> 01:00:47,260
+Take a guess how they respond to odors and what the, um, the phenotype of these different kind of neuro manipulations.
+
+361
+01:00:47,680 --> 01:00:56,440
+And then number two, which is processing two videos using, uh, one of the co-leads, uh, and then submitting to figures to compare.
+
+362
+01:00:57,820 --> 01:01:02,350
+Yeah. So I'll update it. But yeah, focus on these two uh, for now.
+
+363
+01:01:17,050 --> 01:01:27,570
+Oh, yeah. All right.
+
+364
+01:01:27,580 --> 01:01:34,149
+Yeah, a little bit of a, uh, failed experiment today, but I guess a good lesson in science of yes things.
+
+365
+01:01:34,150 --> 01:01:38,410
+And throughout this class, things often go. Don't go the way you planned.
+
+366
+01:01:39,070 --> 01:01:43,750
+Um, and we'll pivot and. Yeah, we'll still learn some fun stuff.
+
+367
+01:01:44,190 --> 01:01:47,980
+Thank you. Yeah. Yeah. So y'all are free to leave.
+
+368
+01:01:48,400 --> 01:01:53,220
+Uh, feel free to stick around. Ask me questions. Um, yeah.
+
+369
+01:01:54,040 --> 01:02:10,340
+Thank you. Yep. More than one.
+
+370
+01:02:24,270 --> 01:02:27,760
+Thank you, thank you.
+
+371
+01:02:28,250 --> 01:02:34,850
+Yes. Yeah, yeah. Thank you.
+
+372
+01:02:47,190 --> 01:02:51,580
+Like six. I don't know.
+
+373
+01:02:52,270 --> 01:02:56,770
+I. Yeah. My day. So I have to run to a meeting right after this.
+
+374
+01:02:56,950 --> 01:03:00,040
+Um, and then it's like, let's see.
+
+375
+01:03:00,790 --> 01:03:05,680
+So I might, um. How long are you around for?
+
+376
+01:03:06,310 --> 01:03:12,950
+Um. Um, I have a this upcoming meeting that's probably going to go at least to two,
+
+377
+01:03:13,960 --> 01:03:18,700
+mayb maybe 230, and then I might have like an hour block, and I have a 330 meeting.
+
+378
+01:03:18,850 --> 01:03:22,680
+Yeah. 430. Um, yeah.
+
+379
+01:03:23,070 --> 01:03:28,600
+Yeah. Today. Yeah. Yeah.
+
+380
+01:03:28,600 --> 01:03:33,070
+Yes. And with that I was like really good.
+
+381
+01:03:33,280 --> 01:03:36,630
+Yeah. They look. Yeah, they look pretty good I think.
+
+382
+01:03:36,640 --> 01:03:40,540
+Yeah. We'll go through and do like a full processing and like digest.
+
+383
+01:03:40,540 --> 01:03:44,920
+But um, I have friends like they are like teaching me how to code.
+
+384
+01:03:45,220 --> 01:03:49,140
+Okay. Yeah. Cool. Look like I'm going to like food.
+
+385
+01:03:49,650 --> 01:03:53,820
+I enjoyed that. Yeah, yeah. Yeah.
+
+386
+01:03:53,820 --> 01:03:59,450
+What kind of are you doing? Like some image processing stuff for the basics.
+
+387
+01:03:59,550 --> 01:04:03,600
+How do you like Ryan Woods? Come on then. Yeah, yeah, that sounds great.
+
+388
+01:04:03,990 --> 01:04:09,780
+Yeah, yeah, yeah. Planning. If I try to board something, maybe I could do it in order to.
+
+389
+01:04:10,310 --> 01:04:15,270
+Yeah, I was just thinking. What should I like to really do?
+
+390
+01:04:16,560 --> 01:04:25,260
+Yeah, I don't know. Yeah. So right now we have the it's going to be very similar to what we're doing here hopefully working a little bit better.
+
+391
+01:04:25,590 --> 01:04:29,100
+But yeah, extracting you can start out by just looking at the centroid.
+
+392
+01:04:29,640 --> 01:04:36,990
+Right. And we have because it's a learning assay we we expect to see a particular behavior before and after training.
+
+393
+01:04:37,440 --> 01:04:41,460
+Right. And so that would be a very simple and it would be a good introduction to Python.
+
+394
+01:04:41,640 --> 01:04:46,830
+And like certainly a lot of advanced tools for doing this like coding.
+
+395
+01:04:47,340 --> 01:04:54,570
+Yeah. Yeah. And I'm happy to we can sit down and we can go kind of line by line and I can walk you through even starting from the basics.
+
+396
+01:04:55,140 --> 01:05:03,540
+Um, yeah. So yeah, if you want to take a crack, I can send you some videos to start and maybe like some sample code and then we can reconvene.
+
+397
+01:05:05,220 --> 01:05:11,700
+Um, yeah. What's. Maybe next Tuesday or Monday?
+
+398
+01:05:11,780 --> 01:05:15,790
+Monday or Tuesday. Okay, cool. Tuesday after class?
+
+399
+01:05:17,090 --> 01:05:25,480
+Yeah. Sounds good. All right. Let me put my calendar, and then I'll make a note to send you some data.
+
+400
+01:05:25,490 --> 01:05:30,370
+Some sample code. Okay.
+
+401
+01:05:34,010 --> 01:05:37,220
+And then. Okay. Great.
+
+402
+01:05:38,210 --> 01:05:41,270
+Yeah. Thanks. Okay.
+
+403
+01:05:41,360 --> 01:05:48,889
+Uh, on Tuesday. Yeah. Um, no.
+
+404
+01:05:48,890 --> 01:05:53,570
+So I recorded it, and I'll post that. Not that you have to to watch it.
+
+405
+01:05:53,600 --> 01:06:01,310
+Um, yeah. What the. Yeah. So we started transitioning into, you know, motor motor control and behavior.
+
+406
+01:06:01,430 --> 01:06:03,980
+We're going to continue that next week.
+
+407
+01:06:04,430 --> 01:06:11,420
+Um, but no, no, like major activities or anything, I feel like from looking at the slides, you probably can catch up.
+
+408
+01:06:11,930 --> 01:06:16,070
+Um, yeah. But yeah, I saw your email and I forgot. I meant to respond and.
+
+409
+01:06:16,130 --> 01:06:22,340
+Yeah, hope you're feeling better now. But yeah, it was just like it was really cold and I wasn't feeling that well.
+
+410
+01:06:22,370 --> 01:06:26,270
+Like, my joints are, like, really hurting a little. Yeah.
+
+411
+01:06:26,870 --> 01:06:30,110
+Uh, but also, where can I find the recordings? Uh, yeah.
+
+412
+01:06:30,320 --> 01:06:35,750
+I haven't posted that one yet, so I'll try and do a big, uh, posting of a few different recordings today.
+
+413
+01:06:35,780 --> 01:06:38,570
+Yeah. All right. Yeah. Yeah, thanks. Let's see.
+

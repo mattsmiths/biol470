@@ -1,0 +1,2165 @@
+1
+00:00:20,890 --> 00:00:25,050
+[Auto-generated transcript. Edits may have been applied for clarity.]
+All right, so we'll get started almost on time.
+
+2
+00:00:25,060 --> 00:00:28,350
+Certainly better. Um, yeah. Welcome to week three.
+
+3
+00:00:28,360 --> 00:00:33,640
+We are moving right along. It's pretty wild to think. Yeah, we've already gotten through those first two weeks.
+
+4
+00:00:34,150 --> 00:00:43,480
+Um, yeah. This will be. So we're going to start diving into more of sensory systems, um, within different organisms.
+
+5
+00:00:43,750 --> 00:00:52,840
+House environmental information is, um, basically translated into information that can be made sense within the brain.
+
+6
+00:00:53,240 --> 00:00:59,710
+Uh, that start, uh, that process begins to organize this information and lead to meaningful behavioral output.
+
+7
+00:01:00,130 --> 00:01:07,810
+Uh, so I want to on our info slide today, uh, this is, um, a researcher, I think, from UC Davis,
+
+8
+00:01:07,810 --> 00:01:18,520
+but describing an experiment he's doing, uh, with a live rat looking at a region of the brain that's encoding odor information.
+
+9
+00:01:18,850 --> 00:01:22,149
+And so you're seeing on the left there a live readout.
+
+10
+00:01:22,150 --> 00:01:31,730
+And this is a calcium signal. Um, essentially, they added in a genetic tool that whenever a neuron fires, you have an influx of calcium.
+
+11
+00:01:31,750 --> 00:01:35,710
+This tool will bind to that calcium and give off light. So that's what they're measuring.
+
+12
+00:01:36,100 --> 00:01:40,990
+Uh, and then they're presenting a, like, rose like odor to the, to the animal.
+
+13
+00:01:41,410 --> 00:01:47,680
+Um, and yeah, hopefully in this lecture and hopefully that the paper you all read starts to give some context.
+
+14
+00:01:47,680 --> 00:01:54,850
+And I think what makes the olfactory processing system really cool and maybe as a teaser,
+
+15
+00:01:54,850 --> 00:02:00,579
+right, you can look at how consistent like that same area seems to light up in the brain.
+
+16
+00:02:00,580 --> 00:02:07,240
+Right. And we know that, uh, you know, there's different areas of the brain associated with different kinds of stimuli.
+
+17
+00:02:07,270 --> 00:02:10,720
+Um, right. It's organized in this very important way.
+
+18
+00:02:10,960 --> 00:02:18,460
+Uh, but for odors, there's even this subtle kind of representation, uh, within substructures,
+
+19
+00:02:18,790 --> 00:02:23,019
+that helps us organize how odor information is, is presented in like what?
+
+20
+00:02:23,020 --> 00:02:26,980
+Classify that type of information. All right. Long intro.
+
+21
+00:02:27,220 --> 00:02:34,120
+Um, yeah. So for today, um, we'll do this lecture on Thursday.
+
+22
+00:02:34,120 --> 00:02:36,940
+We'll do our first Drosophila experiments.
+
+23
+00:02:37,360 --> 00:02:46,030
+Uh, so our activity starting to play around with, uh, measuring, doing some behavioral neuroscience with actual animals, fruit flies.
+
+24
+00:02:46,390 --> 00:02:53,980
+Uh, and so I have a few. The experiment will be set up where you have a few different Drosophila lines, some wild type,
+
+25
+00:02:53,980 --> 00:03:01,150
+some that you may activate or silence, a few different neurons related to things we'll be talking about today.
+
+26
+00:03:01,450 --> 00:03:11,349
+And you'll use tools similarly to what we kind of went over in week one to track the behavior of these animals as they respond to things like an odor,
+
+27
+00:03:11,350 --> 00:03:16,270
+puff, or temperature, uh, increasing the temperature within a little contained rig.
+
+28
+00:03:16,660 --> 00:03:19,390
+Uh, so we'll get more information on that on Thursday.
+
+29
+00:03:19,720 --> 00:03:26,380
+Uh, and I'll send out some announcements and we'll actually be in Pritzker Science Building 306.
+
+30
+00:03:26,770 --> 00:03:30,309
+So I'll send out another announcement for that. Um, yeah.
+
+31
+00:03:30,310 --> 00:03:38,950
+So that be a nice lab space, which will get us, you know, we can move around a bit more easily, um, in that, that area of cool.
+
+32
+00:03:38,950 --> 00:03:43,089
+So I'll send out announcements for all that after. Um.
+
+33
+00:03:43,090 --> 00:03:47,170
+Yeah. I've made some updates to the course website. Right. So this is on canvas.
+
+34
+00:03:47,290 --> 00:03:52,480
+Um, just made a little tab so you can try and keep track of current assignments that I'll keep updated.
+
+35
+00:03:53,020 --> 00:03:58,389
+Um, so for today we have, uh, I think the welcome survey do at the end of the day.
+
+36
+00:03:58,390 --> 00:04:04,570
+And then the discussion posting in the discussion thread was due before the start of the class.
+
+37
+00:04:04,990 --> 00:04:08,979
+Uh, but, you know, I can add some flexibility for, um, you know,
+
+38
+00:04:08,980 --> 00:04:15,250
+this first assignment and yeah, generally pretty open to these type of things, but, um, yeah.
+
+39
+00:04:15,250 --> 00:04:19,240
+And then activities right up one and two do on Thursday.
+
+40
+00:04:19,960 --> 00:04:25,420
+Yeah. Does anyone have any questions, one about those assignments or kind of how things are structured.
+
+41
+00:04:27,020 --> 00:04:31,639
+Cool. Um, yeah. And this is also added to the home page.
+
+42
+00:04:31,640 --> 00:04:38,840
+Right. Just trying to keep things a bit more organized. You know, at the top what's upcoming and then past weeks at the bottom.
+
+43
+00:04:39,260 --> 00:04:42,709
+And that added an assessment timeline to the syllabus.
+
+44
+00:04:42,710 --> 00:04:46,610
+So you can just keep track of what to do when for each assignment.
+
+45
+00:04:48,110 --> 00:04:51,259
+So on the far right right. This is our most frequent assignment.
+
+46
+00:04:51,260 --> 00:04:54,920
+This will be our paper discussions do every Tuesday.
+
+47
+00:04:54,930 --> 00:04:59,840
+Right. So I'll try and post either a paper or this week it'll actually be a podcast.
+
+48
+00:05:00,200 --> 00:05:05,030
+And I want y'all to listen to and then drop some comments in the discussion, uh, that we can talk about today.
+
+49
+00:05:05,630 --> 00:05:08,660
+So. All right.
+
+50
+00:05:09,020 --> 00:05:16,480
+Cool. All right. So for we had our paper, um, how the olfactory system makes sense of sense.
+
+51
+00:05:17,120 --> 00:05:20,540
+Uh, so I wanted to start out with a little think pair share.
+
+52
+00:05:20,780 --> 00:05:25,820
+And you all have already started the thinking portion as you were reading through, maybe dropping some comments.
+
+53
+00:05:26,240 --> 00:05:30,860
+Um, so now we're going to pair up with, you know, just folks around your, your space.
+
+54
+00:05:30,860 --> 00:05:33,680
+And I can walk around and chat just for like three minutes.
+
+55
+00:05:34,130 --> 00:05:39,980
+Uh, and then we'll reconvene and kind of talk about, uh, some interesting ideas, uh, related to the paper.
+
+56
+00:05:40,670 --> 00:05:45,620
+Uh, so you can start out here's just some questions very similar to what was posted in the discussion channel.
+
+57
+00:05:46,070 --> 00:05:50,320
+Uh, just to get you talking with your neighbor. Um, yeah.
+
+58
+00:05:50,330 --> 00:05:57,890
+So why don't we start now? So we'll do, like, 3 or 4 minutes just again chatting with folks around you about the paper.
+
+59
+00:05:58,310 --> 00:06:07,170
+Uh, and then we'll come back together and discuss. A series of consequences.
+
+60
+00:06:07,230 --> 00:06:13,040
+I guess it was something that I was like was, I thought was put out.
+
+61
+00:06:15,110 --> 00:06:19,160
+Because I was. What it was like.
+
+62
+00:06:19,690 --> 00:06:22,950
+I mean. Yeah. Oh.
+
+63
+00:06:25,330 --> 00:06:28,800
+Yeah. Sort of like, you know, like.
+
+64
+00:06:32,790 --> 00:06:46,610
+Police departments. Right. And as well as, like, I, I like this a lot of in this particular like this like I think I like to part for the murders.
+
+65
+00:06:48,300 --> 00:06:53,140
+Oh. Like, there was something about their house. Like, what is this place?
+
+66
+00:06:53,320 --> 00:07:01,370
+As you guys know, for example, like, they were like, oh, we can study about how to, like, Metro or, you know.
+
+67
+00:07:01,410 --> 00:07:06,930
+Exactly. Sure. Well, I think that it's the same facilities, like,
+
+68
+00:07:06,940 --> 00:07:17,250
+would think it was awesome to see a lot of when you first need to see something like I think it's kind of interesting.
+
+69
+00:07:18,480 --> 00:07:22,100
+It's another thing we also like to.
+
+70
+00:07:23,410 --> 00:07:26,450
+Right. Oh, right.
+
+71
+00:07:26,560 --> 00:07:30,780
+Right. Good morning everybody.
+
+72
+00:07:34,470 --> 00:07:40,230
+Yeah. This. Isn't like, you know.
+
+73
+00:07:43,020 --> 00:07:49,380
+How to use some sense or have you not really research?
+
+74
+00:07:55,760 --> 00:07:59,910
+I mean, I think I don't know.
+
+75
+00:08:03,050 --> 00:08:09,760
+I was like, I would say I was scared simply because I know this sounds like.
+
+76
+00:08:09,860 --> 00:08:15,240
+Oh, right. Yeah. This is like a nightmare.
+
+77
+00:08:18,550 --> 00:08:28,780
+I need to get this stuff. Yeah. I'll get the same response.
+
+78
+00:08:29,050 --> 00:08:32,480
+I think that's good. Yes. Okay.
+
+79
+00:08:32,560 --> 00:08:36,800
+Can you hear me? Yes I did. I know it's so late.
+
+80
+00:08:39,280 --> 00:08:45,200
+Oh. I see you guys.
+
+81
+00:08:46,070 --> 00:08:52,290
+Yeah. I mean, I guess it's not that great. Wait, so I have to be honest.
+
+82
+00:08:53,970 --> 00:08:58,300
+Probably. I think me alone to like.
+
+83
+00:08:58,330 --> 00:09:02,580
+Yeah, totally. I really.
+
+84
+00:09:05,930 --> 00:09:11,450
+I. Think that's the same thing.
+
+85
+00:09:12,080 --> 00:09:24,620
+Yeah. And yeah, I and I think it's very, very important that just like I mean this is one way and it might take a little bit longer, but it's also.
+
+86
+00:09:27,410 --> 00:09:32,870
+What we consider anything that's impacting. Like this is like somnambulism.
+
+87
+00:09:33,170 --> 00:09:37,370
+I always like to see I get more involved.
+
+88
+00:09:37,730 --> 00:09:42,020
+It's just it's kind of a different world population. So that link is definitely there.
+
+89
+00:09:42,470 --> 00:09:47,180
+Uh, but yeah. And here's the calcium. All right. Cool.
+
+90
+00:09:47,180 --> 00:09:53,540
+Yeah. I heard a lot of really good discussion. I think we'll yeah, that was our brief three minutes.
+
+91
+00:09:53,840 --> 00:09:57,319
+Maybe we'll expand in the future. Um, yeah.
+
+92
+00:09:57,320 --> 00:10:05,600
+Does anyone want to start out just saying, you know, did you like the paper or giving some high level overview of.
+
+93
+00:10:05,960 --> 00:10:11,990
+Yeah, thoughts or even just what your group is talking about? Yeah.
+
+94
+00:10:12,000 --> 00:10:16,760
+And that very specific complaint. I don't like how many three letter acronyms are in scientific papers.
+
+95
+00:10:16,910 --> 00:10:20,570
+Yeah. No that's that is a great. Yeah. I think general comment.
+
+96
+00:10:20,600 --> 00:10:25,340
+Not even a complaint of yeah. Uh, jargon. But also it's like there's too many.
+
+97
+00:10:25,460 --> 00:10:34,370
+Yeah. Often. Yeah. People, I feel when you're writing these papers and you're deep into your field, it's like, oh, everyone knows what.
+
+98
+00:10:34,670 --> 00:10:41,540
+And no, I always asked what this stands for, and it's like a very specific odor in a very specific like neural pathway.
+
+99
+00:10:41,540 --> 00:10:45,340
+So absolutely, it's worse because you'll be scanning over parts of the paper.
+
+100
+00:10:45,380 --> 00:10:49,100
+Like generally you'll like reading that and then go to conclusion like work backwards.
+
+101
+00:10:49,790 --> 00:10:51,860
+Um, when you're reading a lot of these things,
+
+102
+00:10:51,940 --> 00:10:58,310
+it's like the OTP attracts with the essence of why it is like, I gotta go back control and go with these.
+
+103
+00:10:58,830 --> 00:11:03,290
+Yeah, yeah, yeah. No, that's that's great.
+
+104
+00:11:03,290 --> 00:11:08,420
+I think that's a good transition to one topic I wanted to talk about is like, did anyone.
+
+105
+00:11:08,870 --> 00:11:13,249
+Yeah. Were there other people that found it kind of difficult reading through this paper?
+
+106
+00:11:13,250 --> 00:11:19,130
+Because I know I did write because it's a lot of dense material, a lot of these acronyms.
+
+107
+00:11:19,400 --> 00:11:22,820
+And again, you know, I focus I'm in fact olfaction.
+
+108
+00:11:22,820 --> 00:11:25,100
+So a good refresher of mammalian systems.
+
+109
+00:11:25,580 --> 00:11:31,610
+Um, and then does anyone have any good strategies that they thought was really useful in reading through this paper.
+
+110
+00:11:32,090 --> 00:11:35,750
+So maybe we'll start with how did people read through the paper? Yeah.
+
+111
+00:11:36,680 --> 00:11:42,680
+It's not like I'm very simple I had this how do you use the software?
+
+112
+00:11:43,430 --> 00:11:51,850
+Um, which like summarizes the main point and it gives me like a brief overview of every passage I can be read through.
+
+113
+00:11:51,910 --> 00:11:55,580
+And that's something I would. Yeah. So. Yeah. How do you do it?
+
+114
+00:11:56,660 --> 00:11:59,930
+Yeah. Yeah, I think that's it. I found it helpful for me. Yeah.
+
+115
+00:12:00,260 --> 00:12:07,999
+I think that's a great use it. Yeah. I think there's more and more of these tools I think do a really nice job in summarizing
+
+116
+00:12:08,000 --> 00:12:14,479
+what can be really dense papers and even giving you suggestions as to where to start.
+
+117
+00:12:14,480 --> 00:12:19,190
+What's what area might be more of a dense paper is more relevant to you?
+
+118
+00:12:19,700 --> 00:12:25,310
+Um, I think that's great, but I wouldn't have let the reader would be wouldn't understand more.
+
+119
+00:12:25,700 --> 00:12:33,769
+But when I read the summary, there are a few points where they can really properly explain how they control the responses.
+
+120
+00:12:33,770 --> 00:12:41,350
+Like have the explanations of oh yeah, yeah, when they were expressing something.
+
+121
+00:12:41,360 --> 00:12:45,629
+Yeah, yeah yeah. Very cool. Yeah, yeah.
+
+122
+00:12:45,630 --> 00:12:48,680
+It sounds like a very useful tool. Yeah. And I like I like that strategy.
+
+123
+00:12:49,010 --> 00:12:57,530
+Anyone else have. Yeah. So like instead of looking at it as like a whole paper I just kind of split it, um, multiple things.
+
+124
+00:12:57,530 --> 00:13:02,540
+So I would just read like up to this part and then like, maybe take a break and then like,
+
+125
+00:13:02,540 --> 00:13:07,370
+read the rest because like, if you look at the whole thing is kind of like intimidating humans.
+
+126
+00:13:07,700 --> 00:13:11,310
+I agree or something. Yeah. Yeah, yeah.
+
+127
+00:13:11,420 --> 00:13:14,389
+That's that's nice too of like breaking it up into chunks.
+
+128
+00:13:14,390 --> 00:13:21,170
+And that's what's kind of nice about these review papers, is that they're often kind of have discrete sections where you can say,
+
+129
+00:13:21,170 --> 00:13:24,800
+okay, I'll come back to this in like a couple of days, pick up where I left off.
+
+130
+00:13:25,190 --> 00:13:32,480
+Um, I often do that and then I'll like, fill in that space with you're trying to re remember looking up all these terms that I forgot.
+
+131
+00:13:32,600 --> 00:13:36,200
+Um, and often I start with actually, like, looking at the figures.
+
+132
+00:13:36,200 --> 00:13:41,240
+I just love that. Yeah. So like, I start with my intro, obviously.
+
+133
+00:13:41,420 --> 00:13:44,750
+And then I just like looking at the pictures because I like. Yeah. Read them.
+
+134
+00:13:45,170 --> 00:13:49,370
+And then, like, if there's anything else I wanna, like, read more about.
+
+135
+00:13:50,230 --> 00:13:57,690
+Can I just. Yeah. Yeah. No, that's I didn't I probably use that the most and that's probably my first screen is like,
+
+136
+00:13:57,690 --> 00:14:02,070
+oh is this going to be relevant to me or what I'm looking for in the paper?
+
+137
+00:14:02,410 --> 00:14:09,479
+I always argue that I feel like a figure should you should be able to accurately convey your information without, you know,
+
+138
+00:14:09,480 --> 00:14:18,090
+having someone read all of the the information before, like all of your, um, results and introduction beforehand.
+
+139
+00:14:18,090 --> 00:14:21,960
+If it's a, you know, a good figure for someone that somewhat knows your face.
+
+140
+00:14:22,890 --> 00:14:28,080
+Um, yeah. Any other kind of like reading paper tips that people have.
+
+141
+00:14:30,000 --> 00:14:35,900
+No. All right. How bout. Yeah. Generally, did people like the paper things?
+
+142
+00:14:36,120 --> 00:14:40,259
+Yeah, I see some nods. Um. Anyone?
+
+143
+00:14:40,260 --> 00:14:44,670
+Yeah. Want to give? Like, the main, quick main overview of the goal of the paper.
+
+144
+00:14:51,330 --> 00:14:55,870
+Yeah. Eventually that, you know, that's why I picked it. Um, right.
+
+145
+00:14:55,890 --> 00:15:00,959
+And it's it's older. It's like 20 or 2001 was when this was published.
+
+146
+00:15:00,960 --> 00:15:08,550
+So but I think there's of course, you know, some really good foundational, um, you know, structures, um,
+
+147
+00:15:08,550 --> 00:15:19,440
+it talks quite a bit about like, the molecular pathways, um, and, you know, it has a whole figure I included the figures here on,
+
+148
+00:15:19,440 --> 00:15:26,429
+like, you know, olfactory receptors, uh, you know, how and on the very right side of this, this figure there,
+
+149
+00:15:26,430 --> 00:15:35,040
+it's showing, you know, how these receptors can be very similar in structure, um, across different organisms.
+
+150
+00:15:35,040 --> 00:15:43,290
+Right. And showing this phylogenetic or, uh, evolutionary tree showing how different receptors may have evolved at different time points.
+
+151
+00:15:43,290 --> 00:15:50,910
+Right. Just showing that there is some evolutionary selection in some like kind of optimized system for how this.
+
+152
+00:15:51,450 --> 00:15:58,920
+Yeah. Yeah. Just knowing the combinations of the receptors can play a part in like when you see that use in like different sense too.
+
+153
+00:15:59,100 --> 00:16:04,829
+Yeah. Exactly. Yeah. And that's I think part of this figure, right, is um, often right.
+
+154
+00:16:04,830 --> 00:16:11,820
+These receptors work as lock and key, where, you know, a very specific receptor type will bind a specific odorant.
+
+155
+00:16:12,330 --> 00:16:20,370
+Um, and, but you will have like some locks that will partially open your receptor or your, your, your door.
+
+156
+00:16:20,370 --> 00:16:23,759
+And so you'll have some activation. Um, yeah.
+
+157
+00:16:23,760 --> 00:16:28,590
+So they kind of I think this is a nice illustration of that, is that you have this like complexity of,
+
+158
+00:16:29,010 --> 00:16:34,530
+you know, more complex keys that can open up different doors or different locks and how that could,
+
+159
+00:16:34,950 --> 00:16:43,140
+again, lead to how we can begin to describe all of these, you know, millions of different odors that we potentially can encounter.
+
+160
+00:16:44,730 --> 00:16:48,600
+Um, boop boop. Yeah. Any let's see.
+
+161
+00:16:49,410 --> 00:16:55,979
+Yeah. So that's kind of main point. Any anyone have like some interesting concepts that we didn't discuss yet that they want
+
+162
+00:16:55,980 --> 00:16:59,730
+to bring up or that they really liked or anything else they really hated about it.
+
+163
+00:17:02,170 --> 00:17:10,530
+Yeah. Um, I really like this section about, um, like the pheromones and, uh, like, alternate pathways for that.
+
+164
+00:17:11,000 --> 00:17:18,040
+Yeah. Yeah. I feel like I've heard at least a lot of this paper, like, through all, like,
+
+165
+00:17:18,040 --> 00:17:22,060
+the bio cosmetic and but, like, pheromones is not really something we've ever talked about.
+
+166
+00:17:22,120 --> 00:17:28,720
+Yeah. So I just thought that was really interesting. And like, how those are, like, received and understood.
+
+167
+00:17:28,900 --> 00:17:32,490
+Yeah. Yeah. I think that's a great point too. And yeah, I forget there's no figure on that.
+
+168
+00:17:32,500 --> 00:17:36,110
+I think that was one of the last sections in the paper. Um, yeah.
+
+169
+00:17:36,110 --> 00:17:40,300
+And it was like two very specific classes of olfactory receptors.
+
+170
+00:17:40,720 --> 00:17:48,160
+Um, yeah. That are more, uh, tuned to the pheromones, uh, ligands.
+
+171
+00:17:48,190 --> 00:17:54,579
+Yeah. And I thought that was also. I think I yeah, don't look at those type of receptors too often.
+
+172
+00:17:54,580 --> 00:17:58,270
+So I thought it was a good, um, segment that they added a good addition.
+
+173
+00:17:58,270 --> 00:18:02,560
+They added how like different people could smell your pheromone. Uh, yeah.
+
+174
+00:18:02,980 --> 00:18:13,330
+That was yeah, that was one comment. Yeah. That I had like because it starts out saying like, oh, you have two main uses of olfactory information.
+
+175
+00:18:13,330 --> 00:18:18,190
+One is sensory information and the other is like mating and reproduction, which I feel like.
+
+176
+00:18:18,190 --> 00:18:22,420
+Right. You can we can debate the complexities of human behavior, I think.
+
+177
+00:18:22,840 --> 00:18:27,190
+Right. Breaking that down even more into, you know, motivation for smells.
+
+178
+00:18:27,190 --> 00:18:34,570
+And they begin to talk about, you know, culinary experiences and like different professions needing having two more tuned olfactory systems.
+
+179
+00:18:34,930 --> 00:18:38,809
+But anyway, cool. I think that yeah, that was a fun discussion.
+
+180
+00:18:38,810 --> 00:18:44,500
+And your last points people have for like highlights of this, and we're going to go through a bit more of the,
+
+181
+00:18:45,070 --> 00:18:50,110
+um, the details of this paper, uh, throughout the, the slides.
+
+182
+00:18:50,110 --> 00:18:55,060
+But yeah, just I think this is a really nice primer for what we're about to talk, uh, talk through.
+
+183
+00:18:55,960 --> 00:18:59,950
+So cool. All right. Yeah. And then next.
+
+184
+00:19:00,070 --> 00:19:05,440
+So. Well post later today is a podcast that I want y'all to listen to with about 45 minutes.
+
+185
+00:19:05,440 --> 00:19:08,680
+50 minutes. Uh, so has anyone heard of Radiolab?
+
+186
+00:19:10,330 --> 00:19:19,450
+Yeah, I see some nods. Mostly think so, I think. Yeah, it's like a science communication podcast, and they do a great job talking to researchers,
+
+187
+00:19:19,450 --> 00:19:23,590
+actually working with researchers on like, primary research projects.
+
+188
+00:19:23,860 --> 00:19:34,419
+I think this is a really fun, um, series of stories they tell around how sound is, uh, interpreted in the brain and,
+
+189
+00:19:34,420 --> 00:19:40,000
+uh, a few different experiences of, like, sound leading to some really wonky behaviors in humans.
+
+190
+00:19:42,150 --> 00:19:50,160
+Cool. All right, so this, uh, we're getting into learning more about the basic sensory systems in humans.
+
+191
+00:19:50,610 --> 00:19:53,129
+Uh, so when we think of these sensory systems, right,
+
+192
+00:19:53,130 --> 00:20:02,040
+we think of the five kind of canonical classic systems smell, taste, sight, hearing, um, and like touch.
+
+193
+00:20:03,720 --> 00:20:07,910
+Um, right. So, yeah, I feel like we've learned about these for, for quite a while.
+
+194
+00:20:07,920 --> 00:20:12,280
+This is, you know, I feel like even in primary school. Right? This is how we learn.
+
+195
+00:20:12,300 --> 00:20:14,160
+We know we interact with our world.
+
+196
+00:20:16,020 --> 00:20:25,200
+Um, as we right there are there are more kind of complex sensory systems on top of those five basic sensory systems,
+
+197
+00:20:25,470 --> 00:20:29,010
+including things like, uh, balance and movement, uh,
+
+198
+00:20:29,010 --> 00:20:34,829
+limb awareness and even how we're, um, kind of feedback from our internal state,
+
+199
+00:20:34,830 --> 00:20:41,100
+how our bodies are feeling, which we can consider a type of sensory system in a sense, within humans.
+
+200
+00:20:41,490 --> 00:20:48,450
+Right. And so the last section kind of builds on a lot of these, uh, basic sensory systems that we've, we've heard about.
+
+201
+00:20:48,450 --> 00:20:54,149
+And so they're kind of classified as being, um, you know, kind of complex senses within humans.
+
+202
+00:20:54,150 --> 00:21:05,340
+So we're going to within the next, you know, three weeks or so, we're going to start to look at, um, conserved pathways, conserved, uh, ways.
+
+203
+00:21:05,340 --> 00:21:12,120
+That information is kind of integrated, going from all of these different sensory systems and how that leads to behavioral output.
+
+204
+00:21:13,560 --> 00:21:20,940
+Right. So we're going to start um, this is one of the earlier slides we had, I think in the first lecture, uh,
+
+205
+00:21:20,940 --> 00:21:25,920
+kind of breaking down that nervous system into those two main parts for our central nervous system,
+
+206
+00:21:26,160 --> 00:21:31,620
+where we have our brain and spinal cord, and then our peripheral nervous system, which makes up, you know,
+
+207
+00:21:31,620 --> 00:21:39,000
+all of our sensory organs, how we're actually sensing the environment where, um, yeah, the outer portion of our sensory systems.
+
+208
+00:21:41,320 --> 00:21:44,469
+Right. And so now we can start to kind of build on top of that.
+
+209
+00:21:44,470 --> 00:21:49,330
+So we're going to again be zooming in on the peripheral nervous system.
+
+210
+00:21:49,960 --> 00:21:59,920
+Um so generally we think of that system as again taking encoding information from our environment, sending it to our central nervous system or CNS.
+
+211
+00:22:00,250 --> 00:22:05,500
+And then that central nervous system can send information back out to have some motor response.
+
+212
+00:22:05,950 --> 00:22:12,700
+Um, the, uh, you'll see these terms pop up quite a bit if you continue in neuroscience and certainly through this course,
+
+213
+00:22:13,060 --> 00:22:20,930
+uh, efferent and efferent copies of information where efferent is information moving from sensory systems.
+
+214
+00:22:20,930 --> 00:22:24,159
+So from the outside world to your central nervous system.
+
+215
+00:22:24,160 --> 00:22:30,760
+Well, efferent copies are moving from your central nervous system back to a motor response rate.
+
+216
+00:22:30,760 --> 00:22:39,879
+And so um, in between afferent and efferent, you have a lot of uh, you have interneurons or you have some, uh,
+
+217
+00:22:39,880 --> 00:22:48,910
+higher cognitive processing of that information that then can lead to going from efferent sensory information to efferent motor output.
+
+218
+00:22:49,510 --> 00:22:53,829
+All right. Well we'll be begin the we're focusing on a friend for right now.
+
+219
+00:22:53,830 --> 00:23:01,150
+And then beginning to fill in how information is represented before it's turned to motor output and efferent copies.
+
+220
+00:23:02,830 --> 00:23:08,080
+Cool. And another, uh, representation. So this is yeah, an image that keeps popping up in the lecture.
+
+221
+00:23:08,080 --> 00:23:13,000
+But yeah, the person, um, kind of poking the finger on a thorn of a flower.
+
+222
+00:23:13,900 --> 00:23:23,020
+Uh, so the, uh, sensory information of pain, reception of that prick from the thorn is your efferent copy sending that information?
+
+223
+00:23:23,360 --> 00:23:24,489
+Basically, people say, like,
+
+224
+00:23:24,490 --> 00:23:32,799
+away from the environment to your central nervous system and the motor response or efferent information is your central nervous system saying,
+
+225
+00:23:32,800 --> 00:23:37,690
+hey, remove your finger from that particular prick or thorn.
+
+226
+00:23:40,300 --> 00:23:44,020
+Right. And then yeah, another representation of we we just went over.
+
+227
+00:23:44,020 --> 00:23:53,229
+So zooming in on, you know, uh, efferent nerve uh, being which could be any type of nerve that has um,
+
+228
+00:23:53,230 --> 00:23:59,410
+some kind of environmental or some receptor expressed in it that's getting that external stimulus,
+
+229
+00:23:59,800 --> 00:24:02,650
+sending it to your spinal cord, your central nervous system.
+
+230
+00:24:02,890 --> 00:24:08,200
+And then from that, uh, you have that efferent nerve that's actually controlling what your body is doing.
+
+231
+00:24:11,780 --> 00:24:20,210
+Cool. All right. So now as we continue to kind of move through, um, defining, looking at different areas of the brain, um,
+
+232
+00:24:20,450 --> 00:24:24,529
+I wanted to add in some anatomical terminology that we're going to keep returning
+
+233
+00:24:24,530 --> 00:24:27,910
+to because I feel like it's very easy to learn these and then forget them.
+
+234
+00:24:27,920 --> 00:24:35,690
+So throughout the semester, I'll try and, you know, bring these up so we can kind of remember them and help us orient in the body.
+
+235
+00:24:36,500 --> 00:24:43,370
+Um, yeah. So here's just a whole host. And again, we'll kind of get reminders of these as we're actually touching on them.
+
+236
+00:24:43,370 --> 00:24:48,170
+But these will pop up, I'm sure you've seen them in the paper you were reading.
+
+237
+00:24:48,740 --> 00:24:55,370
+Um, I think just even having this as a reference that you can look back to, to figure out, you know, what does anterior mean?
+
+238
+00:24:55,370 --> 00:24:59,959
+Posterior. Um, I'm not going to go over all of these, but again.
+
+239
+00:24:59,960 --> 00:25:05,810
+Yeah. Um, arm rostral anterior and posterior are just anonymous.
+
+240
+00:25:06,170 --> 00:25:09,530
+I didn't know that. Rostral and caudal are like a slant.
+
+241
+00:25:09,560 --> 00:25:15,140
+Yeah. Yeah. Mainly from at least in term when we're thinking of like, uh, neuroanatomy.
+
+242
+00:25:15,590 --> 00:25:22,850
+Uh, yeah. Rostral being kind of the front more most portion of like the frontal cortex essentially.
+
+243
+00:25:22,850 --> 00:25:30,980
+Yeah. Your forehead. Yeah. So it does have a slant. And that's what differentiates anterior from what would be uh rostral.
+
+244
+00:25:31,940 --> 00:25:36,320
+Yeah. Yeah. But oftentimes they're pretty much synonymous.
+
+245
+00:25:36,440 --> 00:25:39,979
+Yeah. Yeah. So even that yeah that was something that.
+
+246
+00:25:39,980 --> 00:25:45,200
+Yeah I've, it's taken me a long time to really visualize and keep in my memory.
+
+247
+00:25:46,430 --> 00:25:50,540
+So cool. Yeah I hope yeah. Hopefully this is a source that y'all can look back on.
+
+248
+00:25:51,500 --> 00:26:00,230
+Um, yeah. Zooming in on again all of those I was going to highlight the difference between anterior and rostral, uh, which we've already done.
+
+249
+00:26:01,460 --> 00:26:07,910
+Um, and then another important thing you'll see is looking at these different anatomical planes.
+
+250
+00:26:08,180 --> 00:26:13,730
+Right. So often when we're looking at the brain, we'll be looking at cross sections, um,
+
+251
+00:26:14,060 --> 00:26:22,250
+either taking great kind of looking at looking at the frontal plane there, which is essentially a, uh, yeah,
+
+252
+00:26:22,250 --> 00:26:32,600
+vertical plane dividing essentially a front and back piece sagittal plane, essentially cutting the brain in half from left to right,
+
+253
+00:26:33,200 --> 00:26:37,550
+and then a horizontal plane kind of segmenting going from the bottom to the top.
+
+254
+00:26:42,210 --> 00:26:45,050
+Uh, I also found this to be a really useful tool.
+
+255
+00:26:45,360 --> 00:26:51,430
+Uh, brain facts.org where you have this, uh, really interesting 3D brain that you can play around with.
+
+256
+00:26:51,450 --> 00:26:55,980
+Highlight different regions and I'll show you where that's orientated within the brain.
+
+257
+00:26:56,160 --> 00:27:03,180
+So we'll, we'll come back to this and can use this to orient us as we're moving through, uh, different systems, uh, within the brain.
+
+258
+00:27:07,010 --> 00:27:15,350
+Cool. Um, now. Yeah. Starting to highlight kind of these four key regions of the brain.
+
+259
+00:27:15,440 --> 00:27:18,550
+Just to start. Um, right.
+
+260
+00:27:18,560 --> 00:27:27,380
+So first, starting with the cerebrum, uh, which accounts for the most of the human brain, um, makes up the forebrain.
+
+261
+00:27:27,650 --> 00:27:35,629
+Often we divide this into, uh, hemispheres left and right, um, and right in thought to be the root of,
+
+262
+00:27:35,630 --> 00:27:39,770
+you know, a lot of higher order cognition, thought and memory within humans.
+
+263
+00:27:41,060 --> 00:27:47,600
+Um, next, next we have the die and cephalon, which is part of this forebrain as well,
+
+264
+00:27:48,260 --> 00:27:53,209
+uh, really important in relaying information to the cerebrum, uh,
+
+265
+00:27:53,210 --> 00:27:58,130
+and then also important in kind of maintaining homeostasis and, uh,
+
+266
+00:27:58,130 --> 00:28:03,680
+a type of response within our body that will we'll start to describe, uh, a little bit later.
+
+267
+00:28:05,390 --> 00:28:13,700
+Uh, the brain stem, right, connects the brain to the spinal cord, um, and contains the midbrain, parts of the brain.
+
+268
+00:28:14,090 --> 00:28:25,850
+Um, right. And part of this creating this, um, atomic center for regulating cardiovascular, digestive and other involuntary, um, functions.
+
+269
+00:28:26,210 --> 00:28:36,110
+Right. So creating this, um, uh, the creating the functions of our body that we really don't have to consciously think about.
+
+270
+00:28:36,110 --> 00:28:40,490
+Right. And we'll get into describing what that is in a little bit.
+
+271
+00:28:42,230 --> 00:28:49,880
+And lastly, is this, uh, a cerebellum right in the structure of the brain that, uh, regulates these complex motor patterns.
+
+272
+00:28:50,250 --> 00:28:57,080
+Right. So these are kind of the canonical structures of the brain, uh, that we'll start to dive into piecing together,
+
+273
+00:28:57,380 --> 00:29:04,430
+um, you know, specialized subgroups, sub functions and sub structures of these, uh, regions of the human brain.
+
+274
+00:29:06,970 --> 00:29:12,970
+Uh, yeah. So when I was learning about neuroscience. And maybe you all have already heard of the homunculus.
+
+275
+00:29:13,180 --> 00:29:21,040
+Anyone raise your hand if you've. Yeah. See some nods. Yeah, it's kind of, uh, I it still kind of creeps me out seeing the image of this.
+
+276
+00:29:21,520 --> 00:29:25,239
+Uh, but, yeah, it. In Latin, it means the little man.
+
+277
+00:29:25,240 --> 00:29:37,270
+And this is essentially a map of how different, uh, sensory and motor perception is mapped onto the brain, specifically onto, uh, the cerebral cortex.
+
+278
+00:29:37,270 --> 00:29:42,440
+So that other part of the brain. And so this is what it looks like.
+
+279
+00:29:42,890 --> 00:29:51,830
+Um, and so to orient us. Right. So this is, uh, here we're looking at the brain, and these are two kind of, uh, cross-sections that we're looking at.
+
+280
+00:29:52,370 --> 00:29:59,389
+Um, so this is your regions of your cerebral cortex, and they're associated with different, um,
+
+281
+00:29:59,390 --> 00:30:09,500
+either sensory perception organs or different motor, um, limbs and motor neurons that control those limbs.
+
+282
+00:30:09,770 --> 00:30:15,290
+And so the size of the features associated with the region of the brain, um,
+
+283
+00:30:15,290 --> 00:30:20,540
+is indicative of kind of the amount of feedback you're getting from that sensory organ.
+
+284
+00:30:20,910 --> 00:30:28,640
+Right. So you see, um, potentially in humans a lot more of, uh, gustatory or taste being represented.
+
+285
+00:30:29,030 --> 00:30:34,189
+Uh, we have a lot of motor neurons for, um, moving our gums, our face.
+
+286
+00:30:34,190 --> 00:30:44,060
+Really. Um, and then we have a lot of sensory neurons for, um, kind of perceiving touch, like, tactile, uh, perception.
+
+287
+00:30:44,390 --> 00:30:52,040
+Right. So it's just, I think a really interesting way of, um, diagraming how sensory perception is mapped onto our brain.
+
+288
+00:30:54,340 --> 00:30:57,590
+Yeah. Question. Why did why is it called the little Man?
+
+289
+00:30:58,650 --> 00:31:03,420
+Who translates to that? Yeah. That is I think.
+
+290
+00:31:03,440 --> 00:31:07,140
+Yeah. So there's also a lot of, um, like structures.
+
+291
+00:31:07,160 --> 00:31:13,320
+So people will make, like, a whole human. And, um, you won't have it won't be related.
+
+292
+00:31:13,340 --> 00:31:15,460
+The. That's also called a homunculus.
+
+293
+00:31:15,470 --> 00:31:25,940
+Essentially, it's a little person a where, um, again, it's trying to describe how, what is the, um, the most dominant sensory organ.
+
+294
+00:31:25,940 --> 00:31:31,969
+So often you'll see in this little figure, really big face facial features, um,
+
+295
+00:31:31,970 --> 00:31:39,920
+really big mouth and nose because that's and it has been thought for a long period of time that these were the dominant sensory organs for humans.
+
+296
+00:31:40,250 --> 00:31:41,930
+So I think there's I don't know for sure,
+
+297
+00:31:41,930 --> 00:31:50,059
+but this is at least I know that these were originally the they were tiny figures they called homunculus homunculi that were essentially,
+
+298
+00:31:50,060 --> 00:32:01,190
+even before mapping it to the brain, were mapping, um, how sensory perception is kind of, um, represented, um, in different sensory organs,
+
+299
+00:32:01,190 --> 00:32:04,580
+I guess, and like the magnitude comparing that across different sensory organs.
+
+300
+00:32:04,910 --> 00:32:10,100
+Hopefully that kind of answers your question, but I'm sure someone yeah, I can look it up and let you know.
+
+301
+00:32:11,480 --> 00:32:15,050
+Yeah. Fun question. All right.
+
+302
+00:32:15,290 --> 00:32:19,609
+So coming back to our basic sensory systems right.
+
+303
+00:32:19,610 --> 00:32:23,630
+We're going to start going through a little bit of smell and taste today.
+
+304
+00:32:24,500 --> 00:32:30,680
+Um, and starting with uh, a few general principles that are kind of conserved across our sensory systems.
+
+305
+00:32:31,370 --> 00:32:35,540
+Um, first is this idea of sensory transduction.
+
+306
+00:32:35,540 --> 00:32:41,450
+So how do we take environmental stimuli and convert that into information that's processed in our brain?
+
+307
+00:32:42,950 --> 00:32:47,360
+Uh, next is sensory receptors. Right. So play a big role in that.
+
+308
+00:32:47,570 --> 00:32:52,370
+How we convert that information from environment to our brain.
+
+309
+00:32:52,820 --> 00:32:57,680
+Um, often our sensory systems are integrated into larger neural circuits.
+
+310
+00:32:58,850 --> 00:33:06,170
+Um, and the very most of this sensory information processing is passed through a region of the brain called the thalamus.
+
+311
+00:33:06,710 --> 00:33:12,830
+Um, except for odors, there's there are some, um, there's always.
+
+312
+00:33:12,830 --> 00:33:16,490
+Yeah, biology is never binary. There's always exceptions.
+
+313
+00:33:16,760 --> 00:33:22,460
+Um, even in this odor processing, there's some pathways that will trigger, um, regions within the thalamus.
+
+314
+00:33:23,120 --> 00:33:27,169
+Um, and then right for that sensory information.
+
+315
+00:33:27,170 --> 00:33:35,630
+Right. We have some amount of classification in how that information is represented, uh, within the brain, uh, for all of our sensory systems.
+
+316
+00:33:36,470 --> 00:33:40,160
+Right. So we're going to start with looking at signal transduction. Right.
+
+317
+00:33:40,190 --> 00:33:48,680
+Essentially it requires a specific type of uh sensory cell that encodes for all of these various types of,
+
+318
+00:33:48,950 --> 00:33:58,040
+um, things like light, sound, touch, um, that can lead to, yeah, behavioral responses typically.
+
+319
+00:33:58,040 --> 00:34:02,810
+Right. These sensory receptors are going to be membrane proteins, as we saw in our paper.
+
+320
+00:34:03,140 --> 00:34:10,280
+Uh, those olfactory receptor, uh, olfactory receptors um, that are categorized by some stimulus.
+
+321
+00:34:12,700 --> 00:34:17,350
+Right. And we started. I know we went over some of these in an earlier class.
+
+322
+00:34:18,010 --> 00:34:23,680
+Right. So these are all a bunch of different type of these sensory receptors that respond to different stimuli.
+
+323
+00:34:24,080 --> 00:34:29,860
+Uh, so McKenna receptors are responding to pressure very important in, uh, tactile responses.
+
+324
+00:34:29,860 --> 00:34:33,040
+Photo receptors responding to light chemoreceptors.
+
+325
+00:34:33,400 --> 00:34:40,480
+Uh rate your binding to a specific ligand so we can think of olfaction, gustatory thermal receptors responding to temperature.
+
+326
+00:34:40,780 --> 00:34:45,009
+Uh no CO2 uh no serious uh no.
+
+327
+00:34:45,010 --> 00:34:56,740
+See. No set those scepters which are responding to harmful stimuli, which often you have thermal receptors, uh, can be classified as these, uh,
+
+328
+00:34:57,250 --> 00:35:09,400
+no C sectors, um, and then electro receptors responding to electric fields and magneto receptors that will actually respond to, um, magnetic fields.
+
+329
+00:35:09,970 --> 00:35:15,250
+Yeah. So a whole host of, uh, different ways that we can get that signal transduction.
+
+330
+00:35:15,730 --> 00:35:19,059
+Uh, we're going to focus in on, um, some chemo receptors.
+
+331
+00:35:19,060 --> 00:35:25,760
+And that's what we covered in our first paper. Right.
+
+332
+00:35:25,760 --> 00:35:34,730
+And so our perception of smell and taste comes from those chemo receptors and some kind of ligand binding to a particular,
+
+333
+00:35:35,030 --> 00:35:43,070
+um, olfactory receptor neuron. And that will initiate some action potential, um, propagating through your, uh, sensory neuron.
+
+334
+00:35:44,390 --> 00:35:49,280
+Uh, and that's present for our sense of taste and our sense of smell.
+
+335
+00:35:53,810 --> 00:35:58,690
+Cool. Um, yeah. So this is highlighting poop, poop, poop.
+
+336
+00:35:59,180 --> 00:36:06,680
+Um, a little bit of what this will look like, uh, when going through, when looking at gustatory perception.
+
+337
+00:36:06,680 --> 00:36:12,050
+So how we taste. Um, and so this is actually looking at a single taste, bud.
+
+338
+00:36:12,740 --> 00:36:25,280
+Uh, where we again, we have that afferent neuron, which is that, uh, periphery neuron that's expressing, uh, what are these, uh, gustatory receptors?
+
+339
+00:36:25,670 --> 00:36:33,410
+Um, and they're kind of clustered together. And that's what makes up, um, the kind of sensory organ that is a taste buds.
+
+340
+00:36:34,280 --> 00:36:38,239
+Right. And often we if you look at your tongue, you have these bumps, uh,
+
+341
+00:36:38,240 --> 00:36:45,559
+that have these pores essentially where these different, uh, um, molecules can bind to these different receptors.
+
+342
+00:36:45,560 --> 00:36:49,220
+And that's how that information is propagated deeper into the brain.
+
+343
+00:36:51,770 --> 00:36:55,549
+Cool. Right. And then highlighting that yes, that's the afferent neuron.
+
+344
+00:36:55,550 --> 00:37:00,710
+That's again sending information away from our environment deeper into our brain.
+
+345
+00:37:03,560 --> 00:37:11,630
+Cool. Uh, and this is what, uh, one of those, uh, gustatory receptor neurons actually looks like.
+
+346
+00:37:11,990 --> 00:37:19,790
+Uh, so this maybe kind of looks like this is, uh, coming from a paper, uh, some of those olfactory receptor diagrams we were looking at.
+
+347
+00:37:20,180 --> 00:37:28,640
+Um, but essentially at the very top, you have, uh, these different receptors that are responding to, um, different ligands.
+
+348
+00:37:29,090 --> 00:37:33,620
+Uh, and we have different taste receptors that can be classified as, you know,
+
+349
+00:37:33,620 --> 00:37:40,759
+these three or these kind of canonical classifications of, uh, tasting molecules.
+
+350
+00:37:40,760 --> 00:37:46,280
+So things like being bitter, sweet, sour, umami and salty.
+
+351
+00:37:47,240 --> 00:37:50,210
+Right. And these kind of make up, these five basic taste qualities.
+
+352
+00:37:50,660 --> 00:37:57,350
+And those five qualities correspond to different, uh, receptors that make up these taste neurons.
+
+353
+00:37:58,100 --> 00:38:06,500
+Right. And so whenever a um, uh, ligand that's conveying that's either say sweet, uh, which is more likely to be sucrose.
+
+354
+00:38:06,860 --> 00:38:14,570
+So sucrose is more likely to bind to um, those receptors in the top left that T1 are two and T1 are three.
+
+355
+00:38:15,080 --> 00:38:18,830
+Uh, and that leads to those, uh, neurons firing, right.
+
+356
+00:38:18,830 --> 00:38:23,630
+And propagating that information of that sweet substance deeper into the brain.
+
+357
+00:38:28,290 --> 00:38:39,990
+Cool. Um, yeah. And so we can start to look at how this information is represented and kind of conveyed within the brain.
+
+358
+00:38:40,530 --> 00:38:46,230
+Uh, hold on here. There's actually, I think some of these slides got out of order.
+
+359
+00:38:51,110 --> 00:39:14,500
+Yeah. It's, uh. Sorry to, uh.
+
+360
+00:39:22,230 --> 00:39:34,150
+Yeah. So just making sure all this is in the.
+
+361
+00:39:37,890 --> 00:39:41,060
+Some. Yeah.
+
+362
+00:39:41,070 --> 00:39:46,160
+Sorry. I don't know what happened here. A bunch of stuff got mixed up.
+
+363
+00:39:47,340 --> 00:39:57,170
+Pretty burned. Okay.
+
+364
+00:40:02,620 --> 00:40:19,890
+All right. I think that works. You can do it.
+
+365
+00:40:30,300 --> 00:40:37,250
+Yeah. Well, uh, while we're waiting for my PowerPoint to start responding.
+
+366
+00:40:37,260 --> 00:40:44,600
+Any questions so far? So, uh, hopefully this saved.
+
+367
+00:40:47,740 --> 00:40:52,600
+All right, I think I have to reboot PowerPoint. Please save.
+
+368
+00:41:09,530 --> 00:41:24,220
+Perception depicted the. Okay.
+
+369
+00:41:34,580 --> 00:41:37,639
+All right. Yeah. So, right.
+
+370
+00:41:37,640 --> 00:41:41,510
+We have different, um, different ligands, right.
+
+371
+00:41:41,510 --> 00:41:49,490
+Conveying information about taste, what we're consuming, they're binding to these different, um, uh, receptors within our taste buds.
+
+372
+00:41:50,120 --> 00:42:01,760
+Um, right. And again, this is starting to show how this information can begin to make up more complex representations of taste within our brain.
+
+373
+00:42:01,880 --> 00:42:11,420
+So not only do we have just the triggering of, uh, olfactory of gustatory receptor neurons that are associated with things being sweet,
+
+374
+00:42:11,420 --> 00:42:19,700
+bitter or salty, we can start to get this combination of, let's say you have some, you know, 50% of these sweet,
+
+375
+00:42:20,000 --> 00:42:28,040
+uh, gustatory receptor neurons becoming active, maybe 10% of these bitter, uh, gustatory receptor neurons, right,
+
+376
+00:42:28,040 --> 00:42:38,509
+forming these combinations that allow us to, um, have more than just the five kind of canonical tastes being represented in our brain.
+
+377
+00:42:38,510 --> 00:42:49,280
+Right? We're getting these complex mixtures. And then also we have, uh, taste buds like sour that are actually making up, uh,
+
+378
+00:42:49,280 --> 00:42:57,169
+made up of a combination of these sweet, bitter and salty, um, olfactory, uh, gustatory receptors.
+
+379
+00:42:57,170 --> 00:42:57,440
+Right.
+
+380
+00:42:57,440 --> 00:43:07,009
+So again, I'll just showing how these, this complex representation of all these different foods we can consume can be kind of summarized in, uh,
+
+381
+00:43:07,010 --> 00:43:17,060
+these this short list of receptors here, uh, and then starting to show and fill in some of the pieces of our,
+
+382
+00:43:17,360 --> 00:43:22,430
+uh, sensory pathway is that from those initial sensory,
+
+383
+00:43:22,850 --> 00:43:27,410
+uh, receptor neurons, this for this example looking, you know, within our tongue,
+
+384
+00:43:27,980 --> 00:43:32,180
+you know, the next step is kind of looking at these intermediate neurons,
+
+385
+00:43:32,180 --> 00:43:43,040
+often called ganglion neurons, uh, which or I guess, um, often those are what our sensory neurons are classified as.
+
+386
+00:43:43,190 --> 00:43:50,179
+And they will synapse on to a type of neuron that you read about in that paper called material neurons, uh,
+
+387
+00:43:50,180 --> 00:43:57,320
+which often will form these intermediate connections from those sensory periphery to deeper into the brain.
+
+388
+00:44:01,220 --> 00:44:08,180
+Right. And so now we're going to build on that olfactory perception pathway that we've kind of been talking about.
+
+389
+00:44:09,470 --> 00:44:13,100
+Uh, first starting with now looking at the olfactory receptors.
+
+390
+00:44:13,100 --> 00:44:19,639
+So uh, in these olfactory receptor neurons. Right.
+
+391
+00:44:19,640 --> 00:44:28,280
+So now we can go back to the paper we looked at and hopefully some of this stuff, one we can start to define and then pieces together.
+
+392
+00:44:28,280 --> 00:44:30,650
+And hopefully it fits into a larger context.
+
+393
+00:44:31,220 --> 00:44:43,190
+Um, so here at this first if you're looking at uh, kind of uh, panel B within this figure right here, we have those olfactory sensor neurons,
+
+394
+00:44:43,670 --> 00:44:50,900
+um, similar to those gustatory sensory neurons that we're talking about, except our effector receptor neurons.
+
+395
+00:44:50,930 --> 00:44:54,230
+Sensory neurons have olfactory receptors expressed in them.
+
+396
+00:44:54,560 --> 00:45:07,969
+Right now. They are binding these different odorant molecules, um, as they um, as signal is um, encoded in those sensory neurons,
+
+397
+00:45:07,970 --> 00:45:15,680
+it's passed to the next region of the odor processing of within the brain called the olfactory bulb.
+
+398
+00:45:16,340 --> 00:45:20,629
+Uh, and that's where we start to get some really interesting organization, uh,
+
+399
+00:45:20,630 --> 00:45:24,770
+within the brain, uh, that I kind of highlighted in that introduction slide.
+
+400
+00:45:26,860 --> 00:45:30,099
+Right. So giving you another representation. Right.
+
+401
+00:45:30,100 --> 00:45:33,520
+So here we're actually looking at a cross-section of the nose.
+
+402
+00:45:33,760 --> 00:45:36,969
+Right. So you have some odorants coming in here.
+
+403
+00:45:36,970 --> 00:45:40,150
+You have those olfactory receptor neurons.
+
+404
+00:45:41,430 --> 00:45:45,110
+Oh. Uh, yeah. Okay. Just to orient us.
+
+405
+00:45:45,120 --> 00:45:50,370
+So now looking at the olfactory bulb, uh, located here within our brain.
+
+406
+00:45:52,500 --> 00:45:58,470
+Um, so now zooming in on where those olfactory receptor neurons are projecting.
+
+407
+00:46:00,030 --> 00:46:03,300
+Um, and that is, again, to that olfactory bulb,
+
+408
+00:46:03,750 --> 00:46:12,420
+where you start to form these distinct structures called glomerular II or the singular structures called, uh, glomerulus.
+
+409
+00:46:13,020 --> 00:46:21,750
+Um, and they have these really interesting properties, but they allow the propagation of that odor information to deeper regions of the brain.
+
+410
+00:46:22,590 --> 00:46:28,500
+Um, so what is these, an olfactory glomerular or a glomerulus?
+
+411
+00:46:29,260 --> 00:46:39,450
+Uh, so these are organized bundles of these olfactory receptor axon terminals, forming connections with the dendrites of those material neurons.
+
+412
+00:46:39,450 --> 00:46:41,850
+Right. That we read about in our paper.
+
+413
+00:46:42,240 --> 00:46:48,960
+Uh, and again, are forming these kind of intermediate connections, taking that sensory information to deeper within the brain.
+
+414
+00:46:49,290 --> 00:46:53,280
+What's really interesting about this is that these pockets,
+
+415
+00:46:53,730 --> 00:47:01,500
+these kind of clusters within the olfactory bulb that make up our glomerular are organized by receptor type.
+
+416
+00:47:01,830 --> 00:47:05,490
+And that's kind of being illustrated here. Is that right? You may have.
+
+417
+00:47:06,030 --> 00:47:12,720
+Right. Um, in your epithelium, you're going to have a bunch of these olfactory receptors kind of expressed,
+
+418
+00:47:13,170 --> 00:47:17,160
+uh, in a kind of heterogeneous, uh, kind of structure.
+
+419
+00:47:17,520 --> 00:47:24,180
+However, once we're projecting deeper into the brain, there is this more structured order organization where,
+
+420
+00:47:24,840 --> 00:47:29,660
+uh, if we're looking at, let's say this is like, oh, uh, orange is O.R. one a, right?
+
+421
+00:47:29,670 --> 00:47:35,579
+All of these olfactory receptor neurons will project to a few number, uh,
+
+422
+00:47:35,580 --> 00:47:41,640
+roughly around a thousand of these different columns, really, in this very, like, organized structure.
+
+423
+00:47:42,180 --> 00:47:45,690
+Uh, that's classified by the different receptor types. Right.
+
+424
+00:47:45,690 --> 00:47:52,080
+So this starts to kind of add in, uh, this organization and showing how information,
+
+425
+00:47:52,410 --> 00:47:56,700
+uh, can start to be represented and classified, uh, within the brain.
+
+426
+00:47:58,020 --> 00:48:04,780
+Any questions? Yeah. Question back. Uh, is the olfactory has its own exhibit.
+
+427
+00:48:04,800 --> 00:48:08,460
+Uh, we have memory of the smell.
+
+428
+00:48:08,670 --> 00:48:12,430
+Yeah. It's important. So we know it's that body, right?
+
+429
+00:48:12,630 --> 00:48:15,800
+When we say that, every smell. Is it?
+
+430
+00:48:17,580 --> 00:48:20,730
+Um, we can join it to a minimum. Yeah.
+
+431
+00:48:21,420 --> 00:48:28,590
+What's your memory about it? Yeah. How does that make sending a signal to the campus?
+
+432
+00:48:28,590 --> 00:48:32,220
+Or maybe it does not take long. Do you remember that? Yeah.
+
+433
+00:48:32,250 --> 00:48:33,899
+That's a great question.
+
+434
+00:48:33,900 --> 00:48:42,960
+And, yeah, I guess important kind of showcasing that we are focusing on, like, the most sensory periphery side of that whole pathway.
+
+435
+00:48:43,410 --> 00:48:54,360
+Right. So often. Right. Typically we don't see a lot of genes expressed that are, that are um, um, leading to like plastic changes.
+
+436
+00:48:54,660 --> 00:49:02,280
+A lot of those plasticity related changes that we see deeper into and like the cortex associated with learned behaviors,
+
+437
+00:49:02,280 --> 00:49:05,040
+memories with a specific odor and things like that.
+
+438
+00:49:05,310 --> 00:49:15,180
+We have a lot more conserved anatomy and physiology occurring in these, uh, most sensory periphery side of our kind of sensory systems.
+
+439
+00:49:15,630 --> 00:49:22,710
+Um, and so your question is, how are those memories added to the signal coming in, and how does that happen so quickly?
+
+440
+00:49:22,950 --> 00:49:27,560
+And that kind of goes to all of the synapses that we were talking about last lecture.
+
+441
+00:49:27,570 --> 00:49:34,500
+Right. So, um, electrical information and how this is propagated can hurt, can occur really quickly.
+
+442
+00:49:34,860 --> 00:49:45,420
+Um, but there's also, um, synapses from our cortex that kind of intervene at different points within the sensory pathway.
+
+443
+00:49:45,750 --> 00:49:49,799
+So you may even from triggering, uh, you know,
+
+444
+00:49:49,800 --> 00:49:55,980
+a first order connection into the olfactory bulb that may already trigger if you have a learned association,
+
+445
+00:49:55,980 --> 00:50:02,850
+you may already have a synapse formed with, uh, some, uh, your, your hippocampus, um, leading to.
+
+446
+00:50:02,850 --> 00:50:08,429
+Okay, I'm smelling something even before, you know, I'm thinking I'm really starting to classify it.
+
+447
+00:50:08,430 --> 00:50:11,460
+Maybe I have this really quick behavioral response.
+
+448
+00:50:11,760 --> 00:50:16,379
+And that's from the complexity of all of these different, uh, connections that we can form,
+
+449
+00:50:16,380 --> 00:50:21,930
+kind of bypassing a lot of even the canonical information coding that we see in the brain.
+
+450
+00:50:22,050 --> 00:50:26,610
+So we'll we're going to touch on that, and we're going to get to all of the intricacies of like,
+
+451
+00:50:27,060 --> 00:50:30,510
+you know, how the hippocampus intervenes with all different portions.
+
+452
+00:50:30,510 --> 00:50:32,549
+But yeah, that's a really great question.
+
+453
+00:50:32,550 --> 00:50:40,680
+And again, highlights that we are just looking at like the canonical, hey, this is a ligand that will bind to an O factor receptor.
+
+454
+00:50:40,680 --> 00:50:46,009
+And. Trigger a response. Yeah, but good point. Cool.
+
+455
+00:50:46,010 --> 00:50:52,550
+Any more kind of questions on this organization? Yeah. I'm so curious to know what the state of the art techniques are.
+
+456
+00:50:52,880 --> 00:50:57,290
+Yeah. Okay. Yeah. So it totally depends on the organism as well.
+
+457
+00:50:57,560 --> 00:51:04,910
+So that and this is why I think it's this is again highlights the use of model organisms
+
+458
+00:51:04,910 --> 00:51:13,310
+because the best right the best readout of neural activity is still putting electrode into,
+
+459
+00:51:13,550 --> 00:51:16,940
+um, you know, the specific region of the brain that you're interested in.
+
+460
+00:51:16,940 --> 00:51:19,220
+And right, being able to image where that electrode is.
+
+461
+00:51:19,640 --> 00:51:31,969
+Um, as we and if we think of that in humans, often they're sometimes paired with if you if there is the need for a particular surgery.
+
+462
+00:51:31,970 --> 00:51:37,070
+So someone has um, there's been some impairment you need to go into,
+
+463
+00:51:37,100 --> 00:51:42,170
+let's say be a region around the olfactory bulb in that region of the brain's already exposed.
+
+464
+00:51:42,950 --> 00:51:53,000
+If that person is willing, sometimes you can pair that with some, um, some amount of like electro, uh, or, um,
+
+465
+00:51:53,720 --> 00:51:58,580
+electrophysiology recording within that region of the brain and like presenting some kind of
+
+466
+00:51:58,580 --> 00:52:04,700
+stimulus that doesn't occur very often and especially for this type of like basic characterization.
+
+467
+00:52:05,150 --> 00:52:11,330
+Um, so still the state of the art, I think is, um, probably looking at.
+
+468
+00:52:14,090 --> 00:52:18,860
+Either like calcium signals or voltage signaling within neurons within.
+
+469
+00:52:19,280 --> 00:52:25,410
+Again, probably the closest is like rat or mouse where we have, um, uh uh,
+
+470
+00:52:25,940 --> 00:52:32,990
+a good enough grasp on the genetics that we can, you know, encode these molecular tools in a very specific way.
+
+471
+00:52:34,750 --> 00:52:42,950
+Yeah. Yeah. Exactly. There. Um, and, you know, we share a lot of similar, uh, mammalian brain structures with,
+
+472
+00:52:43,310 --> 00:52:48,260
+you know, rodents, oddly enough, just on, you know, a few orders of magnitude smaller.
+
+473
+00:52:48,770 --> 00:52:49,759
+Um, yeah.
+
+474
+00:52:49,760 --> 00:52:59,150
+So it's still, I think electrode like direct electrode recordings are you're gonna get the highest resolution readout of what the neuron is doing.
+
+475
+00:52:59,420 --> 00:53:08,840
+If you're looking at, I guess, right, you there's a lot of kind of companies that are specializing in neural electrode,
+
+476
+00:53:09,380 --> 00:53:16,010
+um, recordings and producing new tools that are building electrodes that are kind of like meshes.
+
+477
+00:53:16,010 --> 00:53:24,260
+So you can kind of get a larger, um, kind of topographic graphic covering of the brain and getting like a readout of all these different electrodes.
+
+478
+00:53:24,470 --> 00:53:31,340
+But again, it depends on like, how often are you going to have this opportunity to actually place that electrode within the brain?
+
+479
+00:53:31,340 --> 00:53:33,260
+And that depends on so many different conditions.
+
+480
+00:53:33,770 --> 00:53:40,670
+Uh, and then in our animals, yeah, I feel like it's, we're getting to the point where it's, you want this fine balance of like,
+
+481
+00:53:41,450 --> 00:53:49,370
+really, um, clean readout of what a neuron is doing without being too invasive and, like, disrupting the behavior of our animal.
+
+482
+00:53:49,640 --> 00:53:55,700
+I feel like, um, a, uh, voltage imaging is a little bit closer to.
+
+483
+00:53:55,700 --> 00:53:59,180
+You're actually seeing depolarization in real time.
+
+484
+00:53:59,750 --> 00:54:05,239
+Um, and you need really powerful, fast working microscopes that are working.
+
+485
+00:54:05,240 --> 00:54:10,100
+I think it's like at like 300 to 1000 frames per second.
+
+486
+00:54:10,100 --> 00:54:13,720
+So really expensive. Um, but they give.
+
+487
+00:54:13,730 --> 00:54:16,129
+Yeah. That's a long winded answer to say, you know,
+
+488
+00:54:16,130 --> 00:54:22,550
+those are probably the best tools when looking at even the sensory how sensory perception is represented in the brain.
+
+489
+00:54:23,690 --> 00:54:28,069
+Um, yeah. Those are all pretty invasive methods. Um, yeah.
+
+490
+00:54:28,070 --> 00:54:30,350
+We'll play around with again later in class.
+
+491
+00:54:30,830 --> 00:54:38,450
+Um, some tools that people are still trying to use that are noninvasive to understand, uh, responses in the brain.
+
+492
+00:54:38,810 --> 00:54:43,260
+But yeah. Good question. All right.
+
+493
+00:54:43,290 --> 00:54:49,170
+And so this is very similar to what we were looking at in our intro slide.
+
+494
+00:54:49,740 --> 00:55:00,570
+So this is looking at actually this is in Drosophila but this is in um what is analogous to the olfactory bulb in our mammals.
+
+495
+00:55:00,870 --> 00:55:07,469
+And you're seeing these are the circles represent different glamorously or different amaryllis cluster.
+
+496
+00:55:07,470 --> 00:55:13,980
+And so within each of these circles highlighted here you have a specific olfactory receptor neuron being expressed.
+
+497
+00:55:14,310 --> 00:55:24,930
+And so what this is trying to show is that um, depending on what odorant and what ligand is being presented right to the animal,
+
+498
+00:55:25,200 --> 00:55:33,250
+that will dictate what region of this either olfactory bulb or internal bulb will be excited.
+
+499
+00:55:33,280 --> 00:55:38,849
+Right. So it's this cool readout. You can start to decode what information is being presented,
+
+500
+00:55:38,850 --> 00:55:46,230
+simply from looking at what region of the olfactory bulb or antenna lobe is actually being activated.
+
+501
+00:55:47,820 --> 00:55:54,720
+Um, and so this is in gets to like how um, information can be represented within the brain.
+
+502
+00:55:55,020 --> 00:56:00,990
+Um, and even, um, distinguishing odors that are very similar to each other.
+
+503
+00:56:01,440 --> 00:56:05,400
+How is that represented within the internal or whole factory bulb?
+
+504
+00:56:08,410 --> 00:56:17,200
+Cool. Um, yeah. So that kind of gets us to this first area looking at, um, different receptors, uh,
+
+505
+00:56:17,200 --> 00:56:25,120
+expressed either in, you know, taste, uh, taste receptors or smell, uh, uh, receptor neurons.
+
+506
+00:56:25,540 --> 00:56:34,330
+Um, the next region of processing called the olfactory bulb, which is starting to integrate that information from,
+
+507
+00:56:34,690 --> 00:56:40,900
+um, all of those different olfactory receptors or gustatory receptors into an organized structure.
+
+508
+00:56:41,230 --> 00:56:47,680
+So again, the olfactory bulb being a really cool and, um, striking example of that organization.
+
+509
+00:56:48,280 --> 00:56:56,310
+Uh, the next step is going from that olfactory bulb to the cortex, um, and then to these final, uh,
+
+510
+00:56:56,320 --> 00:57:08,020
+regions of the brain that start to incorporate our, our learned associations, um, our memories in that can lead to a very specific behavioral output.
+
+511
+00:57:08,590 --> 00:57:16,420
+Right. So again, we're kind of focusing on this first and primary, um, regions of that information processing.
+
+512
+00:57:18,700 --> 00:57:32,440
+Cool. Um, yeah. And I think these got out of order, but I think we ended up covering a lot of the gustatory information that I wanted to cover next.
+
+513
+00:57:33,340 --> 00:57:37,870
+Um, yeah. The last thing I wanted to maybe highlight.
+
+514
+00:57:38,830 --> 00:57:47,720
+Uh. Let's see. You know, this is.
+
+515
+00:57:49,810 --> 00:57:53,560
+Yeah. So this was when they had a slide in here.
+
+516
+00:57:53,560 --> 00:58:03,070
+But this is kind of we talked about the Connect Dome last lecture of looking at you know the goal is to map every neuron, uh,
+
+517
+00:58:03,130 --> 00:58:11,680
+the size and structure of the variation, uh, every connection within the brain to get this holistic, uh, structural anatomical image.
+
+518
+00:58:12,070 --> 00:58:18,010
+Uh, I mentioned the resources in Drosophila, but I didn't mention that there is the human.
+
+519
+00:58:18,010 --> 00:58:22,990
+Connect them, of course, where we do have this very small region of the human brain where we have,
+
+520
+00:58:23,320 --> 00:58:26,979
+um, you know, we're starting to build all of these connections,
+
+521
+00:58:26,980 --> 00:58:36,610
+making these 3D models of every neuron and how it's, um, uh, how that's creating, you know, overall structure within the human brain.
+
+522
+00:58:37,060 --> 00:58:43,330
+Um, and then kind of creating this cycle of how neuroscience can utilize, you know,
+
+523
+00:58:43,330 --> 00:58:48,129
+the information we've just talked about of like, physiology, physiological responses,
+
+524
+00:58:48,130 --> 00:58:58,780
+molecular responses in these, uh, periphery sensory integrating that into structural data, um, and starting to come up with, uh, computational models.
+
+525
+00:58:58,790 --> 00:59:06,790
+So what we did last week where you can start to test hypothesis questions that may have come up, uh,
+
+526
+00:59:06,790 --> 00:59:14,710
+that allows you to make more curated experimental validation of potentially those computational models you've come up with.
+
+527
+00:59:15,190 --> 00:59:20,200
+And that's especially important when thinking of human neuroscience, where, again,
+
+528
+00:59:20,200 --> 00:59:27,190
+highlighting that there's only these kind of rare cases where we can really peer into the human brain and doing that ethically.
+
+529
+00:59:27,430 --> 00:59:35,620
+So making sure that when we have the chance that, uh, we have, we know specifically what we want to test and, um,
+
+530
+00:59:35,830 --> 00:59:45,160
+kind of having, uh, very specific I think, uh, hypotheses and, uh, design, uh, experimental designs ready to go.
+
+531
+00:59:45,520 --> 00:59:51,999
+And if this is kind of like a looping cycle, if that can lead to new, interesting behavioral observations.
+
+532
+00:59:52,000 --> 00:59:58,660
+But hopefully all of this starting to kind of create this really interesting cycle of, uh,
+
+533
+00:59:59,500 --> 01:00:04,690
+uh, interesting topics in neuroscience and helping us advance what we know about the brain.
+
+534
+01:00:06,790 --> 01:00:12,070
+Yeah. So I think that's the last thing I want to do for today.
+
+535
+01:00:13,570 --> 01:00:16,570
+Yeah. Cool. Yeah. So we can do.
+
+536
+01:00:16,570 --> 01:00:21,900
+Yeah. Last ten minutes. Ask me questions about anything, or you can leave early.
+
+537
+01:00:21,910 --> 01:00:28,969
+Um, and again, uh, we'll be I'll send announcements that will be in 306 in Pritzker science.
+
+538
+01:00:28,970 --> 01:00:31,720
+So just across the street on Thursday,
+
+539
+01:00:31,720 --> 01:00:41,440
+where we'll be playing around with Drosophila and trying to make the connection right from sensory information processing to observed behavior in,
+
+540
+01:00:41,440 --> 01:00:46,509
+uh, actual model organisms. So, yeah, thanks for sticking around through the lecture and.
+
+541
+01:00:46,510 --> 01:00:48,462
+Yes. Um.
+

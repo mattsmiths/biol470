@@ -1,0 +1,2353 @@
+1
+00:00:04,900 --> 00:00:08,230
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Okay. Cool. Um, yeah. Sorry I'm late.
+
+2
+00:00:08,620 --> 00:00:13,359
+Uh. Week five. We're a third through the semester now.
+
+3
+00:00:13,360 --> 00:00:16,629
+It's flying by. Um, yeah.
+
+4
+00:00:16,630 --> 00:00:21,700
+Now moving. Trying a bit out of, uh, sensory perception.
+
+5
+00:00:21,700 --> 00:00:28,060
+Right. How we're encoding information, uh, in the very most other part of our nervous system.
+
+6
+00:00:28,390 --> 00:00:36,100
+More to how we're, uh, processing that information, making sense of that, and then moving into motor output.
+
+7
+00:00:36,520 --> 00:00:39,610
+Um, I think, yeah, some of these graphics.
+
+8
+00:00:39,610 --> 00:00:48,459
+And I think when we're starting to talk about motor output, often researchers are making these kind of like graphical representations,
+
+9
+00:00:48,460 --> 00:00:56,350
+graphical models often using um, like skeletons, pose estimation things we've played around in the first class.
+
+10
+00:00:56,530 --> 00:00:59,200
+I think they kind of come off a little bit creepy sometimes.
+
+11
+00:00:59,620 --> 00:01:06,159
+Uh, this this paper, this is a little bit older paper, but I know for some reason, this graphic just kind of,
+
+12
+00:01:06,160 --> 00:01:13,120
+uh, yeah, sticks out in my head of being a little off that, like, whole, um, uncanny valley type thing.
+
+13
+00:01:13,150 --> 00:01:20,410
+But anyway, um. Yeah. Moving more into motor output and, um, how we're responding to our stimuli.
+
+14
+00:01:21,880 --> 00:01:26,770
+Cool. Um, so our itinerary for today, um,
+
+15
+00:01:26,770 --> 00:01:37,090
+I want to do a quick catch up on the final project that's not due till the very last day of class, but I want to start, um,
+
+16
+00:01:37,450 --> 00:01:44,620
+planting some ideas, hearing what y'all are interested in, um, and kind of showing some of the options of,
+
+17
+00:01:44,620 --> 00:01:48,580
+kind of, like, project ideas, uh, that y'all can engage with.
+
+18
+00:01:49,090 --> 00:01:55,659
+Uh, then we'll do some general updates, finish out a little bit of the visual system, do a little primer on motor control.
+
+19
+00:01:55,660 --> 00:02:03,100
+But for most of today's class I actually want to do, um, a paper discussion.
+
+20
+00:02:03,100 --> 00:02:09,790
+So y'all read two very challenging papers and I, we didn't talk about a lot of that content.
+
+21
+00:02:09,790 --> 00:02:18,730
+And that was kind of intentional. Um, so part most of today we're going to break up into groups based on the paper you read.
+
+22
+00:02:19,030 --> 00:02:25,240
+And then the rest of the class will be working with me, working with each other to present,
+
+23
+00:02:25,600 --> 00:02:33,520
+like the main ideas of your paper to the class before class ends is the idea, and you can do that in whatever format.
+
+24
+00:02:33,520 --> 00:02:36,760
+I brought markers so we can draw all of this stuff.
+
+25
+00:02:37,030 --> 00:02:44,079
+Uh, if you want to make a few slides, um, you certainly can, um, use a projector, things like that.
+
+26
+00:02:44,080 --> 00:02:48,130
+So we'll get into to that in a little bit. Okay.
+
+27
+00:02:48,580 --> 00:02:51,760
+Final project. So as I mentioned, do the last day of class.
+
+28
+00:02:52,210 --> 00:02:56,560
+Um, we'll have a little end of the semester party, get some food.
+
+29
+00:02:56,950 --> 00:03:01,120
+Um, I mentioned you can work independently if you want.
+
+30
+00:03:01,120 --> 00:03:05,500
+You can work in a group. Um, it's up to you.
+
+31
+00:03:06,130 --> 00:03:14,350
+Uh, I'm pretty flexible on that. And then, of course, we can use any of the tools that we've covered in class, um, for that project.
+
+32
+00:03:16,090 --> 00:03:19,870
+Okay. And then this makes up a good chunk of the final grade.
+
+33
+00:03:19,870 --> 00:03:23,170
+So 30%. Um. And.
+
+34
+00:03:23,530 --> 00:03:28,000
+Right. What's wrapped into that? Doesn't matter if it's successful or not.
+
+35
+00:03:28,030 --> 00:03:36,790
+It's just mainly going through kind of the experimental design, getting to the final presentation and then a little write up associated with that.
+
+36
+00:03:37,600 --> 00:03:43,179
+Uh, so yeah, questions to think about. And I will send out an email next week to everyone.
+
+37
+00:03:43,180 --> 00:03:49,180
+Just kind of probing, getting your feedback on whether you think you're going to work independently or in a group.
+
+38
+00:03:49,630 --> 00:03:54,730
+You don't have to decide now. I'm just kind of giving information, figuring out how I can help you all.
+
+39
+00:03:55,270 --> 00:04:00,700
+Um, is there a specific neuro science question or topic you're interested in maybe exploring?
+
+40
+00:04:01,270 --> 00:04:11,230
+Um, and then if so, any animals that you may want, you certainly could do something computational or even like a paper, a literature review.
+
+41
+00:04:11,260 --> 00:04:15,790
+Certainly we all fit within, uh, the guidelines for the final project.
+
+42
+00:04:17,350 --> 00:04:22,600
+Um, and then here's just some kind of fun project ideas that I generated.
+
+43
+00:04:22,630 --> 00:04:25,060
+I'll provide a more formal list.
+
+44
+00:04:25,510 --> 00:04:33,879
+I'll probably have, you know, 15, 20 different ideas that if you wanted to just pick a stock project, you certainly can do that.
+
+45
+00:04:33,880 --> 00:04:38,860
+And I'll have the details for that. Um, so I like starting out.
+
+46
+00:04:39,040 --> 00:04:41,230
+We've been doing just awful for the last week.
+
+47
+00:04:41,650 --> 00:04:52,000
+Uh, so what if we then start to to modulate motivation and say we're testing starved Drosophila versus satiated Drosophila?
+
+48
+00:04:52,000 --> 00:04:56,440
+How does that change how they respond to olfactory information?
+
+49
+00:04:56,620 --> 00:05:03,489
+Right. And later in class we'll get into how all of this, this kind of like multimodal integration happens.
+
+50
+00:05:03,490 --> 00:05:12,940
+So you can. Hopefully start to come up with a hypothesis for the neural mechanisms, as well as a behavior readout for what that might look like.
+
+51
+00:05:13,510 --> 00:05:19,270
+Um, yeah. So more or less a bunch of things like that, of course, like pose estimation.
+
+52
+00:05:19,720 --> 00:05:26,440
+You could think of, you know, if you're not a great juggler, maybe practice juggling for the next couple weeks,
+
+53
+00:05:26,440 --> 00:05:32,349
+record yourself, uh, and then detail one, extract important information.
+
+54
+00:05:32,350 --> 00:05:35,740
+Kind of track your progress using the tools we've covered in class.
+
+55
+00:05:36,100 --> 00:05:45,700
+Uh, and then talk about the, uh, pathways within the brain that are changing how your processing, uh, your sensory,
+
+56
+00:05:45,700 --> 00:05:53,530
+motor, sensorimotor task, uh, and learning to, um, become more effective at it is essentially another idea.
+
+57
+00:05:54,040 --> 00:05:59,920
+Um, I had since I'm recording all these lectures, there's a ton of data on me just speaking.
+
+58
+00:06:00,370 --> 00:06:06,550
+Um, if anyone wants to analyze my speech patterns, I'll give you my, uh, sleep patterns as well.
+
+59
+00:06:06,580 --> 00:06:14,950
+So, open ended question to see if there's a relationship between how many ums I say and how many hours of sleep I I've gotten.
+
+60
+00:06:15,130 --> 00:06:20,530
+So anyway, yeah, like, feel free to to think broadly.
+
+61
+00:06:20,530 --> 00:06:24,660
+Yeah a question. Um, I'm not saying that I've decided anything.
+
+62
+00:06:24,670 --> 00:06:30,940
+Um, but let's say, like I wanted to do some, like, record for humans and their decision making pattern.
+
+63
+00:06:31,060 --> 00:06:38,050
+Yeah. Give them two different stimuli. I mean, not stimuli, but just give them two different choices and see which one the gravitate towards.
+
+64
+00:06:38,140 --> 00:06:42,860
+Yeah. Would I need to record those videos on that AI camera?
+
+65
+00:06:42,910 --> 00:06:46,710
+Can I just do it on my phone and put it on? Oh, yeah.
+
+66
+00:06:46,720 --> 00:06:52,780
+Yeah. If you, um, you could just record it on any device if you wanted to do, like, the pose estimation process.
+
+67
+00:06:53,410 --> 00:06:57,879
+Any device would work. And then you can upload it essentially to that same Google collab.
+
+68
+00:06:57,880 --> 00:07:01,050
+And it should more or less work the same. So yeah.
+
+69
+00:07:01,060 --> 00:07:06,850
+Cool. Uh, but yeah. So hopefully that gives you an idea of the breadth of ideas.
+
+70
+00:07:07,210 --> 00:07:12,220
+Um, and if there's anything you want to make, I can help you make that.
+
+71
+00:07:12,220 --> 00:07:20,140
+And I think like the last I think most of the Thursday classes in April, I think are dedicated to working on this in class.
+
+72
+00:07:20,710 --> 00:07:26,650
+Um, and yeah, I'll, I'll make sure to have all the tools you may need for your project, uh, at that point.
+
+73
+00:07:27,370 --> 00:07:33,070
+So, yeah, start thinking again. I'll send out some an email kind of probing next week.
+
+74
+00:07:34,530 --> 00:07:37,930
+There we go. Cool.
+
+75
+00:07:38,410 --> 00:07:41,649
+All right. So now moving into this week right.
+
+76
+00:07:41,650 --> 00:07:49,000
+So we are moving into motor control movement. Um for Thursday we have uh another our last just off flow experiment.
+
+77
+00:07:49,010 --> 00:07:57,220
+So we'll be doing optogenetics and some thermo genetics uh, which I'll give you more details on Thursday.
+
+78
+00:07:57,670 --> 00:08:05,710
+Uh, meeting here. Um, and then hopefully I'm not planning it to be a very long activity, but we know how that always goes.
+
+79
+00:08:05,740 --> 00:08:11,860
+It always takes so much more time. But I'm hoping to give you all enough time to even get everything written up,
+
+80
+00:08:11,860 --> 00:08:19,120
+and hopefully to a point where you don't have to do a ton of of work outside of class to get the activity right up for,
+
+81
+00:08:19,720 --> 00:08:23,110
+uh, three through five, turned in by by Thursday.
+
+82
+00:08:24,490 --> 00:08:28,120
+Um, and so, yeah, I want to just do a reminder what we went through.
+
+83
+00:08:28,120 --> 00:08:37,690
+So we have the, um, week three with the olfactory behavior in the lab, um, where we had those four different genotypes.
+
+84
+00:08:38,140 --> 00:08:45,310
+Uh, we presented the different odors. Um, uh, we made observations or basically recorded them.
+
+85
+00:08:45,940 --> 00:08:55,450
+The, the, uh, deliverable for that is essentially what is your hypothesis for those genotypes as to how they would respond to odor information?
+
+86
+00:08:55,930 --> 00:09:04,630
+Uh, and then simply based on your observations of looking at those videos recorded, does that match up with your hypothesis?
+
+87
+00:09:05,560 --> 00:09:12,040
+Uh, the second so last week we did an introduction to image processing using Google Colab.
+
+88
+00:09:12,490 --> 00:09:19,300
+Um, I uploaded the rest of the videos that I recorded, and I guess I can go down.
+
+89
+00:09:19,510 --> 00:09:22,209
+Well, we'll go over it on on Thursday a bit more,
+
+90
+00:09:22,210 --> 00:09:29,940
+but essentially I have rerecorded all four different genotypes across the three different odor presentations.
+
+91
+00:09:29,950 --> 00:09:33,370
+So you're welcome to use those videos if you want.
+
+92
+00:09:33,850 --> 00:09:39,910
+Um, and essentially just generate a graph comparing at least two videos and then interpret the results.
+
+93
+00:09:40,480 --> 00:09:49,490
+Um, and so I've also uploaded a copy of that Excel sheet that we went for, um, a simplified version of that Excel sheet on canvas.
+
+94
+00:09:49,510 --> 00:09:57,190
+I guess I can show you that, but, um. Yeah.
+
+95
+00:09:57,190 --> 00:10:01,690
+So under week for example speed calculation.
+
+96
+00:10:01,840 --> 00:10:05,290
+And you don't have to do speed. Uh, yeah.
+
+97
+00:10:05,290 --> 00:10:11,830
+And this you should be able to download it and you can open it up, you know, have that formula in there for Euclidean distance.
+
+98
+00:10:12,280 --> 00:10:21,159
+Um, but essentially you could interpret, you know, the distance the um, where Drosophila are kind of standing within that dish.
+
+99
+00:10:21,160 --> 00:10:28,960
+If you think that would be enough information to support whatever hypothesis you had about, um, each genotype responding to that other.
+
+100
+00:10:30,850 --> 00:10:38,840
+Is there like a. Um, not yet, but I will.
+
+101
+00:10:39,200 --> 00:10:43,370
+I can get that posted today. Yeah.
+
+102
+00:10:45,260 --> 00:10:49,500
+Um, yeah. And essentially working.
+
+103
+00:10:52,590 --> 00:10:57,360
+Yeah. Um, yeah. And I, I made some updates, but.
+
+104
+00:10:57,360 --> 00:11:05,310
+Yeah, I'll, I'll give I'll make a write up with the detailed instructions as to how to export everything and then,
+
+105
+00:11:05,640 --> 00:11:09,930
+um, how to generate maybe some simple graphs in Excel.
+
+106
+00:11:10,980 --> 00:11:14,010
+Thank you. Yeah. Of course. Yeah. Sorry.
+
+107
+00:11:14,670 --> 00:11:19,129
+Things were, uh. Yeah. A little hectic last time. Yeah.
+
+108
+00:11:19,130 --> 00:11:23,200
+And this is what the sample Excel sheet looks like, right.
+
+109
+00:11:23,210 --> 00:11:28,180
+So when you export your data you're going to have a bunch of stuff like this.
+
+110
+00:11:28,180 --> 00:11:32,230
+So flie zero x and y x y coordinates.
+
+111
+00:11:32,830 --> 00:11:42,729
+Uh, and then this is the new um section which is like distance traveled, which is uh essentially Euclidean distance,
+
+112
+00:11:42,730 --> 00:11:48,880
+which is remember, uh, Pythagorean theorem of a squared plus b squared equals c squared.
+
+113
+00:11:49,420 --> 00:11:58,120
+So essentially you just solving for C um and then yeah I think I have that formula uh somewhere in there.
+
+114
+00:12:02,800 --> 00:12:09,200
+Weird. Okay, maybe I have to redo that, but I think it's.
+
+115
+00:12:13,670 --> 00:12:20,030
+Yeah. Okay.
+
+116
+00:12:20,060 --> 00:12:24,560
+Well, anyway, it's this will have, uh, that formula updated in this cell.
+
+117
+00:12:24,560 --> 00:12:32,000
+So you can essentially copy and paste that and drag it down, and I'll, I'll give a detailed instructions, a PDF on how to do all that.
+
+118
+00:12:34,640 --> 00:12:42,820
+So. All right.
+
+119
+00:12:42,940 --> 00:12:46,239
+And then. Yeah, for Thursday I can do more detailed then.
+
+120
+00:12:46,240 --> 00:12:50,229
+But essentially it'll be very similar to the Oder experiments,
+
+121
+00:12:50,230 --> 00:12:59,470
+except with our thermo genetic soup or in optogenetics that will allow us to manipulate select populations of neurons within our Drosophila.
+
+122
+00:12:59,950 --> 00:13:09,790
+And then you'll make a hypothesis, take a video, generate a graph, and then um, state if that video supports your hypothesis.
+
+123
+00:13:12,010 --> 00:13:17,320
+Cool. Yeah. And then Euclidean distance. Um, so for our equation there.
+
+124
+00:13:20,210 --> 00:13:24,260
+Cool. All right. So that gets us through our intro.
+
+125
+00:13:24,680 --> 00:13:30,150
+Any questions on on that stuff? Cool.
+
+126
+00:13:30,570 --> 00:13:41,160
+All right. So hopping back to our, um, visual system really quickly just to round this out, there's some, uh,
+
+127
+00:13:41,160 --> 00:13:46,770
+really interesting physiology kind of happening in the visual system that we didn't get to quite cover.
+
+128
+00:13:47,340 --> 00:13:52,080
+Um, on the very periphery side. So again, here's our eye.
+
+129
+00:13:52,500 --> 00:13:59,129
+Um, we talked about, uh, these five cell types within the retina, right.
+
+130
+00:13:59,130 --> 00:14:05,910
+And the backside of our eye that has all of the most sensory periphery neurons that are
+
+131
+00:14:05,910 --> 00:14:11,400
+starting to do that signal transduction from converting light into electrical signaling,
+
+132
+00:14:11,700 --> 00:14:17,190
+uh, that our neurons use to communicate. Um, right.
+
+133
+00:14:17,220 --> 00:14:22,620
+So that we went over kind of the ordering, um, and the direction of light entering into our eye,
+
+134
+00:14:22,620 --> 00:14:28,139
+which is actually reversed and a little, a little wonky, one of the wonky functions of the visual system.
+
+135
+00:14:28,140 --> 00:14:35,490
+Right. So your ganglion cells are actually, uh, on the most outer, um, side of the,
+
+136
+00:14:35,490 --> 00:14:42,959
+of your retina in the photoreceptors are on the most inner side, but light is actually perceived by those photoreceptors.
+
+137
+00:14:42,960 --> 00:14:50,250
+Right. So it passes through those first, uh, couple layers of cells to, um, activate those photoreceptors.
+
+138
+00:14:52,670 --> 00:14:58,370
+Cool. All right. And so, uh, when forest receptors are exposed to light.
+
+139
+00:14:58,610 --> 00:15:02,870
+Um, they will actually hyper, hyper polarize, right?
+
+140
+00:15:02,870 --> 00:15:07,879
+Which maybe is counterintuitive because all of the different sensory systems we've encountered has
+
+141
+00:15:07,880 --> 00:15:12,920
+been like an odorant molecule will bind and you'll get depolarization of a particular neuron.
+
+142
+00:15:13,490 --> 00:15:17,310
+Um, so, uh, let's predict.
+
+143
+00:15:17,330 --> 00:15:20,750
+So this is moving from dark into light.
+
+144
+00:15:21,140 --> 00:15:24,350
+Here we have our membrane potential. And in time in x axis.
+
+145
+00:15:24,740 --> 00:15:28,610
+If this cell is going to hyper polarize when moving into light.
+
+146
+00:15:28,910 --> 00:15:40,170
+What do you think this graph will look like? And then yeah, this is probably roughly where we're getting that transition moving from dark into light.
+
+147
+00:15:49,060 --> 00:15:57,170
+Or even. So I'll reveal this one, and then we'll.
+
+148
+00:15:57,230 --> 00:16:04,160
+I'll let y'all pick the next one now. Right. So, uh, when exposed to light, they hyper polarized.
+
+149
+00:16:04,340 --> 00:16:07,879
+Hyper polarized means, uh, becoming more negative.
+
+150
+00:16:07,880 --> 00:16:14,510
+So you're decreasing. Uh, well, probably probably part of the challenge is we don't have our values here,
+
+151
+00:16:14,510 --> 00:16:18,350
+but this lower value would be more negative than this higher value.
+
+152
+00:16:18,920 --> 00:16:24,200
+Um, so when you're moving from dark to light, you're actually, um, decreasing your membrane potential.
+
+153
+00:16:25,250 --> 00:16:30,470
+Uh, that means you're less likely right to release your neurotransmitter and depolarize.
+
+154
+00:16:30,860 --> 00:16:37,580
+Okay, so now who's got the answer? When we're moving from light to dark, I'm guessing it's the inverse.
+
+155
+00:16:37,670 --> 00:16:44,750
+Exactly. Right. So now, uh, we're starting to move towards that hyper, uh, depolarization.
+
+156
+00:16:45,110 --> 00:16:50,629
+Uh, and we're getting an increase in that membrane potential. Right.
+
+157
+00:16:50,630 --> 00:16:53,930
+A little counterintuitive from what we've been seen before.
+
+158
+00:16:54,920 --> 00:16:59,749
+Um, and then to do. Right.
+
+159
+00:16:59,750 --> 00:17:05,420
+So moving into the light will actually decrease the neurotransmitter that's released here.
+
+160
+00:17:06,230 --> 00:17:10,700
+Um, and does anyone remember what.
+
+161
+00:17:11,300 --> 00:17:16,070
+So we went over two neurotransmitters last week. Does anyone remember what two those were?
+
+162
+00:17:17,720 --> 00:17:21,950
+They started with. Come on. Yeah, exactly.
+
+163
+00:17:22,250 --> 00:17:30,140
+Uh. And then does anyone remember? Um, typically, is glutamate excitatory or inhibitory?
+
+164
+00:17:33,630 --> 00:17:36,690
+Yeah, exactly. And then Gaba is inhibitory.
+
+165
+00:17:37,500 --> 00:17:41,310
+Yup. Uh, yeah. And then here is the slide from last week.
+
+166
+00:17:41,670 --> 00:17:44,780
+You don't need to pay attention to this. But typically right.
+
+167
+00:17:44,850 --> 00:17:49,220
+We see glutamate um being excitatory right.
+
+168
+00:17:49,230 --> 00:17:54,900
+Which causes these excitatory post-synaptic potentials when you're looking at a synapse.
+
+169
+00:17:55,530 --> 00:18:00,540
+Uh, and um then Gaba is uh inhibitory typically.
+
+170
+00:18:00,870 --> 00:18:06,280
+So preventing depolarization. Cool.
+
+171
+00:18:07,180 --> 00:18:17,290
+All right. So looking a bit more how does this actually how do we have this kind of difference in um response
+
+172
+00:18:17,920 --> 00:18:23,920
+kind of a counter counter intuitive response whenever light is actually hitting our the receptors.
+
+173
+00:18:24,370 --> 00:18:33,280
+Uh, well, as we might expect. So within these photo receptors is a protein, uh, or class of proteins called options.
+
+174
+00:18:33,580 --> 00:18:38,200
+And these are proteins that will actually change their structure whenever light hits them.
+
+175
+00:18:38,200 --> 00:18:43,690
+So they absorb some amount of light. Um, that we call that a conformational change.
+
+176
+00:18:44,830 --> 00:18:53,080
+Right. And once that conformational change occurs, that leads to a bunch of downstream molecular, um, effects within our cell.
+
+177
+00:18:53,500 --> 00:19:02,890
+Right. And again, that's a pretty well conserved, um, more or less kind of pathway across our sensory modalities.
+
+178
+00:19:03,220 --> 00:19:07,690
+Right. Except this is just perceiving light and then leading to some conformational change.
+
+179
+00:19:07,930 --> 00:19:15,159
+Often we have other um, like ligand gated ion channels bind to something and you do the confirmation will change.
+
+180
+00:19:15,160 --> 00:19:18,580
+This is just that light absorption leads to the change.
+
+181
+00:19:19,090 --> 00:19:28,120
+Uh, but anyway, so this once light hits, that option actually leads to the inactivation of uh, g coupled protein,
+
+182
+00:19:28,510 --> 00:19:34,570
+um, and these that it makes it less likely for uh, some of these ion channels to actually open up.
+
+183
+00:19:35,260 --> 00:19:40,540
+Right. So it's more on this, it's the interaction with that G coupled protein, um,
+
+184
+00:19:40,540 --> 00:19:46,840
+and becoming inactive that leads to hyper polarization whenever light is hitting that the receptor.
+
+185
+00:19:52,790 --> 00:19:56,149
+Cool. All right, so the next thing I.
+
+186
+00:19:56,150 --> 00:19:59,960
+And this will be the last thing we'll say about the visual system for now.
+
+187
+00:20:00,440 --> 00:20:09,830
+Um, so we just talked about the photoreceptors and, um, how a light will actually, um, hyper polarize them.
+
+188
+00:20:10,790 --> 00:20:17,619
+Uh, the next cells within our, uh, sensory, the visual system are our bipolar cells.
+
+189
+00:20:17,620 --> 00:20:23,570
+So we can call those second order neurons, right, because they're the second neuron within that sensory system.
+
+190
+00:20:24,050 --> 00:20:35,360
+Uh, information processing. Um, so they actually have variability in how they respond to the neurotransmitter released by those photoreceptors.
+
+191
+00:20:35,900 --> 00:20:44,300
+And that's why. Yeah, maybe if you were thinking, oh, why are if our further receptors are always, um, become hyper polarizing.
+
+192
+00:20:44,480 --> 00:20:48,410
+Whenever, uh, we're encountering light, how can we actually see things?
+
+193
+00:20:48,860 --> 00:20:55,879
+Um, that's because of our bipolar cells. Um, yeah.
+
+194
+00:20:55,880 --> 00:20:59,750
+So there's two types. Uh, this is called an off bipolar cell.
+
+195
+00:21:00,320 --> 00:21:07,280
+Um, and so whenever in this example, right, we're moving from dark to light in our photo receptor.
+
+196
+00:21:07,280 --> 00:21:14,420
+So we're starting to hyper polarize, right where we're becoming more, um, decreasing our membrane potential.
+
+197
+00:21:15,080 --> 00:21:24,710
+Um, that will decrease the amount of glutamate being released by that photoreceptor.
+
+198
+00:21:25,040 --> 00:21:31,430
+Therefore, in the light, um, this bipolar cell will not actually, um,
+
+199
+00:21:32,600 --> 00:21:39,050
+bind to glutamate or, um, lead to any kind of signal transduction or depolarization.
+
+200
+00:21:40,670 --> 00:21:46,850
+In contrast, we have in contrast to the off bipolar cells we have on bipolar cells.
+
+201
+00:21:46,850 --> 00:21:49,730
+So here we have that same transition from dark to light.
+
+202
+00:21:50,300 --> 00:22:06,320
+Um, but now instead of um, having that ionic receptor, we now have a um meta meta tropic receptor here that's tied to this G coupled protein.
+
+203
+00:22:06,800 --> 00:22:09,950
+And that will actually have the opposite response.
+
+204
+00:22:10,580 --> 00:22:18,139
+So actually, um, in the light, in the absence of glutamate, this, uh,
+
+205
+00:22:18,140 --> 00:22:27,620
+this channel becomes open because of the pairing with uh, this G coupled uh, protein receptor absence of glutamate.
+
+206
+00:22:27,620 --> 00:22:31,910
+This opens up and you'll get the depolarization of this bipolar cell.
+
+207
+00:22:32,720 --> 00:22:42,290
+Right. So really the difference is these two receptor types being expressed in the bipolar cell and their response to glutamate,
+
+208
+00:22:42,620 --> 00:22:46,519
+which kind of contradicts which we that slide we just went over.
+
+209
+00:22:46,520 --> 00:22:50,840
+That said glutamate is normally excitatory and absolutely it normally is.
+
+210
+00:22:51,140 --> 00:22:59,900
+This is just one of those weird edge cases. And I remember I've already said, yeah, biology is never binary one or the other.
+
+211
+00:22:59,900 --> 00:23:03,260
+There's always some weird gray area. And this is one of those.
+
+212
+00:23:06,020 --> 00:23:10,370
+Um. Cool. Does that makes make sense to to folks?
+
+213
+00:23:11,300 --> 00:23:18,140
+Hopefully I know that. It's kind of a complex process, and it actually leads to some really interesting downstream effects.
+
+214
+00:23:18,830 --> 00:23:24,740
+Um, and essentially within our retina, we have a distribution of these on and off cells.
+
+215
+00:23:25,130 --> 00:23:32,930
+Um, right. And you can imagine as you're looking around, scanning between, uh, objects that are maybe a lighter in intensity.
+
+216
+00:23:32,930 --> 00:23:42,020
+Darker in intensity. Uh, you're activating or inhibiting, uh, different neuro popular or, uh, different.
+
+217
+00:23:42,020 --> 00:23:46,010
+We call them, um, receptor fields within your retina.
+
+218
+00:23:46,400 --> 00:23:53,600
+And essentially it allows us to pull out patterns and edges a lot easier than if everything was just purely uniform.
+
+219
+00:23:53,900 --> 00:24:01,550
+Um, and we we're essentially only activating whenever we are looking at kind of light, um, white objects.
+
+220
+00:24:01,970 --> 00:24:08,270
+Right. So it's this distribution of on and off that allows us to actually pull out contrast a lot better.
+
+221
+00:24:13,740 --> 00:24:17,160
+Cool. All right.
+
+222
+00:24:18,450 --> 00:24:24,410
+And so as we move on, we'll just highlight here that the last.
+
+223
+00:24:24,420 --> 00:24:33,030
+So after our bipolar cell is this ganglion cell which we see ganglion cells in a lot of different sensory systems.
+
+224
+00:24:33,510 --> 00:24:42,089
+Uh essentially they are often in the sensory periphery systems and they are often aggregated.
+
+225
+00:24:42,090 --> 00:24:48,389
+So you have some large number of neurons that are sending information from our sensory information,
+
+226
+00:24:48,390 --> 00:24:54,870
+our sensory periphery system, to our central nervous system, some deeper into the brain essentially.
+
+227
+00:24:55,230 --> 00:25:01,440
+And that's kind of the primary function of our ganglion cells, is almost like relays of that sensory information.
+
+228
+00:25:05,420 --> 00:25:15,230
+Okay. Um. Right. And so those ganglion cells will actually, um, send information right to our cortex.
+
+229
+00:25:15,830 --> 00:25:18,920
+Passing. They create what we call the optic nerve.
+
+230
+00:25:20,570 --> 00:25:26,630
+Sending that visual information whenever we're looking, moving from dark to light, looking at an object.
+
+231
+00:25:27,170 --> 00:25:33,110
+Um, all that good stuff, uh, to our primary visual cortex eventually.
+
+232
+00:25:33,650 --> 00:25:40,340
+Uh, but you can see that there's some interesting, um, lateralization that happens of,
+
+233
+00:25:40,340 --> 00:25:45,530
+uh, these ganglion as they're processing information and sending it to that cortex.
+
+234
+00:25:46,160 --> 00:25:48,740
+Uh, we call this contralateral control.
+
+235
+00:25:49,280 --> 00:25:57,650
+Um, that's when you can have, um, even this happens in motor neurons and might have popped up in one of the papers you read,
+
+236
+00:25:57,980 --> 00:26:05,750
+uh, where it's, say, the left side of your body is controlled by the, um, uh, population of neurons in the right hemisphere.
+
+237
+00:26:06,230 --> 00:26:11,000
+Uh, that's present here, right where the left eye is.
+
+238
+00:26:11,240 --> 00:26:20,540
+Um, the right side of the primary visual cortex is processing a lot of that information from the left left eye in reality.
+
+239
+00:26:21,050 --> 00:26:27,890
+Right. It's never, never clean like this. Uh, there's actually information being projected to both sides.
+
+240
+00:26:27,890 --> 00:26:35,510
+So you're getting, um, overlap in information being, um, sent to both sides of your primary visual cortex.
+
+241
+00:26:35,810 --> 00:26:46,100
+But, um, predominantly, you're getting this contralateral, uh, control of information processing where opposite side of the brain is processing.
+
+242
+00:26:46,400 --> 00:26:51,560
+Um, opposite sensory system is why it works like that.
+
+243
+00:26:51,950 --> 00:26:55,940
+Yeah. I mean, it is absolutely still an open question.
+
+244
+00:26:56,180 --> 00:27:00,320
+A lot of people think that. Well, some.
+
+245
+00:27:01,670 --> 00:27:03,980
+So really it leads to redundancy.
+
+246
+00:27:04,460 --> 00:27:13,790
+Um, so if you imagine there's some injury to the right side of your, um, primary visual cortex, you still might be able to process some,
+
+247
+00:27:14,030 --> 00:27:21,530
+uh, visual information on the left and right side, on just the right, the left side of your primary visual cortex.
+
+248
+00:27:22,340 --> 00:27:28,370
+Um, but why? Why are you getting more projections, I guess, to the contralateral side?
+
+249
+00:27:28,880 --> 00:27:32,790
+Some people think that it helps with depth perception.
+
+250
+00:27:32,810 --> 00:27:38,390
+Essentially, it's adding because it's a slightly longer distance as you're going from one side to another.
+
+251
+00:27:38,900 --> 00:27:43,700
+Um, you can have more junctions where you can start to, um,
+
+252
+00:27:44,180 --> 00:27:50,480
+have this higher level processing of information because you're crossing a larger distance.
+
+253
+00:27:51,080 --> 00:27:54,290
+Um, but it's still, I think, very much an open question.
+
+254
+00:27:54,740 --> 00:27:59,300
+Uh, I think most I've seen a lot of just redundancy, um,
+
+255
+00:27:59,660 --> 00:28:07,950
+with having kind of both sides processing visual information, but again, it's predominantly the contralateral side.
+
+256
+00:28:07,970 --> 00:28:18,140
+That's. Yeah. Any follow up coming through with at least like vertebrates and whatnot just lay this swamp in the brain.
+
+257
+00:28:18,140 --> 00:28:25,550
+Or is this like is there a point in like the, um, where an animal has like on the same side helps that as well?
+
+258
+00:28:25,850 --> 00:28:33,180
+Yeah, that's yeah, that's a very good question. It's not completely conserved through all, you know, mammals.
+
+259
+00:28:33,220 --> 00:28:42,500
+Um, I don't know. Yeah. What, like, even if you were to, you know, look at some, um, evolutionary tree, at what point do you start to see this?
+
+260
+00:28:42,890 --> 00:28:47,300
+Um, yeah, start to degrade the contralateral control.
+
+261
+00:28:47,660 --> 00:28:49,040
+Um, yeah, I think that's.
+
+262
+00:28:49,700 --> 00:28:57,560
+Yeah, I'm sure I feel like someone's probably taking a peek at that or maybe starting to to tease apart, but that's a a cool question.
+
+263
+00:28:57,800 --> 00:29:04,110
+So. Yeah. Cool.
+
+264
+00:29:04,440 --> 00:29:08,730
+Yeah. Any any other questions on that? That's quite good.
+
+265
+00:29:10,200 --> 00:29:14,470
+All right. Now.
+
+266
+00:29:14,620 --> 00:29:20,980
+Yeah. We're moving. Right. We were just thinking about our kind of periphery nervous system.
+
+267
+00:29:21,250 --> 00:29:29,500
+We were just talking about the cortex and moving from what would be afferent information to afferent information.
+
+268
+00:29:29,500 --> 00:29:34,150
+So afferent right moving towards from the sensory periphery to the CNS.
+
+269
+00:29:35,410 --> 00:29:40,060
+Uh, efferent information moving from CNS to a motor response.
+
+270
+00:29:40,540 --> 00:29:48,040
+Right. So everything kind of integrated in, uh, the cortex before you're getting that efferent copy coming out of it.
+
+271
+00:29:49,660 --> 00:29:55,420
+Uh, reminder, right. When we're looking at the central nervous system in our brain.
+
+272
+00:29:55,630 --> 00:30:03,670
+Right. So we're going to dive into our four kind of primary sections of our cerebrum here.
+
+273
+00:30:04,240 --> 00:30:08,980
+Right. Which makes up a lot of that higher, uh, order processing of information.
+
+274
+00:30:10,240 --> 00:30:17,770
+Um, right. So we'll go over the four main lobes of our brain at this point, a little bit later in class.
+
+275
+00:30:18,040 --> 00:30:21,250
+Uh, does anyone know them off the top of their head? Yeah.
+
+276
+00:30:21,820 --> 00:30:25,540
+Um, frontal, parietal, temporal and occipital.
+
+277
+00:30:25,780 --> 00:30:31,840
+Yep. Exactly. Right. So we have fried all temporal occipital in frontal.
+
+278
+00:30:31,990 --> 00:30:32,950
+Yeah, yeah.
+
+279
+00:30:32,950 --> 00:30:42,849
+So these are the four kind of main lobes of the brain, um, frontal cortex, which we're just highlighting a big highlight for today because,
+
+280
+00:30:42,850 --> 00:30:50,110
+uh, it's important in a lot of motor tasks, um, as well as some emotional control, abstract thinking.
+
+281
+00:30:50,500 --> 00:31:00,340
+Um, highlighted here is this, uh, pre central gyrus, which actually contains the primary, primary uh motor cortex.
+
+282
+00:31:00,700 --> 00:31:09,550
+Right. Which is again um an important relay for integrating sensory information, turning that into a motor output.
+
+283
+00:31:13,350 --> 00:31:22,140
+Um. Next. Yeah. Parietal lobe. Uh, really, really important in, uh, perception and sensory integration.
+
+284
+00:31:22,410 --> 00:31:27,540
+Right. So that's, uh, we'll certainly be talking more about this with, um.
+
+285
+00:31:28,290 --> 00:31:34,320
+These papers were dealing with the somatic or talking quite a bit about the somatosensory cortex,
+
+286
+00:31:34,590 --> 00:31:39,840
+which is part of our parietal lobe, which makes sense with a lot of these weird tasks that,
+
+287
+00:31:40,170 --> 00:31:44,129
+uh, we're in the papers of, you know, having people look at objects, lift them up,
+
+288
+00:31:44,130 --> 00:31:48,840
+listen to acoustic information as triggers, uh, and then performing some action.
+
+289
+00:31:49,050 --> 00:31:55,950
+Right. A lot of that sensory information is integrating the parietal lobe and then sent to the motor,
+
+290
+00:31:56,340 --> 00:32:01,470
+uh, for a motor output from the motor cortex in the frontal lobe.
+
+291
+00:32:05,160 --> 00:32:08,480
+Uh, and then we have temporal lobe. Right?
+
+292
+00:32:08,700 --> 00:32:16,230
+Uh, really important in audio information encoding, memory and then, uh, language in speech processing.
+
+293
+00:32:18,490 --> 00:32:22,540
+And then finally, uh, the occipital lobe.
+
+294
+00:32:23,620 --> 00:32:28,360
+True to its name. Uh, important in processing visual information.
+
+295
+00:32:28,690 --> 00:32:32,170
+Um, important in, again, this higher order.
+
+296
+00:32:32,290 --> 00:32:35,920
+Identifying, classifying objects and even tracking them.
+
+297
+00:32:36,970 --> 00:32:40,510
+Um. Cool. All right.
+
+298
+00:32:40,520 --> 00:32:48,680
+So we will talk briefly about, um, the motor cortex.
+
+299
+00:32:48,860 --> 00:32:53,780
+Right. Uh, in the front, in the frontal lobe, uh, which is really important for these motor tasks.
+
+300
+00:32:55,040 --> 00:33:05,470
+Um, so, um, diving, going a little bit out, uh, a broader picture again.
+
+301
+00:33:05,480 --> 00:33:09,610
+So now we're looking more at these efferent signals.
+
+302
+00:33:09,620 --> 00:33:17,600
+So moving from, uh, what would be the motor cortex to, um, synapse controlling some muscle.
+
+303
+00:33:18,050 --> 00:33:27,350
+And so this is what, uh, a very simple, um, connection from that very central nervous system to a skeletal muscle can look like.
+
+304
+00:33:27,800 --> 00:33:36,050
+Right. And so imagine that this could be, uh, very long axon releasing some neurotransmitter on some effector organ,
+
+305
+00:33:36,050 --> 00:33:40,880
+which could be that skeletal muscle causing contraction right in, uh, leading to movement.
+
+306
+00:33:41,600 --> 00:33:54,470
+Um, we're going to introduce a new neurotransmitter here, uh, which I didn't get my slide on, but this is actually acetylcholine.
+
+307
+00:33:55,070 --> 00:34:00,799
+Acetylcholine is a neurotransmitter really important in, uh, motor responses.
+
+308
+00:34:00,800 --> 00:34:08,680
+And again, often used in these different, uh, signals in sending efferent information to control skeletal muscles.
+
+309
+00:34:08,690 --> 00:34:20,330
+Right. So releasing acetylcholine onto um, some effector organ leads to often some kind of contraction or um, change within that system.
+
+310
+00:34:22,990 --> 00:34:28,060
+All right. So diving a bit deeper into what this junction can actually look like.
+
+311
+00:34:29,990 --> 00:34:34,630
+Right. So here um this is presynaptic on the left.
+
+312
+00:34:35,020 --> 00:34:37,060
+Post-synaptic on the right.
+
+313
+00:34:37,540 --> 00:34:47,470
+Uh, and so you actually have these really interesting, um, kind of folds often that are really common, um, postsynaptic in a lot of skeletal muscle.
+
+314
+00:34:47,950 --> 00:34:54,490
+Uh, but here again, just visualizing the release of that acetylcholine from, um,
+
+315
+00:34:54,670 --> 00:35:03,610
+our postsynaptic, uh, um, efferent neuron to the synapse on to our skeletal muscle here.
+
+316
+00:35:08,310 --> 00:35:15,780
+Cool and more or less right. We see the same structure that we've been seeing in a lot of our sensory periphery systems, right?
+
+317
+00:35:15,780 --> 00:35:24,000
+Where you have it's often a ligand gated ion channel or some kind of, uh, um, cascade, uh,
+
+318
+00:35:24,060 --> 00:35:30,300
+signal transduction cascade that leads to depolarization, that change within your neuron.
+
+319
+00:35:30,630 --> 00:35:35,640
+Um, and so here these are we call these nicotinic acetylcholine receptors.
+
+320
+00:35:35,640 --> 00:35:42,900
+So they will actually bind to that acetylcholine um that's released into that synapse and lead to uh,
+
+321
+00:35:42,900 --> 00:35:51,060
+VPL uh an and SP that can aggregate and integrate to lead to um, a full depolarization of your, your cell.
+
+322
+00:35:55,990 --> 00:36:02,290
+Cool. All right. So taking all that and zooming back out again.
+
+323
+00:36:02,290 --> 00:36:09,640
+So here we have our cross section looking at in B we have our motor cortex highlighted.
+
+324
+00:36:10,360 --> 00:36:13,659
+Uh in a we actually have our spinal cord.
+
+325
+00:36:13,660 --> 00:36:21,130
+And then these are spinal nerves being highlighted in black that we can think of as an interneuron.
+
+326
+00:36:21,580 --> 00:36:33,710
+Um, right. Uh, kind of bridging the gap between, um, our spinal cord and, um, uh, uh, neurons controlling our skeletal muscle there.
+
+327
+00:36:33,730 --> 00:36:42,760
+And these colored sections represent the cell bodies of our, um, um, of our neurons controlling our skeletal muscle.
+
+328
+00:36:43,930 --> 00:36:49,870
+Um, and then highlighting C is the basal ganglia.
+
+329
+00:36:50,620 --> 00:37:02,049
+Right. And this is. Yes. Uh, a structure within our substructure, uh, beneath the motor cortex that's, uh, important in controlling a lot, uh,
+
+330
+00:37:02,050 --> 00:37:12,970
+I guess a higher level controlling of, um, almost like motivation or, again, integrating kind of sensory information for our motor output.
+
+331
+00:37:19,350 --> 00:37:24,809
+Cool seeing. Okay. Um, and so this is just.
+
+332
+00:37:24,810 --> 00:37:29,760
+Yeah. Zooming in on that, um, spinal cord in that cross section again.
+
+333
+00:37:30,240 --> 00:37:40,740
+Um, just highlighting that the first, uh, that motor, that neurons controlling, like, skeletal muscle coming out of this,
+
+334
+00:37:40,740 --> 00:37:51,210
+our spinal cord here, we can call those alpha motor neurons if they're actually, uh, synapses onto, um, uh, skeletal muscle.
+
+335
+00:37:51,630 --> 00:37:57,240
+Right. And so these would be the primary or alpha motor neurons coming out of that spinal cord.
+
+336
+00:37:57,510 --> 00:38:05,190
+And again, this would be called in efferent fiber because it's sending information, uh, to that to control that skeletal muscle.
+
+337
+00:38:06,720 --> 00:38:10,320
+Um, and then uh, let's see what's.
+
+338
+00:38:15,660 --> 00:38:22,680
+This whole structure, uh, we often call a, I guess, this inner structure, the ventral horn.
+
+339
+00:38:23,160 --> 00:38:26,440
+Uh, and here is the ventral root coming out here.
+
+340
+00:38:26,460 --> 00:38:30,870
+All these are all substructures within, um, our spinal cord.
+
+341
+00:38:31,470 --> 00:38:39,930
+Right. And, um, more or less, we have these motor neurons that are running through these different structures within, um,
+
+342
+00:38:40,980 --> 00:38:49,050
+uh, that spinal cord within our ventral root, uh, and eventually coming out, uh, through this spinal nerve here.
+
+343
+00:38:51,970 --> 00:39:04,720
+Cool. Um, and that's, I think, where we're gonna stop for today and get into the paper discussion.
+
+344
+00:39:04,720 --> 00:39:13,120
+So for the remainder of the class, um, or at least till we get both papers presented, and that could happen quick.
+
+345
+00:39:13,600 --> 00:39:20,889
+Uh, and then, yeah, maybe I think we might break early or we'll just see how much time it takes, but.
+
+346
+00:39:20,890 --> 00:39:25,960
+Yeah. So raise your hand if you read paper one, which I'll bring up.
+
+347
+00:39:30,880 --> 00:39:37,720
+Okay. Um. Okay, so here is paper one.
+
+348
+00:39:39,520 --> 00:39:44,230
+Yeah. So with this, no effect of whole hand while you're flow stimulation.
+
+349
+00:39:45,190 --> 00:39:48,990
+Okay. Okay, good. I think we're a good split.
+
+350
+00:39:49,410 --> 00:39:52,860
+Okay, so y'all will be group one. Um.
+
+351
+00:39:52,860 --> 00:39:59,700
+And so y'all. Yeah. I would suggest sitting next to, uh, your group mates and then everyone else.
+
+352
+00:39:59,700 --> 00:40:04,260
+I assume you've read paper two. Uh.
+
+353
+00:40:06,480 --> 00:40:17,920
+That'll. Yeah.
+
+354
+00:40:18,370 --> 00:40:25,089
+Um, and so again, the main point of this is to very similar to the discussions we've been doing before,
+
+355
+00:40:25,090 --> 00:40:31,900
+except now we in discussion by you all telling the class like the main point essentially.
+
+356
+00:40:32,170 --> 00:40:40,090
+Yeah. Interpreting the paper, uh, hitting the main point, uh, and then, uh, yeah, kind of thing as a group.
+
+357
+00:40:40,090 --> 00:40:46,629
+What you liked and didn't like about the, uh, the manuscript, um, and then bringing up any concepts that are confusing,
+
+358
+00:40:46,630 --> 00:40:55,810
+I'll be popping around and can help interpret and hopefully make these add more sense to, I think, these really complex papers.
+
+359
+00:40:56,020 --> 00:41:01,059
+All right. And then yeah, you can I have markers here if you want to illustrate, uh,
+
+360
+00:41:01,060 --> 00:41:05,680
+draw anything to help explain your paper or if you want to make a slide or something,
+
+361
+00:41:05,770 --> 00:41:10,360
+or if you just want to very verbally tell the class, you're welcome to do that as a group.
+
+362
+00:41:10,360 --> 00:41:15,460
+So I'd say start to split up and then I'll come around and help facilitate.
+
+363
+00:41:18,160 --> 00:41:21,720
+This this morning I just want.
+
+364
+00:41:37,470 --> 00:41:43,070
+By the way, this article. Because a lot of the language.
+
+365
+00:41:43,160 --> 00:41:51,290
+Oh, yeah, I don't think so. It's all very well I guess that makes it is at the end of the day, like the the process of describing,
+
+366
+00:41:51,290 --> 00:42:01,810
+giving up and like squeezing in your hand use like maybe weird phrasing, which I'm sure explains it very well and.
+
+367
+00:42:04,420 --> 00:42:09,790
+Yeah, yeah. I only don't think. See, the phrasing of this one is pretty.
+
+368
+00:42:14,490 --> 00:42:21,590
+I think it was more in keeping with the overall.
+
+369
+00:42:23,070 --> 00:42:30,450
+Just needs, like, the discussion part of it. Um, I don't know.
+
+370
+00:42:47,170 --> 00:42:55,180
+You know, I think this is the first time I thought it was so interesting because in my opinion,
+
+371
+00:42:55,690 --> 00:43:04,600
+I know there is, um, and there was some sort of tissue distribution in the brain.
+
+372
+00:43:05,230 --> 00:43:08,500
+And I always felt like, oh, this is kind of useless.
+
+373
+00:43:09,130 --> 00:43:25,450
+Would you ever use this for and I. Anyway way that.
+
+374
+00:43:36,770 --> 00:43:41,110
+Especially I. The.
+
+375
+00:43:58,930 --> 00:44:04,809
+There's some level of interaction. Yeah. So y'all didn't have that period paper, the legislative papers.
+
+376
+00:44:04,810 --> 00:44:09,990
+You know what? Just making something. No, but no similar relationship, no effect.
+
+377
+00:44:10,000 --> 00:44:16,780
+Same country, uh, making better money. Yeah. We had folks like had said on almost I was just saying a slight delay.
+
+378
+00:44:16,850 --> 00:44:23,400
+I thought it was like it passed in the you I that's the whole concept of like water.
+
+379
+00:44:23,440 --> 00:44:25,809
+And I was like some a simulation for your stream.
+
+380
+00:44:25,810 --> 00:44:32,140
+And also even though there was no effect the knowledge and skill acquisition, there was a change in some.
+
+381
+00:44:32,860 --> 00:44:37,000
+Yeah. So I was like that. I'm sorry. It's like it's not really happening.
+
+382
+00:44:37,080 --> 00:44:41,010
+You know, maybe learning can be fun, but there's no event.
+
+383
+00:44:41,060 --> 00:44:45,370
+Like they were saying. It was like a slowing of the neurons or something like that.
+
+384
+00:44:45,430 --> 00:44:50,300
+I see for future models. Yeah. If we can get to like that, we can simulate next time.
+
+385
+00:44:50,530 --> 00:44:54,640
+Um, uh, that's interesting. You know, some could you like.
+
+386
+00:44:54,740 --> 00:45:00,750
+Yeah. I mean, yeah, they left behind big hands, right?
+
+387
+00:45:02,800 --> 00:45:08,730
+Um, you know, when there's a slow response time and seeing what's going on in.
+
+388
+00:45:10,600 --> 00:45:13,830
+Of the action initiated, the action was happening. So.
+
+389
+00:45:14,180 --> 00:45:21,840
+Yeah. So and is there a way to target that and specific training or like simulation or something to that.
+
+390
+00:45:25,050 --> 00:45:35,670
+Um, another implication of this research is obviously in the form the future, maybe, um, complications.
+
+391
+00:45:36,270 --> 00:45:39,590
+Yeah, yeah. So yeah. Sorry. Could mean like this.
+
+392
+00:45:39,630 --> 00:45:43,650
+Like actually. Oh, my. Yeah.
+
+393
+00:45:44,340 --> 00:45:52,930
+Well, you know, I think so. Okay, so it's 41, but does anyone use this study model?
+
+394
+00:45:52,980 --> 00:45:58,080
+Just. Okay. My conscience and in the census, like, just.
+
+395
+00:45:58,700 --> 00:46:01,870
+Yeah, I think it's just kind of explaining the person, you know.
+
+396
+00:46:02,480 --> 00:46:05,200
+Yeah. Yeah, exactly. Yeah.
+
+397
+00:46:05,210 --> 00:46:11,870
+No, that one, when you kind of get to the end from where you start to do the hand stimulations in here and there's like no bleeds through and,
+
+398
+00:46:12,340 --> 00:46:19,300
+you know, like we also claim to have, um. I mean, as far as, you know, another great thing you actually got there on that motor.
+
+399
+00:46:20,910 --> 00:46:29,490
+This idea that if you see something in simulation, because also maybe you'll see, you know, the unconscious process and then there's a lot of them.
+
+400
+00:46:29,640 --> 00:46:34,680
+Yeah, yeah. That's weird. So that's weird.
+
+401
+00:46:35,130 --> 00:46:41,880
+Yeah, I don't know. I'm still trying to visualize what the subconscious task, since that you're doing it ten times.
+
+402
+00:46:42,450 --> 00:46:45,660
+It might be replicated into it.
+
+403
+00:46:46,050 --> 00:46:52,709
+Yeah. So you're doing some doing, like estimating the workings of a replicates within a single instance.
+
+404
+00:46:52,710 --> 00:46:59,790
+So it's a lot. Yeah. So I'm going to click next.
+
+405
+00:47:00,180 --> 00:47:06,899
+Okay. So this is for the actual task which at least it's not always reads and sounds like it's
+
+406
+00:47:06,900 --> 00:47:12,990
+your inching like a nucleation on a point that maybe we're looking to over a century.
+
+407
+00:47:12,990 --> 00:47:16,680
+So, um, if you're doing something you're trying to like, you got to for having.
+
+408
+00:47:16,680 --> 00:47:20,100
+Right? Yeah. You can just pick it up, put it down and use it.
+
+409
+00:47:20,370 --> 00:47:27,270
+Yeah. So, um, it's it's increasing the pitch for whatever upward movement you're giving.
+
+410
+00:47:28,260 --> 00:47:32,460
+And then I see. Yeah. Yeah. So it's like a dot here on the screen there.
+
+411
+00:47:32,640 --> 00:47:38,850
+And then on that layer transit factor, you see the controller uses after your hands in memory.
+
+412
+00:47:39,540 --> 00:47:42,990
+They're like tracking how well you can remember what it is.
+
+413
+00:47:43,620 --> 00:47:50,639
+And then uh yeah. When they say go they're seeing how fast it's hey, I figured you in the end essentially.
+
+414
+00:47:50,640 --> 00:47:58,740
+So and that would be auditory. And then, you know, here's where I get it anyways.
+
+415
+00:47:59,700 --> 00:48:02,729
+And what's the specific difference? Yeah. He's actually. Yes.
+
+416
+00:48:02,730 --> 00:48:08,700
+For me too. So, um, so the way that these visuals and the color of the light actually.
+
+417
+00:48:09,060 --> 00:48:13,380
+Yeah. Yeah. So you don't see a difference between different groups in auditory.
+
+418
+00:48:13,680 --> 00:48:21,360
+You first and then. Yeah, right. So I think just I also like to see and it's all about that figure.
+
+419
+00:48:21,780 --> 00:48:26,910
+And it's a somewhat nice representation of learning over time.
+
+420
+00:48:27,660 --> 00:48:32,640
+Like your performance could improve but ideally it looks something like that.
+
+421
+00:48:36,700 --> 00:48:38,770
+I think that I can actually say this.
+
+422
+00:48:39,580 --> 00:48:48,520
+These are all the figures because I found myself increasing and then, um, hitting some plateau when you actually see the,
+
+423
+00:48:48,520 --> 00:48:54,700
+um, uh, the curve or like this critical period where you're actually learning from the task more effectively.
+
+424
+00:48:54,790 --> 00:49:00,880
+It was used exclusively in metric terms and was started back in 11 minutes.
+
+425
+00:49:01,240 --> 00:49:04,240
+I think it was like 31.
+
+426
+00:49:04,270 --> 00:49:07,870
+It was interesting. 99. Yeah, it was interesting. That was something I did know.
+
+427
+00:49:07,870 --> 00:49:12,459
+Some people might say 16 healthy, right handed subjects.
+
+428
+00:49:12,460 --> 00:49:15,730
+18 year olds. Yeah. Um, so it's just like isolated.
+
+429
+00:49:15,820 --> 00:49:19,120
+Yeah. Which is a little bit strange if I did, you know, I just, um.
+
+430
+00:49:19,570 --> 00:49:23,860
+I don't think the linear model was. Cut down.
+
+431
+00:49:23,920 --> 00:49:27,400
+We worked out. And it's really funny.
+
+432
+00:49:28,790 --> 00:49:34,769
+I think. A was a name that no one is actually showing.
+
+433
+00:49:34,770 --> 00:49:41,250
+That is stupid. Maybe it was this person because he's doing something else.
+
+434
+00:49:41,700 --> 00:49:48,820
+It's like asking the patient. It was significantly decreased after the water.
+
+435
+00:49:49,040 --> 00:49:53,970
+It's not. It's the only.
+
+436
+00:49:57,020 --> 00:50:00,470
+Christine? Yeah. Do you remember what I said?
+
+437
+00:50:01,310 --> 00:50:09,360
+You. That's another issue.
+
+438
+00:50:09,460 --> 00:50:16,090
+That's another issue. It's not another. As we mentioned earlier, you know, I think.
+
+439
+00:50:16,870 --> 00:50:24,170
+I think, yes. Six 816 healthy females, eight, eight females, 21 to 25.
+
+440
+00:50:24,190 --> 00:50:29,140
+And then it says later separate cohorts in 15 2150.
+
+441
+00:50:29,470 --> 00:50:33,170
+Right. So, yeah. They don't seem to remember you.
+
+442
+00:50:33,530 --> 00:50:36,840
+Yeah. They just say in the 58 emails.
+
+443
+00:50:36,860 --> 00:50:43,460
+20 of the 32. Yes, I see it, but they don't specify the gender or age of the other half.
+
+444
+00:50:43,910 --> 00:50:47,750
+Oh yeah. So we can also be, you know, women outside that.
+
+445
+00:50:48,080 --> 00:50:51,460
+Well there you know, so these guys. Yeah. Big picture.
+
+446
+00:50:52,340 --> 00:50:55,879
+32 years of age. Yeah.
+
+447
+00:50:55,880 --> 00:50:59,680
+It's it's weird. You feel like you can share in your crazy time.
+
+448
+00:51:00,460 --> 00:51:04,190
+And do you want to just talk about it or maybe give it a finger out there?
+
+449
+00:51:08,560 --> 00:51:25,100
+Yeah. Let me know if you want me to. Oh, yeah. Thank you. Great.
+
+450
+00:51:25,290 --> 00:51:32,030
+Group two. How's it going? So I think we all got the better people.
+
+451
+00:51:33,230 --> 00:51:42,610
+But I think, as you'll hear, that's got a lot of people with because number one I was like, yeah, although number two is longer.
+
+452
+00:51:43,620 --> 00:51:46,970
+I've got a lot to I was like, after my right.
+
+453
+00:51:47,480 --> 00:51:50,930
+Um, yeah. Just to get a 3D reconstruction.
+
+454
+00:51:51,110 --> 00:51:59,410
+So for instance, um, how overall sentiment, how do you feel about and the fact that they can even say something, you know, okay.
+
+455
+00:51:59,420 --> 00:52:05,080
+Yeah. And they say that it's, you know, the way it was.
+
+456
+00:52:07,040 --> 00:52:10,910
+But yeah, I would say that. Yeah.
+
+457
+00:52:11,180 --> 00:52:17,630
+Does anyone else feel. Yeah. That's less lesson that all these figures really helped.
+
+458
+00:52:17,750 --> 00:52:27,580
+Mhm. Tell it's. Yeah, I agree, and especially when comparing to like interesting figures in this paper, I think we're significantly better in more.
+
+459
+00:52:27,600 --> 00:52:31,980
+Yeah. So just here, um, um, agreed that the standard I think I yeah.
+
+460
+00:52:32,160 --> 00:52:40,220
+Talking about neuroscience. Especially, I think in this like motor behavior, field accidents just kind of explode.
+
+461
+00:52:40,700 --> 00:52:45,070
+Especially we're talking about different cortical areas. Yeah.
+
+462
+00:52:45,080 --> 00:52:51,560
+It's and this especially when talking about like visual tasks feel like all the different layers within the visual cortex.
+
+463
+00:52:52,940 --> 00:52:56,180
+I'm sorry. Um, okay. So, um.
+
+464
+00:52:56,270 --> 00:53:00,200
+I mean, I mean, picture how to view all the main point of the paper.
+
+465
+00:53:00,500 --> 00:53:10,030
+We'll see about that. All right, you can go.
+
+466
+00:53:10,600 --> 00:53:16,300
+You had a point. Uh, do you mind? Uh, so experiment one was.
+
+467
+00:53:18,460 --> 00:53:21,880
+Uh, it's very fruit. Like the gold command.
+
+468
+00:53:22,060 --> 00:53:25,270
+Yeah. Yeah. It's auditory and experiments.
+
+469
+00:53:25,270 --> 00:53:28,410
+One was visual. Yes. Yeah.
+
+470
+00:53:28,620 --> 00:53:32,620
+You think it's a visual? It's very confusing behavior as well.
+
+471
+00:53:34,710 --> 00:53:40,480
+And then. They talked about delayed jitters.
+
+472
+00:53:40,900 --> 00:53:44,690
+So like, does that mean just like a six and 12, like randomly?
+
+473
+00:53:44,740 --> 00:53:48,010
+Okay. Yeah. Yeah, exactly. Yeah.
+
+474
+00:53:48,040 --> 00:53:53,220
+Does anyone feel like they understand the task and could explain it like that?
+
+475
+00:53:53,250 --> 00:53:56,470
+Even the first task. I just wrote what I like. One is a b.
+
+476
+00:53:57,560 --> 00:54:01,310
+Yeah, I know that. I mean, that's the way it.
+
+477
+00:54:01,320 --> 00:54:05,620
+Yeah. Promiscuously. Uh, yeah.
+
+478
+00:54:05,680 --> 00:54:12,159
+So. So, like, you're just sitting. You have to guess, uh, you have two words correlating to the left hand.
+
+479
+00:54:12,160 --> 00:54:17,800
+Right hand. Yeah. Uh, so, uh, I'm assuming the place is dark, like, is it dark?
+
+480
+00:54:17,830 --> 00:54:21,370
+And. No, because I can't tell. I like one. Great, because I do.
+
+481
+00:54:22,540 --> 00:54:27,780
+I forget if it's that task they have, uh, like, visual stimuli means that they individuals kind of stare.
+
+482
+00:54:27,800 --> 00:54:33,160
+And that's just it. They describe it as a delayed object lift and replace tasks.
+
+483
+00:54:33,160 --> 00:54:36,610
+Yes, yes. Crystal clear. Yes. Exactly what they're asking. Yeah.
+
+484
+00:54:37,120 --> 00:54:41,590
+I mean that's a lot of these behavior tasks are really wonky and really something made.
+
+485
+00:54:42,160 --> 00:54:47,310
+And I think they're not even here. It's just the way that, you know, your phrase put it back.
+
+486
+00:54:47,620 --> 00:54:57,009
+Right. Exactly. Yeah. And yeah. But I can see how like being a research participant in those studies and being given these instructions,
+
+487
+00:54:57,010 --> 00:54:59,390
+which are just like, what do you think, right.
+
+488
+00:55:00,040 --> 00:55:08,949
+That they also talked about how like the errors, like some of them were like, you know, they didn't follow the instructions and stuff like that.
+
+489
+00:55:08,950 --> 00:55:17,559
+So yeah, but next time I think it might be in the of man and maybe I don't think they added the actual instructions.
+
+490
+00:55:17,560 --> 00:55:23,020
+Yeah, I haven't seen them, but I, I assume often they're in the supplement.
+
+491
+00:55:23,020 --> 00:55:28,560
+Like it would be like buried somewhere deep in my. Um, yeah.
+
+492
+00:55:28,590 --> 00:55:31,710
+Okay, so it's a good description of the task. What?
+
+493
+00:55:31,720 --> 00:55:37,710
+Do you know why? I guess you've been given the main goal of the paper.
+
+494
+00:55:37,720 --> 00:55:46,820
+Why? They kind of set it up that way. Which is, um, repeating what you were saying is that someone sitting there kind of have their hands ready.
+
+495
+00:55:47,180 --> 00:55:51,320
+They listen for an obvious word here. Tell them which hand to use.
+
+496
+00:55:51,830 --> 00:55:55,670
+But then I think there's it's very good the first auditory cue. And then you have to go.
+
+497
+00:55:56,300 --> 00:56:03,110
+So the first auditory cue says okay, sometimes within these 10s you're going to have to pick this thing up and put it back down.
+
+498
+00:56:03,800 --> 00:56:08,900
+Uh, and then the second cue actually triggers you to do the behavior action.
+
+499
+00:56:09,780 --> 00:56:15,690
+Um, why? Based on like the main question why you think it's somewhat.
+
+500
+00:56:17,200 --> 00:56:23,110
+To sort of see, um, how you're processing auditory information and then converting it into a more action.
+
+501
+00:56:24,100 --> 00:56:33,750
+Yeah, essentially it's like it's prime. And they're interested in what regions of the brain become active before this motor test.
+
+502
+00:56:33,760 --> 00:56:36,880
+So um, so basically saying like now.
+
+503
+00:56:38,120 --> 00:56:41,120
+It isn't just about movement. It's also about like sensory and.
+
+504
+00:56:42,940 --> 00:56:53,320
+Yeah, exactly. Exactly. And they actually take it a step further and say that, or at least this was part of my interpretation, said reconfigure.
+
+505
+00:56:53,350 --> 00:56:56,860
+Do you remember the two regions they were looking at for the cortex?
+
+506
+00:57:01,910 --> 00:57:05,230
+It's a nice thing. Yeah, yeah. Or you can just.
+
+507
+00:57:05,690 --> 00:57:09,590
+That's what you said. Yeah. That's one and one.
+
+508
+00:57:10,010 --> 00:57:13,639
+And we briefly we know very, very fast. One is like integrating.
+
+509
+00:57:13,640 --> 00:57:21,410
+Is it part of the parietal lobe integrating sensory information since information to M1.
+
+510
+00:57:22,010 --> 00:57:28,910
+Right. So they're looking if um simply by hearing with the auditory command.
+
+511
+00:57:29,240 --> 00:57:34,310
+If you start to see activity it might. Um, that's one in the morning.
+
+512
+00:57:34,430 --> 00:57:41,840
+Almost. Sounds like I'm home. I'm ready to go. I'm ready. You're. You're already starting to prime your neurons for activity.
+
+513
+00:57:42,540 --> 00:57:45,870
+And that's. Yeah, I think I probably talk too much there.
+
+514
+00:57:47,050 --> 00:57:52,470
+That's kind of how we. Um, house, like, uh, like halfway through.
+
+515
+00:57:52,470 --> 00:57:57,330
+Be like, switch the words. Yeah. So like, was that like.
+
+516
+00:57:59,220 --> 00:58:04,370
+What were they looking for? Like? Like how they're repeated ness or like how you overwrite.
+
+517
+00:58:04,860 --> 00:58:10,350
+Like you're remembering new information and like, how is that significant?
+
+518
+00:58:11,640 --> 00:58:15,930
+Does anyone have an explanation? Because you could change it.
+
+519
+00:58:17,610 --> 00:58:20,669
+Right. Like a symphony.
+
+520
+00:58:20,670 --> 00:58:24,950
+Similarly, I interpret it as a control. I control for them to the for me.
+
+521
+00:58:25,470 --> 00:58:32,340
+Um, they were both nonsensical, but I mean, you have to kind of control for these things to see if there is a bias.
+
+522
+00:58:33,390 --> 00:58:38,250
+Even between those weird words, that would be my interpretation.
+
+523
+00:58:39,480 --> 00:58:48,030
+Let's see here. Bit. Yeah. Yeah. So if you didn't feel like using the auditorium, then I know they're looking at the different like center systems,
+
+524
+00:58:48,300 --> 00:58:55,410
+but also seem to be not essential for each other, but something to isolate what's happening in motor cortex regardless.
+
+525
+00:58:56,040 --> 00:58:59,540
+Simulations of how all of that action is being.
+
+526
+00:59:01,300 --> 00:59:04,330
+Yeah. Yeah, exactly. All right.
+
+527
+00:59:04,330 --> 00:59:08,910
+Cool. That's great. Hopefully pretty soon some.
+
+528
+00:59:08,920 --> 00:59:15,820
+Yeah. You'll feel like you're content in a quick few minute explanation or any other questions.
+
+529
+00:59:18,800 --> 00:59:22,620
+They were all like, told to sit with the help head told positions.
+
+530
+00:59:22,950 --> 00:59:26,330
+Yeah. Does that mean, like, just don't look down life with it?
+
+531
+00:59:26,390 --> 00:59:33,500
+Like I said, my my assumption for that is that because of maybe taking off from our eyes scans as well.
+
+532
+00:59:34,010 --> 00:59:35,900
+So these are big structures.
+
+533
+00:59:36,650 --> 00:59:43,340
+They have to have their head in a very specific location, but then they also want them to see what other visual cues would be of the ground stuff.
+
+534
+00:59:43,880 --> 00:59:48,330
+So I'm assuming weird jargon for probably kind of looking straight.
+
+535
+00:59:50,090 --> 00:59:55,460
+But you're getting to the main point of like these all the jargon and confusing descriptions of these studies.
+
+536
+00:59:58,090 --> 01:00:03,670
+All right. Cool. I know it seems like. Yeah, both groups had really good graphs and things.
+
+537
+01:00:04,060 --> 01:00:07,960
+I'm sorry. Group one like that. Y'all did get the wonky paper.
+
+538
+01:00:08,290 --> 01:00:11,310
+Um, but interesting in some way. Okay.
+
+539
+01:00:11,320 --> 01:00:14,590
+Does anyone want to volunteer to. Really? Yeah.
+
+540
+01:00:14,650 --> 01:00:27,370
+Kind of brief overview, um, explaining your paper to the the other group in a concise way, and I'm quoting someone from, uh.
+
+541
+01:00:27,730 --> 01:00:32,830
+From whom? I can give them.
+
+542
+01:00:34,020 --> 01:00:46,840
+Yeah, yeah. Well, again, basically like the overview of the study was looking at, um.
+
+543
+01:00:49,090 --> 01:00:53,280
+Motor planning. So what happens? Um.
+
+544
+01:00:53,850 --> 01:00:57,010
+What the. Before, you know.
+
+545
+01:00:59,720 --> 01:01:06,180
+Um, and so there were just tests done because it has to do with the placement.
+
+546
+01:01:07,410 --> 01:01:12,510
+Auditory and visual stimuli. Um and there's and receive the stimuli.
+
+547
+01:01:12,900 --> 01:01:19,650
+There's a delay in the extraction and all the while they're taking off MRI scans.
+
+548
+01:01:20,280 --> 01:01:28,260
+And so there's actually this really interesting, um, see here visuals that helps, um, circuits and everything.
+
+549
+01:01:28,890 --> 01:01:33,240
+Um. But, um.
+
+550
+01:01:35,240 --> 01:01:41,549
+So part of the discussion is often about, um, looking at these two regions.
+
+551
+01:01:41,550 --> 01:01:48,980
+That's one and one and what control they're exerting over the action.
+
+552
+01:01:48,980 --> 01:01:57,379
+And then how are they, um, encoding them for the action into space, such as space?
+
+553
+01:01:57,380 --> 01:02:02,210
+Um, simulation. In the anticipation of. Um.
+
+554
+01:02:10,750 --> 01:02:14,250
+Mhm. Yeah.
+
+555
+01:02:14,580 --> 01:02:20,640
+Yeah that's great. Um yeah. Any questions from Tim too about the study.
+
+556
+01:02:21,390 --> 01:02:29,730
+Yeah. And then as you explained the great again highlighting when the connections to what we've been talking about is again they
+
+557
+01:02:29,730 --> 01:02:39,299
+were looking at uh S1 within the somatosensory cortex and how that's integrating sensory information or even priming itself,
+
+558
+01:02:39,300 --> 01:02:44,880
+planning to perform some motor action which will then send information to M1.
+
+559
+01:02:45,220 --> 01:02:54,480
+Right. So the order of operations you'd expect is as one becomes excited that since information to M1 leading to motor output,
+
+560
+01:02:54,720 --> 01:03:02,540
+but they're trying to look to see how early what's the intensity, do we see even some M1 activity before S1.
+
+561
+01:03:02,670 --> 01:03:05,850
+Right. But yeah, great explanation. Thanks.
+
+562
+01:03:06,630 --> 01:03:11,840
+Uh all right. Group two. Um.
+
+563
+01:03:12,650 --> 01:03:19,520
+So basically you. Another form of repetitive senescence for some reason.
+
+564
+01:03:19,770 --> 01:03:28,429
+Uh, it basically involves putting your hand in water, but flowing water, uh, rather than just submerging your hand in water.
+
+565
+01:03:28,430 --> 01:03:32,390
+So the whole thing is now water flow. This is simulation.
+
+566
+01:03:32,610 --> 01:03:40,280
+Um, and based on previous literature and stuff, they theorized that, uh, the whole water flow thing would be to,
+
+567
+01:03:40,280 --> 01:03:46,220
+um, disintegration of the rendering cortex, which could then enhance motor memory retention.
+
+568
+01:03:46,700 --> 01:03:55,640
+So they did of experiments with um, uh, control group and, uh, full hand water immersion and also the water flow.
+
+569
+01:03:56,120 --> 01:04:01,760
+Um, they would do stimulation for an amount of time, and then they would do a motor learning task,
+
+570
+01:04:02,030 --> 01:04:12,230
+which from what I understand is you press down things just so a little dot on the screen and match it to a curve.
+
+571
+01:04:12,890 --> 01:04:20,540
+Um, and they tested them over several intervals, and then they tested the next day also to try and see if they improve them or learned at all.
+
+572
+01:04:21,050 --> 01:04:24,740
+Um, and they found no difference in the experimental data.
+
+573
+01:04:24,740 --> 01:04:38,450
+So, um, basically it shows that, uh, S1 uh, um, it's amount of sensory cortex is probably more involved than the motor cortex in this pathway.
+
+574
+01:04:41,050 --> 01:04:48,580
+Yeah. That's great. Um, also, yeah, kudos because it is a no result as well.
+
+575
+01:04:48,910 --> 01:04:53,420
+Um, also a very, you know, both had kind of weird behavior tasks.
+
+576
+01:04:53,450 --> 01:04:58,360
+I think this one, right. With the pinching I guess it, I think it was explained in a confusing way.
+
+577
+01:04:58,540 --> 01:05:02,610
+But you did a great job of explaining. Um, yeah.
+
+578
+01:05:02,620 --> 01:05:08,890
+I feel like you hit all the main endpoints. Any questions from group one to group two?
+
+579
+01:05:12,110 --> 01:05:16,490
+No. All right. Um, yeah, I think we're just on time.
+
+580
+01:05:16,520 --> 01:05:20,419
+Yeah. Thanks for engaging that. I yeah. Had a good time and and learn.
+
+581
+01:05:20,420 --> 01:05:24,860
+So hopefully you all do too. Cool. All right. See you all here on Thursday.
+
+582
+01:05:24,890 --> 01:05:28,370
+Yeah. I did my own thing. Yeah.
+
+583
+01:05:30,110 --> 01:05:35,000
+So. This is all we're supposed to do.
+
+584
+01:05:35,870 --> 01:05:42,440
+So, like, we're all here. We all get it. I've been thinking about this stuff for for eight months, and so I can just write this.
+
+585
+01:05:43,400 --> 01:05:49,130
+I'm sorry. I don't have that. Yeah. And, uh, I don't actually know.
+
+586
+01:05:49,480 --> 01:05:54,230
+Yeah, I don't I don't understand that.
+
+587
+01:05:55,340 --> 01:05:57,740
+Oh, great. Yeah. We're trying to get in the right.
+
+588
+01:05:57,920 --> 01:06:06,145
+Okay, so the main thing is getting here, which is, um, essentially you're getting x, y coordinates for every fly across all the frames.
+
