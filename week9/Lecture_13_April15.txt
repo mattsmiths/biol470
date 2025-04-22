@@ -1,0 +1,1997 @@
+1
+00:00:32,490 --> 00:00:36,800
+[Auto-generated transcript. Edits may have been applied for clarity.]
+And of course, difficulties. Mhm.
+
+2
+00:00:38,660 --> 00:01:21,260
+And that might be sound. Okay.
+
+3
+00:01:22,330 --> 00:01:25,500
+I think it's working. Okay. Cool.
+
+4
+00:01:26,100 --> 00:01:29,640
+Yeah. So as outline. So we'll do a few updates.
+
+5
+00:01:30,210 --> 00:01:34,710
+Uh this is reverse. So we'll do paper discussion. Uh, a few follow up slides.
+
+6
+00:01:34,710 --> 00:01:38,730
+And then we'll get into some details for the final project. Um, yeah.
+
+7
+00:01:38,730 --> 00:01:42,120
+As mentioned we are moving quickly. Uh, yeah.
+
+8
+00:01:42,120 --> 00:01:46,350
+So with three more weeks, including this week. Um, yeah.
+
+9
+00:01:46,380 --> 00:01:49,920
+And then, yeah, we'll have the flexibility for Thursday.
+
+10
+00:01:50,160 --> 00:01:54,510
+If people want to be in the classroom, I'll probably be bopping back and forth if needed.
+
+11
+00:01:54,870 --> 00:01:59,220
+Um, but again, we'll have multiple spaces open. Um, yeah.
+
+12
+00:01:59,370 --> 00:02:09,240
+And then reminder, I'll get into more detail while why this is still relevant, but yeah, the final, um, May 7th from 2 to 4 in this room.
+
+13
+00:02:09,810 --> 00:02:18,330
+Um, and this is still optional to attend, but I'll go into more details how we can potentially use that time, uh, for the final project.
+
+14
+00:02:19,470 --> 00:02:24,570
+Cool. Yeah. So I also want to do some assessments that are left for the term.
+
+15
+00:02:24,570 --> 00:02:28,440
+So we've done so much. Um, what is left?
+
+16
+00:02:28,440 --> 00:02:32,160
+So one, if you have any missing assignments, do turn them in.
+
+17
+00:02:32,520 --> 00:02:38,340
+Um, yeah. If I haven't, uh, some of you I've spoken to explicitly and, uh,
+
+18
+00:02:38,520 --> 00:02:43,200
+I understand why things are late, but if they're not, certainly you can still get your credit.
+
+19
+00:02:43,650 --> 00:02:49,469
+Um, and if I have mentioned in the past, I'm sure, uh, any other conditions.
+
+20
+00:02:49,470 --> 00:02:52,830
+Right. That can be full credit. Um, really?
+
+21
+00:02:52,830 --> 00:02:56,340
+It's just. Yeah. Make sure that anything that's missing is turned individually.
+
+22
+00:02:57,600 --> 00:03:02,850
+Um. All right, so tonight we have write ups for activities nine through 11.
+
+23
+00:03:03,990 --> 00:03:11,310
+Um, we have our canvas discussion. So today and then we'll probably do one for the next couple weeks as well.
+
+24
+00:03:11,730 --> 00:03:17,280
+So you'll be able to get some points there. And then of course the last thing will be about final project, uh,
+
+25
+00:03:17,280 --> 00:03:22,050
+which is that 30% of your grade, which will break up into 15% for your presentation.
+
+26
+00:03:22,410 --> 00:03:25,830
+15% for your writing. Cool.
+
+27
+00:03:25,860 --> 00:03:29,549
+And then a little bit. So reminder.
+
+28
+00:03:29,550 --> 00:03:33,750
+Yeah. Activities nine through 11. Again I went over this last Tuesday.
+
+29
+00:03:34,230 --> 00:03:40,020
+Um, but you know, the big thing for activity nine was talking about, uh, speech patterns and sleep.
+
+30
+00:03:40,440 --> 00:03:49,290
+We have that, um, the transcripts from lectures and trying to make a hypotheses as to our hypothesis as to how,
+
+31
+00:03:49,290 --> 00:03:53,489
+uh, language speech patterns may change where the underlying neural,
+
+32
+00:03:53,490 --> 00:04:03,480
+um, concepts that are influencing how communication can start to change, um, or not change, uh, uh, with more or less sleep.
+
+33
+00:04:04,710 --> 00:04:07,740
+Uh, then 1011, we're working with the EEG.
+
+34
+00:04:07,740 --> 00:04:16,920
+So ten is just what is what was your initial hypothesis for, um, and your experimental design for your, uh, using your EEG.
+
+35
+00:04:16,950 --> 00:04:23,549
+So, again, a lot of, um, understanding how the, uh, prefrontal cortex responds to sounds,
+
+36
+00:04:23,550 --> 00:04:26,910
+or it could be novel sounds or sounds that are evoking memories.
+
+37
+00:04:27,330 --> 00:04:30,810
+Uh, so again, what's your hypothesis? What do you expect to see?
+
+38
+00:04:31,200 --> 00:04:34,500
+Um, and then 11 is just interpreting that data.
+
+39
+00:04:34,650 --> 00:04:45,090
+So generating two figures using the Colab. Um, and then is this support or is it inconclusive or not support your initial hypothesis.
+
+40
+00:04:47,750 --> 00:04:51,120
+Cool. All right. So we'll get to the discussion for today.
+
+41
+00:04:51,140 --> 00:04:54,590
+I thought these were two really cool papers.
+
+42
+00:04:55,040 --> 00:05:00,510
+Um, so the first one. Um, yeah, it was breaking.
+
+43
+00:05:01,080 --> 00:05:09,000
+Breaking news. Um, from actually, a friend forwarded me this from the New York Times and, um, looking at.
+
+44
+00:05:09,000 --> 00:05:15,840
+Yeah, well, I guess I won't. We'll talk about it. So, uh, I'll let you chat with your neighbors about.
+
+45
+00:05:16,230 --> 00:05:19,970
+So in ideally, we've read both of these.
+
+46
+00:05:19,980 --> 00:05:23,160
+The first one was pretty short, or at least maybe skim the second one.
+
+47
+00:05:23,370 --> 00:05:26,430
+I know sometimes I do pick one or the other.
+
+48
+00:05:26,880 --> 00:05:29,610
+Um, if you only read one, that's that's okay.
+
+49
+00:05:30,210 --> 00:05:35,160
+Uh, but, yeah, chat with your neighbor, and then we'll come back together in a little bit and we'll we'll start to discuss.
+
+50
+00:05:43,100 --> 00:05:46,310
+This. Like the wire chargers, they say.
+
+51
+00:05:47,050 --> 00:05:55,550
+No, I. Think it's talent.
+
+52
+00:05:55,850 --> 00:05:58,860
+Yeah. It's it's such a subconscious effect but just completely.
+
+53
+00:06:02,040 --> 00:06:07,760
+It was interesting to see. It's easy to say it's great.
+
+54
+00:06:08,520 --> 00:06:14,020
+That's why you like somebody else? Yeah. It's expanding and all the other.
+
+55
+00:06:14,750 --> 00:06:20,720
+It's not. This is all the brain has been. You know, it was surface area that it's all in.
+
+56
+00:06:20,740 --> 00:06:26,200
+All the computers, all of them. All of the ranges. So even small increases in size.
+
+57
+00:06:29,020 --> 00:06:32,920
+Like, you know, so it's it's really increasing.
+
+58
+00:06:33,820 --> 00:06:42,760
+So, you know, even something I guess really talk about how it happens, like your brain goes.
+
+59
+00:06:44,880 --> 00:06:48,020
+I think differently, but, like, you know that.
+
+60
+00:06:50,100 --> 00:07:08,430
+You got? Well, yeah, I know there's research like university, you said.
+
+61
+00:07:10,630 --> 00:07:16,360
+When I came back, I'm like, how do you like.
+
+62
+00:07:16,580 --> 00:07:21,370
+How are you? It's just crazy. Yeah.
+
+63
+00:07:21,370 --> 00:07:25,870
+Most likely. It was probably a collaborative effort across multiple levels where.
+
+64
+00:07:28,790 --> 00:07:34,570
+It was very clear. Because.
+
+65
+00:07:38,830 --> 00:07:43,250
+I think, you know, um, because, I mean, that's the one that I did, actually.
+
+66
+00:07:43,980 --> 00:07:47,280
+So, yeah, because you did just do, like, function. Yeah.
+
+67
+00:07:47,380 --> 00:07:50,760
+Uh, okay. So I was, uh, I was looking at Google.
+
+68
+00:07:50,780 --> 00:07:59,620
+Yeah. That's right. Um, but uh, or also like, working, uh, on further conversations, uh, but, uh,
+
+69
+00:07:59,890 --> 00:08:05,750
+mental components out there that I did not know what was in my brain structure.
+
+70
+00:08:05,750 --> 00:08:10,210
+Take care of the handicap and especially most of the spaces.
+
+71
+00:08:10,510 --> 00:08:13,710
+He was very, very generous from people around that.
+
+72
+00:08:16,050 --> 00:08:25,300
+Yeah, yeah. I would also, uh, just like something that's very kind of.
+
+73
+00:08:28,300 --> 00:08:37,540
+You know, very necessary. Yeah. Because if you look at the games organization, what do you do?
+
+74
+00:08:37,870 --> 00:08:41,160
+Uh, what do you. Guys.
+
+75
+00:08:43,310 --> 00:08:48,430
+Do these things? Yeah. Um.
+
+76
+00:08:52,360 --> 00:09:00,890
+Yeah. So it's on paper, but it's not the first place where you're to keep trying something new.
+
+77
+00:09:01,700 --> 00:09:05,550
+Yeah. So he's constantly trying to like popular culture that it is.
+
+78
+00:09:05,920 --> 00:09:09,400
+And it's just an interesting way to screw it up.
+
+79
+00:09:11,120 --> 00:09:19,230
+So, you know, like, it's like Instagram. And so let's go find something like this.
+
+80
+00:09:19,600 --> 00:09:27,740
+So I've seen I've seen. They just you know it's just it's it's never been done.
+
+81
+00:09:28,530 --> 00:09:34,330
+So yeah with those kinds of things interacting from what I read online, they're always very dramatic, something interesting.
+
+82
+00:09:34,690 --> 00:09:40,810
+And what makes a bunch of noise in front of them. But yeah, as long as, you know, you know, blood is being drawn.
+
+83
+00:09:41,960 --> 00:09:49,230
+Know what should one that's. But I also say that so much data.
+
+84
+00:09:49,450 --> 00:09:57,420
+I don't let them interact with the same number. Yeah. Yeah. I think every time, because there's a tendency to go overboard in that.
+
+85
+00:09:57,930 --> 00:10:03,570
+And she's obviously I, she's maybe we're not talking about the size of this.
+
+86
+00:10:05,140 --> 00:10:12,720
+Uh, yeah. But there is important issue that we're very understanding that in the New York Times.
+
+87
+00:10:12,900 --> 00:10:23,850
+She gets happy. Yeah. Yeah. She says me, it's so exciting for us as well.
+
+88
+00:10:27,670 --> 00:10:32,320
+Yeah. All right. I'm taking her to the vet tomorrow. She got to stay right, right over here.
+
+89
+00:10:33,030 --> 00:10:38,049
+And I'm worried that, like the area. I'm not sure, but.
+
+90
+00:10:38,050 --> 00:10:42,400
+Okay. Well, right over here. All of this.
+
+91
+00:10:42,560 --> 00:10:45,730
+Yeah. Okay. That's the second one. This was only a few days ago.
+
+92
+00:10:46,000 --> 00:10:53,830
+Yeah, I went to school at some point. Taken in. I know it's kind of like complex to use and, like, diagrams and math.
+
+93
+00:10:53,860 --> 00:11:00,430
+I have some slides. It wasn't. Yeah, I actually might have stolen that.
+
+94
+00:11:01,060 --> 00:11:04,360
+Oh, my God tells me you're very sober.
+
+95
+00:11:04,490 --> 00:11:10,240
+Yeah, yeah. Um, I think she has a space, and I am kind of very firm.
+
+96
+00:11:10,340 --> 00:11:14,950
+Yeah. Generally it was better to have underlying for psychedelic research,
+
+97
+00:11:15,880 --> 00:11:21,580
+especially with the like single hyper while we are still in the area where when we first noticed.
+
+98
+00:11:22,560 --> 00:11:27,690
+I've been with you. One of these. Oh, he was around. He was not happy that you were like this.
+
+99
+00:11:28,170 --> 00:11:32,400
+Well, no. I had your career. Yeah, and he knew me. Yeah, because of the sand.
+
+100
+00:11:33,120 --> 00:11:36,870
+All right. I think we'll come back. I heard people finish up.
+
+101
+00:11:38,070 --> 00:11:43,730
+Um, yeah. Does anyone want to share thoughts or what they've talked about with the groups?
+
+102
+00:11:44,430 --> 00:11:51,860
+But it could be either article. Um, we read the first article.
+
+103
+00:11:52,010 --> 00:11:56,930
+Mhm. We were basically talking about just like interesting stuff that was coming from the article.
+
+104
+00:11:57,280 --> 00:12:04,070
+So yeah. Um, so I thought it was pretty cool because I think there's so much discussion too about like.
+
+105
+00:12:06,350 --> 00:12:09,650
+Like, imagine I want to play in the sand or something, right?
+
+106
+00:12:09,680 --> 00:12:16,520
+I'm basically saying like, the narrow line would be like nine kilometers, right?
+
+107
+00:12:17,550 --> 00:12:21,810
+Right? I was like, dang, that's pretty cool. Yeah, so I thought that was interesting.
+
+108
+00:12:22,440 --> 00:12:27,170
+Um, he had made some points about like, how they sliced, um.
+
+109
+00:12:29,190 --> 00:12:33,649
+The brain to like when he was 28,000, like different slices and stuff.
+
+110
+00:12:33,650 --> 00:12:37,290
+So we were talking about like money. Yeah. Like the funding for that. And just like.
+
+111
+00:12:38,680 --> 00:12:45,340
+Like interesting things that you read from the article. Yeah, yeah, those are all, I think, great points and highlight.
+
+112
+00:12:45,640 --> 00:12:48,850
+I think what I really liked about this article. It was interesting. Yeah.
+
+113
+00:12:48,880 --> 00:12:58,560
+Does anyone have any any follow up from that and kind of breaking that, that it seemed like you liked the pop science or the using analogies?
+
+114
+00:12:58,660 --> 00:13:03,310
+Yeah. To help, uh, conceptualize really complex ideas.
+
+115
+00:13:03,730 --> 00:13:09,730
+Uh, and then they packed in a lot of really good detail about how do we do all this work and.
+
+116
+00:13:10,260 --> 00:13:13,810
+Yeah, yeah, I like this. That's the thing as well.
+
+117
+00:13:14,110 --> 00:13:24,090
+Yeah. Like, one thing that I saw was, um, like, from the brain tissue that they extracted, they got over 200,000 cells.
+
+118
+00:13:24,190 --> 00:13:27,740
+Yeah. And with 523 million connections.
+
+119
+00:13:27,760 --> 00:13:31,370
+Yeah. That's right. That's crazy. And like one.
+
+120
+00:13:35,500 --> 00:13:37,180
+Yeah, to make sure. Yep. Yep.
+
+121
+00:13:37,220 --> 00:13:43,840
+So I was like, you know, like that much data could be stored in just like the small amount of tissue that they extracted.
+
+122
+00:13:43,900 --> 00:13:53,740
+Yeah, yeah. That's it. I think they did a really nice job articulating the amount of data that came from this tiny, tiny area within the brain.
+
+123
+00:13:54,160 --> 00:14:03,970
+Um, and then what we can start to do from that and, like, why this is such a unique data set and, um, and why it's been really challenging to, to get.
+
+124
+00:14:04,580 --> 00:14:10,210
+Yeah. Yeah. Really good points. Anyone else for the first article?
+
+125
+00:14:15,610 --> 00:14:22,070
+Mhm. Um, yeah we did ls I guess I have a few more slides on it.
+
+126
+00:14:22,490 --> 00:14:24,270
+Maybe there was another. Oh yeah.
+
+127
+00:14:24,290 --> 00:14:31,520
+We were, we were talking about at the very end when they mentioned um, this was made possible by the, in the NIH funding.
+
+128
+00:14:31,940 --> 00:14:38,690
+Um, and really highlighting why federal funding for this type of research is really important and showing.
+
+129
+00:14:39,230 --> 00:14:44,330
+Um, I think they mentioned like there's roughly 100 scientists that were working on this project.
+
+130
+00:14:44,340 --> 00:14:49,460
+So the scope of it, um, despite being, again, this tiny, tiny section of the brain.
+
+131
+00:14:49,850 --> 00:14:54,110
+Um, yeah. I think a really interesting and important data set.
+
+132
+00:14:54,440 --> 00:15:00,230
+I didn't even pick up. So we've talked about, uh, this idea, uh, like the connection before.
+
+133
+00:15:00,530 --> 00:15:04,130
+Does anyone, compared to what we've talked about previously, why this is unique?
+
+134
+00:15:15,010 --> 00:15:19,089
+Yeah. And all all it was kind of kind of buried in there.
+
+135
+00:15:19,090 --> 00:15:22,510
+But I'll highlight it when we when I go through the next few slides.
+
+136
+00:15:22,510 --> 00:15:31,030
+But the big thing. So um, often with the Kinect dome, we're focused purely on structure or anatomy.
+
+137
+00:15:31,480 --> 00:15:36,610
+Um, in this they paired that anatomy with live calcium imaging.
+
+138
+00:15:36,940 --> 00:15:44,469
+Um, so that's like being able to actually, um, not only have structure of a single neuron for this, you know, whatever.
+
+139
+00:15:44,470 --> 00:15:56,470
+Millimeter cubed, centimeter cube. Um, you now know how each neuron is behaving, uh, um, more explicitly or you've measured more directly than simply,
+
+140
+00:15:56,470 --> 00:16:02,750
+um, kind of inferring, using computation to actually infer what these, uh, properties of these neurons are.
+
+141
+00:16:02,770 --> 00:16:07,360
+So that again, makes a really, really fascinating data set to have all this live imaging,
+
+142
+00:16:07,780 --> 00:16:11,110
+uh, paired with and functional imaging paired with the anatomy.
+
+143
+00:16:12,490 --> 00:16:15,910
+Cool. Uh, anyone want to share thoughts on the second paper?
+
+144
+00:16:16,100 --> 00:16:20,710
+So so so, Phyllis, I've been d synchronizes the human brain.
+
+145
+00:16:27,000 --> 00:16:37,500
+Yeah. We were kind of talking about, um, like, um, there's implications for the treatment of, like, mental health disorders within us, um,
+
+146
+00:16:37,500 --> 00:16:49,580
+which we thought was interesting because, um, in the paper is talking about how, um, like, the effects could last up to three weeks in a single dose.
+
+147
+00:16:49,590 --> 00:16:59,580
+So we're like, at one point or is there a point where, um, the it synchronizes, but does it ever, like, stabilize?
+
+148
+00:16:59,670 --> 00:17:02,690
+Um, like a continuous stream. Right, right.
+
+149
+00:17:03,870 --> 00:17:06,929
+Yeah. I think that's a really interesting point.
+
+150
+00:17:06,930 --> 00:17:13,500
+It's like. Yeah. And it's specifically for this paper of, you know, adding in this, this synchronization,
+
+151
+00:17:13,920 --> 00:17:18,660
+uh, breaking up, you know, what could be like default, we call it default mode network.
+
+152
+00:17:19,140 --> 00:17:21,990
+Yeah. How does that how long until that restructures.
+
+153
+00:17:21,990 --> 00:17:28,380
+And what happens if you're continuously having this, this high dose I think is an interesting, um, kind of question that this brings up.
+
+154
+00:17:28,710 --> 00:17:32,180
+Yeah. I see a hand or. No. Um, I just this insight.
+
+155
+00:17:35,140 --> 00:17:38,890
+Yeah. We talked a lot about the therapeutic potential.
+
+156
+00:17:39,010 --> 00:17:46,900
+Yeah. And part of it was that when using Samsung's instance, I mean, you're using it.
+
+157
+00:17:48,220 --> 00:17:52,480
+Short term. Yeah. And then during that time, like one of the.
+
+158
+00:17:54,220 --> 00:17:59,970
+PTSD or some kind of trauma. And so part of it is you're using that.
+
+159
+00:17:59,970 --> 00:18:03,710
+But it's not just on its own, it's a therapy. Right. So talk therapy.
+
+160
+00:18:04,130 --> 00:18:12,190
+Right. And then, you know, through that work and through the sort of just like breaking associations right through everything by the time.
+
+161
+00:18:13,060 --> 00:18:18,220
+And it's there's a point where you can start using it in the service, which is great.
+
+162
+00:18:18,470 --> 00:18:22,280
+Let's continue because of the other. Right? Yeah.
+
+163
+00:18:22,310 --> 00:18:26,209
+I think that's an excellent point in that. Yeah. He's not bringing that up of.
+
+164
+00:18:26,210 --> 00:18:32,030
+Yeah. These. This is not in isolation of just taking psychedelic and, you know, sending someone off on their own.
+
+165
+00:18:32,030 --> 00:18:37,280
+It's a lot of psychiatry psychology work paired with it.
+
+166
+00:18:37,640 --> 00:18:46,820
+And that leads to hopefully some some long term really stable changes and potentially really amazing treatment for all types of personality,
+
+167
+00:18:46,820 --> 00:18:50,899
+mood disorders and mental health in general. So yeah.
+
+168
+00:18:50,900 --> 00:18:56,780
+Any. Yeah. By show of hands. How many people have like encountered uh, like psychedelic research.
+
+169
+00:18:58,350 --> 00:19:04,110
+In in classes or even like neuroscience, especially related to like neuroscience topics.
+
+170
+00:19:07,080 --> 00:19:10,590
+Okay. Yeah. So like four? Yeah. Okay.
+
+171
+00:19:10,920 --> 00:19:14,010
+Good. Um. Yeah, I feel like. Yeah.
+
+172
+00:19:14,010 --> 00:19:24,000
+I mean, it's it's very new, um, kind of work in terms of using these psychedelics for, um, you know, treatment of, for mental health.
+
+173
+00:19:24,450 --> 00:19:33,389
+Um. Right. For a long time, these psychedelics, we just didn't know enough about them and how they impact our brains and our bodies.
+
+174
+00:19:33,390 --> 00:19:37,010
+And so they were, you know, schedule one drugs, illegal use.
+
+175
+00:19:37,020 --> 00:19:40,950
+You couldn't really use them. Uh, it was really hard to use them for research.
+
+176
+00:19:40,950 --> 00:19:50,099
+And then, uh, over the last like, eight years or so, um, some really groundbreaking work has, uh, explored, uh, their,
+
+177
+00:19:50,100 --> 00:19:58,470
+their potential for treatment, uh, for, uh, yeah, human health and, like, neuroscience and mental health in general.
+
+178
+00:19:58,800 --> 00:20:05,310
+Uh, but, yeah, I feel like I'm going to talk a lot next few slides about, you know, so I've been in the psychedelics.
+
+179
+00:20:05,670 --> 00:20:09,600
+Definitely not, you know, not condoning them. But I think it's really interesting.
+
+180
+00:20:09,600 --> 00:20:12,900
+This is just kind of talking about the science and all the really interesting work.
+
+181
+00:20:13,200 --> 00:20:19,739
+And yeah, again, highlighting that these studies are done in very controlled environments and with and paired with uh,
+
+182
+00:20:19,740 --> 00:20:22,740
+psychiatry or, or uh psychologists as well.
+
+183
+00:20:22,740 --> 00:20:25,800
+So very, very carefully done. Okay.
+
+184
+00:20:26,520 --> 00:20:29,820
+So um, yeah. Let's see.
+
+185
+00:20:31,110 --> 00:20:34,760
+Oh, no. Okay, there we go.
+
+186
+00:20:37,530 --> 00:20:41,579
+Yeah. So I first wanted to talk about. Yeah. The, um, the first paper.
+
+187
+00:20:41,580 --> 00:20:46,350
+So this is actually from the, the primary literature that the New York Times article was talking about.
+
+188
+00:20:46,350 --> 00:20:51,120
+So this is functional connect tome expanding multiple areas of the mouse visual cortex.
+
+189
+00:20:51,360 --> 00:21:00,450
+So again this is why it was really interesting. And this brings our understanding of connect topics in the brain to um to a higher level and kind
+
+190
+00:21:00,450 --> 00:21:05,790
+of gives us a lot more data to play around with because you have this it's functional connectome.
+
+191
+00:21:06,180 --> 00:21:14,010
+So you actually have um, uh, physiological responses of these neurons as you're starting to build up these really complex networks.
+
+192
+00:21:14,910 --> 00:21:20,729
+Um, yeah. And then this is, yeah, the, uh, the what I thought was interesting.
+
+193
+00:21:20,730 --> 00:21:28,170
+So rather this is where you'd see your author list. So they just have the like this microns consortium again, because the authors list is like,
+
+194
+00:21:28,560 --> 00:21:34,379
+um, a good like 50 to 100 people, um, working on this project begin go into this idea that,
+
+195
+00:21:34,380 --> 00:21:38,790
+yeah, they've got a lot of funding, um, a lot of time and effort and, uh,
+
+196
+00:21:38,790 --> 00:21:44,759
+that went into getting this very, very tiny, uh, region of the brain in mouse visual cortex.
+
+197
+00:21:44,760 --> 00:21:49,710
+But again, we can understand a lot, um, from this very tiny, uh, data set.
+
+198
+00:21:51,570 --> 00:21:56,010
+Cool. Uh, and this was, I thought, a really interesting, uh, figure from the paper.
+
+199
+00:21:56,220 --> 00:22:01,200
+And actually, um, this is a quote from one of my friends, uh, who?
+
+200
+00:22:01,230 --> 00:22:12,420
+Yeah, I went to, uh, I was in grad school with, um, but, yeah, I, uh, I think the, the funniest quote was, uh, finding wires, wiring rules is a wind.
+
+201
+00:22:12,420 --> 00:22:16,440
+The brain is a lot less messy than people thought. Um, and that's.
+
+202
+00:22:16,860 --> 00:22:21,600
+Yeah, I think we often think of. Yeah, right. Our brains are so complex.
+
+203
+00:22:22,050 --> 00:22:24,810
+Uh, and so there's so much variability.
+
+204
+00:22:25,140 --> 00:22:33,870
+Um, when we start to see these patterns emerge, as we've seen, even talking about how we're coarsely organizing the brain into,
+
+205
+00:22:33,900 --> 00:22:39,570
+you know, our different cortexes and, um, yeah, all of these kind of course patterns.
+
+206
+00:22:39,570 --> 00:22:45,450
+I think it's really fascinating. And, you know, even finding these course patterns on the wiring level,
+
+207
+00:22:45,450 --> 00:22:51,870
+and that's what we're beginning to see, um, from this type of data set, um, I think is, is really cool.
+
+208
+00:22:52,350 --> 00:22:59,100
+Um, and so did, did anyone read what type or remember what type of, uh, cells these are?
+
+209
+00:23:00,550 --> 00:23:08,100
+I remember the name of them. Yeah okay.
+
+210
+00:23:08,280 --> 00:23:12,599
+So these are called chandelier cells. So I think yeah a kind of fitting name.
+
+211
+00:23:12,600 --> 00:23:16,320
+They do. Yeah. Kind of coarsely look like chandeliers.
+
+212
+00:23:16,650 --> 00:23:19,979
+Um, and that's actually from um. Yeah.
+
+213
+00:23:19,980 --> 00:23:23,879
+The arrangement of their axons kind of dipping down here.
+
+214
+00:23:23,880 --> 00:23:29,940
+They've added, uh, fluorescent probes to the end of their axons, so you actually can visualize them quite well.
+
+215
+00:23:30,180 --> 00:23:33,930
+And these are actually GABAergic interneurons within the cortex.
+
+216
+00:23:37,820 --> 00:23:46,790
+Cool. Yeah. And so we talked about this. But yeah, this came through the NIH through, um, a huge fund, uh, called the Brain Research Initiative.
+
+217
+00:23:46,790 --> 00:23:50,810
+And I was actually working on this initiative in grad school as well.
+
+218
+00:23:50,840 --> 00:23:56,570
+But it's across a number of different institutes and again, helps, uh, kind of aggregate and,
+
+219
+00:23:57,140 --> 00:24:01,220
+uh, consolidate a lot of really interesting, uh, work happening around the brain.
+
+220
+00:24:01,790 --> 00:24:12,019
+Um, yeah. And so just giving you some more initiatives and, uh, kind of interesting, uh, things to look up if you're curious about the,
+
+221
+00:24:12,020 --> 00:24:20,240
+uh, um, the Brain initiative, there's a bunch of other labs working on very cool research, like, like that topic.
+
+222
+00:24:22,340 --> 00:24:30,319
+Um, yeah. And I won't spend. So this is kind of this is what's again, great is that this is all like open source data.
+
+223
+00:24:30,320 --> 00:24:35,810
+So you can go explore their website and kind of pull out some of this annotated data.
+
+224
+00:24:36,230 --> 00:24:40,760
+Um, the on the left is kind of showing the different data types.
+
+225
+00:24:40,760 --> 00:24:45,709
+On the right is this workflow showing how you're getting each bit of data.
+
+226
+00:24:45,710 --> 00:24:54,770
+And just I just want to highlight like in vivo versus ex vivo in vivo where you're getting a lot more of this functional data.
+
+227
+00:24:55,190 --> 00:25:01,670
+Um, so they're using these really fast microscopes called two photon microscopes that can image really deep in the tissue.
+
+228
+00:25:02,030 --> 00:25:09,260
+Um, well, ex vivo is more of we're going to slice up the brain and form these really detailed maps of each neuron.
+
+229
+00:25:09,740 --> 00:25:12,050
+Right. And that's kind of shown showing this workflow on the left.
+
+230
+00:25:13,400 --> 00:25:22,940
+And then this is the entire workflow which I won't get into a ton of detail, but it's again showing you could you do some functional, um, imaging.
+
+231
+00:25:23,270 --> 00:25:26,930
+Right. So it could be adding in like a calcium indicator whenever a neuron fires.
+
+232
+00:25:27,350 --> 00:25:31,249
+And um, you may get calcium flowing into your neuron.
+
+233
+00:25:31,250 --> 00:25:35,690
+It binds to a probe, gives off fluorescence. So you can see neurons lighting up.
+
+234
+00:25:36,200 --> 00:25:46,430
+Um, you then start to slice up the brain, uh, you have a bunch of images of what I forget how many, some like 20,000 different slices of brain.
+
+235
+00:25:46,820 --> 00:25:50,900
+Uh, and then you can start reconstructing this using a lot of, um,
+
+236
+00:25:51,530 --> 00:25:58,250
+great AI image augmentation tools to align these images and kind of reconstruct neurons.
+
+237
+00:25:58,820 --> 00:26:03,200
+Uh, and that's kind of these last two images here. And that creates your final volume.
+
+238
+00:26:03,200 --> 00:26:10,940
+And so that's what's presented to us in this data set where we now we can reference it, look around this tiny but also very large,
+
+239
+00:26:11,300 --> 00:26:17,930
+um, piece of the mouse visual cortex and explore functional and um, and anatomical properties.
+
+240
+00:26:19,310 --> 00:26:25,570
+Any questions on on that stuff. Cool.
+
+241
+00:26:25,810 --> 00:26:30,670
+All right, so a little bit on the, uh, Phil Sabin. Uh, things synchronize his brain.
+
+242
+00:26:31,780 --> 00:26:35,409
+All right, so I thought this is actually.
+
+243
+00:26:35,410 --> 00:26:38,820
+Yeah. Does anyone want to take a quick guess or.
+
+244
+00:26:38,920 --> 00:26:47,080
+Yeah. Explain this figure. And maybe we can start out.
+
+245
+00:26:47,100 --> 00:26:55,820
+Does, uh, anyone remember what FC um was referred to with the acronym about to see was in the paper.
+
+246
+00:27:12,800 --> 00:27:16,220
+Um, he's got some. Uh, no. No.
+
+247
+00:27:16,220 --> 00:27:23,360
+But not. I mean, you're getting to the core, right? We've been talking about fluorescence as a proxy for activity like connectivity.
+
+248
+00:27:23,600 --> 00:27:30,169
+Yeah, exactly. So it's a functional connectivity, and I'll we'll start to break down what that actually means.
+
+249
+00:27:30,170 --> 00:27:38,750
+But if you were to guess, right, it's this idea that what regions of the brain are kind of correlated when you're performing a specific task.
+
+250
+00:27:39,110 --> 00:27:46,580
+Right. So functional connectivity would say that when I'm looking at a specific image my visual cortex is going to have,
+
+251
+00:27:46,850 --> 00:27:53,210
+and all of the neurons in the subregions of my visual cortex is going to have high functional connectivity.
+
+252
+00:27:53,540 --> 00:28:00,169
+Um, as maybe I'm starting to perform some if I'm looking at something and trying to grab an object,
+
+253
+00:28:00,170 --> 00:28:04,070
+maybe now my motor cortex is starting to have some correlation.
+
+254
+00:28:04,370 --> 00:28:08,899
+So now that I'm not just looking at something, but I'm also adding a motor action now,
+
+255
+00:28:08,900 --> 00:28:16,280
+my functional connectivity will start to change depending on what behaviors I'm doing and what I'm paying attention to.
+
+256
+00:28:16,760 --> 00:28:21,680
+Hopefully that yeah, makes some sense. And again, I have a few figures to break that down a bit more.
+
+257
+00:28:22,130 --> 00:28:27,320
+Um, so does anyone want to explain what's happening across A, B and C here then?
+
+258
+00:28:36,230 --> 00:28:42,870
+Your day to day. There's not much to. Yeah.
+
+259
+00:28:43,770 --> 00:28:47,549
+Essentially. Yeah. And this is looking at kind of like a baseline state.
+
+260
+00:28:47,550 --> 00:28:53,040
+And so essentially what it's saying is that you're having a lot less um.
+
+261
+00:28:55,550 --> 00:29:02,510
+I guess at your default at a normal resting state, you're seeing a lot more kind of correlation and, uh,
+
+262
+00:29:02,570 --> 00:29:13,910
+activity within the brain compared to, um, you're like day to day, um, with without taking psilocybin over control, um, treatment here.
+
+263
+00:29:13,910 --> 00:29:18,650
+So. Yeah. More or less. Cool.
+
+264
+00:29:18,890 --> 00:29:20,030
+Um, yeah.
+
+265
+00:29:20,030 --> 00:29:28,280
+And so yeah, they they also went on to describe this for, you know, this is coarsely looking at the brain, looking at specifically the hippocampus.
+
+266
+00:29:28,850 --> 00:29:33,360
+Right. And then looking at um some subcortical structures.
+
+267
+00:29:33,360 --> 00:29:38,479
+So the caudate put them in, in uh thalamus and then as well as the cerebellum.
+
+268
+00:29:38,480 --> 00:29:38,690
+Right.
+
+269
+00:29:38,690 --> 00:29:48,350
+And you're still seeing these pretty big kind of changes in overall functional connectivity in response to um, the psychedelic that they're taking.
+
+270
+00:29:50,000 --> 00:29:53,960
+Right. And here they start to break it down into different networks within the brain.
+
+271
+00:29:54,290 --> 00:30:02,779
+And um, I'll explain this a bit more, but highlighting that this default mode, which is again, kind of this resting state,
+
+272
+00:30:02,780 --> 00:30:07,759
+what our brain is normally just kind of paying attention to at baseline, um,
+
+273
+00:30:07,760 --> 00:30:13,580
+seems to have a pretty high, seems to be highly impacted by, uh, this psilocybin.
+
+274
+00:30:14,900 --> 00:30:18,440
+Okay. So a little bit of background on this stuff.
+
+275
+00:30:19,460 --> 00:30:24,830
+Okay. So, um, yeah, a lot of this work is happening at Johns Hopkins.
+
+276
+00:30:25,220 --> 00:30:33,740
+Um, this is within the, uh, John Hopkins, um, um, like medical Institute where, um,
+
+277
+00:30:33,740 --> 00:30:40,670
+and specifically the Department of Psychiatry and Behavioral Sciences, um, they've been one of the big leaders across.
+
+278
+00:30:40,820 --> 00:30:48,350
+Yeah, basically the world, um, you know, use it looking at psilocybin LSD treatments, uh, for behavioral sciences.
+
+279
+00:30:48,710 --> 00:30:57,410
+Uh, and then at the top left is, uh, there's also some good folks from University of Washington, uh, working on, uh, uh, psychedelics as well.
+
+280
+00:30:57,680 --> 00:31:00,830
+This is again happening all across the country, Wisconsin as well.
+
+281
+00:31:01,160 --> 00:31:08,450
+Um, so it is in really increasing as we're beginning to understand more of the effects of these, uh, drugs on the brain.
+
+282
+00:31:09,860 --> 00:31:16,250
+Okay, so here are some some slides I threw together actually a while ago, but kind of explaining how this works.
+
+283
+00:31:16,670 --> 00:31:22,370
+Um, so this is just a broad schematic kind of showing some of the, the serotonin system throughout the brain.
+
+284
+00:31:22,700 --> 00:31:27,379
+Right. So normally our, uh, different neurons will release serotonin, right?
+
+285
+00:31:27,380 --> 00:31:29,810
+This can act as a neurotransmitter. Neuromodulator.
+
+286
+00:31:30,140 --> 00:31:36,710
+So underneath their tongue and you can see psilocybin and LSD, what the, the drug structures actually look like.
+
+287
+00:31:36,920 --> 00:31:49,010
+And you can see that they have this conserved shape, um, or, uh, I think it's the kind of cone very similar, some conserved shape with serotonin.
+
+288
+00:31:49,310 --> 00:31:54,110
+Right. So they actually will act on the same serotonin receptors.
+
+289
+00:31:54,350 --> 00:31:59,719
+And that can lead to a lot of these behavioral changes, changes in the brain that we observe.
+
+290
+00:31:59,720 --> 00:32:07,280
+So it's kind of simulating a high amount of serotonin, um, uh, being released being present within the brain.
+
+291
+00:32:08,150 --> 00:32:18,080
+Right. And so we know that serotonin heavily modulates a lot of our functions, mood, um, behaviors, uh, psychedelics mimic serotonin.
+
+292
+00:32:18,470 --> 00:32:22,490
+Therefore they can have very similar effects to serotonin in the brain.
+
+293
+00:32:23,270 --> 00:32:31,460
+Um, and so how do we measure, uh, the effects, the changes in brain activity to these psychedelics are just,
+
+294
+00:32:31,640 --> 00:32:37,870
+um, kind of these broad treatments in general. Um, right.
+
+295
+00:32:37,870 --> 00:32:44,260
+And so these were some old slides I made. But, uh, and this is going to describe, uh, functional fMRI.
+
+296
+00:32:44,380 --> 00:32:50,020
+Right. So as we're doing more activities, we have more oxygen kind of moving into our muscles.
+
+297
+00:32:50,440 --> 00:32:57,370
+Right. The same idea with our brain as we're, you know, thinking about things as different regions of our brain and becoming more active.
+
+298
+00:32:57,370 --> 00:33:01,149
+You have more oxygen, right? We've gone over this before and.
+
+299
+00:33:01,150 --> 00:33:04,540
+Right. So those areas have more blood flow.
+
+300
+00:33:05,020 --> 00:33:09,430
+And so right, we can start to add some kind of color code in our schematic.
+
+301
+00:33:09,820 --> 00:33:14,020
+And maybe this is starting to look like those up MRI results that we've seen before.
+
+302
+00:33:14,980 --> 00:33:20,740
+And that leads us to studying so we can understand the effects of these psychedelics using uh,
+
+303
+00:33:20,740 --> 00:33:26,170
+bold art from our eyes or our blood oxygen level dependent, uh, functional magnetic resonance.
+
+304
+00:33:26,770 --> 00:33:30,460
+Right. So here's a little example I had. So looking at some complex image.
+
+305
+00:33:30,820 --> 00:33:37,780
+Right. You have a bunch of regions of your brain, um, becoming active, uh, as you're getting more blood flow.
+
+306
+00:33:39,160 --> 00:33:42,550
+And so these are, as you're performing a very specific task,
+
+307
+00:33:42,820 --> 00:33:50,920
+we can say that these regions of the brain are functionally connected because they are active as, again, you're either looking at this image or again,
+
+308
+00:33:50,920 --> 00:33:56,530
+if I said, now you're looking at an image, you're trying to grab something that you're looking at, um,
+
+309
+00:33:57,190 --> 00:34:02,590
+for a specific task, the regions of the brain that become active, we can kind of say they are functionally connected.
+
+310
+00:34:04,450 --> 00:34:07,720
+Right. There's our FEMA. Right. All right.
+
+311
+00:34:07,750 --> 00:34:12,190
+And then how do psychedelics affect neural activity in the whole human brain?
+
+312
+00:34:14,620 --> 00:34:19,860
+Right? So here is me with in some some fun old slides.
+
+313
+00:34:20,250 --> 00:34:24,030
+Okay, so if I'm looking at this image under control state right.
+
+314
+00:34:24,030 --> 00:34:28,799
+We can see the visual cortex uh, becoming we're getting more blood flow.
+
+315
+00:34:28,800 --> 00:34:32,910
+That's becoming excited. Uh, and that's processing our visual information.
+
+316
+00:34:32,910 --> 00:34:44,340
+So now on LSD and this is actually, uh, my this is adapted from this, um, I decided at the bottom this Carhart Harris paper, uh, in 2016.
+
+317
+00:34:44,340 --> 00:34:50,720
+And this is real data. Obviously, I'm not in it, but, uh, this this is the control and LSD treatment, right?
+
+318
+00:34:50,730 --> 00:34:54,180
+So very similar to what we're kind of seeing, um,
+
+319
+00:34:54,570 --> 00:35:01,709
+in this really recent paper from last year is that you're just seeing this large kind of potentially
+
+320
+00:35:01,710 --> 00:35:08,760
+unstructured change within the brain and breaking up a lot of what would be normally correlated activity.
+
+321
+00:35:08,910 --> 00:35:15,750
+Now you're seeing a lot more kind of broad activity happening under these drugs that affect serotonin receptors in the brain.
+
+322
+00:35:17,070 --> 00:35:22,620
+Right. So under that treatment you see a lot higher increase neural connectivity through the brain.
+
+323
+00:35:23,070 --> 00:35:26,830
+We're looking at doing a specific task.
+
+324
+00:35:26,830 --> 00:35:33,130
+We're gonna have a lot more regions of the brain becoming active. All right.
+
+325
+00:35:33,220 --> 00:35:36,430
+So how does this affect our perception. Right.
+
+326
+00:35:36,430 --> 00:35:44,049
+So often with the psychedelics great people report a lot of um interesting effects, visual effects.
+
+327
+00:35:44,050 --> 00:35:51,310
+Right. You're starting to see could be things kind of with, uh, moving um, often it's kind of, um, yeah.
+
+328
+00:35:51,340 --> 00:35:53,200
+Like seeing this melting effect.
+
+329
+00:35:53,620 --> 00:36:01,060
+Uh, and there's also we understand a lot about how physiological changes are producing this within the brain as well, almost, um,
+
+330
+00:36:01,570 --> 00:36:09,040
+where you actually are able to perceive blood vessels in this pulsing of blood actually moving in the back of your eye a bit more.
+
+331
+00:36:09,040 --> 00:36:15,790
+And that leads to a lot of these visual effects that we're, uh, people actually will perceive when they're, they're taking these treatments.
+
+332
+00:36:18,000 --> 00:36:27,990
+Um, but first let's look at, yeah, how LSD affects vision, because this is one of the highest reported, um, uh, effects of these psychedelics.
+
+333
+00:36:28,530 --> 00:36:33,570
+Right. So here this is again, taking an adapted figure from that paper in 2016.
+
+334
+00:36:33,840 --> 00:36:41,370
+So going from simple to complex imagery on the x axis and then uh, on the y axis is increased connectivity.
+
+335
+00:36:43,230 --> 00:36:51,450
+Uh, and so what you might expect. So as we're moving from, uh, a simple image to something that's more complex,
+
+336
+00:36:51,810 --> 00:36:56,700
+you're getting an increase in overall connectivity, um, within the brain.
+
+337
+00:36:56,700 --> 00:37:03,360
+Right? So you're getting more of these, uh, regions of the brain becoming active when you're looking at a more complex task.
+
+338
+00:37:08,110 --> 00:37:17,040
+Right. And so these are the typical reported effects of psychedelics outside of just the, um, visual effects.
+
+339
+00:37:18,840 --> 00:37:21,690
+Again, this is coming from an earlier paper.
+
+340
+00:37:22,410 --> 00:37:30,480
+Um, so one being I saw geometric patterns again, like, um, uh, another being I saw sounds influence things.
+
+341
+00:37:30,490 --> 00:37:35,100
+I saw uh, and then the other is my sense of self was altered.
+
+342
+00:37:36,030 --> 00:37:40,499
+Um, so it may be this is starting to be reminiscent of, um, you know,
+
+343
+00:37:40,500 --> 00:37:51,240
+what the for one idea we talked about in the first lecture of class, um, uh, being, um, now I'm blanking on the the concept.
+
+344
+00:37:51,750 --> 00:38:00,750
+Um, uh. But when our our sensory systems become cross wired.
+
+345
+00:38:01,200 --> 00:38:09,950
+Why am I. It'll come to me. Um. But essentially, yeah, because we're seeing so many regions of the brain become active, right?
+
+346
+00:38:09,980 --> 00:38:14,990
+Not only when we're looking at something. Maybe our auditory cortex is now becoming active as well.
+
+347
+00:38:15,230 --> 00:38:23,180
+Could that potentially, uh, explain some of these effects that, uh, people report, uh, experiencing under psychedelics?
+
+348
+00:38:24,770 --> 00:38:27,590
+Right. So how can sounds influence vision?
+
+349
+00:38:28,370 --> 00:38:37,219
+Well, again, looking at, um, our control of just looking at some, uh, visual sample versus LSD right now, you're,
+
+350
+00:38:37,220 --> 00:38:42,530
+you're seeing that areas of that auditory cortex can potentially be active, active,
+
+351
+00:38:42,530 --> 00:38:50,600
+or become functionally correlated with simply looking at some visual, um, some some image or object.
+
+352
+00:38:51,110 --> 00:38:58,729
+Right. So showing that you're getting these sensory perceptions systems um, almost across wired or again,
+
+353
+00:38:58,730 --> 00:39:03,290
+you're, you're just uh, getting more overall connectivity throughout the brain.
+
+354
+00:39:06,440 --> 00:39:11,840
+Right again highlighting how, yeah, vision can correlate with that auditory cortex.
+
+355
+00:39:13,490 --> 00:39:16,550
+And then how can you know sounds influence what you saw.
+
+356
+00:39:17,240 --> 00:39:25,880
+Uh, and then your sense of self. So, um, we talked about this before, but this idea of the default mode network.
+
+357
+00:39:26,120 --> 00:39:31,700
+So even when our brains are at rest, right, we have some basic communication between our different brain regions.
+
+358
+00:39:33,140 --> 00:39:42,860
+Right. And so, uh, that would again be some example of functional connectivity, even though we are at risk in not performing some specific task.
+
+359
+00:39:44,850 --> 00:39:54,720
+Um, and this can vary again depending if you're, um, different contacts or working on different things, uh, in different resting states.
+
+360
+00:39:55,380 --> 00:40:00,300
+And all of these kind of, uh, combine to form your overall default mode network.
+
+361
+00:40:02,290 --> 00:40:09,730
+Um, people report this as being, um, one way of measuring your sense of self or your ego.
+
+362
+00:40:10,900 --> 00:40:16,360
+Um, and so this is kind of demonstrating that we all have these different default mode networks.
+
+363
+00:40:16,360 --> 00:40:21,520
+And although, um, similar regions may be active as we're in this resting state,
+
+364
+00:40:21,790 --> 00:40:27,460
+we'll see individual differences that make up our own self or our sense of ego.
+
+365
+00:40:27,820 --> 00:40:32,530
+Um, and so again, showing that there is we showed that there's some functional connectivity,
+
+366
+00:40:32,950 --> 00:40:37,720
+uh, whenever the you're dmn you're at rest within this default mode network.
+
+367
+00:40:38,800 --> 00:40:46,780
+Um, so you might start to hypothesize what happens to this default mode mode network on a lot of these psychedelics.
+
+368
+00:40:47,650 --> 00:40:56,020
+Uh, but we're going to start to break and explain one of these types of figures we've seen before.
+
+369
+00:40:56,880 --> 00:41:03,250
+Right. So this is taking, you know, one area of the brain and showing this is one way that we can represent that functional connectivity.
+
+370
+00:41:03,250 --> 00:41:10,270
+And we've seen this before as these different um, nodes representing different regions of the brain and the,
+
+371
+00:41:10,300 --> 00:41:18,040
+uh, size of the line connecting them represents the strength of the the functional connectivity between them.
+
+372
+00:41:18,860 --> 00:41:24,280
+Right. So we could do this for, uh, whenever the red region was representing our yellow region.
+
+373
+00:41:24,730 --> 00:41:32,200
+Right. And all of that makes up our default mode network. Um, showing again, this another representation of functional connectivity.
+
+374
+00:41:32,920 --> 00:41:39,100
+Um, and so this is what happens when our, um, to our default mode network on psilocybin.
+
+375
+00:41:39,280 --> 00:41:44,799
+So again, just another way of illustrating how different regions of the brain, if this was auditory cortex,
+
+376
+00:41:44,800 --> 00:41:52,240
+now it's correlated with the visual cortex showing that these sensory systems are now, um, potentially activated.
+
+377
+00:41:52,240 --> 00:41:59,470
+And it's kind of synchronizing and removing a lot of this structure that we normally get, uh, within our brain.
+
+378
+00:41:59,860 --> 00:42:04,150
+Uh, and at default. Cool.
+
+379
+00:42:07,050 --> 00:42:11,129
+All right. And. Yeah. And then you can start to, you know, make some hypotheses.
+
+380
+00:42:11,130 --> 00:42:20,520
+And this was again from that paper in 2016. Uh, if the default mode that represents your sense of self, how does LSD affect that?
+
+381
+00:42:21,000 --> 00:42:29,729
+Um, and so the idea is that, um, as we're moving from that default mode network that we saw to that broken, uh,
+
+382
+00:42:29,730 --> 00:42:35,820
+default mode network where everything is now connected in, a lot of these local connections are starting to be broken.
+
+383
+00:42:36,210 --> 00:42:46,650
+Um, and essentially this x axis represents the concentration of the treatment of drug that is being, uh, administered to the individual.
+
+384
+00:42:47,400 --> 00:42:52,770
+And so, um, essentially that the higher the concentration of your drug,
+
+385
+00:42:53,010 --> 00:42:59,670
+the more you're reporting this dissolved sense of self, uh, and the more likely you are to have this broken.
+
+386
+00:43:00,090 --> 00:43:10,590
+Uh, if you were to measure this using functional, uh, uh, uh, resonance, uh, imaging, uh, you would see a network that looks something like this.
+
+387
+00:43:10,600 --> 00:43:21,090
+Right? So you're, you're starting to see this correlation where the breaking of the default mode network in our, um, um, yeah.
+
+388
+00:43:21,120 --> 00:43:28,470
+Uh, regions of the brain that are correlated together at rest, uh, leads to this, uh, dissolved sense of self.
+
+389
+00:43:29,040 --> 00:43:34,260
+Uh, and that's where pairing this potentially with, uh, a psychiatrist and, uh,
+
+390
+00:43:34,800 --> 00:43:43,500
+um, uh, psychologist can help lead to maybe some long term restructuring, um, of,
+
+391
+00:43:43,640 --> 00:43:48,360
+um, and kind of breaking up a lot of these normal connections that we have within our
+
+392
+00:43:48,360 --> 00:43:52,620
+brain that represent kind of how we're interpreting and navigating the world.
+
+393
+00:43:53,010 --> 00:44:02,550
+Um, again, this in this is just kind of new, ongoing research, but showing that these type of treatments can, uh, start to break apart.
+
+394
+00:44:02,850 --> 00:44:10,650
+You know what? How we normally interact with the world and leads to, again, this increase in overall neuroplasticity as well,
+
+395
+00:44:11,010 --> 00:44:15,510
+um, that allows this reforming and breaking of existing connections.
+
+396
+00:44:19,180 --> 00:44:23,680
+Cool. Yep. So all I think since is itself.
+
+397
+00:44:24,700 --> 00:44:28,359
+Um, yeah. And in summary for this little slide is that.
+
+398
+00:44:28,360 --> 00:44:33,010
+Yeah, we can use bold f MRI to understand the impact of these psychedelics on the brain.
+
+399
+00:44:33,400 --> 00:44:40,960
+Um, increased neural activity, uh, increased neural connectivity explains a lot of the symptoms we're seeing with psychedelics.
+
+400
+00:44:41,410 --> 00:44:48,910
+Um, and then LSD, specifically will shift neural connectivity away from this default mode, known mode network.
+
+401
+00:44:49,240 --> 00:44:54,790
+And, uh, creates this effect of this, uh, dissolving the sense of self, at least rapport.
+
+402
+00:44:54,800 --> 00:44:58,120
+And that's, uh, sense of self is self-reported.
+
+403
+00:44:58,120 --> 00:45:03,939
+So, um, I think a lot of people are looking for other ways of kind of getting some indication of how
+
+404
+00:45:03,940 --> 00:45:10,000
+people are kind of interacting day to day and understanding their representation of themselves.
+
+405
+00:45:10,360 --> 00:45:15,160
+Uh, in a more, in a really quantitative way. Cool.
+
+406
+00:45:15,190 --> 00:45:21,669
+All right. So that was kind of a hopefully somewhat helpful way of understanding, you know,
+
+407
+00:45:21,670 --> 00:45:31,870
+the impact of psychedelics a little bit on, you know, the primary primarily work on these 5HT serotonin receptors.
+
+408
+00:45:32,200 --> 00:45:41,470
+And what could be the impact of kind of, uh, increasing kind of serotonin globally through, um, a lot of these drugs.
+
+409
+00:45:41,770 --> 00:45:46,420
+Uh, what's the behavioral and kind of cognitive outcomes from those things?
+
+410
+00:45:48,700 --> 00:45:53,020
+Yeah. All right. Yeah. Any questions on that stuff?
+
+411
+00:45:55,910 --> 00:46:06,950
+No. All right. So next I wanted to do, um, basically our second point here is kind of doing going back into our final projects,
+
+412
+00:46:06,950 --> 00:46:10,069
+catching up a little bit on, you know what, uh,
+
+413
+00:46:10,070 --> 00:46:13,640
+we, I should have been facilitating on Thursday, um,
+
+414
+00:46:14,750 --> 00:46:21,500
+and then updating you all on some changes I made and giving a bit more structure to our final products.
+
+415
+00:46:21,830 --> 00:46:26,390
+So all of this is on canvas now too, so you can look back and reference it.
+
+416
+00:46:27,080 --> 00:46:31,730
+Um, yeah. So as we know, final projects are 30% of final grade.
+
+417
+00:46:32,420 --> 00:46:37,010
+Um, we've been saying that presentations are on Thursday, May 1st during class.
+
+418
+00:46:37,730 --> 00:46:41,270
+Um, and then this is new of saying that the write up.
+
+419
+00:46:41,540 --> 00:46:48,319
+Uh, I'll just have due on Friday, the last day of, uh, finals week at midnight.
+
+420
+00:46:48,320 --> 00:46:51,830
+Right. So you'll have a bit more time to work on that to get that written up.
+
+421
+00:46:52,280 --> 00:46:58,250
+Uh, and then I want adding a bit more, uh, uh, another qualifier to the presentation.
+
+422
+00:46:58,610 --> 00:47:02,930
+The main thing I want from this is, I know it's going to be a kind of sprint to get to this point.
+
+423
+00:47:03,350 --> 00:47:08,899
+Um, so I'll go over, you know, I think there's kind of five core slides that I want to be included,
+
+424
+00:47:08,900 --> 00:47:12,890
+but you don't have to have final results or it needs to be super polished.
+
+425
+00:47:13,220 --> 00:47:19,760
+The big thing I want is just practicing the science communication, the ideas that you came up with.
+
+426
+00:47:20,180 --> 00:47:28,250
+Um, probably what went wrong? Um, and then, you know, the last slide will be like a little conclusion on, on what would be next steps.
+
+427
+00:47:28,610 --> 00:47:37,759
+So the presentation, um, I want to be, you know, feeling formal again, a way of just kind of ending the semester with, you know,
+
+428
+00:47:37,760 --> 00:47:45,530
+engaging with the class, sharing an idea that maybe was interesting to you and experiment that you've got to hopefully run.
+
+429
+00:47:46,700 --> 00:47:50,209
+Um, yeah. This is, I think, all old stuff.
+
+430
+00:47:50,210 --> 00:47:59,720
+But the one thing I add is that so we have the finals time reserved on, um, Wednesday, May 7th from 2 to 4 p.m.,
+
+431
+00:48:00,320 --> 00:48:06,530
+that during that time I'll be here and people by that time you should have your presentation done.
+
+432
+00:48:06,800 --> 00:48:13,180
+So the write up will just be due. So you can come in and I will we can treat it as a writing workshop that's optional.
+
+433
+00:48:13,190 --> 00:48:20,600
+So if you want to come in, I can help you. If you're feeling stuck about anything or even if you still have some results you want to analyze,
+
+434
+00:48:20,870 --> 00:48:24,019
+that's time that we can kind of go through that, um, as a group.
+
+435
+00:48:24,020 --> 00:48:30,320
+And you can actually the idea is to incorporate some feedback hopefully you get from your presentation into that final write up.
+
+436
+00:48:31,040 --> 00:48:35,750
+Um, yeah. Any any questions on that? Yeah.
+
+437
+00:48:35,940 --> 00:48:45,719
+Cool. Um, okay, so for the final presentation, uh, the main thing I want you to have are these for these five core sections.
+
+438
+00:48:45,720 --> 00:48:50,970
+So just an introduction, uh, stating your hypothesis, what methods you're using.
+
+439
+00:48:51,300 --> 00:48:59,060
+One slide in results one and conclusion. So just five, five slides kind of as your minimum going through each one.
+
+440
+00:48:59,070 --> 00:49:02,910
+I have some guidelines, uh, for you to include on each slide.
+
+441
+00:49:02,910 --> 00:49:09,960
+So. Right. Your intro is what stating what concept you're investigating, why it's interesting to you.
+
+442
+00:49:10,170 --> 00:49:17,340
+How is this related to a topic we covered in class? And then I'm hoping you cite at least one academic paper.
+
+443
+00:49:17,580 --> 00:49:25,050
+Right. And we've gone through a chunk within class. But if you you can also I'm happy to help you find one that's a good resource.
+
+444
+00:49:25,500 --> 00:49:32,760
+Um, but citing one can be review of primary research that, um, uh, helps, um,
+
+445
+00:49:32,760 --> 00:49:38,129
+kind of ground the experiment that you're, you're hoping to run hypothesis.
+
+446
+00:49:38,130 --> 00:49:43,200
+Right? So it's kind of restating the specific question that you're going to be investigating, um,
+
+447
+00:49:43,620 --> 00:49:49,799
+based on what you've we've covered in the class, what do you expect to observe based on?
+
+448
+00:49:49,800 --> 00:49:57,210
+Yeah, your whatever question you're setting up. And then cite one academic paper again that can support these expected results.
+
+449
+00:49:57,840 --> 00:50:04,979
+Um, so again, is there finding a paper maybe that's done something similar or somewhere in the, the rough field,
+
+450
+00:50:04,980 --> 00:50:11,610
+something that kind of gives you material or, um, uh, groundwork to form your hypothesis from.
+
+451
+00:50:12,030 --> 00:50:14,489
+Right. So we did in our EEG experiment. Right.
+
+452
+00:50:14,490 --> 00:50:24,870
+We had a couple different papers describing how, um, these larger studies on how primary, uh, or prefrontal cortex may change,
+
+453
+00:50:24,870 --> 00:50:30,960
+either it was in response to memories or sound right, that that could be a good example to use for,
+
+454
+00:50:31,320 --> 00:50:36,810
+um, or a good kind of overall structure to use for, for the hypothesis here.
+
+455
+00:50:38,880 --> 00:50:42,870
+Uh, methods, I think. Yeah. Fairly straightforward, but yeah. What tools are you using?
+
+456
+00:50:42,930 --> 00:50:47,520
+Um, and then I wanted to include, uh, the experimental design.
+
+457
+00:50:47,520 --> 00:50:50,549
+Do you have an experimental variable control variable.
+
+458
+00:50:50,550 --> 00:50:55,440
+What could contribute noise? Uh, and then what type of data is being, uh, collected?
+
+459
+00:50:56,130 --> 00:51:01,320
+Uh, is there specific analysis plan, uh, your results here.
+
+460
+00:51:01,320 --> 00:51:07,800
+This is, uh, where I think it can be really, really loose. Like, if you don't have any results at this point because you've just been collecting data.
+
+461
+00:51:08,100 --> 00:51:13,080
+That's cool. Um, you can draw in what you think your results will look like.
+
+462
+00:51:13,440 --> 00:51:19,620
+Um, and again, I hope that during that last bit of time and even during that, that finals day,
+
+463
+00:51:19,620 --> 00:51:27,149
+I can help you, um, produce your figures that you'll need for the write up if you get, uh, result by here.
+
+464
+00:51:27,150 --> 00:51:30,450
+That's amazing. And I'd love you to present that, but, um.
+
+465
+00:51:30,840 --> 00:51:36,510
+Yeah. Not required. So one graph and you can, you can take that from an academic paper.
+
+466
+00:51:36,750 --> 00:51:40,080
+You can kind of make one that you expect to observe.
+
+467
+00:51:40,500 --> 00:51:45,000
+Or even if there's a similar experiment that we've conducted in class, you can grab one of those to interpret.
+
+468
+00:51:45,660 --> 00:51:51,170
+Um yeah. And then interpret your results. And then finally.
+
+469
+00:51:51,180 --> 00:51:55,640
+Yeah. Final thoughts. What would you change? What was challenging? Uh, any next steps?
+
+470
+00:51:56,750 --> 00:52:01,260
+Yeah. This. That. I know that and you don't. These are kind of guidelines to include.
+
+471
+00:52:01,280 --> 00:52:06,620
+The main thing is having, you know, these five core slides, uh, to get through.
+
+472
+00:52:06,740 --> 00:52:12,560
+Um, and then, yeah, giving you these kind of big course ideas to cover within each of those slides.
+
+473
+00:52:13,280 --> 00:52:16,780
+Does that seem okay? Reasonable. So.
+
+474
+00:52:19,940 --> 00:52:27,410
+Okay. And then for the write up. Great. Same idea of having these sections is no, I'm not saying a minimum for words or maximum.
+
+475
+00:52:27,860 --> 00:52:34,129
+Um, but the idea is to include those five sections again, um, using the same criteria as before.
+
+476
+00:52:34,130 --> 00:52:36,320
+But then I added in a few modifications.
+
+477
+00:52:36,320 --> 00:52:45,590
+So you're adding an extra citation into your introduction and then just using either APA or MLA or if you have a favorite citation format,
+
+478
+00:52:45,800 --> 00:52:50,780
+feel free to use that. Um, results at least include two figures.
+
+479
+00:52:51,170 --> 00:52:56,260
+Again, you don't. If your experiment fails, that's totally fine.
+
+480
+00:52:56,270 --> 00:52:58,570
+You're not graded on the success of your experiment.
+
+481
+00:52:58,580 --> 00:53:06,139
+It's, uh, really just, um, yeah, trying to incorporate a lot of these big ideas, and we've done a lot of these weird,
+
+482
+00:53:06,140 --> 00:53:12,740
+wonky experiments to just, um, have, uh, doing this holistic approach to this class and,
+
+483
+00:53:13,040 --> 00:53:18,020
+um, yeah, being able to interpret potentially your own results or the results of someone else,
+
+484
+00:53:18,410 --> 00:53:23,569
+uh, for your particular study and then your conclusions having one more citation.
+
+485
+00:53:23,570 --> 00:53:30,680
+So it could be, um, yeah. Following into interpreting your results in that conclusion or what could be a next step.
+
+486
+00:53:30,980 --> 00:53:34,310
+Maybe someone else did, um, within your write up.
+
+487
+00:53:35,480 --> 00:53:38,720
+Yeah. How is that make sense to everyone too?
+
+488
+00:53:39,290 --> 00:53:44,240
+And that again will be due the last that Friday of finals week at midnight.
+
+489
+00:53:46,070 --> 00:53:50,149
+Um, yeah. So that's what I have for that.
+
+490
+00:53:50,150 --> 00:53:54,830
+And so what I want to do now is so I'll go around to folks.
+
+491
+00:53:54,920 --> 00:54:02,210
+Um, ideally, I want people to start kind of coming up if you're doing experiments,
+
+492
+00:54:02,600 --> 00:54:07,610
+um, what are the things whatever, uh, kind of outline your methods a bit.
+
+493
+00:54:08,090 --> 00:54:11,240
+Um, so what, what do you need to, to have to get going?
+
+494
+00:54:11,600 --> 00:54:21,320
+And so I'll be coming around and making sure that we can get everything you need, um, by Thursday, so we can start getting you getting your going.
+
+495
+00:54:22,160 --> 00:54:25,520
+All right. So that's. And this is all I had for. Oh, yeah.
+
+496
+00:54:25,520 --> 00:54:29,299
+Well, uh, yeah, this is all I had for class.
+
+497
+00:54:29,300 --> 00:54:34,940
+I thought we'd have more time, but. Yeah. So once I talk to you, you're free to to leave.
+
+498
+00:54:34,940 --> 00:54:40,130
+And. Yeah, I'll see you everyone on Thursday. And feel free to ask me questions about any of this stuff.
+
+499
+00:54:40,640 --> 00:54:46,250
+Um, yeah. Thank you. All right.
+

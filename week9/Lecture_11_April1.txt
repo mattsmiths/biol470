@@ -1,0 +1,2129 @@
+1
+00:00:09,540 --> 00:00:12,640
+[Auto-generated transcript. Edits may have been applied for clarity.]
+All right. Um, yeah. All right.
+
+2
+00:00:12,660 --> 00:00:15,780
+So, first class in April. Feel like. Yeah.
+
+3
+00:00:15,780 --> 00:00:22,080
+This is, uh. Right. Last month, basically all I have of our course of my semester.
+
+4
+00:00:22,470 --> 00:00:30,510
+Um, yeah. And that's mentioned, uh, hoping to do our final presentations, our last, I think, Thursday in April.
+
+5
+00:00:30,510 --> 00:00:36,390
+And we'll, we'll see how everyone's feeling. So we'll start kind of working through those in the next few weeks on Tuesdays.
+
+6
+00:00:36,990 --> 00:00:41,040
+Um, but yeah, I think we're we're making really good progress.
+
+7
+00:00:42,000 --> 00:00:47,950
+Um, I have a new clicker, which I was excited to use.
+
+8
+00:00:47,970 --> 00:01:19,780
+We'll see if this works. Okay.
+
+9
+00:01:19,780 --> 00:01:22,899
+Sweet. Wow. All right.
+
+10
+00:01:22,900 --> 00:01:26,860
+So now. Yeah. Flexibility. You even stand now. It's exciting.
+
+11
+00:01:27,010 --> 00:01:30,400
+Make these lectures even more dynamic. Hopefully.
+
+12
+00:01:31,210 --> 00:01:35,380
+Um. Yeah. So where are we? Uh, yeah. First, you know, April 1st.
+
+13
+00:01:35,500 --> 00:01:43,480
+Pretty wild. Uh, I switched up the schedule a bit, so we're going to do a little bit on, like, neuroplasticity.
+
+14
+00:01:43,810 --> 00:01:49,270
+Um, motivated a bit. And we'll talk a bit about the frontal lobe.
+
+15
+00:01:49,930 --> 00:01:54,490
+Um, which maybe I won't add any spoilers because that's part of our little intro here.
+
+16
+00:01:54,910 --> 00:01:58,240
+Um, yeah. And then on Thursday, we'll be in this room.
+
+17
+00:01:58,630 --> 00:02:05,230
+We'll actually start analyzing some of the data that we collected, and then we can start, uh,
+
+18
+00:02:05,680 --> 00:02:11,830
+if we have time doing some more planning for final projects and, uh, going through all that good stuff.
+
+19
+00:02:12,370 --> 00:02:17,470
+And so, yeah, I might to do list before Thursday, I'm going to respond to everyone's final project emails.
+
+20
+00:02:17,860 --> 00:02:24,909
+Uh, and then, yeah, make sure everyone and, uh, give suggestions, uh, for what people have proposed.
+
+21
+00:02:24,910 --> 00:02:29,350
+But again, for the most part, it looks pretty good. Cool.
+
+22
+00:02:29,500 --> 00:02:35,739
+All right. So I want to start with a little orientation reminding us of where we are in the brain.
+
+23
+00:02:35,740 --> 00:02:39,010
+Right. So thinking of our anatomy. Um, yeah.
+
+24
+00:02:39,010 --> 00:02:42,999
+There's anyone and you can discuss with your neighbors if you want.
+
+25
+00:02:43,000 --> 00:02:48,850
+But thinking of, you know, what is this large, very large structure that we've been talking about,
+
+26
+00:02:49,180 --> 00:02:56,920
+um, over the last few weeks, um, which creates, you know, the most significant portion of our brain.
+
+27
+00:02:57,880 --> 00:03:01,450
+Um, or you can even. Yeah. Do you remember this?
+
+28
+00:03:01,450 --> 00:03:02,860
+The name of this structure?
+
+29
+00:03:03,340 --> 00:03:13,120
+Um, this core structure here or this structure, which we haven't really talked about, but we'll get into a little bit more in the next few lectures.
+
+30
+00:03:14,560 --> 00:03:20,470
+Why don't we start with even this structure, you know, tricks.
+
+31
+00:03:23,600 --> 00:03:33,589
+Yeah, exactly. Yeah. Uh, I mean, this this is actually kind of tricky because I feel like there's a number of different names uh, we use to describe.
+
+32
+00:03:33,590 --> 00:03:36,980
+Right. This large structure of our brain. Does anyone want to.
+
+33
+00:03:37,280 --> 00:03:44,240
+Even thinking of. I heard I heard some whispers that it sounds good.
+
+34
+00:03:44,930 --> 00:03:48,770
+No, no, no. It's good. It's. No, that's that's why I wanted to do this.
+
+35
+00:03:48,770 --> 00:03:57,770
+Because I think we've been. Yeah, we've talked a lot about substructures, but it's just keeping everything, orienting ourselves.
+
+36
+00:03:58,370 --> 00:04:02,270
+Um, right. So we have the brain stem.
+
+37
+00:04:03,350 --> 00:04:12,649
+This is, uh, cerebellum, which we haven't talked about too much, but responsible for a lot of coordination, movement, um, of behaviors.
+
+38
+00:04:12,650 --> 00:04:15,490
+And then the last part is the cerebrum. Right.
+
+39
+00:04:15,530 --> 00:04:24,080
+And what's really nice is that to have these two together, I feel like the, uh, cerebrum and, uh, cerebellum right there just sound very similar.
+
+40
+00:04:24,320 --> 00:04:28,969
+Can get confused, but in the next few slides will kind of break down the cerebrum,
+
+41
+00:04:28,970 --> 00:04:33,980
+because we've been talking a lot about cortex, which is a part of the cerebrum.
+
+42
+00:04:35,690 --> 00:04:40,130
+Right. So let's see. Hold on. Cool.
+
+43
+00:04:40,250 --> 00:04:49,620
+All right. So here. Right. So looking at, uh, this kind of front view or more um, guess dorsal view of the or anterior view of the brain.
+
+44
+00:04:49,670 --> 00:04:54,049
+So we have our two hemispheres here. This all makes up the cerebrum.
+
+45
+00:04:54,050 --> 00:04:59,960
+So the largest portion of our brain, uh, we can then start to break this down a bit more.
+
+46
+00:04:59,990 --> 00:05:08,330
+Right. So, uh, we talk a lot about cortex in this class, which is the outermost layer of the cerebrum.
+
+47
+00:05:08,780 --> 00:05:11,419
+I feel like, yeah, we might have gone over that pretty quickly.
+
+48
+00:05:11,420 --> 00:05:16,460
+So just again, making sure that, uh, we're clear on, on these really important concepts.
+
+49
+00:05:16,760 --> 00:05:20,480
+Right. So this other most layer is the cerebral cortex.
+
+50
+00:05:21,440 --> 00:05:24,920
+The large structure makes up the whole, uh, cerebrum.
+
+51
+00:05:25,640 --> 00:05:33,380
+Uh, and then this can be broken down into the whole brain, can be broken down into a couple of different classifications of neuron types.
+
+52
+00:05:33,770 --> 00:05:43,910
+So our gray matter and white matter, um, which uh, I think we've touched on, but just a little refresher in the next few slides and then some new,
+
+53
+00:05:44,420 --> 00:05:51,440
+um, again, I think these are ideas we've, uh, kind of talked about without a very clear definition.
+
+54
+00:05:51,440 --> 00:06:00,080
+So, again, just kind of orienting ourselves so that, um, yeah, we all have a clear understanding of kind of these core, really core concepts.
+
+55
+00:06:00,740 --> 00:06:05,360
+So first starting with, you know, just defining again what this gray matter and white matter is.
+
+56
+00:06:06,170 --> 00:06:17,600
+Um, so again, um, the white matter, this is um, taken from, uh, I thought a pretty nice little paper here, just defining, um,
+
+57
+00:06:17,600 --> 00:06:24,290
+kind of these core structures with gray matter being, um, but the color from, uh,
+
+58
+00:06:24,290 --> 00:06:31,579
+this high concentration of cell bodies, um, in one of the outermost layer of our cerebrum.
+
+59
+00:06:31,580 --> 00:06:36,889
+Right. So that's why our brains, if you look at, um, you know, actual human brain,
+
+60
+00:06:36,890 --> 00:06:45,290
+it looks a little grayish compared to the white matter, which comes from, uh, neurons that are primarily myelinated.
+
+61
+00:06:45,560 --> 00:06:55,940
+And this comes from the white matter being a lot of long axons covered in this kind of lipid, uh, or mostly lipid based kind of insulating layer.
+
+62
+00:06:57,590 --> 00:07:04,430
+Uh, and so we've talked a bit about what myelination is, but again, just this little refresher,
+
+63
+00:07:04,880 --> 00:07:09,680
+uh, myelin again is this, uh, lipid rich material that can cover a lot of our nerve cells.
+
+64
+00:07:10,190 --> 00:07:15,890
+Um, what makes up myelin are called glial cells.
+
+65
+00:07:15,920 --> 00:07:19,190
+Again, uh, probably many of you have heard of these things.
+
+66
+00:07:19,580 --> 00:07:23,479
+Uh, glial cells create that myelin wrapping around their neurons.
+
+67
+00:07:23,480 --> 00:07:30,470
+They have no electrical impulses or no action potentials, but they play really critical roles in our nervous system.
+
+68
+00:07:30,710 --> 00:07:37,670
+And they get a bad rep. And like, I'm contributing to that just by defining them very late in this class,
+
+69
+00:07:37,670 --> 00:07:45,590
+I feel like their people are always described them as being so boring and like they don't have any cool electrical, um, you know, activity.
+
+70
+00:07:45,800 --> 00:07:52,730
+But again, without when we there's a ton of correlation when we start to see myelination decrease in glial cells die.
+
+71
+00:07:52,970 --> 00:07:56,930
+That leads to a lot of neurodegenerative degenerative diseases.
+
+72
+00:07:57,350 --> 00:08:06,020
+Um, and they are important in, uh, increasing this snap, the, the speed of electrical impulses across neurons, if you imagine.
+
+73
+00:08:06,200 --> 00:08:14,060
+Right. We've compared neurons to, um, wires that have a ton of weight just talking about, uh, physics of,
+
+74
+00:08:14,420 --> 00:08:20,989
+um, you know, electrical wires and how current runs through wires as an analogy for neurons.
+
+75
+00:08:20,990 --> 00:08:27,110
+You can even break it down even more simply to like a garden hose that water is passing through and that water represents,
+
+76
+00:08:27,530 --> 00:08:34,909
+uh, different ions moving through. If you imagine that water hose has a bunch of, uh, holes in it where water is leaking,
+
+77
+00:08:34,910 --> 00:08:42,950
+myelin will cover all of those little holes except for these kind of, um, we call them nodes of, uh, Ranvier.
+
+78
+00:08:43,460 --> 00:08:50,300
+Right. And so that's where by covering most of these pores or holes, uh, it increases the,
+
+79
+00:08:50,630 --> 00:08:57,380
+the speed at which ions or in our analogy, water can pass through that, that actual, uh, water hose.
+
+80
+00:08:57,800 --> 00:09:00,800
+Um, yeah. So they again, they perform really important structures.
+
+81
+00:09:01,310 --> 00:09:05,280
+And you've probably heard of a bunch of. Different cell types of these glial cells.
+
+82
+00:09:05,280 --> 00:09:09,179
+So, uh, oligo oligodendrocytes.
+
+83
+00:09:09,180 --> 00:09:18,659
+Astrocytes. Microglia, Schwann cells, which are, uh, more common in the peripheral nervous system and in satellite cells,
+
+84
+00:09:18,660 --> 00:09:21,660
+which are also in the peripheral nervous system, creating that myelin.
+
+85
+00:09:22,230 --> 00:09:27,959
+Right. So again, just yeah, orienting us, uh, these big ideas that are important that we,
+
+86
+00:09:27,960 --> 00:09:32,460
+we kind of glazed over a little bit, uh, fast in the beginning of class.
+
+87
+00:09:33,240 --> 00:09:36,360
+All right. So now we're going to, uh, quickly define these.
+
+88
+00:09:36,360 --> 00:09:40,970
+So thigh injury. Yeah.
+
+89
+00:09:40,980 --> 00:09:49,320
+Does anyone want to take a guess? And this is not the best picture here to really look at and get an intuition for what these are.
+
+90
+00:09:49,320 --> 00:09:52,830
+But again, I feel folks may have encountered these ideas.
+
+91
+00:09:53,550 --> 00:09:57,690
+Anyone want to take a guess at what Sophie or Jiri are?
+
+92
+00:10:01,010 --> 00:10:05,570
+Yeah. Eventually. Yeah. Yeah. The peak I the very.
+
+93
+00:10:09,670 --> 00:10:19,600
+Yeah, exactly. So, uh, the opposite. So the so the sulci represent the grooves, uh, in the gyrus or the gyri represent the ridges.
+
+94
+00:10:20,230 --> 00:10:28,150
+Right. And so, yeah, this is a really important and conserved concept in a lot of mammalian brains.
+
+95
+00:10:28,690 --> 00:10:34,270
+Uh, does anyone have a theory as to why this is important, having this folding within the brain?
+
+96
+00:10:35,500 --> 00:10:43,930
+Yeah, exactly. Exactly. Yeah. So it's like, yeah, without expanding the skull or the the volume at which the brain takes up.
+
+97
+00:10:43,930 --> 00:10:52,120
+By having these folds, you can increase the amount of, um, kind of material of neurons within the brain, uh, by having this folding.
+
+98
+00:10:52,630 --> 00:11:03,790
+Uh, what's really interesting, do I have another, um, so people have studied a lot of, um, gyri in the sulci.
+
+99
+00:11:04,060 --> 00:11:14,410
+What they find is that, uh, we can predict some amount of personality or individual differences based on variation we see in the sulci,
+
+100
+00:11:14,410 --> 00:11:18,370
+in gyri of the, um, cerebral cortex.
+
+101
+00:11:18,820 --> 00:11:28,660
+Right. Which I think makes sense in, uh, in the way that, you know, we know that there are differences even in, you know, overall volume of the brain.
+
+102
+00:11:28,930 --> 00:11:37,030
+I think, uh, looking at the sulci in the GI are good, potentially like course indicators of how different brain structures,
+
+103
+00:11:37,030 --> 00:11:41,290
+how different resources are allocated in different brain, you know, in different people.
+
+104
+00:11:41,770 --> 00:11:47,140
+And you can imagine even, you know, people that, um, you know, may be vision impaired.
+
+105
+00:11:47,560 --> 00:11:53,410
+Maybe you see compensation in the occipital lobe, which is someone that, uh, does not have that impairment.
+
+106
+00:11:53,560 --> 00:12:00,140
+Right. So these are characteristics of um. Um.
+
+107
+00:12:00,720 --> 00:12:03,800
+So, bull, I mean, a lot.
+
+108
+00:12:04,250 --> 00:12:12,770
+And we'll talk a bit more about that. But we talked, uh, about these critical periods throughout childhood where, you know,
+
+109
+00:12:12,770 --> 00:12:18,709
+for a lot of our different sensory systems, you'll have a period where having that external,
+
+110
+00:12:18,710 --> 00:12:24,500
+that environmental input is really important in the Hebbian wiring and in kind of
+
+111
+00:12:24,500 --> 00:12:28,490
+creating these connections between different sensory systems and motor output.
+
+112
+00:12:28,910 --> 00:12:34,010
+Right. So the, uh, neurons that, uh, fire together, wired together type of idea.
+
+113
+00:12:34,010 --> 00:12:41,899
+So that helps again form these, uh, really important connections in structures of the brain that make us unique and kind of add,
+
+114
+00:12:41,900 --> 00:12:46,309
+yeah, our experiences to our, our actual brain structure. Yeah.
+
+115
+00:12:46,310 --> 00:12:49,830
+But very good question. Cool.
+
+116
+00:12:50,400 --> 00:12:53,930
+All right. Uh, yeah. Any questions on that? Those.
+
+117
+00:12:53,970 --> 00:12:56,980
+Those ideas. Cool.
+
+118
+00:12:57,790 --> 00:13:03,610
+All right, so we did this. The whole large structures of the cerebrum.
+
+119
+00:13:04,150 --> 00:13:08,770
+Uh, we started breaking that down into the outermost layer being the cerebral cortex.
+
+120
+00:13:09,040 --> 00:13:20,740
+We have our gray, uh, being gray matter being predominantly on myelinated, a lot of cell bodies, the white matter being, uh, a lot more of long axons.
+
+121
+00:13:20,830 --> 00:13:25,690
+Uh, myelinated neurons for sending information. Uh, now we can start, right?
+
+122
+00:13:25,690 --> 00:13:30,460
+We see this color coding, which I think we we've covered a few times.
+
+123
+00:13:31,090 --> 00:13:35,650
+Uh, does anyone remember? Yeah. The four lobes of the cerebral cortex.
+
+124
+00:13:39,640 --> 00:13:44,530
+Yeah. Yeah, exactly.
+
+125
+00:13:45,100 --> 00:13:53,290
+And we've covered these a good bit. Yeah. Uh, yeah. And so this one would be a typical, uh, you have temporal lobe.
+
+126
+00:13:53,650 --> 00:14:01,209
+Frontal lobe. Right. And then yeah, we again, throughout, uh, the course and across weeks,
+
+127
+00:14:01,210 --> 00:14:08,490
+we've been diving into, um, even subregions of these, uh, regions of the cerebral cortex.
+
+128
+00:14:08,500 --> 00:14:12,520
+Right. So all of these lobes are making up the cerebral cortex.
+
+129
+00:14:12,880 --> 00:14:22,630
+Um, we talked about, uh, sensory integration, like S1 in the parietal lobe front, uh, a typical lobe for, uh,
+
+130
+00:14:22,630 --> 00:14:30,520
+when talking about, you know, visual information processing in all of the, uh, layers of, uh, like v1, I think,
+
+131
+00:14:30,520 --> 00:14:38,320
+to B6 in the visual cortex, a little bit of the temporal lobe, especially when talking about the integration of auditory information,
+
+132
+00:14:38,620 --> 00:14:45,100
+especially we talked the most, I think, during our speech and language, uh, lecture about those structures.
+
+133
+00:14:45,460 --> 00:14:51,010
+And then we'll be highlighting a little bit today more of the frontal lobe.
+
+134
+00:14:51,430 --> 00:14:57,910
+Um, which is important. Uh, the motor cortex is they have the primary motor cortex.
+
+135
+00:14:58,330 --> 00:15:02,350
+Um, and we'll start to break down a few other regions within the frontal lobe.
+
+136
+00:15:02,800 --> 00:15:09,580
+Uh, and the reason some key features of this, again, our, uh, performing motor tasks ad set,
+
+137
+00:15:09,580 --> 00:15:14,320
+abstract, think thinking, emotional control, executive function.
+
+138
+00:15:14,770 --> 00:15:17,920
+Um, right. And this is the region that we are.
+
+139
+00:15:17,950 --> 00:15:21,040
+Well, actually, yeah, I guess this is.
+
+140
+00:15:21,040 --> 00:15:23,739
+Okay. So let me continue with the way I've set this up.
+
+141
+00:15:23,740 --> 00:15:31,120
+So, uh, last Thursday, right, we were using our EEG to measure neural correlates of the brain responding to music.
+
+142
+00:15:31,810 --> 00:15:38,890
+Um, right. And so this is why I have this picture. Um, what region of the brain are we hoping?
+
+143
+00:15:39,760 --> 00:15:44,409
+Yeah, exactly. The frontal lobe is what we're hoping to get signal from.
+
+144
+00:15:44,410 --> 00:15:49,780
+And so that's motivation for why we're going to look at a little, uh, some cool,
+
+145
+00:15:49,780 --> 00:15:56,290
+interesting features in the frontal lobe and then trying to understand a little bit of plasticity in the frontal lobe and how it can,
+
+146
+00:15:56,650 --> 00:16:00,130
+uh, change over time. So.
+
+147
+00:16:01,430 --> 00:16:07,760
+All right? Yeah. This is a paper we're going to talk about on Thursday, but kind of gives us some, um,
+
+148
+00:16:09,380 --> 00:16:17,780
+a good pipeline for kind of analyzing and looking for signal, uh, of the frontal lobe responding to actual Tubb music.
+
+149
+00:16:18,170 --> 00:16:21,530
+Um, so I think that'll that'll be fun. We'll cover that more on Thursday.
+
+150
+00:16:23,120 --> 00:16:27,620
+All right. So, yeah, we're hoping to record from the frontal lobe.
+
+151
+00:16:27,860 --> 00:16:34,610
+Um, we can actually start to break down the frontal lobe into five different regions.
+
+152
+00:16:34,610 --> 00:16:39,950
+And again, some that we've covered in class. So the primary motor cortex,
+
+153
+00:16:40,310 --> 00:16:49,580
+premotor cortex frontal I feel we haven't really covered but also important in actually controlling opening and closing of eyelids.
+
+154
+00:16:50,330 --> 00:16:57,920
+Um so again adding in that motor control. Not surprising that that's part of, uh, the frontal lobe, which again controls a lot of motor function.
+
+155
+00:16:58,280 --> 00:17:07,690
+Uh, and then uh, Broca's area we covered part of Broca's area is uh, which is um, responsible for language processing.
+
+156
+00:17:07,700 --> 00:17:11,120
+Part of that is in the frontal lobe as well. Right.
+
+157
+00:17:11,150 --> 00:17:15,740
+And so here we can actually start to map out those subfields into the frontal lobe.
+
+158
+00:17:16,220 --> 00:17:25,850
+Uh, so this is this large blue region which is actually closer to our forehead is called the prefrontal cortex.
+
+159
+00:17:25,850 --> 00:17:29,690
+And again, this idea we we've talked about the prefrontal cortex a little bit.
+
+160
+00:17:30,050 --> 00:17:36,200
+Uh, but you can see Broca's area and then right premotor cortex primary motor cortex, all of that good stuff.
+
+161
+00:17:37,960 --> 00:17:45,910
+Right? So not only a recording from the frontal lobe, but specifically with we're hoping we're recording from the prefrontal lobe.
+
+162
+00:17:47,290 --> 00:17:48,519
+Right. And then here, yeah.
+
+163
+00:17:48,520 --> 00:17:58,270
+All of the, uh, important functions that are associated with all of these sub, uh, sub, uh, structures within the frontal lobe.
+
+164
+00:18:00,560 --> 00:18:04,310
+All right. So here is what we hope we're measuring.
+
+165
+00:18:04,520 --> 00:18:08,150
+The prefrontal cortex and the very tip of our frontal lobe.
+
+166
+00:18:09,530 --> 00:18:18,650
+Um, this is known as the primary substrate of the highest cognitive functions even within our frontal cortex.
+
+167
+00:18:19,160 --> 00:18:25,190
+So yes, we have substrate, uh, correlates of personality, emotions, motor controls, intimate integration.
+
+168
+00:18:25,640 --> 00:18:30,170
+And this is actually one of the last regions to develop in adolescence.
+
+169
+00:18:30,500 --> 00:18:33,920
+Uh, so you've probably heard this idea of.
+
+170
+00:18:33,920 --> 00:18:43,460
+Well, yeah. And they've experienced maybe, um, adolescents taking more risky behavior during adolescence in their teens.
+
+171
+00:18:43,820 --> 00:18:51,950
+Um, yeah, later in their teens. And often we attribute that to the prefrontal cortex not fully being formed.
+
+172
+00:18:51,950 --> 00:18:59,150
+And, um, still a lot of, um, developing of that executive function and a lot of impulse control.
+
+173
+00:18:59,450 --> 00:19:04,160
+Uh, that's kind of last to, to finalize and develop.
+
+174
+00:19:05,720 --> 00:19:15,740
+Um, yeah. So all of that is kind of packed into portions of the prefrontal cortex, as well as playing a really important role in working memory.
+
+175
+00:19:17,660 --> 00:19:29,150
+Right. Um, yeah. And so we can actually start to break down even the prefrontal cortex into, um, subregions within that, that structure.
+
+176
+00:19:29,630 --> 00:19:39,230
+Uh, so here we have the dorsolateral prefrontal cortex, the ventral lateral prefrontal cortex, and the orbital frontal, uh, prefrontal cortex.
+
+177
+00:19:39,710 --> 00:19:44,720
+Does anyone have an idea? So here are the three colored regions here.
+
+178
+00:19:44,720 --> 00:19:48,200
+So this, like light green, this darker green at the bottom,
+
+179
+00:19:48,500 --> 00:19:55,370
+and then like this orangish orangish color on the side here based on the anatomical descriptions.
+
+180
+00:19:55,370 --> 00:19:59,690
+So dorsal lateral ventral lateral and orbital frontal.
+
+181
+00:20:00,050 --> 00:20:07,670
+Do you have any idea of where these, uh what regions of prefrontal cortex uh, we're describing here.
+
+182
+00:20:08,600 --> 00:20:13,190
+So we'll start with dorsal lateral. Where do we think?
+
+183
+00:20:14,550 --> 00:20:17,980
+I'm sorry I missed that. Read the read.
+
+184
+00:20:18,000 --> 00:20:25,950
+And so why do you. I guess we can start to break it down. So we have lateral, which, um.
+
+185
+00:20:25,950 --> 00:20:31,230
+Yeah. There's. Anyone want to take a lateral verses? Anyone remember the contrast?
+
+186
+00:20:32,010 --> 00:20:35,399
+Yeah, exactly. So medial generally the center of the brain.
+
+187
+00:20:35,400 --> 00:20:39,840
+Lateral often moving to the side. We have two of these lateral ones.
+
+188
+00:20:39,840 --> 00:20:48,030
+So I think a good guess for being on the side here. And then we have just dorsal versus ventral which also this is kind of a weird right.
+
+189
+00:20:48,030 --> 00:20:52,020
+We have but we're taking this side view. Uh does anyone.
+
+190
+00:20:53,430 --> 00:20:59,910
+So I guess the you're saying that the orange would be more you said dorsal.
+
+191
+00:21:00,050 --> 00:21:04,040
+Yeah. It's more in terms of room.
+
+192
+00:21:05,340 --> 00:21:08,450
+Um, actually. Ops. And then.
+
+193
+00:21:08,480 --> 00:21:16,250
+Yeah, the orientation of the brain is a little weird here. So again, this is, um, the front of the brain here, the back of the brain here.
+
+194
+00:21:16,250 --> 00:21:18,590
+And you don't. Yeah. I guess you can kind of. Yeah.
+
+195
+00:21:18,590 --> 00:21:26,710
+You kind of see a difference in, uh, your top of the brain versus the bottom, and you wouldn't have a contrast and you wouldn't think it's ventral.
+
+196
+00:21:26,720 --> 00:21:33,740
+Yeah, yeah, I would say the orange and like, other green.
+
+197
+00:21:35,030 --> 00:21:39,530
+Yeah. Uh, orange is a ventral.
+
+198
+00:21:39,890 --> 00:21:44,810
+This one is, uh, the dorsal. Yeah. Yeah, yeah.
+
+199
+00:21:44,810 --> 00:21:50,420
+And so that that is correct. So here we have uh, the dorsal lateral.
+
+200
+00:21:50,420 --> 00:21:55,819
+So all of these are kind of on um, the side, the outermost side of the brain.
+
+201
+00:21:55,820 --> 00:22:06,170
+So they're lateral. And then we have dorsal and ventral being to uh anatomical terms differentiating these two with dorsal being slightly to the,
+
+202
+00:22:06,380 --> 00:22:13,940
+to the front in this orientation. Uh, then our ventral more towards the back and then, uh, orbital frontal.
+
+203
+00:22:14,990 --> 00:22:19,969
+Yeah. We just know it's kind of closer to um, yeah.
+
+204
+00:22:19,970 --> 00:22:23,810
+It's like front and lower, which we haven't really talked about orbital as being,
+
+205
+00:22:23,810 --> 00:22:28,969
+uh, more of a descriptor of the, that region of the brain than anatomical feature.
+
+206
+00:22:28,970 --> 00:22:32,060
+Yeah. Yeah.
+
+207
+00:22:32,060 --> 00:22:35,690
+That's kind of, um, I know there's some like,
+
+208
+00:22:35,780 --> 00:22:43,309
+I think it's part of that region of the prefrontal cortex involved in, like, uh, movement of the eyelids.
+
+209
+00:22:43,310 --> 00:22:47,030
+So. Yeah, that's that would be my guess. Is so cool.
+
+210
+00:22:47,030 --> 00:22:51,519
+That makes sense to folks. All right.
+
+211
+00:22:51,520 --> 00:22:57,219
+So for a second, honing in on the prefrontal cortex role in memory,
+
+212
+00:22:57,220 --> 00:23:05,830
+especially since I think a lot of the activities or the lot of the tasks we were playing around with on Thursday were recalling listening to music,
+
+213
+00:23:06,070 --> 00:23:11,680
+recalling past emotions or, um, either like listening to a new song.
+
+214
+00:23:11,680 --> 00:23:17,080
+So evoking this kind of, uh, novel. Um, yeah.
+
+215
+00:23:17,350 --> 00:23:20,500
+Learning, uh, responding to a novel stimulus.
+
+216
+00:23:20,530 --> 00:23:28,150
+But for the most part, uh, kind of trying to evoke some kind of emotional memory, uh, response with a lot of the songs being played.
+
+217
+00:23:29,170 --> 00:23:34,209
+Right. And so this is, uh, some review from a few slides or a few classes ago.
+
+218
+00:23:34,210 --> 00:23:38,890
+We're looking at different types of memory, uh, where we have declarative memory.
+
+219
+00:23:39,760 --> 00:23:45,370
+Right. So this is um, types of information that can be explicitly stated.
+
+220
+00:23:45,370 --> 00:23:50,620
+So like facts episodic memory. So events that have happened autobiographical.
+
+221
+00:23:51,490 --> 00:23:59,770
+Right. And you can break that down even more into semantic being those facts and then episodic being, you know, recalling information from your past.
+
+222
+00:24:02,270 --> 00:24:05,740
+Um and then we have non declarative memory.
+
+223
+00:24:05,750 --> 00:24:16,250
+Right. So this is like emotional um experiences muscle memory uh playing sports, driving all of these things that we can use in our day to day life.
+
+224
+00:24:17,060 --> 00:24:18,860
+Right. And then working memory.
+
+225
+00:24:19,280 --> 00:24:27,740
+Um, right, which is kind of temporarily, temporarily storing information that is being used to process the world as we're navigating through it.
+
+226
+00:24:28,130 --> 00:24:36,620
+And so, um, your working memory is what your prefrontal cortex is really, um, uh, being active, uh,
+
+227
+00:24:36,620 --> 00:24:44,210
+that's the the type of memory that it's, it's most active, uh, when performing those, uh, those tasks.
+
+228
+00:24:44,750 --> 00:24:50,570
+Um, right. So important in the media planning goals, decision making, uh, executive function.
+
+229
+00:24:50,960 --> 00:24:56,000
+Um, yeah. Even, like organizing all of these, these good things.
+
+230
+00:24:56,000 --> 00:25:00,350
+The prefrontal cortex is involved in, uh, for working memory.
+
+231
+00:25:01,820 --> 00:25:06,110
+Right. And so we have we went over this slide also for working memory.
+
+232
+00:25:07,010 --> 00:25:12,379
+Um, where. Yeah, your short term and memory and working memory.
+
+233
+00:25:12,380 --> 00:25:23,000
+There is a lot of overlap. Uh, some folks will kind of attribute these to being the same, um, type of memory, uh, for the most part, with, uh,
+
+234
+00:25:23,000 --> 00:25:30,860
+short term and working memories, you know, within seconds to minutes that our brain is kind of integrating and processing information.
+
+235
+00:25:31,370 --> 00:25:38,540
+Um, and then if that information is, uh, needed to be consolidated and committed to long term memory, um,
+
+236
+00:25:38,540 --> 00:25:45,470
+that's when often we'll go to the hippocampus and lead to longer term of these synaptic and um,
+
+237
+00:25:46,340 --> 00:25:52,820
+um, kind of like, uh, structural changes, you know, whether it like further storing the memory.
+
+238
+00:25:53,420 --> 00:25:56,629
+Yeah. Great question. Differentiate. Yeah.
+
+239
+00:25:56,630 --> 00:26:06,260
+So, yeah, I mean, part of, um, part of what helps commit things from short term to long term is attention,
+
+240
+00:26:06,260 --> 00:26:10,370
+how much attention you are paying to things, which is, uh,
+
+241
+00:26:10,370 --> 00:26:15,649
+essentially how how much value you are attributing to that information, which there are a number of,
+
+242
+00:26:15,650 --> 00:26:20,960
+of, uh, ways that you can modulate the amount of value for a piece of information.
+
+243
+00:26:21,290 --> 00:26:30,710
+Um, if you are predicting that you are going to experience this stimulus in the future, um, that kind of primes your, your brain to,
+
+244
+00:26:30,980 --> 00:26:38,840
+um, start forming longer term connections, start forming the long term potentiation that leads to whenever I see this stimulus,
+
+245
+00:26:38,840 --> 00:26:45,350
+I'm now going to trigger, you know, this set of neurons within my hippocampus or all basal ganglia,
+
+246
+00:26:45,350 --> 00:26:49,100
+all of these different kind of learning and memory, uh, structures in the brain?
+
+247
+00:26:49,640 --> 00:26:50,660
+Um, yeah.
+
+248
+00:26:50,660 --> 00:27:02,270
+So that's one of like and that's a very, um, kind of a very human type of learning is being able to predict what information is useful to you.
+
+249
+00:27:02,510 --> 00:27:10,370
+Often, uh, we see short term switching to long term whenever a stimulus is being presented multiple like many, many times.
+
+250
+00:27:10,370 --> 00:27:16,189
+Right. And that leads to, um, just again, this Hebbian wiring, neurons that are firing together,
+
+251
+00:27:16,190 --> 00:27:19,610
+starting to wire together, leading to those long term synaptic changes.
+
+252
+00:27:19,610 --> 00:27:26,329
+But also very good question. Yeah. And hopefully it's also much more complicated than, you know, those those short answers.
+
+253
+00:27:26,330 --> 00:27:33,440
+But I think the attention portion I think is a really, um, interesting and kind of cool human,
+
+254
+00:27:33,920 --> 00:27:40,610
+very human feature of learning and memory we talked about before, like attaching like an emotion to it or something.
+
+255
+00:27:40,610 --> 00:27:45,589
+Right? Yeah. For sure, for sure. Yeah. Um, yeah.
+
+256
+00:27:45,590 --> 00:27:53,870
+So bringing in. Right. Uh, like amygdala and this all this is all a really fascinating like, systems neuroscience approach of,
+
+257
+00:27:54,470 --> 00:28:01,160
+um, the kind of the more centers of your brain that are active during,
+
+258
+00:28:01,160 --> 00:28:11,060
+uh, an event or stimulus can lead to more likelihood of content, uh, committing, consolidating that memory into long term rather than just short term.
+
+259
+00:28:12,080 --> 00:28:15,559
+So, yeah, great. Great points. Um, okay.
+
+260
+00:28:15,560 --> 00:28:21,410
+And then so looking at great short term memory and like this working memory structure.
+
+261
+00:28:21,410 --> 00:28:26,299
+Right. So really this exactly, uh, central executive being uh,
+
+262
+00:28:26,300 --> 00:28:32,990
+really key to this is executive functioning, uh, of ourselves are, you know, of what makes us us.
+
+263
+00:28:33,410 --> 00:28:39,469
+And then we broke this down into having this inner voice or the, uh, phonological loop,
+
+264
+00:28:39,470 --> 00:28:43,700
+which is like this, uh, speech or sound component of our working memory.
+
+265
+00:28:44,090 --> 00:28:53,000
+Uh, and then, yeah, you know, we can we have this inner voice which helps monologue our thoughts, our feelings, that planning that we do.
+
+266
+00:28:53,240 --> 00:28:59,180
+Uh, and then we also can kind of imagine things. Right? And that's called our visual sketchpad, our inner eye.
+
+267
+00:28:59,420 --> 00:29:04,010
+So we can hold images within our brain, our. Memory for, you know, for periods of time.
+
+268
+00:29:04,460 --> 00:29:08,660
+All of again, all of this kind of falls into that prefrontal cortex function.
+
+269
+00:29:09,200 --> 00:29:20,240
+Right. And so we're um, yeah, we're we're going to now play around with testing, uh, how differences in our working memory capacity.
+
+270
+00:29:20,780 --> 00:29:26,450
+And so this is, you know, this is based off, uh, you know, uh, psychology test.
+
+271
+00:29:26,450 --> 00:29:29,870
+It's not the same thing that a psychologist would perform.
+
+272
+00:29:29,870 --> 00:29:35,930
+So we we're not going to read into the performance on this, this test too much.
+
+273
+00:29:36,470 --> 00:29:43,500
+Um, in fact, I performed it yesterday on myself, and I got I remembered nothing, so which maybe is.
+
+274
+00:29:43,520 --> 00:29:47,030
+Yeah. I mean, that was to me that says I need more sleep.
+
+275
+00:29:47,510 --> 00:29:54,800
+Um, but yeah. Okay. So the idea here is I will recite six sentences, try and remember as much as you can.
+
+276
+00:29:55,280 --> 00:30:02,569
+Uh, and then I'm going to, we're going to, uh, recall a specific piece of information from those sentences.
+
+277
+00:30:02,570 --> 00:30:06,380
+So I'm not going to tell you what that is right now. Um, yeah.
+
+278
+00:30:06,560 --> 00:30:12,200
+But the idea is to try and listen and keep as much as possible in your working memory.
+
+279
+00:30:14,240 --> 00:30:17,870
+All right. Ready? Um. All right.
+
+280
+00:30:19,010 --> 00:30:23,840
+So sentence one. Real estate costs are going up.
+
+281
+00:30:26,270 --> 00:30:31,820
+Sentence two the Atlantic Ocean is warm in the summer.
+
+282
+00:30:34,710 --> 00:30:40,740
+Sentence three. Uh, there is a lot of interest in electric cars.
+
+283
+00:30:43,870 --> 00:30:48,430
+Sentence for some reptiles only once a year.
+
+284
+00:30:51,050 --> 00:30:56,810
+Sentence. Five kids look at screens 60% of their waking life.
+
+285
+00:30:59,480 --> 00:31:04,640
+Sentence six. Neuroscience is an increasingly popular major.
+
+286
+00:31:06,950 --> 00:31:09,979
+All right. You walking out? Yeah.
+
+287
+00:31:09,980 --> 00:31:13,970
+Yeah, yeah. That good? And forth. And now the task.
+
+288
+00:31:14,450 --> 00:31:20,630
+Try and remember the last word of as many sentences of those sentences as possible.
+
+289
+00:31:24,080 --> 00:31:41,240
+Open up some. You know, it's good news.
+
+290
+00:31:44,600 --> 00:31:49,340
+All right. Is everyone. Everyone has reached their capacity.
+
+291
+00:31:50,180 --> 00:31:56,150
+Okay, so here we have up summer cards.
+
+292
+00:31:56,540 --> 00:32:01,550
+Year life major. All right. So again, I got zero.
+
+293
+00:32:01,580 --> 00:32:03,500
+Or maybe one if I'm being generous.
+
+294
+00:32:04,010 --> 00:32:13,339
+Um, the district and like, again, based off a five test, I think, um, the timing like I was firing them off pretty rapid.
+
+295
+00:32:13,340 --> 00:32:16,460
+And these are long sentences as well and kind of complex.
+
+296
+00:32:16,730 --> 00:32:20,809
+Um, yeah. So there is some distribution of scores,
+
+297
+00:32:20,810 --> 00:32:29,030
+which is indicative if you can keep all of these sentences and particularly it's kind of a multiple stage, uh,
+
+298
+00:32:29,030 --> 00:32:32,899
+analysis of like you're not only storing what the sentences,
+
+299
+00:32:32,900 --> 00:32:38,540
+but being able to recall the sentence and then pull out the very last word of that sentence.
+
+300
+00:32:38,540 --> 00:32:45,590
+Right. So this really challenging, um, task for evaluating the capacity of working memory.
+
+301
+00:32:46,160 --> 00:32:49,819
+Right. So six of six is very high I think probably. Yeah.
+
+302
+00:32:49,820 --> 00:32:56,210
+This the distribution of these sentences would be probably closer to zero, like maybe 1 or 2.
+
+303
+00:32:56,630 --> 00:33:07,460
+Um, right. But it's tests like this that we can use to evaluate kind of the capacity, how well a working memory is working is, uh, well, functioning.
+
+304
+00:33:08,240 --> 00:33:14,690
+Um, and so what's a cool study that was performed using a test like this?
+
+305
+00:33:15,350 --> 00:33:22,190
+Um, this this study was called working memory capacity predicts dopamine synthesis capacity in the human striatum.
+
+306
+00:33:22,760 --> 00:33:31,610
+And so what they were doing is essentially they were performing that task except much more standardized and probably a little bit easier.
+
+307
+00:33:31,610 --> 00:33:35,750
+And they figured out the timing out. Um, right.
+
+308
+00:33:35,780 --> 00:33:38,809
+So your performance on that task is on the x axis.
+
+309
+00:33:38,810 --> 00:33:45,140
+And then the measured activity in the left caudate is on the y axis.
+
+310
+00:33:45,680 --> 00:33:50,990
+And so we'll break down especially what this measured activity is really indicative of.
+
+311
+00:33:51,560 --> 00:33:58,580
+Um but you can tell from the title is that there's some activity within this region of the brain that correlates with dopamine.
+
+312
+00:33:58,850 --> 00:34:00,260
+And so, um,
+
+313
+00:34:00,530 --> 00:34:09,499
+essentially what the the authors were arguing is that this task in like your capacity for recall within the working memory is indicative of,
+
+314
+00:34:09,500 --> 00:34:14,300
+um, the amount of dopamine within your prefrontal cortex.
+
+315
+00:34:15,080 --> 00:34:18,200
+Right. So it's. Yeah. And we'll, we'll break it down a little bit.
+
+316
+00:34:18,800 --> 00:34:23,710
+Um, right. And so what is this left caudate.
+
+317
+00:34:23,750 --> 00:34:31,940
+What's, what is that structure. So actually part of the basal ganglia which plays this is a slide from a few
+
+318
+00:34:31,940 --> 00:34:35,720
+lectures ago but plays a really important role in learning memory and reward.
+
+319
+00:34:36,080 --> 00:34:39,770
+Um it plays a role in motivating behaviors.
+
+320
+00:34:40,070 --> 00:34:49,970
+Often we think of it abstractly as a stop go for behavior in kind of, um, really important in determining focus.
+
+321
+00:34:50,510 --> 00:34:57,680
+Right. So again, all of these things starting to connect right, of the prefrontal cortex being really involved in executive function.
+
+322
+00:34:58,010 --> 00:35:06,260
+Um, uh, which means being able to kind of train focus on one thing or another, eliminate distractions.
+
+323
+00:35:06,530 --> 00:35:15,680
+So maybe it's not surprising that there is a lot of innovation or connections from the basal ganglia into that prefrontal cortex.
+
+324
+00:35:16,250 --> 00:35:22,700
+Right. Okay. And then um, right. So I'm talking about basal ganglia because the Covid is part of the basal ganglia.
+
+325
+00:35:22,700 --> 00:35:26,990
+So here these are all different structures in the basal ganglia I think have uh yeah.
+
+326
+00:35:27,260 --> 00:35:32,659
+So the stride striatum um, is uh, one part of that basal ganglia.
+
+327
+00:35:32,660 --> 00:35:42,500
+There's a lot of, uh, GABAergic neurons and then dopaminergic neurons within the striatum and specifically in the cord.
+
+328
+00:35:42,710 --> 00:35:46,370
+There's a lot of these dopaminergic neurons. Right.
+
+329
+00:35:46,370 --> 00:35:49,100
+So going back to our figure here.
+
+330
+00:35:49,310 --> 00:35:59,090
+So the authors were saying that by measuring this working memory task, um, which is supposed to be an indicative of right,
+
+331
+00:35:59,120 --> 00:36:02,929
+there's a ton of things that can influence how well you're performing on this task,
+
+332
+00:36:02,930 --> 00:36:08,240
+including the challenge of the length of the sentences and how how fast I'm reading them.
+
+333
+00:36:08,900 --> 00:36:17,420
+Uh, but they're saying that your measured activity in your left caudate, which is indicative of dopamine innervation,
+
+334
+00:36:17,420 --> 00:36:23,240
+the amount of dopamine in that prefrontal cortex can predict your your performance in working memory tasks.
+
+335
+00:36:23,720 --> 00:36:31,250
+Right. So, um, right. They argue that working memory is correlated with dopamine transmission transmission.
+
+336
+00:36:31,250 --> 00:36:35,420
+And then they did a bunch of MRI studies with this as well.
+
+337
+00:36:36,050 --> 00:36:43,070
+Right. And so this is looking at uh, the uh basal ganglia of that caudate structure and just showing that.
+
+338
+00:36:43,480 --> 00:36:50,570
+Um. Folks that have this high performance on this task versus lower performance.
+
+339
+00:36:50,600 --> 00:36:59,150
+Seeing increased activity. And they go on to actually quantify the amount get some metric of dopamine production across individuals.
+
+340
+00:36:59,750 --> 00:37:04,489
+Um, yeah. And so I thought this is just one paper.
+
+341
+00:37:04,490 --> 00:37:13,670
+I think there's been a lot of follow up showing a lot of, you know, the role of dopamine in, um, we've covered, uh, memory and learning.
+
+342
+00:37:14,030 --> 00:37:22,669
+Um, also just promoting plasticity through changes in excitability or even during development, um,
+
+343
+00:37:22,670 --> 00:37:30,890
+all of these different neurotransmitters being really important in, again, promoting the wiring of neurons that are firing together.
+
+344
+00:37:31,280 --> 00:37:41,419
+Um, so I think this is kind of showing, again, just the prefrontal cortex, um, uh, activity and uh,
+
+345
+00:37:41,420 --> 00:37:47,299
+being indicative of that, that levels of variability in levels of dopamine across individuals and work.
+
+346
+00:37:47,300 --> 00:37:50,660
+So that's how I'm getting monitoring. Yeah.
+
+347
+00:37:50,660 --> 00:37:53,840
+Yeah. Right, right. Um, yeah. Yeah.
+
+348
+00:37:53,840 --> 00:37:59,569
+And so yeah, not only does the basal ganglia innervate into prefrontal cortex but also hippocampus.
+
+349
+00:37:59,570 --> 00:38:05,390
+Right. So all of these things saying, you know, dopamine is playing a, uh, potentially important role in.
+
+350
+00:38:06,830 --> 00:38:08,210
+All right. So. Right.
+
+351
+00:38:08,240 --> 00:38:14,930
+Zooming zooming out a bit right where you're talking about all the, all the amazing things that the prefrontal cortex is involved in,
+
+352
+00:38:16,670 --> 00:38:24,200
+we dove into working memory, and we did a working memory task, um, and then showed the importance of dopamine.
+
+353
+00:38:24,620 --> 00:38:31,280
+Um, well, at least to correlate that dopamine, uh, production, uh, correlates with,
+
+354
+00:38:32,000 --> 00:38:36,050
+you know, at least a few studies showing, uh, working memory performance.
+
+355
+00:38:37,400 --> 00:38:47,420
+Um, and this kind of leads us to this idea that the prefrontal cortex actually is plastic is can change over time.
+
+356
+00:38:47,420 --> 00:38:51,350
+We can form new connections as we're forming new emotions.
+
+357
+00:38:51,350 --> 00:38:58,400
+Right. That can lead to, uh, modulation or plasticity, plasticity induced changes, uh, within this region of the brain.
+
+358
+00:39:00,350 --> 00:39:08,960
+Um, right. And so showing this so this is these are neurons within the prefrontal cortex here.
+
+359
+00:39:09,380 --> 00:39:13,430
+Um, the these are kind of three regions of this neuron.
+
+360
+00:39:13,430 --> 00:39:21,260
+This is a pyramidal cell. Uh, this is the distal region, proximal region and your basal region here at the bottom.
+
+361
+00:39:22,160 --> 00:39:27,560
+And so what we're going to look at is how the prefrontal cortex changes over time.
+
+362
+00:39:28,730 --> 00:39:31,219
+Right. And so what differences do you observe.
+
+363
+00:39:31,220 --> 00:39:42,770
+So looking at this figure here moving down is showing um this is these are actually uh neurons taking from human brains,
+
+364
+00:39:43,010 --> 00:39:46,340
+um, from one month all the way to 50 years old.
+
+365
+00:39:46,790 --> 00:39:54,409
+And so this is looking at that basal region, so close, uh, more closer to your dendrites and even close to your cell body.
+
+366
+00:39:54,410 --> 00:39:59,270
+And in the distal oblique. So maybe closer to you're looking more at your axons there.
+
+367
+00:39:59,270 --> 00:40:03,770
+So, um, look at these structures, these images.
+
+368
+00:40:03,770 --> 00:40:07,310
+So. Right. You're looking at these darker regions are part of your neurons.
+
+369
+00:40:07,820 --> 00:40:11,959
+Um, what do you observe? I guess going from top to bottom.
+
+370
+00:40:11,960 --> 00:40:18,260
+And they can be descriptors. Um, you don't have to define what structures you're looking at.
+
+371
+00:40:18,950 --> 00:40:28,400
+But yeah, you can either talk with your neighbor for a minute and then we can kind of come back, uh, and actually define what what what's happening.
+
+372
+00:41:28,150 --> 00:41:32,350
+All right. Cool. Um, yeah. What what differences do people notice?
+
+373
+00:41:35,230 --> 00:41:42,300
+And one more thing. And then what solutions and what form?
+
+374
+00:41:45,830 --> 00:41:50,680
+And then. At 16 years, it looks like it's pretty.
+
+375
+00:41:52,260 --> 00:41:56,790
+And the last one. Mhm. Mhm. And over time it's degrading.
+
+376
+00:41:57,120 --> 00:42:01,320
+Mhm. Yeah. Any any other observations.
+
+377
+00:42:03,590 --> 00:42:13,640
+See some nods. Generally people are agreeing. Anyone know any differences across basil in the distal oblique?
+
+378
+00:42:20,150 --> 00:42:26,770
+Just don't make your 16 years. More like for me at six.
+
+379
+00:42:28,030 --> 00:42:34,240
+No. Yeah, yeah, yeah.
+
+380
+00:42:34,250 --> 00:42:38,060
+And does anyone have an idea of what? Maybe those circles are.
+
+381
+00:42:47,470 --> 00:42:52,400
+No. Okay. Yeah. But generally I think great observations.
+
+382
+00:42:52,400 --> 00:43:00,590
+Those are the big things to pull out. Right. So, um, looking from one month to 16, right.
+
+383
+00:43:00,670 --> 00:43:05,110
+If you look at the, uh, the basal, um, structures.
+
+384
+00:43:05,500 --> 00:43:11,620
+Right. Yeah. You do see this increase in density of both the, uh, these circular structures,
+
+385
+00:43:12,070 --> 00:43:17,100
+which are actually they these are projections coming from your neurons.
+
+386
+00:43:17,110 --> 00:43:25,180
+So we call these these we can call them spines, um, indicative of different synaptic density.
+
+387
+00:43:25,720 --> 00:43:31,480
+Um, that's either developing, um, increasing or decreasing, right.
+
+388
+00:43:31,480 --> 00:43:36,340
+As you're starting to age. Uh, and then in the distal oblique, you see the same trend.
+
+389
+00:43:36,670 --> 00:43:48,820
+Um, except you might see. Right. You see this almost closer to 2.5 and 16 years old, you see maybe less of a dramatic, what we call pruning or maybe,
+
+390
+00:43:49,000 --> 00:43:57,070
+uh, removing some of those connections, um, from, um, uh, one particular neuron to another.
+
+391
+00:43:57,550 --> 00:44:03,310
+Right. And so we actually can quantify. Yeah.
+
+392
+00:44:03,310 --> 00:44:13,990
+So also kind of hard to see. But this is actually measuring the number of spines, um, uh, standardize across a certain distance.
+
+393
+00:44:14,260 --> 00:44:23,320
+And so you can look at that across those three regions. And this previous to the slide for the basal, the proximal oblique and the distal oblique.
+
+394
+00:44:23,830 --> 00:44:31,210
+And essentially you see this trend which I think probably makes intuitive sense to average to us as we've covered,
+
+395
+00:44:31,360 --> 00:44:38,950
+you know, a lot of these concepts, right, is that you have these periods where you're actually increasing the amount of connections
+
+396
+00:44:38,950 --> 00:44:44,260
+or spines that you're you're seeing in all of these different regions of that neuron.
+
+397
+00:44:44,650 --> 00:44:48,879
+And then over time, they start to decrease as we we age.
+
+398
+00:44:48,880 --> 00:44:53,410
+And you're seeing some of these, um, some amount of pruning.
+
+399
+00:44:53,410 --> 00:44:56,830
+But actually at the very end there's a lot of cell death.
+
+400
+00:44:57,280 --> 00:45:05,330
+Um, but what a cool thing that you can actually see here is this idea of where what we mentioned of,
+
+401
+00:45:05,350 --> 00:45:10,840
+of kind of pruning of actually seeing from one month to 2.5 years,
+
+402
+00:45:10,900 --> 00:45:21,100
+especially in the basal region of this neuron, you're seeing this really big increase in, um, synaptic density and even the, the size of the neuron.
+
+403
+00:45:21,100 --> 00:45:29,290
+And then at 16 years, um, that can start to, uh, you can start to see pruning from, again, these neurons that are wiring together,
+
+404
+00:45:29,290 --> 00:45:35,949
+firing together, even connections that were existing if they're not used can actually degrade over time.
+
+405
+00:45:35,950 --> 00:45:38,380
+And that happens throughout development.
+
+406
+00:45:38,800 --> 00:45:47,000
+Uh, and it's actually an important part of learning is this pruning portion of, of connections within our brain regions.
+
+407
+00:45:48,520 --> 00:45:52,210
+Uh, yeah. Absolutely. I think yeah.
+
+408
+00:45:52,240 --> 00:46:02,350
+Yeah, yeah. Around um, during like a mid 20s is when people think you hit kind of your plateau of the number of neurons.
+
+409
+00:46:02,620 --> 00:46:04,480
+And we talked about this some summer cycle.
+
+410
+00:46:04,570 --> 00:46:13,300
+There's some neurodegenerative genesis that happens, um, even in the hippocampus, there's some like there's a bunch of, um,
+
+411
+00:46:13,450 --> 00:46:19,210
+pretty new studies showing that you're seeing some regeneration of a small amount of cells in the hippocampus,
+
+412
+00:46:19,540 --> 00:46:24,279
+not super indicative of kind of performance of or even like learning new things.
+
+413
+00:46:24,280 --> 00:46:27,790
+But there are kind of neurons recycling in the hippocampus.
+
+414
+00:46:28,000 --> 00:46:31,900
+But a lot of neurons that are regenerating happen in periphery sensory.
+
+415
+00:46:31,990 --> 00:46:35,140
+I think we talked about olfactory receptor neurons regenerating.
+
+416
+00:46:35,950 --> 00:46:41,259
+Um, yeah. But all this all kind of fits into this idea of neuroplasticity.
+
+417
+00:46:41,260 --> 00:46:45,460
+And we've been talking about this especially in learning and memory throughout development.
+
+418
+00:46:45,820 --> 00:46:54,760
+Right. This idea of our nervous system can modify itself, can change, um, as much as we think of this, especially in response to an external stimuli.
+
+419
+00:46:54,760 --> 00:46:58,690
+Right. So have been, uh, Hebbian wiring.
+
+420
+00:47:00,310 --> 00:47:09,550
+And generally we, we think that the brain's plasticity, its ability to change is higher in early life compared to later in life.
+
+421
+00:47:10,600 --> 00:47:15,280
+Right. And so we can break that down into two kind of core types of neuroplasticity.
+
+422
+00:47:15,580 --> 00:47:24,760
+One being structural neuroplasticity. Right. So actually being able to change um, synapses, adding more neurons,
+
+423
+00:47:24,760 --> 00:47:30,040
+forming synaptic connections that are associated with a particular stimulus or forming.
+
+424
+00:47:30,040 --> 00:47:33,490
+Um, yeah. Um, yeah. Learning and memory.
+
+425
+00:47:34,120 --> 00:47:43,630
+Uh, and then we have this functional neuroplasticity, which is um, yeah, can happen after, uh, injury or dysfunction.
+
+426
+00:47:43,870 --> 00:47:53,150
+Um, and we can think of that as. We talked about, um, canvas strength of a, um.
+
+427
+00:47:53,930 --> 00:47:58,790
+Ah, the amount of neurotransmitter being released when the neuron is firing or stimulus is being presented.
+
+428
+00:47:59,060 --> 00:48:07,280
+That is one way that you can have a decrease or change in functional neuroplasticity in terms of, um, like injury or dysfunction.
+
+429
+00:48:07,580 --> 00:48:19,700
+A good example is um, and this is a classic example of uh, if there are, you know, during development, if, um, there's some type,
+
+430
+00:48:19,730 --> 00:48:29,959
+uh, if you have like, uh, uh, I'm forgetting what the actual, um, diagnosis is, but one is developing a little bit slower.
+
+431
+00:48:29,960 --> 00:48:36,830
+You're not processing as much. I think it's often like some color information as much as the other eye.
+
+432
+00:48:37,190 --> 00:48:40,849
+Um, often your, uh, optometrist will give you a patch.
+
+433
+00:48:40,850 --> 00:48:44,450
+Or the child. At least this was, um, a common treatment.
+
+434
+00:48:44,480 --> 00:48:49,459
+You get a patch over your, uh, the eye that's further along in development.
+
+435
+00:48:49,460 --> 00:48:57,680
+And that leads to this plasticity, this compensation, where the brain is now increasing plasticity in the eye that was underdeveloped.
+
+436
+00:48:57,920 --> 00:49:02,780
+And often that can correct for, um, any kind of dysfunction that was occurring.
+
+437
+00:49:02,930 --> 00:49:08,900
+So again, this, these tricks and that, that occurs because now you're having more sensory input into that,
+
+438
+00:49:09,140 --> 00:49:17,030
+that single eye, you're getting more of this Hebbian learning. You're getting more of this, uh, visual stimuli, uh, activating, uh,
+
+439
+00:49:17,030 --> 00:49:22,790
+the region of the brain that's responsible for processing information with, with, let's say, the right eye instead of the left.
+
+440
+00:49:23,030 --> 00:49:28,399
+And that leads to, again that that composite compensation. So that can be a form of of neuroplasticity.
+
+441
+00:49:28,400 --> 00:49:36,290
+But also I'm sure that leads to you structural plasticity changes, especially in early development for neuroplasticity.
+
+442
+00:49:39,260 --> 00:49:44,540
+People would be like, yeah, like working your brain out.
+
+443
+00:49:44,750 --> 00:49:50,750
+Kind of. Yeah. Because I know, like my grandma said that diagnosed like super early stage.
+
+444
+00:49:51,050 --> 00:49:56,510
+Yeah. Yeah. But it makes you need to start doing those sooner.
+
+445
+00:49:57,050 --> 00:50:02,870
+Yeah. That's. Yeah. So is that kind of like that processing that you're trying to get?
+
+446
+00:50:04,610 --> 00:50:08,419
+Yeah, I think all of that falls into it to these ideas.
+
+447
+00:50:08,420 --> 00:50:17,060
+And I mean, right, that's I mean pretty clearly seeing this kind of decrease in the number of connections,
+
+448
+00:50:17,120 --> 00:50:21,260
+um, for this, these particular neurons in the prefrontal cortex,
+
+449
+00:50:21,770 --> 00:50:31,280
+the idea is that by stimulating these neurons more, by keeping them active, you're less likely to have this degradation, right.
+
+450
+00:50:31,550 --> 00:50:36,140
+And that again comes from again saying it all the time.
+
+451
+00:50:36,140 --> 00:50:43,760
+But the Hebbian I feel like it's a really nice concept for these really complicated ideas, but, um, yeah,
+
+452
+00:50:43,760 --> 00:50:51,050
+keeping the neurons active, uh, recalling information, uh, can lead to maintaining those connections for longer in life.
+
+453
+00:50:52,220 --> 00:50:55,850
+Yeah, but also very good question. And good. Yeah.
+
+454
+00:50:55,880 --> 00:51:01,280
+Good. Relating it back to, um, like neurodegeneration I think is, uh, yeah.
+
+455
+00:51:01,280 --> 00:51:05,149
+Especially for plasticity because we know that decreases over time.
+
+456
+00:51:05,150 --> 00:51:11,240
+And there's a lot of, uh, fact we talked about these Tai tau protein aggregations that can just,
+
+457
+00:51:11,240 --> 00:51:17,870
+can also lead to decreases in plasticity, um, that accumulate over as we age.
+
+458
+00:51:18,500 --> 00:51:22,459
+Um, okay. Right. So we talked about this is also a review slide.
+
+459
+00:51:22,460 --> 00:51:25,910
+So this idea of critical and sensitive periods throughout development.
+
+460
+00:51:26,390 --> 00:51:30,650
+Um and right so these are, you know, critical stages in behavior.
+
+461
+00:51:30,980 --> 00:51:38,240
+This is this was particularly looking at language, um, again, just showing that um, right,
+
+462
+00:51:38,240 --> 00:51:45,740
+there are periods throughout development where we are more or less primed to receive external stimuli and then,
+
+463
+00:51:45,980 --> 00:51:52,190
+uh, tune our, our neural circuits, uh, so that we can process that information more efficiently.
+
+464
+00:51:52,190 --> 00:52:00,620
+And that can be, again, neurogenesis forming new connections or synaptic pruning, removing connections that are not useful to us,
+
+465
+00:52:00,980 --> 00:52:08,240
+leading to, um, kind of solidify, solidifying a lot of these, uh, important neural pathways.
+
+466
+00:52:10,250 --> 00:52:15,410
+Um, so we talked about critical periods.
+
+467
+00:52:15,980 --> 00:52:17,280
+Uh, generally. Right.
+
+468
+00:52:17,300 --> 00:52:26,300
+It's believed that after these critical after 2025, we said that that's where it's, you know, it's much harder to learn new things,
+
+469
+00:52:26,300 --> 00:52:33,740
+new languages, especially, um, there's been a ton of work going into how do we reopen critical periods?
+
+470
+00:52:33,800 --> 00:52:42,890
+Uh, a lot of work in mouse models, often using the auditory system to learn, um, kind of complex auditory cues.
+
+471
+00:52:43,310 --> 00:52:53,540
+And so what this paper was doing, the, the big idea is that, uh, they basically we're working to reopen the auditory cortex critical period.
+
+472
+00:52:53,810 --> 00:53:01,940
+So increasing overall plasticity. Um, and the way they were doing that is using some molecular manipulations.
+
+473
+00:53:02,330 --> 00:53:10,430
+So they used uh, diazepam, uh, which is actually a Gaba, uh, uh, antagonist.
+
+474
+00:53:10,430 --> 00:53:16,670
+Right. So it'll actually bind competitively to where, uh, Gaba will be released and gathers, uh,
+
+475
+00:53:16,700 --> 00:53:23,390
+also a really important, um, neurotransmitter or, and neuromodulator for neuroplasticity.
+
+476
+00:53:23,780 --> 00:53:28,339
+So the idea is that, that uh, and when they added in diazepam,
+
+477
+00:53:28,340 --> 00:53:35,690
+they actually saw your critical period actually, uh, move either earlier or actually close faster.
+
+478
+00:53:35,690 --> 00:53:46,640
+So removing again, this neurotransmitter that's really important for increasing plasticity, facilitating, um, these new synaptic changes being made.
+
+479
+00:53:47,120 --> 00:53:56,780
+Uh, what's interesting is that they found that playing white noise would actually increase and open up the critical period for the auditory cortex.
+
+480
+00:53:57,230 --> 00:54:05,840
+Um, and there's been a few other studies kind of showing this, trying to play around with these ideas, uh, in humans as well.
+
+481
+00:54:06,110 --> 00:54:13,909
+Uh, but there are a number even kind of honing in on the idea of using these molecular manipulations.
+
+482
+00:54:13,910 --> 00:54:17,239
+So dyad, the diazepam. Um, right.
+
+483
+00:54:17,240 --> 00:54:21,410
+You can also get a prescription. Um, yeah.
+
+484
+00:54:21,410 --> 00:54:27,559
+From, from a doctor for diazepam. But we can also think of all of these other drugs that we know are, um,
+
+485
+00:54:27,560 --> 00:54:34,670
+able to increase dopamine, serotonin, um, Gaba within the brain that promotes plasticity.
+
+486
+00:54:34,820 --> 00:54:39,799
+So a lot of these things, uh, a lot of our, um, amphetamines.
+
+487
+00:54:39,800 --> 00:54:48,950
+So things like, um, um, Adderall, even drugs, like cocaine can, um,
+
+488
+00:54:48,950 --> 00:54:56,690
+increase the amount of dopamine in your brain and lead to an increase in plasticity, um, in forming these new connections.
+
+489
+00:54:57,170 --> 00:54:58,280
+The problem. Right.
+
+490
+00:54:58,280 --> 00:55:08,630
+So obviously, with cocaine being on the extreme end and having this, um, I mean, there's a ton of danger in using the drug outside of.
+
+491
+00:55:08,870 --> 00:55:12,470
+Right, just binding to dopamine, dopamine receptors.
+
+492
+00:55:12,800 --> 00:55:20,980
+Right. And that's because you have this, uh, this CD for cocaine that is, um, right.
+
+493
+00:55:21,170 --> 00:55:32,540
+Very low compared to a lot of other substances, a lot of other, um, amphetamines, where it's if you take a low dose that can lead to a lot of,
+
+494
+00:55:32,780 --> 00:55:38,930
+um, physiological, physiological changes that can lead to, um, you know, crisis and potentially.
+
+495
+00:55:40,110 --> 00:55:43,740
+You know, death. Um, and so you can achieve that, you can hit that.
+
+496
+00:55:43,860 --> 00:55:51,240
+Uh, CD a lot, a lot lower concentrations and things like Adderall or other kind of controlled,
+
+497
+00:55:51,510 --> 00:56:00,660
+um, amphetamines that are performing, um, more, more specific, uh, modulation of dopaminergic.
+
+498
+00:56:00,870 --> 00:56:06,160
+Uh. Systems and other, uh, plasticity circuits within the brain.
+
+499
+00:56:06,700 --> 00:56:13,570
+Um, yeah. So I'll definitely I'll dive into more of and I've been meaning to do more on, um,
+
+500
+00:56:13,930 --> 00:56:20,590
+how different drugs interact with different, um, neuromodulators and neurotransmitters within the brain.
+
+501
+00:56:20,980 --> 00:56:24,130
+Um, maybe we'll get to that. Maybe next class.
+
+502
+00:56:24,520 --> 00:56:29,020
+Uh, but maybe I was hoping this would be a little primer on on those things.
+
+503
+00:56:29,020 --> 00:56:36,129
+And I think why those things are really useful in terms, especially in terms of prescribed, uh, amphetamines and,
+
+504
+00:56:36,130 --> 00:56:44,710
+and other drugs that can help kind of at least increase the tension, increase critical periods, um, for folks.
+
+505
+00:56:46,700 --> 00:56:52,009
+Cool. All right, so I think this is yeah, one of the last slides I had.
+
+506
+00:56:52,010 --> 00:56:56,899
+So this kind of fits with, you know, a lot of the ideas we've been talking about.
+
+507
+00:56:56,900 --> 00:57:01,210
+So this is looking at, um, a set of neurons in mice.
+
+508
+00:57:01,220 --> 00:57:03,350
+I think these are also cortical neurons.
+
+509
+00:57:03,950 --> 00:57:12,260
+Uh, looking at the amount of sleep, uh, where, uh, one group is allowed to achieve REM sleep and have standard sleep.
+
+510
+00:57:12,530 --> 00:57:17,870
+The others are not, are being disrupted as they're entering REM sleep.
+
+511
+00:57:18,380 --> 00:57:28,310
+Um, and so. Right. Uh, does anyone notice any big changes across the standard sleep in in the room deprived sleep.
+
+512
+00:57:37,060 --> 00:57:40,290
+Spines. Yeah, yeah.
+
+513
+00:57:40,480 --> 00:57:44,200
+This one's. It's actually it's. Kind of.
+
+514
+00:57:44,530 --> 00:57:48,120
+Yeah, it's not the most descriptive figure, but eventually.
+
+515
+00:57:48,970 --> 00:57:55,690
+And you said more spines during sleep during the REM district discussion.
+
+516
+00:57:56,410 --> 00:58:01,180
+Yeah. Yeah. Which I distribution I messed up, but yeah.
+
+517
+00:58:01,180 --> 00:58:08,860
+So the idea is that, um REM will actually and sleep is really important in this neuroplasticity process.
+
+518
+00:58:08,860 --> 00:58:19,630
+So actually pruning right. Again uh removing connections that aren't used, um, and helping solidify these connections that are being used,
+
+519
+00:58:19,990 --> 00:58:27,910
+uh, um, all throughout our brain during, uh, whenever we're achieving that REM sleep, sleep state.
+
+520
+00:58:28,390 --> 00:58:36,250
+Uh, and so what this figure is supposed to be showing is that you're actually removing more of these connections, removing of the of those,
+
+521
+00:58:36,250 --> 00:58:47,470
+uh, those, uh, those spines during standard sleep compared to REM sleep, at least in this, in this study looking at, um, uh, these mice.
+
+522
+00:58:48,610 --> 00:58:59,830
+Um, yeah. And then, um, yeah, this was I want to include, uh, a table showing, um, some more kind of critical periods of development,
+
+523
+00:59:00,220 --> 00:59:06,420
+uh, for are like, uh, this is across a few different organisms, uh, right.
+
+524
+00:59:06,430 --> 00:59:14,020
+Showing that there is this critical periods and periods of higher or lower plasticity conserved across animals.
+
+525
+00:59:14,470 --> 00:59:21,940
+Um, and this kind of breaks down, um, a little bit of, of those critical periods in the prefrontal cortex,
+
+526
+00:59:22,360 --> 00:59:26,019
+um, looking at the audio cortex in visual cortex in humans.
+
+527
+00:59:26,020 --> 00:59:30,180
+And then, uh, you can compare that across, again, a few different organisms.
+
+528
+00:59:30,190 --> 00:59:34,810
+Okay. Cool. Yeah. And that's all I had for today.
+
+529
+00:59:35,200 --> 00:59:39,040
+Um, yeah. So yeah, a little primer again.
+
+530
+00:59:39,040 --> 00:59:44,230
+We'll get to implementing a lot of this knowledge about prefrontal cortex.
+
+531
+00:59:44,650 --> 00:59:48,820
+Um, and kind of recalling emotions, memories on Thursday.
+
+532
+00:59:48,820 --> 00:59:56,296
+And we'll start processing data and, uh, yeah, thinking about the final portion of class and presentation.
+

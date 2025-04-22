@@ -1,0 +1,1253 @@
+1
+00:00:02,500 --> 00:00:09,460
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Cool. All right. So today the goal is to play around with um.
+
+2
+00:00:09,730 --> 00:00:14,830
+Yeah. Tool and neuroscience tool we've been talking about for a bit, but we'll learn a little bit about today.
+
+3
+00:00:14,830 --> 00:00:16,930
+Uh, these electroencephalogram.
+
+4
+00:00:16,930 --> 00:00:26,560
+So, uh, noninvasive way of giving kind of course, measurements of neural activity, uh, within the human brain, also using other animals as well.
+
+5
+00:00:26,590 --> 00:00:29,920
+But we will be trying it out on ourselves today.
+
+6
+00:00:30,670 --> 00:00:34,600
+So, um. Yeah, reminder where we are.
+
+7
+00:00:34,960 --> 00:00:45,180
+Um, big thing, a couple little notes, and I had a few intro slides that I'll probably cut short, but maybe I'll give you all high level overviews.
+
+8
+00:00:45,190 --> 00:00:52,030
+But big reminder that we have, uh, the write up for activity six and seven due tomorrow at midnight.
+
+9
+00:00:52,540 --> 00:01:03,970
+Um, yeah, again, I think a little bit less, um, you know, uh, demanding in terms of the write up in the analysis than I think the previous one,
+
+10
+00:01:04,360 --> 00:01:09,249
+uh, for the activity six have also pre generated some figures.
+
+11
+00:01:09,250 --> 00:01:15,159
+If you don't want to do your own Python analysis, which I encourage you to do, you can write in the instructions.
+
+12
+00:01:15,160 --> 00:01:21,700
+There's a link to uh, a bunch of figures you can pick to uh any figures that will help support your hypothesis.
+
+13
+00:01:22,000 --> 00:01:30,340
+And then activity seven. Right. That one's, uh, more general thinking about this idea of associative learning, uh, in animals,
+
+14
+00:01:30,340 --> 00:01:36,850
+in bodies and patients and doing more of, yeah, theoretical hypothesis and experiment design.
+
+15
+00:01:36,850 --> 00:01:41,970
+So just reach out. Yeah. And any questions on those right now I'm happy to answer.
+
+16
+00:01:42,580 --> 00:01:51,910
+Yeah. Reach out if you run to any issues. All right, so for today, um, again, we'll be working with groups.
+
+17
+00:01:52,300 --> 00:01:59,430
+Uh, the idea is to start out will form a hypothesis that we can test in class with our edges,
+
+18
+00:01:59,750 --> 00:02:04,000
+have a few different examples of some experiments that you all can run.
+
+19
+00:02:04,420 --> 00:02:11,770
+Um, so the first is kind of can we use these edges to measure neuro sponsors to novelty?
+
+20
+00:02:12,400 --> 00:02:20,320
+Um, and so this is backed by a bunch of, uh, really interesting research where they've used more sophisticated EEG to pick up,
+
+21
+00:02:20,590 --> 00:02:24,220
+uh, this signature of novelty in the parietal, frontal, parietal lobe.
+
+22
+00:02:24,730 --> 00:02:30,280
+Um, so the idea is, um, actually introducing some novel stimulus.
+
+23
+00:02:30,700 --> 00:02:33,339
+So again, this is there's a little bit of flexibility here.
+
+24
+00:02:33,340 --> 00:02:38,500
+So you can load something on your laptop, you can play a sound that someone has never heard before.
+
+25
+00:02:38,860 --> 00:02:44,950
+Um, and the idea is we are hoping to pick up this characteristic, what we call a P300.
+
+26
+00:02:45,280 --> 00:02:54,340
+So in the parietal lobe, this is a signature that's, uh, of broad kind of correlated neural activity that can be picked up by these EEGs.
+
+27
+00:02:54,670 --> 00:03:00,280
+But essentially, after a novel stimulus, you'll see this pretty large amplitude, uh,
+
+28
+00:03:00,280 --> 00:03:05,950
+spike around 300, uh, maybe half a half a second after that stimulus is presented.
+
+29
+00:03:06,520 --> 00:03:10,600
+So when we're playing around with the set up, essentially you can start recording,
+
+30
+00:03:10,750 --> 00:03:15,489
+present some stimuli, understand when that stimuli is be being presented.
+
+31
+00:03:15,490 --> 00:03:23,080
+And then uh, we'll probably next class work on actually processing your own, uh, recordings and looking for those signatures.
+
+32
+00:03:24,550 --> 00:03:30,040
+Cool. The second is looking for neural correlates, correlates of emotion or relaxation.
+
+33
+00:03:30,250 --> 00:03:39,639
+Uh, so there is another paper that looked at, uh, playing familiar music, trying to evoke either relaxed thoughts.
+
+34
+00:03:39,640 --> 00:03:44,410
+I guess it could be the opposite as well as I definitely have songs that kind of invoke anxiety,
+
+35
+00:03:44,770 --> 00:03:49,389
+uh, in myself, but looking for kind of broad changes in prefrontal cortex.
+
+36
+00:03:49,390 --> 00:03:55,810
+So we'd be putting the electrodes basically, uh, on your forehead and then looking for any characteristic changes.
+
+37
+00:03:57,880 --> 00:04:01,930
+And the third is actually measuring changes in the occipital lobe.
+
+38
+00:04:01,930 --> 00:04:08,080
+So in the you put the electrodes on the back of your head. Uh, and here I think intuitive sense.
+
+39
+00:04:08,350 --> 00:04:12,819
+Right. One control is kind of keeping your eyes closed, opening them, just getting,
+
+40
+00:04:12,820 --> 00:04:17,110
+starting to, uh, process more visual information and then you can do the same ideas.
+
+41
+00:04:17,110 --> 00:04:23,800
+The first example. So present the novel stimulus. You can look at a screen, um, someone could shine a light in your,
+
+42
+00:04:23,860 --> 00:04:30,490
+your face and then try and pick up again these correlates, uh, within the EEG of, uh, your brain responding to that.
+
+43
+00:04:31,930 --> 00:04:38,499
+Cool. So I want to start with those just to get you all thinking before we even get into groups.
+
+44
+00:04:38,500 --> 00:04:43,299
+And I'll kind of run through these intro slides really quickly because I'll have to.
+
+45
+00:04:43,300 --> 00:04:46,870
+Yeah, we'll set a few things up, but I think that should be pretty quick.
+
+46
+00:04:48,100 --> 00:04:53,440
+Um, yeah. So again on the slides are on canvas two if you want to look over those again.
+
+47
+00:04:53,440 --> 00:05:01,900
+But the three examples, and certainly if you want to play around and just do some other ideas and uh, experiments, you're welcome to do that.
+
+48
+00:05:03,160 --> 00:05:07,540
+Cool. All right. So going to quick intro.
+
+49
+00:05:07,630 --> 00:05:12,100
+So right we've last class we talked a bit and all through lecture we've been
+
+50
+00:05:12,100 --> 00:05:16,240
+talking about noninvasive tools for kind of functional imaging within the brain.
+
+51
+00:05:16,690 --> 00:05:24,249
+Um we know about magnetic magnetic resonance imaging which is more of a stable look at structures.
+
+52
+00:05:24,250 --> 00:05:32,140
+Anatomy of the brain. Right. We have um, characteristic readouts where we can understand what is maybe abnormal, what is normal.
+
+53
+00:05:32,260 --> 00:05:37,000
+Right. So that is a really important diagnostic tool, functional fMRI.
+
+54
+00:05:37,360 --> 00:05:42,459
+Um, we we talked about last class is where blood oxygen levels can be tracked throughout the brain.
+
+55
+00:05:42,460 --> 00:05:48,010
+And this is a correlate of, uh, different neural tissues becoming active or inhibited.
+
+56
+00:05:48,760 --> 00:05:53,410
+Um, and so you'll often see bold fMRI. And that's exactly what we just saw.
+
+57
+00:05:53,590 --> 00:05:57,850
+Blood oxygen level dependent functional magnetic resonance.
+
+58
+00:05:57,850 --> 00:05:59,290
+So whole mouthful.
+
+59
+00:05:59,290 --> 00:06:08,799
+And then we talked about um Pet or positron emission tomography tomography which is adding some kind of radioactive tracer to your bloodstream.
+
+60
+00:06:08,800 --> 00:06:12,340
+And same idea as you're tracking this tracer through your blood.
+
+61
+00:06:12,670 --> 00:06:17,950
+Um, and the idea is that you'll have more blood flow to areas of the brain that's more active.
+
+62
+00:06:18,280 --> 00:06:23,110
+And so, again, you can really understand the functional relationship of different tissues to different activities.
+
+63
+00:06:23,740 --> 00:06:28,120
+Right. And so we went over these last class I'm not going to spend too much time.
+
+64
+00:06:28,540 --> 00:06:34,869
+Uh, but then there's a whole host of other tools you can use to really, uh, again, noninvasively study the brain.
+
+65
+00:06:34,870 --> 00:06:40,840
+And at the very end we have our EEG, their electric in gram or graphite.
+
+66
+00:06:41,800 --> 00:06:45,820
+Um, and so this was on the title slide. But the big idea here.
+
+67
+00:06:46,790 --> 00:06:51,590
+I like this figure. Um, it's coming from this kind of, like, primer on GS.
+
+68
+00:06:51,950 --> 00:07:00,170
+Um, I'll post all the papers. I, um, we go through here, but it's kind of comparing, um, what would be, uh,
+
+69
+00:07:01,070 --> 00:07:04,790
+what we'll start measuring within a single cell, what an action potential is like.
+
+70
+00:07:04,790 --> 00:07:11,750
+So that's, you know, a one on one interview with someone versus local field potentials, which is what we're doing with our electrodes.
+
+71
+00:07:11,990 --> 00:07:17,930
+Right. Which is going in. You're adding a probe to tissue. You're hearing a lot of of chatter and noise.
+
+72
+00:07:17,930 --> 00:07:28,040
+So that's like a busy press room. Um, and then electrocardiograms are like, um, recording crowds from uh, uh, uh, a stadium.
+
+73
+00:07:28,040 --> 00:07:36,800
+Right. So you're getting these very, very large scale, um, uh, signals or correlates of different activity within the brain.
+
+74
+00:07:37,130 --> 00:07:42,880
+Right? So of course, as you're going from right to left, you're getting more precise, but.
+
+75
+00:07:42,920 --> 00:07:45,139
+Right, these are more invasive techniques. Right.
+
+76
+00:07:45,140 --> 00:07:52,490
+So measuring that single axon potential, you have to add electrode or use techniques to measure within that specific cell.
+
+77
+00:07:52,490 --> 00:07:55,940
+Here we are saying let's just place electrodes around our brain.
+
+78
+00:07:56,120 --> 00:08:06,140
+Can we get correlates of, um, electrical activity, of changes in, uh, magnetic fields simply by putting probes around our brain?
+
+79
+00:08:06,950 --> 00:08:13,310
+Yeah. Question would be the goal, I guess, or with, um, doing single neuron.
+
+80
+00:08:14,240 --> 00:08:17,630
+Yeah. Great. Great question. So often.
+
+81
+00:08:18,950 --> 00:08:30,019
+Yeah. So a lot of applications. So even like if we go to characterizing different neuro populations and how they respond to a specific stimulus, um,
+
+82
+00:08:30,020 --> 00:08:38,510
+you can, you know, take, take neurons out, create like cell cultures of different neurons and then add in specific stimuli.
+
+83
+00:08:38,810 --> 00:08:47,900
+And again just see how much variability or even if you have populations that um, I guess you could do genetic manipulations and right,
+
+84
+00:08:47,960 --> 00:08:56,000
+come up with some mutation within whatever genes that are expressed within a neuron and then see how that affects, um, yeah.
+
+85
+00:08:56,030 --> 00:09:02,149
+Single cell, uh, action potentials. So it's a it's pretty widely used in a lot of.
+
+86
+00:09:02,150 --> 00:09:06,650
+Yeah, diagnostics, um, understanding sensory perception or even.
+
+87
+00:09:06,650 --> 00:09:11,090
+Yeah, higher level perception. But on getting that single cell precision.
+
+88
+00:09:11,420 --> 00:09:15,079
+And so the idea is you often you don't do that in isolation.
+
+89
+00:09:15,080 --> 00:09:21,920
+Right. You'll take um, you'll get action potentials or uh, yeah, depolarization across different cell types.
+
+90
+00:09:21,920 --> 00:09:28,459
+And so you can kind of create this holistic view of kind of how signals are propagating in the brain often.
+
+91
+00:09:28,460 --> 00:09:35,930
+Yeah, right. Typically this is used in model systems because yeah, it's it's a lot more challenging to do that in humans.
+
+92
+00:09:36,200 --> 00:09:44,870
+Right. We certainly do local field potential measurements in, in humans um, and eggs and a lot of other noninvasive tools.
+
+93
+00:09:44,870 --> 00:09:49,219
+Yeah. Hopefully that kind of answers. Yeah. Sweet. All right.
+
+94
+00:09:49,220 --> 00:09:53,930
+Yeah. History of yeah. What these eggs have kind of looked like across time.
+
+95
+00:09:53,930 --> 00:09:58,340
+So starting. Yeah. The earliest eggs all the way back in like 1940s.
+
+96
+00:09:58,760 --> 00:10:09,200
+Um, these really massive, uh, pieces of equipment to measure again, these course changes in, um, electrical potential all the way down to.
+
+97
+00:10:09,470 --> 00:10:13,100
+Yeah. Then this paper throws in some other really interesting applications.
+
+98
+00:10:13,100 --> 00:10:17,149
+So, like this brain computer interface, uh, which I'll have a few slides on.
+
+99
+00:10:17,150 --> 00:10:23,420
+But I think this is also often a really good kind of teaching engineering tool of, like, um,
+
+100
+00:10:23,660 --> 00:10:31,580
+using, trying to train your, um, figure out ways of manipulating your neural activity to,
+
+101
+00:10:31,790 --> 00:10:36,649
+um, either, like, create a pattern that will trigger, like some, um,
+
+102
+00:10:36,650 --> 00:10:43,520
+like a motor or something by kind of coding in either thresholds or specific frequencies that you're looking for.
+
+103
+00:10:43,520 --> 00:10:49,999
+So by kind of, um, thinking about things or, uh, presenting a certain stimuli.
+
+104
+00:10:50,000 --> 00:10:57,979
+Right. You can generate this signal through the EEG and that can lead to the triggering of some, um, like electronic.
+
+105
+00:10:57,980 --> 00:11:05,000
+Right. And this is this idea of brain computer interfaces, which you can do with EEG is cool.
+
+106
+00:11:05,090 --> 00:11:12,060
+All right. So, um, generally a pipeline for understanding behavioral neuroscience with these EEGs is right.
+
+107
+00:11:12,080 --> 00:11:18,410
+You have some activity that you're doing a protocol. You're getting this course signal coming through often through multiple electrodes.
+
+108
+00:11:18,800 --> 00:11:22,550
+Um, you're then referencing where these electrodes are on your brain.
+
+109
+00:11:23,210 --> 00:11:27,560
+And you often will see differences in activity across these different regions.
+
+110
+00:11:28,100 --> 00:11:33,500
+Uh, there's some amount of filtering because, again, outside your brain, there's a ton of noise.
+
+111
+00:11:33,890 --> 00:11:41,120
+The big, um, if you're continue within this field and especially using tools like this, um, 60Hz, right.
+
+112
+00:11:41,120 --> 00:11:44,330
+This is, uh, frequency that comes from all of our electronics.
+
+113
+00:11:44,690 --> 00:11:47,370
+That's one frequency that you always. Have to filter out.
+
+114
+00:11:47,630 --> 00:11:53,870
+So and there's a ton of other, um, depending on what signatures, uh, of the brain you're interested in.
+
+115
+00:11:54,140 --> 00:11:58,760
+Um, you, uh, know, what filters to add in or filter out?
+
+116
+00:12:00,140 --> 00:12:07,610
+Uh, then you can start doing some, um, kind of specific selection for specific wave type.
+
+117
+00:12:07,610 --> 00:12:14,509
+So it could be on amplitude or again, even more targeted frequency, um, doing repetition.
+
+118
+00:12:14,510 --> 00:12:20,990
+And then you can perform some amount of classification based on different protocols that you may be, uh, going through.
+
+119
+00:12:21,920 --> 00:12:26,530
+Right. Until all of that kind of creates this loop here, which goes through stimulus,
+
+120
+00:12:26,550 --> 00:12:29,840
+you have some behavior, you're getting some readout of the brain activity.
+
+121
+00:12:29,840 --> 00:12:36,740
+During that behavior, you start decoding or classifying, um, what the brain is doing during that behavior.
+
+122
+00:12:37,190 --> 00:12:44,120
+Uh, and then you can kind of repeat. And now you have a signature of what your brain looks like performing a particular activity.
+
+123
+00:12:46,100 --> 00:12:49,490
+Cool. Um, yeah. So tons of studies using EEG.
+
+124
+00:12:49,510 --> 00:12:57,640
+So looking at sleep patterns, epilepsy. Um, looking at the effects of stroke or just kind, of course, uh, brain damage.
+
+125
+00:12:57,650 --> 00:13:05,960
+So if you are not seeing activity in a specific region, um, that you normally would say a septal lobe after presenting a visual stimulus.
+
+126
+00:13:06,650 --> 00:13:10,280
+Right. These are all can be indications of things going wrong in the brain.
+
+127
+00:13:12,390 --> 00:13:18,070
+Right. So I want I had a few slides on sleep because we didn't. We've been talking about it but didn't get into it too much.
+
+128
+00:13:18,090 --> 00:13:22,020
+I'm just going to cruise through these a bit. I think they are really fascinating.
+
+129
+00:13:22,020 --> 00:13:27,360
+Right. So, uh, again, sleep is really as studied often through use of eggs.
+
+130
+00:13:27,720 --> 00:13:34,230
+Um, from an evolutionary standpoint, it seems like sleep is very disadvantageous because we're really inactive.
+
+131
+00:13:34,530 --> 00:13:40,640
+If you think of other animals, you could be susceptible to providers, but it's super well conserved across organisms, right?
+
+132
+00:13:40,650 --> 00:13:45,540
+So it must be doing something important. Um, there's a lot of variability in sleep.
+
+133
+00:13:45,540 --> 00:13:51,390
+So uh, seals actually experience, uh, because they need to be swimming.
+
+134
+00:13:51,720 --> 00:14:01,200
+These are marine mammals. Um, while almost continuously, um, they need some portion of their body to be kind of active and aware,
+
+135
+00:14:01,440 --> 00:14:09,000
+while maybe the other portion is still is able to rest and get whatever benefits there are, uh, within the brain from sleep.
+
+136
+00:14:09,390 --> 00:14:16,560
+So we call that unique uni hemispheric sleep, where one hemispheres in a sleep state while the other hemisphere is still active.
+
+137
+00:14:16,560 --> 00:14:23,210
+So this is conserved across, uh, some like gray with a lot of whales, a lot of marine mammals, and actually in birds as well.
+
+138
+00:14:23,220 --> 00:14:26,250
+So birds will, uh, some birds. Um, yeah.
+
+139
+00:14:26,250 --> 00:14:29,129
+You'll have half, one half of their brain actually in the sleep state,
+
+140
+00:14:29,130 --> 00:14:36,030
+the other half of active and some birds can actually still be in the air and flying while half of their brain is asleep.
+
+141
+00:14:36,570 --> 00:14:39,600
+Um, yeah. So some really interesting variation.
+
+142
+00:14:41,100 --> 00:14:44,730
+Uh, insects also have sleep. We define it a little bit differently.
+
+143
+00:14:45,120 --> 00:14:50,909
+Um, instead of, you know, we think of sleep as being hours of inactivity, uh, with flies.
+
+144
+00:14:50,910 --> 00:14:55,110
+It's almost minutes. Right. And so often we measure that using this.
+
+145
+00:14:55,530 --> 00:14:58,650
+We call it a Drosophila activity monitor or dam.
+
+146
+00:14:59,010 --> 00:15:06,780
+So it's like if this fly hasn't crossed this, uh, this period of a tube in five minutes, it's considered asleep.
+
+147
+00:15:06,780 --> 00:15:10,050
+So this really coarse, weird way of quantifying sleep.
+
+148
+00:15:11,040 --> 00:15:15,749
+I'm going to skip this, but this is one way of, um, basically, uh,
+
+149
+00:15:15,750 --> 00:15:22,890
+measuring sleep is using a light Geiger time, which is normalized to circadian through light dark cycles.
+
+150
+00:15:23,250 --> 00:15:29,040
+Um, so it kind of removes time zones and just focuses on when is a period of light and when it's a period of dark.
+
+151
+00:15:30,300 --> 00:15:36,030
+Um, yeah. So in human sleep, right, we this is very familiar to us.
+
+152
+00:15:36,030 --> 00:15:40,889
+Right? Periods. We have changes in neural activity. Our breathing will slow, our heart rate drops.
+
+153
+00:15:40,890 --> 00:15:45,000
+Our body temperature will often drop tons of different physiological changes.
+
+154
+00:15:45,360 --> 00:15:51,600
+Um, and depending on the stage of sleep, we have different, uh, physical, physiological states.
+
+155
+00:15:52,380 --> 00:15:57,660
+Um, generally the two major ones are non rapid eye movement and rapid eye movement.
+
+156
+00:15:58,980 --> 00:16:04,410
+Um, yeah. I'll, I'm going to skip through these so we can get to the activity.
+
+157
+00:16:04,410 --> 00:16:12,020
+But yeah there's three stages of um non rapid eye movement um, and some signature.
+
+158
+00:16:12,030 --> 00:16:15,210
+So this is using an EEG to measure those stages of sleep.
+
+159
+00:16:15,660 --> 00:16:22,150
+Uh and there are specific wavelength associated with uh, each stage of stage of the sleep.
+
+160
+00:16:22,170 --> 00:16:26,460
+So alpha waves in stage one are from 8 to 13Hz.
+
+161
+00:16:27,060 --> 00:16:30,870
+Uh, theta waves are from 4 to 7Hz, which pop up in stage two.
+
+162
+00:16:30,870 --> 00:16:34,470
+And this is as you're falling deeper and deeper into your sleep.
+
+163
+00:16:36,470 --> 00:16:45,290
+Um, and then part of that stage to sleep. You have these really interesting signatures called, uh, sleep spindles and complexes.
+
+164
+00:16:45,620 --> 00:16:53,240
+And so a bunch of study has, um, been conducted to figure out what these kind of high frequency bursts and high amplitude,
+
+165
+00:16:53,600 --> 00:16:58,370
+um, uh, like, course neural activity, what that's actually doing within the brain.
+
+166
+00:16:58,640 --> 00:17:01,430
+And so there's a lot of relation to memory formation.
+
+167
+00:17:01,430 --> 00:17:08,180
+So actual communication between the hippocampus and our neocortex during the sleep sleep spindles.
+
+168
+00:17:08,510 --> 00:17:13,960
+And then the complex is supposed to be some, um, almost in a higher state of a root.
+
+169
+00:17:14,000 --> 00:17:19,910
+Uh, yeah. Arousal. So if you're, you're more likely to wake up and your body is more, uh,
+
+170
+00:17:20,150 --> 00:17:25,070
+sensitive to external stimuli if you're seeing more of these complex, uh, stimuli.
+
+171
+00:17:25,100 --> 00:17:28,700
+Okay. And the last one is just, uh, these really big, uh,
+
+172
+00:17:29,120 --> 00:17:36,290
+low frequency waves when you're entering into the last stage of non-REM sleep, uh, lower than three hertz.
+
+173
+00:17:37,450 --> 00:17:40,450
+Go. And then REM sleep actually looks closer to being awake.
+
+174
+00:17:41,350 --> 00:17:46,780
+All right, let's get through that. Um, yeah. And so regions of the brain associated with sleep.
+
+175
+00:17:47,590 --> 00:17:48,579
+Um, yeah.
+
+176
+00:17:48,580 --> 00:17:57,550
+So you see a lot of control, actually in the thalamus and hypothalamus in terms of kind of coordinating, um, actually activity throughout the brain.
+
+177
+00:17:58,030 --> 00:18:05,290
+Um, there's obviously communication between, uh, the hypothalamus or the hippocampus, actually in the thalamus.
+
+178
+00:18:05,650 --> 00:18:12,840
+Again, the idea is that we're actually, um. Uh, forming more of this long term potentiation.
+
+179
+00:18:12,840 --> 00:18:19,570
+So having these changes in synaptic density, um, changing how many receptors are being expressed.
+
+180
+00:18:19,590 --> 00:18:23,430
+All of this seems to happen more frequently when we sleep.
+
+181
+00:18:24,120 --> 00:18:33,209
+Um, and a lot of this in. You actually see a lot of coordinated, um, neural activity across your brain while you're sleeping.
+
+182
+00:18:33,210 --> 00:18:42,090
+So you're seeing a lot of, uh, synchronous synchronicity in terms of neurons firing or, um, being inhibited, which is really interesting.
+
+183
+00:18:42,870 --> 00:18:49,590
+Um, this is just showing some of the connections, course connections between things like the thalamus, the hypothalamus.
+
+184
+00:18:49,980 --> 00:18:53,900
+Um, and let's see, I think the hippocampus is in there too.
+
+185
+00:18:53,910 --> 00:18:58,080
+So let's get to that kind of quickly. Um, yeah.
+
+186
+00:18:58,080 --> 00:19:07,710
+And showing more. So some like cool kind of 3D, uh, fMRI showing again, these, uh, really important regions in generating sleep,
+
+187
+00:19:08,490 --> 00:19:12,900
+um, and what becomes active and inhibited during actually REM sleep.
+
+188
+00:19:14,130 --> 00:19:20,670
+Sorry. Skipping through these quickly. But this I wanted to get to this is a really cool new study.
+
+189
+00:19:20,970 --> 00:19:22,500
+Um, showing that okay,
+
+190
+00:19:22,500 --> 00:19:29,130
+so we know our there's been a lot of evidence showing that sleep is really important for solidifying and consolidating memories.
+
+191
+00:19:29,520 --> 00:19:37,170
+Um, but we also we see these correlates between a lot of neurodegenerative diseases and lack of sleep.
+
+192
+00:19:37,320 --> 00:19:42,750
+So people have been interested in, uh, understanding the role of sleep in maintaining brain health.
+
+193
+00:19:43,020 --> 00:19:47,339
+So this was, uh, a fascinating paper actually showing that, again,
+
+194
+00:19:47,340 --> 00:19:53,520
+I mentioned there's this synchronicity of neural activity while we sleep that actually leads to,
+
+195
+00:19:53,610 --> 00:20:02,219
+um, the coordination of these of different ion channels and basically a neuronal pump that can actually remove a lot of,
+
+196
+00:20:02,220 --> 00:20:09,720
+um, um, kind of interstitial fluid from around your neurons, actually removing a lot of these,
+
+197
+00:20:09,720 --> 00:20:14,250
+what we call protein aggregates that are a big correlate of,
+
+198
+00:20:14,670 --> 00:20:21,690
+say, Alzheimer's disease and a lot of other neurodegenerative diseases that actually aggregate over your lifetime.
+
+199
+00:20:22,170 --> 00:20:25,890
+And so this yeah, again, this came out last year in February.
+
+200
+00:20:26,040 --> 00:20:29,639
+So again, just showing that there's a lot of kind of breaking science,
+
+201
+00:20:29,640 --> 00:20:36,760
+understanding what our brain is doing, brain health during sleep and the function of um yeah.
+
+202
+00:20:37,230 --> 00:20:40,350
+All our all the different activity that's happening throughout our brain.
+
+203
+00:20:40,620 --> 00:20:43,980
+Uh, and this was, I think, a really nice pop science.
+
+204
+00:20:44,040 --> 00:20:48,450
+Uh, yeah. Um, kind of review of this article.
+
+205
+00:20:48,650 --> 00:20:51,060
+And this came from actually two groups at MIT.
+
+206
+00:20:51,660 --> 00:21:01,559
+The second paper showed that you can actually stimulate, uh, this, like, nerve neuronal labyrinth by, I think, 20Hz frequencies.
+
+207
+00:21:01,560 --> 00:21:04,950
+And so they patented this technology where now if you're.
+
+208
+00:21:04,950 --> 00:21:07,050
+Yeah, presenting 20Hz frequencies,
+
+209
+00:21:07,260 --> 00:21:13,650
+they're hoping that you can start to clear out maybe more of these tau proteins and lead to less of these neurodegenerative diseases.
+
+210
+00:21:14,130 --> 00:21:22,860
+Okay. So that was a little into the whirlwind. Um, now we're actually going to work through this, uh, electroencephalogram activity.
+
+211
+00:21:23,400 --> 00:21:29,700
+Um, yeah. So now start to get into groups and I'll set up, bring it up.
+
+212
+00:21:29,850 --> 00:21:31,710
+So we're it will be in three groups.
+
+213
+00:21:32,160 --> 00:21:43,140
+Um, I'll start bringing around the edges and yeah, brainstorm some hypotheses that you think you can, uh, or quick experiments you think you can run?
+
+214
+00:21:43,980 --> 00:22:07,510
+Uh, yeah. And I'll be around to help. You can see, actually, I feel like the.
+
+215
+00:22:10,080 --> 00:22:18,160
+Grail. Um.
+
+216
+00:22:18,710 --> 00:22:23,920
+Yeah. Oh.
+
+217
+00:22:24,010 --> 00:22:28,830
+It's actually, um. Oh. Yeah.
+
+218
+00:22:29,530 --> 00:22:33,890
+Um, because, honestly, I don't know about you, but I don't know.
+
+219
+00:22:37,030 --> 00:22:41,730
+There's. That's the one thing I have to be doing.
+
+220
+00:22:41,790 --> 00:22:45,600
+Yeah, yeah. Sometimes emotional burdens.
+
+221
+00:22:46,380 --> 00:22:54,840
+Yeah, I did, um. So was.
+
+222
+00:22:59,280 --> 00:23:03,090
+Yeah. Wait. I thought you. Um.
+
+223
+00:23:03,670 --> 00:23:09,910
+Yeah. Um. I think so.
+
+224
+00:23:10,300 --> 00:23:14,770
+You probably heard your brown paper, so I know you.
+
+225
+00:23:20,220 --> 00:23:24,800
+Yeah. I like how it's mostly so.
+
+226
+00:23:26,280 --> 00:23:30,700
+Yeah. So, like. I like the.
+
+227
+00:23:31,490 --> 00:23:35,540
+What do you mean? I was saying. I see what you do.
+
+228
+00:23:36,110 --> 00:23:39,230
+Yeah, I know stuff there. I think it's really exciting.
+
+229
+00:23:40,070 --> 00:23:44,480
+Yeah. I don't want to say anything random.
+
+230
+00:23:44,840 --> 00:23:48,920
+Okay. And I'll just listen to. Yeah.
+
+231
+00:23:49,020 --> 00:23:52,050
+So you have a lot of. So.
+
+232
+00:23:55,140 --> 00:24:00,550
+I don't. Know I.
+
+233
+00:24:02,040 --> 00:24:06,900
+All because I my first things that I'm seeing like a light.
+
+234
+00:24:10,030 --> 00:24:15,680
+What do you think about this? Because I think you.
+
+235
+00:24:17,920 --> 00:24:23,200
+I'm. Well, obviously, I just think you just like.
+
+236
+00:24:23,320 --> 00:24:27,100
+There you go. You know, I like to get down.
+
+237
+00:24:30,720 --> 00:24:34,660
+These are just two of us. Yeah.
+
+238
+00:24:38,490 --> 00:24:42,390
+Exactly. Our number two is music.
+
+239
+00:24:42,720 --> 00:24:50,700
+Number three is the light. And the number one, I think, is, um, like that to be listening every saying.
+
+240
+00:24:54,490 --> 00:25:02,060
+I don't think that changes. I don't see those ingredients as used.
+
+241
+00:25:02,070 --> 00:25:05,940
+Like pictures of a puppy, you know?
+
+242
+00:25:08,550 --> 00:25:15,160
+Like it's a slideshow. Exactly. Which was very nice. If you went to this group room is to see you have some room.
+
+243
+00:25:15,300 --> 00:25:20,130
+Okay. That's all right.
+
+244
+00:25:20,310 --> 00:25:25,640
+I think that's great because that's the inception.
+
+245
+00:25:27,000 --> 00:25:32,910
+How would you explain for people who are willing to say. Yeah, let's.
+
+246
+00:25:41,580 --> 00:25:44,620
+You said three of them. Yeah, but there's only two because.
+
+247
+00:25:44,860 --> 00:25:53,590
+Um, there's another one. And people have, um, so there's actually an app you can download on your computer if you don't want to.
+
+248
+00:25:53,920 --> 00:26:02,410
+Uh, some people set up on Raspberry Pi's. I've got one apple we can run here, but the Raspberry Pi's are definitely going to be more the DIY.
+
+249
+00:26:02,910 --> 00:26:07,030
+Uh, I like them because you can, you know, do a lot more. You have a lot more control.
+
+250
+00:26:07,030 --> 00:26:10,570
+But yeah. And that will be. That's the last one. Yeah.
+
+251
+00:26:10,900 --> 00:26:16,400
+Okay. How are these groups set up right now? Because like, uh, this is not an even distribution.
+
+252
+00:26:16,490 --> 00:26:21,250
+Very. Yeah. So we have one thing, I guess.
+
+253
+00:26:23,230 --> 00:26:26,889
+Yeah. I mean, the numbers, if you all want to be one group, that's cool.
+
+254
+00:26:26,890 --> 00:26:32,290
+I think maybe in the back, maybe like 1 or 2 people go over into this group, but.
+
+255
+00:26:35,740 --> 00:26:58,370
+Or however you all want to do it. You to do the. Yeah.
+
+256
+00:26:58,880 --> 00:27:06,050
+It's like. Like for like, high emotion.
+
+257
+00:27:06,050 --> 00:27:10,150
+The kind that breaks. That is a relaxation.
+
+258
+00:27:11,530 --> 00:27:16,270
+I can see how he feel. I am here to support this.
+
+259
+00:27:16,660 --> 00:27:19,840
+Okay. When I really feel like I've got to help him. Really?
+
+260
+00:27:19,870 --> 00:27:23,370
+Yeah. Take your time. I don't know. Yeah.
+
+261
+00:27:24,540 --> 00:27:27,879
+Yeah. Cause you really focused so much. Either or.
+
+262
+00:27:27,880 --> 00:27:31,300
+He didn't like when he saw you. Like leaving you. Let me tell you.
+
+263
+00:27:33,370 --> 00:27:38,330
+Something. When you're. Here's.
+
+264
+00:27:40,010 --> 00:27:44,690
+When it comes to managing something, this is something that you know.
+
+265
+00:27:44,840 --> 00:27:50,389
+You know, there's definitely you see a difference when you're stuck with victims because,
+
+266
+00:27:50,390 --> 00:27:56,990
+you know, you'll see how it was always going to be you and your reaction until you see this.
+
+267
+00:27:57,290 --> 00:28:02,899
+Yeah. I can see what you did. So I can pick a favorite place and then play.
+
+268
+00:28:02,900 --> 00:28:06,170
+Kind of. This is great over your 30 years.
+
+269
+00:28:07,070 --> 00:28:12,469
+I was going to say rivers, and that's how I can say if I hear something like some of your voices.
+
+270
+00:28:12,470 --> 00:28:17,000
+So it's like, yeah, not necessarily neutral, but just because people are like, yeah,
+
+271
+00:28:18,050 --> 00:28:25,040
+especially if you cry, you can go visual, like you can look up on YouTube like some weird visual pattern.
+
+272
+00:28:25,880 --> 00:28:30,320
+Okay. So yeah, a lot of great resources that you can even like.
+
+273
+00:28:31,220 --> 00:28:34,550
+Yeah, that's that's what we're going to do. Yeah.
+
+274
+00:28:35,990 --> 00:28:39,049
+So I think just on that like no kidding. Where.
+
+275
+00:28:39,050 --> 00:28:42,290
+Yeah. It's hard because I know some of the activity.
+
+276
+00:28:43,130 --> 00:28:53,360
+Excuse me. More research is like if we have a mutual something in our brains and we're like, oh, this thing like, I need you to, like, let us know if.
+
+277
+00:28:54,410 --> 00:28:57,630
+Yes I know. Yes. Alex, I'm going to go.
+
+278
+00:29:00,010 --> 00:29:06,260
+Between your emotions. Like if you were to come to the cavalry.
+
+279
+00:29:07,190 --> 00:29:11,220
+Some of you on a camping summer and then meditate.
+
+280
+00:29:12,610 --> 00:29:20,020
+All right. I'll do a quick demo how this is supposed to go.
+
+281
+00:29:20,170 --> 00:29:24,900
+Let's see. What's going on?
+
+282
+00:29:25,240 --> 00:29:31,620
+And then. Just right. Okay.
+
+283
+00:29:34,040 --> 00:29:38,210
+So this is the read out of the app, which is pretty good.
+
+284
+00:29:38,900 --> 00:29:44,270
+Um, except now it's just picking up audio like it switches to a mic if you don't have everything plugged in.
+
+285
+00:29:44,690 --> 00:29:59,700
+So let me put that there in. This.
+
+286
+00:30:03,100 --> 00:30:06,590
+Is the museum okay? Right.
+
+287
+00:30:06,640 --> 00:30:10,270
+So this is this is kind of your default setup.
+
+288
+00:30:11,080 --> 00:30:15,810
+Uh, you have a little headband, and then you have these electrodes on the it.
+
+289
+00:30:15,830 --> 00:30:21,550
+So it's, uh, the round portion. It's supposed to be what connects, like, sits on your skin.
+
+290
+00:30:21,820 --> 00:30:25,930
+And that's what's going to be actually measuring your change in electrical potential.
+
+291
+00:30:26,470 --> 00:30:33,500
+Um, so we have if you want, if you're feeling ambitious, there's a little gel packet that you can help.
+
+292
+00:30:33,520 --> 00:30:39,220
+Uh, helps the connectivity between these electrodes in your, your head.
+
+293
+00:30:39,910 --> 00:30:44,080
+Uh, the general idea is, you know, you can put this on.
+
+294
+00:30:45,130 --> 00:30:49,440
+This would be measuring, you know, frontal, frontal lobe activity.
+
+295
+00:30:49,450 --> 00:30:55,520
+So maybe you might get some signatures of novelty or even thinking of, like, something of motion.
+
+296
+00:30:55,540 --> 00:31:01,090
+So if you would play an emotional song or something, uh, that evokes a good memory,
+
+297
+00:31:01,540 --> 00:31:09,850
+and then generally you hook these red positive electrodes to the front of, to the, uh, to these buttons here.
+
+298
+00:31:10,510 --> 00:31:17,290
+Uh, and then you're supposed to attach to this ground, uh, actually behind your ear.
+
+299
+00:31:17,380 --> 00:31:20,020
+And that's supposed to be a reference probe.
+
+300
+00:31:22,030 --> 00:31:33,710
+And so, yeah, there are some a bunch of kind of like, sticky pads that you can just put on the, uh, mastoid bone behind your ear if you want.
+
+301
+00:31:33,730 --> 00:31:41,410
+You can also just find a space, uh, like, almost like a, a space where ideally close to bone.
+
+302
+00:31:41,770 --> 00:31:45,460
+Um, that would be a good ground reference. Uh, and then this.
+
+303
+00:31:45,820 --> 00:31:51,840
+Let's see. Our ground connects here. Right.
+
+304
+00:31:51,840 --> 00:32:00,240
+And so yeah, this is now I know a good part of this will be let's say.
+
+305
+00:32:03,240 --> 00:32:08,760
+Um, understanding how sensitive these, uh, electrodes are.
+
+306
+00:32:08,790 --> 00:32:12,490
+Let's see if I start. Get baseline.
+
+307
+00:32:16,200 --> 00:32:21,270
+Yeah. And so there's kind of you're going to see correlates of like when I'm talking the amplitude is going to increase.
+
+308
+00:32:21,690 --> 00:32:25,830
+Um, but again this is all things you kind of have to factor in when you're doing your experimental design.
+
+309
+00:32:26,250 --> 00:32:29,570
+And there's some amount of things that we can filter out on the back end.
+
+310
+00:32:29,580 --> 00:32:32,700
+So a lot of these high amplitude, uh, frequencies.
+
+311
+00:32:32,700 --> 00:32:41,519
+So all right, I will return just giving you an overview of how to kind of get up here and someone.
+
+312
+00:32:41,520 --> 00:32:45,990
+Yeah, actually I can pass my laptop to someone in our group if they just want to use it.
+
+313
+00:32:53,940 --> 00:32:55,287
+All right, so bringing this back over. Um.
+

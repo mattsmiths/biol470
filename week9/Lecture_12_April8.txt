@@ -1,0 +1,2421 @@
+1
+00:00:14,650 --> 00:00:17,830
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Okay, cool. Uh, we'll get started. Sorry.
+
+2
+00:00:18,490 --> 00:00:24,010
+Especially late today. And completely forgot my title slide, so we'll have to use our imagination.
+
+3
+00:00:24,010 --> 00:00:27,690
+But, uh, we'll be talking a bit about, uh,
+
+4
+00:00:27,760 --> 00:00:35,740
+kind of defining what neuromodulators are and kind of relating this to what we ended on last class talking about,
+
+5
+00:00:36,190 --> 00:00:40,450
+uh, different types of neuroplasticity, both structural and functional.
+
+6
+00:00:40,750 --> 00:00:45,760
+And then we kind of ended on this note of understanding how different drugs could
+
+7
+00:00:45,760 --> 00:00:50,200
+potentially add or take away some of this neuroplasticity that we see in the brain.
+
+8
+00:00:50,950 --> 00:00:59,170
+Um, yeah. So there we have Neuromodulators on Thursday is going to be our first dedicated project day.
+
+9
+00:00:59,740 --> 00:01:03,180
+However, uh, today's been yeah, kind of strange day for me.
+
+10
+00:01:03,190 --> 00:01:08,230
+I've had a bunch of family emergencies pop up, so I'm actually going to be gone on Thursday.
+
+11
+00:01:08,500 --> 00:01:16,150
+But you all are welcome to to be here. And, um, I'll be I can leave materials for you all if you want, like the EEG.
+
+12
+00:01:16,480 --> 00:01:23,230
+Um, I didn't bring them with me, the class, but I can leave them in, like, their Pritzker mail room in, like, a little box for people to pick up.
+
+13
+00:01:23,770 --> 00:01:33,800
+Um, yeah. So that's, again, this will be dedicated project day, and I'll post more instructions and details on Thursday if you want to work remote.
+
+14
+00:01:33,830 --> 00:01:37,600
+You're of course welcome to do that. But again, we'll have the classroom.
+
+15
+00:01:37,960 --> 00:01:41,830
+Um, and even if people needed to.
+
+16
+00:01:41,830 --> 00:01:45,459
+Yeah, I'll get in contact with people for what they need to to get started.
+
+17
+00:01:45,460 --> 00:01:49,840
+And I'll, I'll work to make sure you have those materials. Cool.
+
+18
+00:01:49,870 --> 00:01:53,580
+Yeah. Any questions on that? Yeah.
+
+19
+00:01:53,590 --> 00:01:57,069
+Sorry for the last minute change, but, um.
+
+20
+00:01:57,070 --> 00:02:00,250
+Yeah, I'll be back on Tuesday and here for.
+
+21
+00:02:00,250 --> 00:02:02,649
+Yeah, we'll, um. Yeah.
+
+22
+00:02:02,650 --> 00:02:11,170
+And I can give extra time even outside of, uh, the class time, if people want to, um, work on projects or need my assistance with.
+
+23
+00:02:11,320 --> 00:02:21,010
+If people are, like, making structures for animals, bees, flies, um, need the 3D printer or anything like that, I can make extra time.
+
+24
+00:02:22,790 --> 00:02:28,759
+Cool. All right, so for today, um, yeah.
+
+25
+00:02:28,760 --> 00:02:30,920
+We'll do. I've just like, one more update.
+
+26
+00:02:31,430 --> 00:02:39,200
+Uh, and then we'll do a little, a few slides on review, and then we'll get to this interesting idea of the gut brain interaction,
+
+27
+00:02:39,890 --> 00:02:44,330
+uh, and how that again relates to some of these ideas we've been talking about.
+
+28
+00:02:44,960 --> 00:02:48,290
+And then finally ending on this. Uh neuromodulators.
+
+29
+00:02:48,290 --> 00:02:52,550
+What they are and how they also play a role in plasticity in the brain.
+
+30
+00:02:53,890 --> 00:03:01,900
+Cool. So we got those updates. So finally got the assignment for um activities for weeks nine through 11.
+
+31
+00:03:01,900 --> 00:03:08,950
+Posted. Um, yeah, it's I, I still have to format it, but at least it's up on canvas.
+
+32
+00:03:09,370 --> 00:03:15,699
+Um, and so the idea again, it's not, uh, I think very similar to what we've been talking about in the slides.
+
+33
+00:03:15,700 --> 00:03:20,800
+Right. So, uh, this is looking at, um, this was our activity.
+
+34
+00:03:21,130 --> 00:03:25,150
+Uh, we were talking about speech and communication, and we were talking about zebra finches.
+
+35
+00:03:25,150 --> 00:03:34,030
+And at the very in the class we played around with, um, parsing through different lecture transcripts of lectures and trying to understand how sleep,
+
+36
+00:03:34,420 --> 00:03:41,740
+um, is important in, uh, communication in language, what regions of the brain can be impacted by that?
+
+37
+00:03:41,770 --> 00:03:47,229
+So, uh, right. So in the write up, it's just two ways that sleep can impact brain health.
+
+38
+00:03:47,230 --> 00:03:48,130
+So very broad.
+
+39
+00:03:48,640 --> 00:04:00,040
+Um, and then come up with some, uh, kind of hypotheses for how the lack of sleep might impact the, uh, communication of a lecturer or speaker.
+
+40
+00:04:00,490 --> 00:04:05,800
+Uh, and then one what concepts support or disprove your hypothesis that you came up with?
+
+41
+00:04:06,070 --> 00:04:11,110
+So that's it. Pretty straightforward for this one. And then optional if you play around with the code.
+
+42
+00:04:11,500 --> 00:04:18,230
+Um, I think it'd be really cool to see if any of your, um, if you can support any of your claims using that,
+
+43
+00:04:18,250 --> 00:04:22,780
+that code set, but not required because I think that one was um, yeah.
+
+44
+00:04:23,350 --> 00:04:28,350
+Developed a little bit later in class. Uh, and then activity ten.
+
+45
+00:04:28,360 --> 00:04:31,530
+So where we were starting to play around with our EEG.
+
+46
+00:04:31,540 --> 00:04:34,950
+So basically what is your hypothesis.
+
+47
+00:04:34,960 --> 00:04:41,530
+So I know there was a bunch of variability, but a lot of people focused on, um, the impact of music,
+
+48
+00:04:41,890 --> 00:04:50,890
+whether it's novel or the tempo of that music on, uh, and can you measure change using the edges and specifically measuring your frontal lobe?
+
+49
+00:04:51,250 --> 00:04:54,700
+So specifically, what is your hypothesis and then what was your experimental design?
+
+50
+00:04:55,210 --> 00:05:02,710
+Uh, and then for activity 11, um, we played around last week with generating figures from that recorded EEG data,
+
+51
+00:05:03,130 --> 00:05:07,070
+turning at least two figures, uh, and then just interpreting your results.
+
+52
+00:05:07,070 --> 00:05:11,170
+So what are your figures describing? Uh, do they support or disprove your hypothesis?
+
+53
+00:05:11,170 --> 00:05:18,100
+And then what what could have contributed to some noise in your study if, if you, uh, didn't get the results you may have expected.
+
+54
+00:05:18,970 --> 00:05:23,920
+Cool. And then yes, I have. So I said due next Tuesday at midnight.
+
+55
+00:05:24,490 --> 00:05:31,300
+And we'll see. We'll see how that goes. Um, but yeah, reach out if you think that's, uh, not enough time and we can chat.
+
+56
+00:05:32,170 --> 00:05:35,710
+Cool. Any questions on that? So we.
+
+57
+00:05:38,860 --> 00:05:42,970
+Have a replacement water bottle today that makes some nice squeaking. So sorry for that.
+
+58
+00:05:44,800 --> 00:05:54,330
+Um, actually. Let's see. Is this where Socrates might have gotten that older?
+
+59
+00:05:57,950 --> 00:06:03,420
+Mhm. Mhm. Hmhm.
+
+60
+00:06:07,820 --> 00:06:18,860
+Okay. So I actually I want to start by listening to a little segment of a podcast from, um, uh, doctors and scientists, uh, that work at northwestern.
+
+61
+00:06:19,340 --> 00:06:24,260
+Um, and I want to do that before we do our, our little review.
+
+62
+00:06:24,260 --> 00:06:29,270
+So this will kind of be like our very first our discussion, uh, for class.
+
+63
+00:06:29,270 --> 00:06:35,780
+So I'm going to skip ahead here. Cool.
+
+64
+00:06:36,560 --> 00:06:41,600
+Um, and so I want you to start thinking about, um.
+
+65
+00:06:42,290 --> 00:06:43,860
+Yeah. Well, first raise of hands.
+
+66
+00:06:43,880 --> 00:06:51,050
+Have you have anyone thought about or heard about just this gut to brain connection and the interaction of your gut and your brain?
+
+67
+00:06:52,310 --> 00:06:57,440
+I see, that's nuts. So is this. Have you covered this in multiple classes or.
+
+68
+00:06:57,830 --> 00:07:01,010
+Okay. I just don't know. Okay. Just found out.
+
+69
+00:07:01,250 --> 00:07:04,400
+Anyone else, like, explicitly have a section in the class or anything?
+
+70
+00:07:05,360 --> 00:07:15,110
+Okay. So I actually. Yeah. Have learned about more about this this research and the impact of it through multiple friends that are going.
+
+71
+00:07:15,410 --> 00:07:23,030
+One is an MD going focusing on GI health and specifically kind of psych applications for GI health.
+
+72
+00:07:23,300 --> 00:07:26,600
+And then another friend that's, uh, doing a clinical psych PhD,
+
+73
+00:07:26,840 --> 00:07:34,770
+also focusing on how we can better understand and communicate, uh, this interaction between your gut health and your brain.
+
+74
+00:07:34,790 --> 00:07:38,059
+And then, yeah, I had a friend during my PhD where I have a slide highlighting,
+
+75
+00:07:38,060 --> 00:07:47,360
+but he was also doing some really fascinating work on, um, food, the cuisine we eat, um, and ways of kind of enriching different,
+
+76
+00:07:47,390 --> 00:07:54,290
+uh, metabolites to promote gut health, specifically for increasing important neurotransmitters,
+
+77
+00:07:54,530 --> 00:07:59,960
+or at least bringing them to a level that's, um, you know, promoting brain health within our bodies.
+
+78
+00:08:00,680 --> 00:08:09,170
+Okay. So first, we're going to listen to, um, a few minutes of this podcast, and then we'll kind of discuss,
+
+79
+00:08:09,350 --> 00:08:12,110
+pull out what you thought was interesting with your neighbor,
+
+80
+00:08:12,290 --> 00:08:17,240
+and then we'll come back and kind of touch on some high level ideas just to start us out.
+
+81
+00:08:21,170 --> 00:08:37,930
+Do. Hopefully new and emerging research is showing that our brains and our
+
+82
+00:08:37,930 --> 00:08:42,820
+gastrointestinal systems may be connected much more so than we previously thought.
+
+83
+00:08:43,150 --> 00:08:46,690
+Potentially influencing mood and even mental health.
+
+84
+00:08:47,080 --> 00:08:51,730
+This exciting new frontier of scientific knowledge is being examined in more detail.
+
+85
+00:08:52,150 --> 00:08:56,440
+Welcome to Better Edge, a Northwestern Medicine podcast for physicians.
+
+86
+00:08:56,800 --> 00:09:03,130
+I'm Melanie Cole, and we have a panel here today to discuss GI psychology and the brain gut connection.
+
+87
+00:09:03,640 --> 00:09:12,400
+Joining me is doctor Anjali Pallett. She's an assistant professor of medicine in the Division of Gastroenterology, Hepatology and Psychiatry.
+
+88
+00:09:12,730 --> 00:09:18,520
+And she's the co-director of behavioral medicine for Digestive Health program at Northwestern Medicine.
+
+89
+00:09:18,940 --> 00:09:25,720
+Doctor Tiffany Taft. She's an associate professor of medicine in the Division of gastroenterology, hepatology,
+
+90
+00:09:25,900 --> 00:09:32,200
+medical social sciences and psychiatry at Northwestern Medicine, and doctor Catherine Tomasino.
+
+91
+00:09:32,500 --> 00:09:38,320
+She's an assistant professor of medicine in the Division of gastroenterology, hepatology and psychiatry.
+
+92
+00:09:38,500 --> 00:09:44,830
+She is also co-director of the Behavioral Medicine for Digestive Health program at Northwestern Medicine.
+
+93
+00:09:45,630 --> 00:09:48,790
+You know, judge said, you really hammered them.
+
+94
+00:09:49,420 --> 00:09:53,050
+And I wanted to talk to you guys about what hammer means to you. Yeah.
+
+95
+00:09:53,770 --> 00:09:58,090
+I'm so glad to have you with us today. What an amazing topic this is.
+
+96
+00:09:58,330 --> 00:10:03,580
+I'm looking so forward to a lively discussion. And, Doctor Taft, I'd like to start with you.
+
+97
+00:10:03,760 --> 00:10:08,080
+Please tell us a little bit for other providers. This is a relatively new field.
+
+98
+00:10:08,380 --> 00:10:12,310
+So what is GI psychology? What is the brain gut connection?
+
+99
+00:10:12,640 --> 00:10:16,690
+Yeah. Thank you so much for having us on to talk about this GI psychology.
+
+100
+00:10:16,720 --> 00:10:20,470
+Really get going about 15 to 20 years ago.
+
+101
+00:10:20,500 --> 00:10:25,840
+So it isn't as new as it seems, even though it really hasn't started catching on,
+
+102
+00:10:25,840 --> 00:10:30,220
+as I would say, into the last five years or so, more in clinical practice.
+
+103
+00:10:30,760 --> 00:10:43,180
+And it is the intersection of the social and emotional and psychological processes that we all experience with our digestive system,
+
+104
+00:10:43,180 --> 00:10:46,419
+all the way from the top, all the way through to the bottom.
+
+105
+00:10:46,420 --> 00:10:52,299
+So we focus in on any condition that affects the gut from the esophagus.
+
+106
+00:10:52,300 --> 00:11:01,840
+So things like gastroesophageal reflux disease, eosinophilic esophagitis, and then down through inflammatory bowel disease here, mobile syndrome.
+
+107
+00:11:01,840 --> 00:11:06,130
+So we really work with the whole gamut of digestive conditions.
+
+108
+00:11:06,550 --> 00:11:16,810
+And we focus in on that brain gut connection that you mentioned, which is a pretty intricate system now also involving the microbiome of the gut,
+
+109
+00:11:16,810 --> 00:11:24,730
+where the brain is communicating with the gut pretty constantly through the vagus nerve and the autonomic nervous system.
+
+110
+00:11:24,880 --> 00:11:31,209
+And then also we are learning more recently, I think the newer stuff that you're thinking of is the gut microbiome is
+
+111
+00:11:31,210 --> 00:11:35,950
+communicating back up to the brain is being implicated in all sorts of things,
+
+112
+00:11:35,950 --> 00:11:40,299
+including mood and anxiety and other psychological conditions.
+
+113
+00:11:40,300 --> 00:11:48,820
+So it's a really complex system that we really are getting into some really cool stuff and starting to understand it is some cool stuff.
+
+114
+00:11:48,820 --> 00:11:53,620
+It is amazing and I'm looking so forward to this as we learn more.
+
+115
+00:11:53,620 --> 00:11:59,290
+And Doctor Tomasino, there are many conditions and mood disorders where this connection is being closely looked at.
+
+116
+00:11:59,290 --> 00:12:02,110
+Yes, schizophrenia, bipolar, depression.
+
+117
+00:12:02,380 --> 00:12:11,320
+What are the diagnoses or reasons for referral for the patients you typically see, and what kind of demand is there for this type of treatment?
+
+118
+00:12:11,320 --> 00:12:15,340
+I would imagine it's huge. Yes. Thank you again for having us on today.
+
+119
+00:12:15,820 --> 00:12:22,299
+So we talk about the impact of the bring up connection on some of those psychiatric conditions that you mentioned that the types
+
+120
+00:12:22,300 --> 00:12:29,170
+of patients that we see in the referrals that we receive are more for some of the conditions that Tiffany was mentioning,
+
+121
+00:12:29,170 --> 00:12:33,370
+the doctor Kathy's mentioning another, the G.I conditions. So actually within our clinic,
+
+122
+00:12:33,370 --> 00:12:39,850
+we don't see patients with the psychiatric conditions that you were speaking of master co-occurring with a gastrointestinal condition.
+
+123
+00:12:40,090 --> 00:12:45,340
+And we also see in the majority of our patients are seen for gastrointestinal conditions.
+
+124
+00:12:45,340 --> 00:12:52,900
+We just provide psychological and behavioral treatments that through the brain, that connection can help improve the symptoms of their GI tract.
+
+125
+00:12:53,230 --> 00:12:59,020
+So those include things like IBS, as Tiffany mentioned, inflammatory bowel disease, Gerd,
+
+126
+00:12:59,020 --> 00:13:05,470
+echolalia, gastroparesis, chronic abdominal pain really across the whole digestive tract.
+
+127
+00:13:05,980 --> 00:13:11,620
+Thank you, Doctor Tomasino for that. And Doctor Panda, what do you do in a typical session?
+
+128
+00:13:11,830 --> 00:13:17,409
+So as the interest in this topic is pretty high right now, as Doctor Tomasino was saying,
+
+129
+00:13:17,410 --> 00:13:21,040
+do you do anything other than 1 to 1 therapy in terms of patient care?
+
+130
+00:13:21,280 --> 00:13:26,620
+Tell us a little bit for referring physicians what they can tell their patients to expect.
+
+131
+00:13:27,130 --> 00:13:30,820
+Absolutely. So yeah, again thanks so much for having us.
+
+132
+00:13:30,820 --> 00:13:33,890
+And we love to. Talk about the gut brain connection to bring gut connection.
+
+133
+00:13:34,590 --> 00:13:38,370
+So when a patient's referred we do a very comprehensive evaluation.
+
+134
+00:13:38,390 --> 00:13:44,210
+Do we look and ask questions not only about the GI condition, but their impact on the patient's quality of life?
+
+135
+00:13:44,720 --> 00:13:54,070
+We do look at things like mental health and whether our mood might be influencing Adams, and vice versa, as well as social support, health habits.
+
+136
+00:13:54,080 --> 00:13:57,620
+Kind of a big picture of how. Okay, we'll stop there.
+
+137
+00:13:57,620 --> 00:14:04,490
+But yeah, I'll, uh, I'll post this and definitely encourage you if you're interested, to listen to the, uh, rest of it.
+
+138
+00:14:04,730 --> 00:14:12,090
+I know it was maybe a bit more of a clinical focus, um, and kind of gave this broad overview all as well.
+
+139
+00:14:12,110 --> 00:14:19,339
+The next few slides, after we have a little discussion, we'll go into more of the details in the mechanisms impacts on,
+
+140
+00:14:19,340 --> 00:14:24,980
+on the brain, um, where we're, we're starting to see this connection.
+
+141
+00:14:25,520 --> 00:14:35,270
+Um, okay. And so before so think about what you've heard reflecting maybe integrating what you already know about that, uh, gut brain connection.
+
+142
+00:14:35,270 --> 00:14:41,280
+And then now let's I'll do, uh, quick review of our, uh, where we ended from last week.
+
+143
+00:14:41,300 --> 00:14:51,590
+And then the goal is to start to think about this connection, how the gut could be influencing plasticity, brain health.
+
+144
+00:14:52,040 --> 00:14:56,300
+Um, thinking of kind of the neural mechanisms that we've been talking about.
+
+145
+00:14:56,360 --> 00:14:59,839
+Okay. So all right.
+
+146
+00:14:59,840 --> 00:15:08,180
+Last week. Yeah. So we're talking about neuroplasticity, uh, capacity for the nervous system to modify itself and change, um, generally.
+
+147
+00:15:08,180 --> 00:15:16,340
+Right. We've talked about these periods in life, um, critical periods, um, where you have more or less plasticity,
+
+148
+00:15:16,640 --> 00:15:22,640
+uh, depending on your, um, the periphery sensory system that you're focusing in or the particular task.
+
+149
+00:15:23,090 --> 00:15:31,640
+We then talked about structural plasticity. So being able to change the number of neurons where they're physically placed, uh, the anatomy.
+
+150
+00:15:31,910 --> 00:15:38,090
+Um, right. And so you see a lot of those structural plasticity changes early in life and then functional neuroplasticity.
+
+151
+00:15:38,090 --> 00:15:44,450
+So as we age we kind of shift towards more of this functional neuroplasticity where there's a ton of different,
+
+152
+00:15:44,720 --> 00:15:51,590
+uh, mechanisms for modulating the strength of a connection, the amount of a neurotransmitter that's released.
+
+153
+00:15:51,920 --> 00:16:00,830
+And we'll get into other ways you can modify that, that the amount of signal going from one neuron to another and, uh, things like neuromodulators.
+
+154
+00:16:01,940 --> 00:16:10,310
+Right. So all of the these are two ways that you're these connections within the brain can change in response to external stimuli over time.
+
+155
+00:16:10,910 --> 00:16:21,080
+Um, and then we ended on this figure here where it was, um, this study was actually reopening a critical period in the,
+
+156
+00:16:21,410 --> 00:16:28,219
+uh, I think, for the auditory cortex in mice, um, gives insight, uh, um, what was really interesting.
+
+157
+00:16:28,220 --> 00:16:30,290
+Right. So they use just white noise.
+
+158
+00:16:30,650 --> 00:16:38,270
+Um, so a sound to actually and presented over a long period of time to actually increase plasticity and lead to high,
+
+159
+00:16:38,300 --> 00:16:42,020
+um, high amounts of neuroplasticity in response to that stimulus.
+
+160
+00:16:42,320 --> 00:16:51,500
+And then we also highlighted that, uh, diazepam was also used as, uh, a way to actually inhibit and block a lot of these, um,
+
+161
+00:16:52,310 --> 00:17:02,120
+neuro transmitters in, uh, neurons that are responsible for, uh, the plasticity dependent changes, um, during that, that auditory critical period.
+
+162
+00:17:02,540 --> 00:17:07,849
+Right. And then we left off on um, yeah. Certain types of drugs, a lot of drugs.
+
+163
+00:17:07,850 --> 00:17:11,270
+Right. Can, uh, modulate plasticity in the brain.
+
+164
+00:17:11,690 --> 00:17:16,520
+Uh, and yeah, we'll talk a bit more and go into detail on what, what those are in a bit.
+
+165
+00:17:17,690 --> 00:17:28,070
+Okay. So now just thinking again, uh, the think about chat with your neighbor one about what you heard,
+
+166
+00:17:28,400 --> 00:17:33,390
+uh, during the like five minutes, the intro to the podcast was anything interesting, surprising?
+
+167
+00:17:33,440 --> 00:17:38,210
+Does that fit with what you already know about the brain to GI connection?
+
+168
+00:17:38,540 --> 00:17:44,690
+And then can you think of, um, again, thinking of the scales in the ways we've been talking about the brain?
+
+169
+00:17:45,110 --> 00:17:51,710
+How do we actually get that connection from GI to, um, changes in neural activity?
+
+170
+00:17:52,010 --> 00:17:56,540
+Um, yeah. Can you come up with any mechanisms by which that can happen?
+
+171
+00:17:56,900 --> 00:18:01,400
+So yeah, take a few minutes, chat with your neighbor and we'll we'll come back together to discuss.
+
+172
+00:18:13,750 --> 00:18:20,170
+I over. So I.
+
+173
+00:18:25,740 --> 00:18:31,750
+Like I said. Clean.
+
+174
+00:18:37,910 --> 00:18:43,760
+Sorry, I. Agree with you for changing.
+
+175
+00:18:49,080 --> 00:18:53,430
+We'd also like to thank you for your service.
+
+176
+00:18:53,490 --> 00:18:58,780
+What do you think of this? Sorry, I.
+
+177
+00:19:02,570 --> 00:19:10,350
+My. Smells like really good stuff, right?
+
+178
+00:19:13,990 --> 00:19:19,309
+Yeah. Yeah, yeah. That's like I get like, this is what's going on.
+
+179
+00:19:19,310 --> 00:19:26,790
+Yeah. It's like. You know, this is just off the top.
+
+180
+00:19:29,610 --> 00:19:33,150
+Do you have any idea? You can be the only time you like.
+
+181
+00:19:33,500 --> 00:19:37,000
+No to bring the green. Are.
+
+182
+00:19:39,640 --> 00:19:44,370
+Still very much a part of it.
+
+183
+00:19:44,520 --> 00:19:48,170
+So even though it is so.
+
+184
+00:19:52,490 --> 00:19:57,040
+Important they are in an important. Yeah.
+
+185
+00:19:58,760 --> 00:20:06,040
+You know, when somebody's thinking about, you know, I work with people from London is.
+
+186
+00:20:08,880 --> 00:20:13,720
+Terrible. Yeah. That's no other reason than it is.
+
+187
+00:20:13,750 --> 00:20:20,170
+Yeah. Those cases might have been. Yeah.
+
+188
+00:20:22,010 --> 00:20:27,910
+That's right. You know, I, you know, we're having.
+
+189
+00:20:29,780 --> 00:20:33,920
+You're better than us. But all of that.
+
+190
+00:20:34,340 --> 00:20:37,970
+I mean, even beyond that, we also. You know, viruses, natural gas plants.
+
+191
+00:20:38,420 --> 00:20:41,930
+Um, yeah, I think too much like bacteria.
+
+192
+00:20:42,020 --> 00:20:45,230
+Is that all? That's better. Oh my God.
+
+193
+00:20:46,730 --> 00:20:54,630
+Out of our system. So probably most most carry on since the organism is great.
+
+194
+00:20:55,500 --> 00:20:59,090
+So we have several of these. Yeah.
+
+195
+00:21:00,750 --> 00:21:10,100
+Just has them the mitochondria. So this is, it's we're still working on almost the exact.
+
+196
+00:21:11,370 --> 00:21:15,510
+Yeah. But, um. Yeah, yeah, yeah, yeah.
+
+197
+00:21:15,750 --> 00:21:20,399
+Um, and the brain just totally receptive. Yeah. That's that's that's that.
+
+198
+00:21:20,400 --> 00:21:25,870
+Right. That's I guess that's one of those, um, really, I mean, yeah, it's.
+
+199
+00:21:28,140 --> 00:21:35,870
+Interesting to me that one of those businesses, you'll see a lot of the news is to be.
+
+200
+00:21:35,910 --> 00:21:45,630
+So how do you know we microvascular I mean, this is a big win for us because I'm like, gee, I, I guess, you know, don't mind.
+
+201
+00:21:46,380 --> 00:21:53,230
+That's true. And you know, like. Yeah. So I really happy cause a lot of people have.
+
+202
+00:21:53,450 --> 00:21:59,690
+Oh yeah. Yeah yeah yeah.
+
+203
+00:22:00,960 --> 00:22:05,070
+That's true. Yeah. That's true. Yeah. Thanks. On the back of what I was.
+
+204
+00:22:06,400 --> 00:22:13,650
+Also the Prime Minister. May not.
+
+205
+00:22:16,440 --> 00:22:22,290
+I work in the hospital. There. You go.
+
+206
+00:22:23,820 --> 00:22:27,300
+Yeah. That's my life. I like that.
+
+207
+00:22:27,720 --> 00:22:30,900
+Yeah. It's like. Afterwards, it's like. Whatever.
+
+208
+00:22:31,530 --> 00:22:38,100
+No, I haven't taken a decision like that.
+
+209
+00:22:38,580 --> 00:22:41,820
+Oh, yeah. And then after a while, you.
+
+210
+00:22:44,460 --> 00:22:46,950
+Know, it's just the thing that happens.
+
+211
+00:22:47,430 --> 00:22:55,410
+So instead of saying, well, it was like one day I was in this room and they were like, oh, you know what you eat?
+
+212
+00:22:55,710 --> 00:23:05,340
+Yeah. Oh, okay. Then I provided three things. First off, I was like, I have a lot of everything in my house.
+
+213
+00:23:05,700 --> 00:23:08,730
+Yeah. Yeah.
+
+214
+00:23:10,140 --> 00:23:14,940
+That's good. Yeah yeah yeah, yeah, I think that's a big one.
+
+215
+00:23:15,660 --> 00:23:22,530
+I have a few. So I mean, I go technically, yeah. Yeah. That's how we like to go to like things we can take in everyday things.
+
+216
+00:23:22,530 --> 00:23:27,269
+And I'll get to be in the library signaling part of our body.
+
+217
+00:23:27,270 --> 00:23:31,470
+I think we've got a single number of what's there was taken from somebody else.
+
+218
+00:23:31,500 --> 00:23:34,590
+I think every cell in the same presentation.
+
+219
+00:23:36,030 --> 00:23:45,660
+And, um, yeah, yeah. Let's talk about that within the realm of focus or differences.
+
+220
+00:23:46,350 --> 00:23:52,320
+So everything was so meet up in the mornings and it was like exciting.
+
+221
+00:23:52,680 --> 00:23:59,999
+Yeah, yeah, I think I think it was always I think it's like you have to move in.
+
+222
+00:24:00,000 --> 00:24:03,950
+Yeah, yeah. Well, yeah, that was like my semantics.
+
+223
+00:24:04,310 --> 00:24:12,000
+I love extensions, but. No, I don't get that.
+
+224
+00:24:12,760 --> 00:24:16,540
+All right. Yeah, I heard some really good discussions. Good points.
+
+225
+00:24:21,000 --> 00:24:27,180
+Uh, does anyone want to share, um, something they've talked about or something they thought was interesting or exciting about?
+
+226
+00:24:27,180 --> 00:24:36,540
+Um, yeah. This guy. Brain connection. Yeah.
+
+227
+00:24:37,200 --> 00:24:45,929
+Um, so I mentioned this, um, when we were talking, like, to some extent, um, like your gastrointestinal,
+
+228
+00:24:45,930 --> 00:24:51,030
+your ability to process what you take in is majorly affects every single part of your body.
+
+229
+00:24:51,030 --> 00:24:55,859
+Because, you know, we are we can only make things out of the stuff we intake.
+
+230
+00:24:55,860 --> 00:25:04,230
+So your ability to properly process what you're intaking can have effects on anything, especially your brain, which is a massive nutrient energy sink.
+
+231
+00:25:05,270 --> 00:25:09,290
+Um, for the body. So, you know. And then for every cell.
+
+232
+00:25:09,650 --> 00:25:12,810
+Yeah. Recycle. Yeah. 7 to 10 years.
+
+233
+00:25:12,860 --> 00:25:16,170
+So. And all those cells got to be made out of what you eat.
+
+234
+00:25:16,190 --> 00:25:25,940
+So, yeah, it's, you know, the the microbiome is very much is essentially a organ in its own right within your body.
+
+235
+00:25:26,060 --> 00:25:33,410
+So, yeah, in the same sense that you wouldn't function properly if your liver, you wouldn't function properly if your microbiome got disrupted.
+
+236
+00:25:33,560 --> 00:25:39,500
+Right. Right. Yeah. I think all great points. Anyone agree I have some follow up on that.
+
+237
+00:25:39,890 --> 00:25:45,970
+Argue with it. Yeah. Uh, not the same.
+
+238
+00:25:45,980 --> 00:25:51,500
+Or if you have a good gut feeling. Yeah. So, like how that's kind of ironically.
+
+239
+00:25:51,500 --> 00:25:56,190
+How. Right?
+
+240
+00:25:56,270 --> 00:26:04,160
+Right. But also, like, I think they're talking about how there's some like nurse or something connected.
+
+241
+00:26:04,380 --> 00:26:12,610
+Mhm. That like brings uh my chemical like I was example.
+
+242
+00:26:12,740 --> 00:26:21,120
+Yeah. I was like an example of like when you eat a lot of sugar you feel like you know, the dopamine kick or like yeah or rush.
+
+243
+00:26:21,230 --> 00:26:25,170
+Yeah. Something like that. Yeah. Yeah.
+
+244
+00:26:25,260 --> 00:26:28,350
+Absolutely. Yeah. I think you're again. Coming back to.
+
+245
+00:26:28,350 --> 00:26:32,969
+You are what you eat and like you are the metabolites that you are consuming,
+
+246
+00:26:32,970 --> 00:26:37,890
+that are feeding the microbes in your body and fueling all different cells within your body.
+
+247
+00:26:37,890 --> 00:26:43,120
+So. Yeah. Absolutely. Um. It just directly affects.
+
+248
+00:26:44,820 --> 00:26:47,900
+The production of your neurotransmitters in your body.
+
+249
+00:26:47,910 --> 00:26:50,910
+So my serotonin. Like all that stuff. Yeah.
+
+250
+00:26:50,910 --> 00:26:57,230
+So. Like, I don't know, like every time I eat, like a bogus meal or something.
+
+251
+00:26:57,260 --> 00:27:00,380
+Mhm. Know, I just feel kind of like down, like not a lot of energy.
+
+252
+00:27:00,620 --> 00:27:08,510
+Yeah. Um, and if I eat something that's like more clean or I feel like I'm not to say happier, but like, I just feel more like, okay, you know.
+
+253
+00:27:08,600 --> 00:27:14,570
+Yeah. And also, like, drinking as well, like, I'm. Some of those times are like, we drank a little too much.
+
+254
+00:27:14,810 --> 00:27:19,850
+Like the next day. You just feel down. Yeah. Cause I know, like, sometimes I drink a little too much.
+
+255
+00:27:19,850 --> 00:27:23,179
+Like the next day I'm like, aside from the hangover, just internally.
+
+256
+00:27:23,180 --> 00:27:28,390
+Like, you just feel like down. Like your brain just feels cloudy.
+
+257
+00:27:28,490 --> 00:27:33,370
+Yeah. Stuff like that. Yeah. Yeah. I think multiple good points there with.
+
+258
+00:27:33,380 --> 00:27:41,150
+Yeah. Alcohol being considered a drug and the impact that alone has on the brain and our physical physiology.
+
+259
+00:27:41,420 --> 00:27:49,879
+Uh, but then understanding the impact of alcohol on your gut itself, uh, which can lead to actually changing of microbial communities,
+
+260
+00:27:49,880 --> 00:27:59,050
+the impact slowing the processing of important metabolites that lead to things like what you said, Gaba, serotonin and dopamine being processed.
+
+261
+00:27:59,060 --> 00:28:08,060
+So, yeah. Um, uh, I think it's really interesting that you brought up alcohol because by nature alcohol is a depressant,
+
+262
+00:28:08,060 --> 00:28:12,480
+but most people drink it like if you have two drinks, you're not going to be depressed, right?
+
+263
+00:28:12,500 --> 00:28:20,030
+It's like when you cross that threshold. Yeah. It's when you're like, okay, I know for the next two days I'm not getting out of bed or something.
+
+264
+00:28:20,210 --> 00:28:22,840
+Right. But it also like, kills your appetite.
+
+265
+00:28:22,850 --> 00:28:29,930
+I don't know if anyone ever has felt that way, but when you drink too much, you literally cannot eat after that.
+
+266
+00:28:30,050 --> 00:28:33,650
+Yeah. And I wonder why that is. Yeah. Yeah.
+
+267
+00:28:33,980 --> 00:28:44,330
+I'm. I'm curious. Yeah. So the interaction of like, appetite food consumption versus like some amount of alcohol, how much alcohol has been consumed.
+
+268
+00:28:44,630 --> 00:28:52,760
+Uh, what's interesting, you know, people actually are, uh, behavioral neuroscientists often use Drosophila for a lot of alcohol experiments.
+
+269
+00:28:53,060 --> 00:28:59,410
+So often I'd be, like, walking around, uh, a symposium, I'll see, like the impact of ethanol on Drosophila.
+
+270
+00:28:59,410 --> 00:29:03,380
+Uh, um, like, um, almost addiction behavior.
+
+271
+00:29:03,860 --> 00:29:11,870
+So. Yeah. Anyway, and I was going to include a little thing on how model organisms are often the different modes that we can use to understand,
+
+272
+00:29:12,290 --> 00:29:17,090
+um, addiction, the impact of different drugs on the nervous system, on the brain.
+
+273
+00:29:17,420 --> 00:29:24,770
+Uh, but yeah. Okay. Going back to alcohol as a depressant, I feel like there's a couple different kind of classifications.
+
+274
+00:29:25,220 --> 00:29:30,770
+We can we can we can start to unpack that statement as alcohol being a physiological depressant
+
+275
+00:29:31,070 --> 00:29:36,980
+as meaning that it's actually kind of reducing overall certain functions within your body.
+
+276
+00:29:37,280 --> 00:29:42,709
+And then absolutely, I'm sure certain amounts of alcohol consumption can lead to, um,
+
+277
+00:29:42,710 --> 00:29:47,690
+you know, feeling like changes in your mood and feeling more depressed than that.
+
+278
+00:29:47,990 --> 00:29:51,560
+So, yeah, absolutely. I think there's a lot to unpack. Um, yeah.
+
+279
+00:29:51,590 --> 00:30:00,800
+How drugs, things we eat, all of these things are kind of interacting and impacting the way we feel, I think in ways that we,
+
+280
+00:30:01,370 --> 00:30:10,250
+we there's some intuition, but now we're, as we've been saying, are able to unpack it in a lot, um, a lot higher resolution than previously.
+
+281
+00:30:11,030 --> 00:30:16,190
+Yeah. It's not just emotions, you know, like the can things like information.
+
+282
+00:30:16,520 --> 00:30:21,560
+Oh, yeah. Thank you. Please. Yeah. I mean, the brain barrier.
+
+283
+00:30:21,830 --> 00:30:24,890
+Yeah. That's gonna affect what's going down, you know. Yeah.
+
+284
+00:30:25,550 --> 00:30:29,930
+What nutrients and things like that are absorbed and then go out through.
+
+285
+00:30:31,610 --> 00:30:41,599
+Yeah. Absolutely. Um, yeah. So I was mentioning before is that this podcast ends on trying to understand the relationship between, um,
+
+286
+00:30:41,600 --> 00:30:50,479
+you know, what we eat and how we feel on like a, um, more on, like, a broad psychological kind of level, um,
+
+287
+00:30:50,480 --> 00:30:57,470
+and then making sure that it's like, yes, we're starting to understand, um, you know, the more about, like,
+
+288
+00:30:57,500 --> 00:31:03,979
+irritable bowel syndrome and inflammation in the gut and how that can just make us feel bad, like, you sure.
+
+289
+00:31:03,980 --> 00:31:06,260
+You have a broad physiological impact.
+
+290
+00:31:06,650 --> 00:31:14,390
+And often it's like if you have these long lasting chronic conditions that correlates not the cause of but can correlate with a lot of,
+
+291
+00:31:14,690 --> 00:31:18,590
+uh, different mood disorders, as I was saying, like, like anxiety.
+
+292
+00:31:18,740 --> 00:31:21,950
+So then why do we see unhealthy food? Yeah. Haha.
+
+293
+00:31:22,640 --> 00:31:28,970
+Yeah. And everyone's like, I don't want to eat. Yeah, yeah. Well, is anyone have uh, I guess that's why.
+
+294
+00:31:29,000 --> 00:31:34,940
+Yeah, I, I don't know, I feel like the way healthy food is otherwise it's very unappetizing.
+
+295
+00:31:35,870 --> 00:31:40,940
+Whereas, like, if you look at ads for Taco Bell or something, you're going to be like, okay, that's something I want to eat.
+
+296
+00:31:41,360 --> 00:31:44,900
+But if you have the same thing with a salad, no one's gonna want to eat it.
+
+297
+00:31:45,890 --> 00:31:49,450
+I feel like there's a lot of, um, newsletters.
+
+298
+00:31:49,520 --> 00:31:53,210
+Um, I guess, uh, the healthier.
+
+299
+00:31:53,250 --> 00:31:56,790
+The recipes that you. Mhm. Yeah. But you have to dig for that.
+
+300
+00:31:57,760 --> 00:32:00,959
+Yeah. Yeah. Yeah I feel like that could. Yeah.
+
+301
+00:32:00,960 --> 00:32:07,850
+Certainly be one of them. I feel like um often these highly processed foods come with a lot more sugar.
+
+302
+00:32:07,860 --> 00:32:14,130
+And just the mechanism by how they're acting is different and can start to stimulate that reward system in our brain.
+
+303
+00:32:14,570 --> 00:32:18,600
+Um, so even though we know it's bad for us, we're like, oh, really want this?
+
+304
+00:32:19,020 --> 00:32:22,900
+Yeah. Yeah, yeah. Uh, yeah. Any last thoughts?
+
+305
+00:32:22,950 --> 00:32:26,040
+I thought that was. Yeah. Really good. Cool.
+
+306
+00:32:26,430 --> 00:32:31,020
+Yeah. So this is, I think, an intuitive connection again that we're just starting to unpack,
+
+307
+00:32:31,380 --> 00:32:35,070
+um, highlighting a few things that they brought up in that that quick segment.
+
+308
+00:32:35,490 --> 00:32:46,200
+Um, right. So these are, uh, it's now termed disorders of gut brain interactions or I previously termed, uh, functional GI diseases.
+
+309
+00:32:46,410 --> 00:32:57,030
+I think, um, yeah, this, this renaming, um, just because they can be so, um, debilitating that it kind of leads to dysfunction.
+
+310
+00:32:57,030 --> 00:33:00,899
+Right? So I think that function functionally is a misnomer. Um, right.
+
+311
+00:33:00,900 --> 00:33:04,890
+And so the things they conclude irritable bowel syndrome, reflux, hypersensitivity.
+
+312
+00:33:05,100 --> 00:33:07,820
+Uh, functional, uh, Diet Pepsi.
+
+313
+00:33:07,830 --> 00:33:16,020
+Uh, um, and then, uh, what's the end of the podcast with starting to say is that this can correlate with these independent mood disorders,
+
+314
+00:33:16,020 --> 00:33:27,780
+anxiety, depression, things like that. Um, and so they also mention the impact of the gut, uh, on the autonomous nervous system.
+
+315
+00:33:28,080 --> 00:33:36,239
+Right. So just, um, thinking about the neurons in our body that we don't necessarily have control over,
+
+316
+00:33:36,240 --> 00:33:41,070
+but, uh, performing important functions, uh, particularly within that,
+
+317
+00:33:41,280 --> 00:33:46,469
+uh, autonomous nervous system as the vagus nerve and then, um, then, of course,
+
+318
+00:33:46,470 --> 00:33:50,700
+mention the gut microbiome, which we think is playing a role in modulating all of this.
+
+319
+00:33:51,870 --> 00:33:54,900
+All right. So starting to break these down a little bit.
+
+320
+00:33:56,400 --> 00:33:59,910
+Right. So we've seen this slide I think a a number of times now.
+
+321
+00:33:59,910 --> 00:34:03,120
+But right at the very top is our nervous system.
+
+322
+00:34:03,420 --> 00:34:10,889
+Oh there you go. Um and then we break that down into our central nervous system in our peripheral nervous system, central nervous system,
+
+323
+00:34:10,890 --> 00:34:18,960
+brain spine, peripheral nervous system, all of our, um, all the neurons kind of intaking our environmental stimuli.
+
+324
+00:34:19,770 --> 00:34:28,499
+Um, and so the central nervous system or the peripheral nervous system can be broken down into the autonomic nervous system,
+
+325
+00:34:28,500 --> 00:34:31,229
+which communicates with our internal organs and glands.
+
+326
+00:34:31,230 --> 00:34:37,020
+And then the somatic nervous system, right, which communicates with, uh, organs, involuntary muscle.
+
+327
+00:34:38,280 --> 00:34:45,720
+Um, and then we started, we went through breaking down, uh, these afferent and efferent copies within that peripheral nervous system,
+
+328
+00:34:46,200 --> 00:34:52,800
+um, great efferent being sensory input input into probably going to our central nervous system.
+
+329
+00:34:53,310 --> 00:34:58,950
+Efferent copy um, is from that central nervous system controlling some motor output.
+
+330
+00:34:59,970 --> 00:35:02,760
+Um and so what.
+
+331
+00:35:05,580 --> 00:35:18,959
+Um, what is hypothesized to be the biggest impact, um, or most impacted from this, uh, G.I to brain interaction is the, uh, anomic nervous system.
+
+332
+00:35:18,960 --> 00:35:25,890
+So looking more at this, um, some, uh, sympathetic and parasympathetic nervous system.
+
+333
+00:35:25,890 --> 00:35:33,510
+So things that are like our fight or flight response controlling, uh, these responses within our bodies.
+
+334
+00:35:33,510 --> 00:35:38,940
+And again, um, this communication with internal organs and glands, which makes sense, um,
+
+335
+00:35:39,120 --> 00:35:45,600
+thinking about the gut being a really important organ in our body and the brain and forming that connection.
+
+336
+00:35:46,770 --> 00:35:52,320
+Right. So here highlighting components of the parasympathetic nervous system.
+
+337
+00:35:52,620 --> 00:35:58,650
+Of course. Um, I think this is like a kind of nice diagram, just kind of outlining everything.
+
+338
+00:36:00,030 --> 00:36:05,009
+But specifically, I know it was mentioned in our discussion thinking about the vagus nerve,
+
+339
+00:36:05,010 --> 00:36:09,270
+which is this connection, uh, actually acts in this diagram.
+
+340
+00:36:10,140 --> 00:36:21,870
+Um, but it is, uh, really important nerve that is, um, making up 75% of these parasympathetic fibers, uh, within the, uh, peons.
+
+341
+00:36:22,620 --> 00:36:29,880
+Um, it primarily uses Ace2 choline as its neurotransmitter, both key pre and post uh, synaptic li.
+
+342
+00:36:30,210 --> 00:36:35,250
+And then it forms again this it literally forms a connection from the stomach and intestine.
+
+343
+00:36:35,670 --> 00:36:40,079
+Um, and parasympathetic stimulation leads to increased motility,
+
+344
+00:36:40,080 --> 00:36:47,400
+relaxed relaxation of sphincters allowing um, you know, proper uh, activity of your, your GI system.
+
+345
+00:36:47,940 --> 00:36:53,160
+Right. So it makes sense that this vagus nerve is, uh, really important, uh, when trying to understand the.
+
+346
+00:36:53,250 --> 00:36:56,850
+Connection between, um, our brain or. Oh, it is.
+
+347
+00:36:56,850 --> 00:37:01,320
+Yeah. A piece of our our our brain, uh, connecting to our gut.
+
+348
+00:37:03,410 --> 00:37:11,990
+Right? Um, yeah. And then, of course, the stimulation of receptors can lead to, uh, different types of, uh, enzymes for digestion.
+
+349
+00:37:13,960 --> 00:37:23,160
+Cool. All right, so we kind of, um, built this connection here is that let's imagine this being, uh,
+
+350
+00:37:23,180 --> 00:37:31,070
+that parasympathetic nervous system looking at the vagus nerve, right where you have, uh, feedback from your gut to your brain.
+
+351
+00:37:31,430 --> 00:37:38,330
+Um, so literally, things that are impacting our stimulating that, uh, that vagus nerve can impact,
+
+352
+00:37:38,690 --> 00:37:45,200
+um, how your gut is behaving, how it's, um, moving through, uh, uh, food through your, your gut.
+
+353
+00:37:45,860 --> 00:37:52,940
+Um, a number of things can influence, uh, and move from your, your gut to your brain.
+
+354
+00:37:53,420 --> 00:38:03,290
+Um, so a number of derived molecules, uh, you know, neurotransmitters, different types of, uh, molecules important in our immune response.
+
+355
+00:38:03,560 --> 00:38:11,240
+And then, uh, neuroendocrine based molecules, which are essentially kind of like hormones are hormone producing, uh, neurons.
+
+356
+00:38:11,630 --> 00:38:18,620
+Right. So all of these things can be released within your gut, can flow through your body impact, you know, the central nervous system,
+
+357
+00:38:18,890 --> 00:38:23,960
+but again, also have huge impacts on other regions within your parasympathetic sympathetic nervous system.
+
+358
+00:38:25,610 --> 00:38:28,970
+All right. And so there's another connection here that we started talking about,
+
+359
+00:38:29,270 --> 00:38:38,390
+which is of course looking at the impact of um, uh, different, uh, microbes or bacteria within your gut as well.
+
+360
+00:38:39,470 --> 00:38:43,280
+Um, I like this idea of kind of thinking of it as another organ.
+
+361
+00:38:43,280 --> 00:38:46,670
+I think that is something that's becoming more widely accepted.
+
+362
+00:38:47,240 --> 00:38:52,080
+And so the idea is that, um, microbes living in your gut can also, um,
+
+363
+00:38:52,100 --> 00:38:56,959
+produce some of these, uh, molecules that are important for your gut to function.
+
+364
+00:38:56,960 --> 00:39:03,170
+They're important for, um, are can lead to neurotransmitters being produced within your brain.
+
+365
+00:39:03,530 --> 00:39:08,149
+Right. So all of this, um, it's kind of forming this connection again, right.
+
+366
+00:39:08,150 --> 00:39:15,110
+From brain to gut, that includes a bunch, uh, huge microbial community within your gut as well.
+
+367
+00:39:18,680 --> 00:39:23,300
+Right. So I wanted to. Yeah. At least have one slide on. You know what is the gut microbiome.
+
+368
+00:39:23,780 --> 00:39:28,230
+Right. And so I think yeah intuitive and probably many of us have encountered this idea.
+
+369
+00:39:28,260 --> 00:39:34,340
+But you know, living within our gut is a whole host of, uh, different microbes, uh, bacteria.
+
+370
+00:39:34,820 --> 00:39:40,790
+Uh, and the they perform, uh, we could call them commensal bacteria, most of most of them,
+
+371
+00:39:40,790 --> 00:39:44,540
+because they're performing these beneficial roles, uh, within a gut.
+
+372
+00:39:44,540 --> 00:39:44,779
+Right.
+
+373
+00:39:44,780 --> 00:39:53,900
+They're helping break down, um, certain molecules within, uh, within our gut and producing things that are useful for our, our bodies to function.
+
+374
+00:39:55,190 --> 00:40:01,969
+Um, right. And so there's a whole host of different factors that influence our gut microbiome, right?
+
+375
+00:40:01,970 --> 00:40:09,110
+From, you know, medicine. We're taking, um, your diet, of course, uh, different life stages.
+
+376
+00:40:09,110 --> 00:40:14,000
+All of these things can have an impact, which, you know, again, we're starting to really, um,
+
+377
+00:40:14,540 --> 00:40:22,429
+tease apart the impact of all of these different variables on the microbial communities living in our gut and what role they play in,
+
+378
+00:40:22,430 --> 00:40:27,590
+uh, the molecules necessary, uh, generating the molecules necessary for our brains function.
+
+379
+00:40:29,520 --> 00:40:39,300
+All right. So, um, one step further is kind of looking at this specific application of how the gut microbiome,
+
+380
+00:40:39,450 --> 00:40:46,140
+uh, can actually influence, um, um, outcomes within multiple sclerosis.
+
+381
+00:40:46,860 --> 00:40:56,190
+Um, and so multiple sclerosis or in US is, uh, really long lasting chronic disease, uh, of the central nervous system.
+
+382
+00:40:56,730 --> 00:41:03,450
+Um, and so often it will impact, um, the myelin sheath on nerve nerves.
+
+383
+00:41:03,540 --> 00:41:09,480
+Um, often it's going to be like glial cells, uh, within the central nervous system.
+
+384
+00:41:09,750 --> 00:41:13,049
+And. Right. So this can be the impact of that of Ms.
+
+385
+00:41:13,050 --> 00:41:17,190
+Over time. Uh, and it can yeah. There's a lot of variability.
+
+386
+00:41:17,640 --> 00:41:24,780
+Um, and, um, for some individuals, you won't see many symptoms.
+
+387
+00:41:24,780 --> 00:41:30,300
+For others you can see some really, um, high level, um, behavioral impacts.
+
+388
+00:41:30,690 --> 00:41:33,930
+Um, so it is, it's, um, a really challenging disease to have.
+
+389
+00:41:34,710 --> 00:41:35,250
+Um, right.
+
+390
+00:41:35,250 --> 00:41:44,760
+And so it's thought to be autoimmune disorder, uh, in which the body mistakes itself, um, for a pathogen, essentially, and starts to degrade.
+
+391
+00:41:44,760 --> 00:41:47,969
+Right. Some of those myelin sheath. Um, yeah.
+
+392
+00:41:47,970 --> 00:41:53,730
+And again, it's, it can be quite variable, uh, in how symptoms manifest in individuals.
+
+393
+00:41:54,870 --> 00:42:00,360
+Right. And so there was a paper that was just looking at, um, and trying to test the impact of,
+
+394
+00:42:00,840 --> 00:42:07,260
+uh, microbial communities on, um, uh, the progression of multiple sclerosis.
+
+395
+00:42:07,260 --> 00:42:10,530
+Grillo's Grillo says, uh, in individuals.
+
+396
+00:42:10,980 --> 00:42:18,630
+Right. So again, making that gut brain connection. All right. So this is going to be a pretty, um, intense or detailed figure.
+
+397
+00:42:19,020 --> 00:42:26,040
+Uh, but starting here at the bottom. Right. So this is what we've been talking about, all of these different, uh, bacteria living within our gut.
+
+398
+00:42:26,310 --> 00:42:31,230
+And we start to see one of the roles that they are, uh, playing within the gut.
+
+399
+00:42:31,230 --> 00:42:38,219
+And that is, um, metabolizing, uh, the short chain fatty acids and tryptophan, uh,
+
+400
+00:42:38,220 --> 00:42:44,850
+to start to produce other important, uh, neurotransmitters in our brain, like serotonin here.
+
+401
+00:42:45,270 --> 00:42:50,970
+Right. And so you don't have to get into all the details, uh, within this slide, but essentially it's showing right through,
+
+402
+00:42:51,270 --> 00:42:57,270
+through, uh, having these healthy, uh, bacteria that are processing tryptophan,
+
+403
+00:42:57,630 --> 00:43:01,950
+uh, you can lead to increased serotonin production, um,
+
+404
+00:43:01,950 --> 00:43:11,460
+which interacts with this metabolic pathway and can lead to more or less functioning within your, uh, um, immune system.
+
+405
+00:43:12,690 --> 00:43:20,730
+Right. And so this is, uh, they were looking at, um, an individual where you have this gut, uh, dysbiosis.
+
+406
+00:43:21,090 --> 00:43:26,070
+Uh, so you're missing, uh, particular community within your, uh, gut microbiome.
+
+407
+00:43:26,400 --> 00:43:33,510
+And so you have an impairment in how, um, these fatty acids and tryptophan is being processed within your gut.
+
+408
+00:43:34,110 --> 00:43:40,229
+Um, and so essentially, they were looking for correlates of, uh, what microbial communities look like,
+
+409
+00:43:40,230 --> 00:43:48,120
+what metabolites are being processed better or worse in individuals, um, that have multiple that have Ms.
+
+410
+00:43:48,600 --> 00:43:59,399
+Right. And I think this really highlights this idea that, um, treating looking at the gut will not, you know, it's not a cure for Ms.
+
+411
+00:43:59,400 --> 00:44:02,430
+But it can lead. Again you're seeing some correlates here.
+
+412
+00:44:02,730 --> 00:44:07,350
+Right. And you're seeing that um, okay. Maybe there's a change in serotonin production within the gut.
+
+413
+00:44:07,740 --> 00:44:16,590
+And can we start to break down that pathway as to how that can lead to, um, more or less symptoms with individuals with M.S.?
+
+414
+00:44:16,590 --> 00:44:22,739
+So again, just starting to see how even directly neurotransmitters are produced in the gut.
+
+415
+00:44:22,740 --> 00:44:26,040
+And that can have an impact on on our brain brain health.
+
+416
+00:44:30,070 --> 00:44:33,370
+Cool. Right. And so this is breaking that this from that.
+
+417
+00:44:33,400 --> 00:44:40,959
+Uh. Uh, no, this is, uh, a little review showing that same idea, though, right here.
+
+418
+00:44:40,960 --> 00:44:49,270
+Um, you have, uh, an example micro, uh, micro, uh, microbe that's actually processing tryptophan.
+
+419
+00:44:49,270 --> 00:44:56,110
+And tryptophan is a really common, uh, metabolite to look at because it is a precursor for serotonin.
+
+420
+00:44:56,530 --> 00:45:03,339
+And we know that. Or it can be, um, yeah, precursor for serotonin, uh, but also can be used to derive,
+
+421
+00:45:03,340 --> 00:45:08,620
+uh, a number of different, uh, metabolites that are important within, uh, physiology.
+
+422
+00:45:09,370 --> 00:45:20,110
+Um, and again, I think, uh, another uh, neurotransmitter, um, vaccine is another precursor for serotonin.
+
+423
+00:45:20,440 --> 00:45:24,130
+But again, just showing that, yeah, you have this really interesting interaction with,
+
+424
+00:45:25,180 --> 00:45:29,890
+uh, microbes actually, uh, being an intermediate for, uh, serotonin production.
+
+425
+00:45:33,410 --> 00:45:42,200
+Cool, right? So this is, uh, the other paper from our other second figure from, uh, the gut microbiota in Ms.
+
+426
+00:45:42,650 --> 00:45:48,770
+Paper. Um, again, it's getting more into the mechanisms for how, uh,
+
+427
+00:45:48,770 --> 00:45:57,200
+a particular microbe being present or not can lead to immune response, um, and leading to inflammation within the brain,
+
+428
+00:45:57,590 --> 00:46:08,149
+um, which they think could be one thing contributing to multiple sclerosis group in math and the degradation of some of those myelin sheath and,
+
+429
+00:46:08,150 --> 00:46:13,510
+uh, glia within the brain. Cool.
+
+430
+00:46:14,050 --> 00:46:19,240
+Yeah. And this? Yeah. Uh, this is from another paper, but describing the same thing.
+
+431
+00:46:19,240 --> 00:46:24,760
+I won't go into a tiny detail, but I think it's, again, validating this idea that, um.
+
+432
+00:46:24,760 --> 00:46:29,950
+Yeah, you're seeing this connection, um, uh, from directly from the brain to to the gut.
+
+433
+00:46:34,150 --> 00:46:43,570
+Cool. All right. So from from that, um, this is just highlighting, uh, this is that friend I mentioned that we went to grad school together.
+
+434
+00:46:44,050 --> 00:46:48,400
+Um, he's now a assistant professor at, uh, Stanford.
+
+435
+00:46:48,400 --> 00:46:52,190
+And this is he works on, um. Yeah.
+
+436
+00:46:52,220 --> 00:46:58,570
+Has a bunch of cool things going on. He was a chef, uh, a couple different, uh, Michelin star restaurants.
+
+437
+00:46:58,990 --> 00:47:06,700
+Um, and now studies kind of the impact of different cuisines on gut health.
+
+438
+00:47:07,030 --> 00:47:10,990
+And so specifically, I thought this was a really cool paper that he was working on.
+
+439
+00:47:11,440 --> 00:47:20,350
+Um, so this was looking at, again, very similar to, uh, what we've been talking about is how certain microbes within our,
+
+440
+00:47:20,470 --> 00:47:30,430
+um, our gut microbiome are responsible for, um, uh, breaking down different and synthesizing different, uh, catalysts.
+
+441
+00:47:30,760 --> 00:47:35,049
+So this is a class of neurotransmitter, uh, that we have within our bodies.
+
+442
+00:47:35,050 --> 00:47:41,560
+Right. And so that is a precursor for things like dopamine, uh, and norepinephrine.
+
+443
+00:47:41,710 --> 00:47:47,800
+Right. So really important, uh, playing a really important role in generating, synthesizing,
+
+444
+00:47:47,800 --> 00:47:51,850
+uh, these neurotransmitters, again, that are playing key roles within our bodies.
+
+445
+00:47:53,650 --> 00:47:57,729
+Cool. Yeah. And that's essentially what this figure is showing is that they tested,
+
+446
+00:47:57,730 --> 00:48:03,100
+looked at a bunch of different, uh, dopamine analogs and found it was somewhat specific.
+
+447
+00:48:03,400 --> 00:48:07,600
+Uh, and so this was. Yeah. Uh, at the time, I was working in a chemistry lab.
+
+448
+00:48:07,600 --> 00:48:12,159
+So they worked out the mechanism by which, uh, particular enzyme, uh,
+
+449
+00:48:12,160 --> 00:48:16,720
+which I'm forgetting the name of, uh, the way that it actually is working to convert that.
+
+450
+00:48:17,020 --> 00:48:22,270
+Cool. Uh, and performing this to, uh, uh, dehydration and removing this.
+
+451
+00:48:22,270 --> 00:48:25,479
+Oh, uh, is that right?
+
+452
+00:48:25,480 --> 00:48:30,370
+Yeah. Removing this o h group, um, from these chemicals.
+
+453
+00:48:32,340 --> 00:48:38,350
+Cool. All right, so now zooming out a bit.
+
+454
+00:48:39,160 --> 00:48:45,010
+Um, so yeah, we were talking about, um, the way that the gut and, uh,
+
+455
+00:48:45,220 --> 00:48:50,980
+microbes within our gut, uh, can facilitate the production of different neurotransmitters.
+
+456
+00:48:51,490 --> 00:48:56,950
+Uh, right. This is, again, a nice canonical review of, you know, what those neurotransmitters are doing.
+
+457
+00:48:56,950 --> 00:49:00,960
+Right? Sending signal. Um, well, you have electrical signals, right?
+
+458
+00:49:00,970 --> 00:49:05,220
+Ion channels opening and closing. Uh, going down to synapse.
+
+459
+00:49:05,230 --> 00:49:13,090
+So presynaptic often really leading to the release of neurotransmitters that will bind to receptors in this postsynaptic,
+
+460
+00:49:13,480 --> 00:49:17,350
+uh, terminal of dendrites within the receiving neuron. Right.
+
+461
+00:49:17,350 --> 00:49:21,129
+And so that looks something like this. And that should.
+
+462
+00:49:21,130 --> 00:49:32,020
+Yeah, this should be familiar. Um, and so what a lot of these, um, what microbes in are doing within our gut are actually, again, helping produce.
+
+463
+00:49:32,020 --> 00:49:36,970
+Right, some of this neurotransmitter that can, uh, be released from neurons.
+
+464
+00:49:37,420 --> 00:49:46,719
+Uh, but they're also, uh, producing other enzymes or metabolites that can interact within the synapse or even within our neuron.
+
+465
+00:49:46,720 --> 00:49:57,070
+Not directly, uh, across going from one neuron presynaptic to postsynaptic, but interacting potentially with the neurotransmitter outside of that,
+
+466
+00:49:57,070 --> 00:50:03,610
+that synapse, which will again modify lead some amount of, um, functional plasticity.
+
+467
+00:50:03,610 --> 00:50:11,500
+Right. So if you have an an enzyme or a chemical that's interacting with that neurotransmitter and preventing it from binding,
+
+468
+00:50:11,800 --> 00:50:16,870
+right, that can lead to a dampening of the signal moving from one axon to another.
+
+469
+00:50:18,490 --> 00:50:21,810
+Right? Um, yeah. So, right. We went over.
+
+470
+00:50:21,820 --> 00:50:25,900
+Yeah. The different neurotransmitters, uh, important for conveying information.
+
+471
+00:50:26,950 --> 00:50:30,640
+Um, typically working across, you know, 1 or 2 neurons.
+
+472
+00:50:31,180 --> 00:50:37,450
+Um. What we were just describing of, you know, kind of large, um.
+
+473
+00:50:39,260 --> 00:50:47,960
+Concentrations of different chemicals that can interact either, you know, in with this neuron, um.
+
+474
+00:50:48,380 --> 00:50:54,500
+Presynaptic or even interacting with neurotransmitters in the synapse before they bind.
+
+475
+00:50:54,830 --> 00:50:59,270
+We can think of these as a very broad class of being a neuromodulator.
+
+476
+00:50:59,990 --> 00:51:09,050
+Right. And so again, very, very broad class. But the idea is this is like one or more chemicals that can be released broadly within,
+
+477
+00:51:09,080 --> 00:51:14,930
+uh, a population of neurons that can lead to changes in the response of those neurons.
+
+478
+00:51:15,740 --> 00:51:18,860
+Um, right. And so this can be enzyme a chemical.
+
+479
+00:51:18,860 --> 00:51:22,370
+It can be what we canonically think of as a neurotransmitter.
+
+480
+00:51:22,370 --> 00:51:32,600
+So like serotonin, dopamine. Uh, but the there are big differences in the way that a neuromodulator will act upon, uh, changing the, uh,
+
+481
+00:51:32,990 --> 00:51:40,490
+the activity or changing the responsiveness of a neuron or a population of neurons compared to a classic neurotransmitter.
+
+482
+00:51:42,020 --> 00:51:50,840
+Right. And so we could think of this enzyme here as some, um, some kind of neuromodulator that certainly could come from microbe,
+
+483
+00:51:51,110 --> 00:51:55,010
+um, from microbes being, um, uh, within our gut microbiome.
+
+484
+00:51:56,270 --> 00:52:00,470
+Right. So another way, these neuromodulators are a way of kind of modifying,
+
+485
+00:52:00,740 --> 00:52:06,470
+leading to functional plasticity, potentially, um, within, uh, populations of neurons.
+
+486
+00:52:07,670 --> 00:52:13,010
+Right? Okay. So really highlighting what are the differences here between these neurotransmitters and neuromodulators.
+
+487
+00:52:13,580 --> 00:52:16,850
+Um, why is the the number of postsynaptic targets.
+
+488
+00:52:16,850 --> 00:52:21,889
+So again, neurotransmitters we typically think of 1 or 2. These neuromodulators can be very broad.
+
+489
+00:52:21,890 --> 00:52:37,400
+Right. So even if we think of um, like broad increases of um, uh, serotonin, um, in our, um, uh, in, uh, surrounding our neurons, uh,
+
+490
+00:52:37,400 --> 00:52:44,600
+that can be thought of as a neuromodulator rather than a neurotransmitter that would be sent presynaptic from one neuron to a next.
+
+491
+00:52:45,230 --> 00:52:53,299
+Um, the mechanism typically neuromodulators will act through a secondary messenger, meaning that they again,
+
+492
+00:52:53,300 --> 00:53:01,280
+will not be released directly from the synapse and bind postsynaptic on to a receptor, but they could bind to a receptor.
+
+493
+00:53:01,280 --> 00:53:09,350
+Presynaptic Lee trigger the increase of a secondary molecule that's responsible for, um, uh,
+
+494
+00:53:09,650 --> 00:53:17,209
+increasing the, uh, let's say, the number of receptors or modulating the responsiveness of that neuron.
+
+495
+00:53:17,210 --> 00:53:25,940
+But typically they don't directly act on these post-synaptic, uh, receptors, um, for location.
+
+496
+00:53:25,940 --> 00:53:30,470
+Right? So they can be quite, again, acting across very broad areas.
+
+497
+00:53:30,530 --> 00:53:36,620
+Um, so not just from one neuron to, uh, the closest synaptic target.
+
+498
+00:53:37,880 --> 00:53:44,930
+Um, yeah. And then, uh, degradation. So neurotransmitters can be, uh, typically degraded pretty quickly.
+
+499
+00:53:45,320 --> 00:53:52,130
+Uh, these neuromodulators typically will stick around, um, uh, for long periods of time,
+
+500
+00:53:52,250 --> 00:53:57,260
+um, or will be taken up by neurons and lead to longer lasting changes.
+
+501
+00:53:59,120 --> 00:54:02,359
+Right. Um, and that also correlates with the type of fact.
+
+502
+00:54:02,360 --> 00:54:10,010
+So neurotransmitters produce that rapid, uh, change in propagating electrical activity typically and post unethically.
+
+503
+00:54:10,340 --> 00:54:18,020
+Uh, while these neuromodulators can have these slow rate so slow by acting through secondary messengers or other,
+
+504
+00:54:18,320 --> 00:54:26,540
+um, metabolic pathways, they can lead to these large but slow changes that are pretty, um, consistent.
+
+505
+00:54:28,750 --> 00:54:32,320
+Cool. Yeah. Any questions on that? No.
+
+506
+00:54:34,750 --> 00:54:40,900
+Cool. Yeah. And so some great major neuromodulators that we've seen before.
+
+507
+00:54:40,930 --> 00:54:45,700
+And there's probably a lot of overlap with neurotransmitters.
+
+508
+00:54:46,000 --> 00:54:53,379
+So things like dopamine, serotonin, acetylcholine, um, all of these good things can also be neuromodulators just depending.
+
+509
+00:54:53,380 --> 00:54:58,120
+Right. Going back to all those conditions we set up with mainly being, um,
+
+510
+00:54:59,020 --> 00:55:07,930
+the area at which this neuro modulator is being released dictates, uh, whether it's a neuromodulator or, uh, neurotransmitter.
+
+511
+00:55:08,650 --> 00:55:12,160
+And at the very end here through in things like cannabinoids.
+
+512
+00:55:12,400 --> 00:55:12,670
+Right.
+
+513
+00:55:12,670 --> 00:55:21,670
+So starting to look at, you know, more of these drugs that we're talking up about before and how we can even think of them as neuromodulators, right.
+
+514
+00:55:21,670 --> 00:55:25,149
+As, uh, they may interact, um, right,
+
+515
+00:55:25,150 --> 00:55:33,730
+with our neurons in some indirect way and can change the responsiveness of our neurons to, uh, particular stimulus.
+
+516
+00:55:34,240 --> 00:55:41,740
+Right. So this figure is just showing, uh, one way at which you could get that, um, neuromodulator effect of here.
+
+517
+00:55:41,740 --> 00:55:49,389
+We have, uh, some, let's say, neurotransmitter binding to this, uh, decoupled protein receptor,
+
+518
+00:55:49,390 --> 00:55:57,790
+leading to the increase of this secondary molecule or messenger, which then leads to, uh, the opening of this ion channel.
+
+519
+00:55:57,820 --> 00:56:02,830
+Right. So that that is one way that a neurotransmitter can act as a.
+
+520
+00:56:02,830 --> 00:56:09,970
+Uh neuromodulator. Assuming that this would happen, this transmitter is spread across a pretty large area, right?
+
+521
+00:56:13,970 --> 00:56:17,280
+Cool. All right. So now we're going to dive into.
+
+522
+00:56:17,300 --> 00:56:25,400
+So taking this connection right. So we've gone we've hopped around a bit um, from uh gut microbiome uh, to, you know,
+
+523
+00:56:25,400 --> 00:56:30,410
+the role that there's, uh, an important role in producing neurotransmitters.
+
+524
+00:56:30,620 --> 00:56:34,810
+They also can produce, uh, classes of chemicals, sort of neuromodulators.
+
+525
+00:56:34,820 --> 00:56:40,180
+This also can be often serotonin or, um, things like these.
+
+526
+00:56:40,190 --> 00:56:43,819
+Serotonin that's produced within the gut can act as a neuromodulator,
+
+527
+00:56:43,820 --> 00:56:48,680
+as it's broadly applied to a population of neurons and can modulate their activity.
+
+528
+00:56:49,940 --> 00:56:57,590
+Um, right. So now diving a bit more as to the overlap of even, uh, kind of drugs, um,
+
+529
+00:56:58,340 --> 00:57:03,680
+microbial communities and, um, how they're producing different neurotransmitters.
+
+530
+00:57:04,160 --> 00:57:12,050
+Um, so broadly defining what a drug is as some chemical, uh, that can have a physiological effect when administered or ingested.
+
+531
+00:57:12,350 --> 00:57:14,450
+Right? These are typically exogenous.
+
+532
+00:57:14,450 --> 00:57:25,580
+So not produced within our bodies, um, often are not necessary for our bodies to function, at least in some like wild type of state.
+
+533
+00:57:26,840 --> 00:57:35,120
+Uh, there are a number of mechanisms, right, that we can understand how drugs interact with, let's just say receptors in general.
+
+534
+00:57:35,120 --> 00:57:40,399
+And often it will be interacting with receptors, uh, expressed within our neurons.
+
+535
+00:57:40,400 --> 00:57:49,760
+But. Right. So um, here we have this is our agonist, our typical, um, substrate binding to our receptor here.
+
+536
+00:57:50,720 --> 00:57:56,990
+Uh, and this can lead to some direct either increase in activity or decrease inhibition.
+
+537
+00:57:57,470 --> 00:58:00,620
+Um. I'm in contrast to that.
+
+538
+00:58:00,620 --> 00:58:09,350
+We have agonists. Right. So this, uh, particular substrate or drug could bind to that receptor and lead to no change inhibiting effect,
+
+539
+00:58:09,800 --> 00:58:13,370
+um, of that particular receptor and downstream neuron.
+
+540
+00:58:14,060 --> 00:58:18,550
+Uh, and then we have all types of uh classes on top of that.
+
+541
+00:58:18,560 --> 00:58:22,040
+I think we're running out of time. So I'm going to go through this kind of quickly.
+
+542
+00:58:22,190 --> 00:58:28,400
+But things that yeah, will bind and block with uh, particular receptor, um, so they can be competitive,
+
+543
+00:58:28,880 --> 00:58:34,940
+um, competitive inhibitory at which they're binding to that same active site as your,
+
+544
+00:58:35,390 --> 00:58:42,710
+your typical substrate and then preventing that substrate from actually binding and leading to some conformational change.
+
+545
+00:58:43,010 --> 00:58:50,780
+Right. So all of these, uh, different mechanisms at which you can, um, get drugs interacting with receptors in general,
+
+546
+00:58:51,140 --> 00:58:54,140
+often these they're going to interact with receptors in neurons.
+
+547
+00:58:56,510 --> 00:59:02,329
+Right. And so this I was talking about this at the end of last class to some degree.
+
+548
+00:59:02,330 --> 00:59:05,900
+I was thinking about a different figure, but this kind of conveys the same idea.
+
+549
+00:59:06,200 --> 00:59:09,919
+So this is looking at, uh, different drugs on the x axis.
+
+550
+00:59:09,920 --> 00:59:17,630
+Is this degree of physical harm, which can be thought of as, yeah, if you think of, you know, a set concentration,
+
+551
+00:59:18,110 --> 00:59:29,240
+how much at that set concentration, what is the impact of how likely are you, uh, going to get death across the, uh, all of these different drugs?
+
+552
+00:59:29,810 --> 00:59:33,650
+Um, and then also showing this dependance relationship as well.
+
+553
+00:59:33,650 --> 00:59:43,160
+So the likelihood to form, um, for habit forming or uh, forming, um, addiction for, uh, a number of these chemicals.
+
+554
+00:59:44,060 --> 00:59:50,060
+Right. And so, uh, at the very top, right, you can see heroin, which is an opioid,
+
+555
+00:59:50,060 --> 00:59:57,590
+which, um, is a very addictive substance, has a very, I want to say low KD.
+
+556
+00:59:57,860 --> 01:00:03,500
+So a very low concentration within your body can lead to, uh, really harmful effects.
+
+557
+01:00:04,980 --> 01:00:08,370
+Um, here at the kind of middle section, right?
+
+558
+01:00:08,370 --> 01:00:16,500
+You actually start to see alcohol and tobacco where you can still form some dependance, but maybe lower on the end of, of physical harm.
+
+559
+01:00:16,920 --> 01:00:21,600
+Right. And then you have like LSD, cannabis, uh, on the very end here.
+
+560
+01:00:22,020 --> 01:00:25,139
+Right. And so LSD and they work on it. Right.
+
+561
+01:00:25,140 --> 01:00:27,900
+They have all have different mechanisms at which they work.
+
+562
+01:00:28,470 --> 01:00:36,060
+Um, and that can be, you know, variability in how they interact with receptors as we just went over the target of the receptors.
+
+563
+01:00:36,060 --> 01:00:42,420
+So are they targeting dopamine expressing receptors at dopamine binding receptors, serotonin and things like that.
+
+564
+01:00:42,420 --> 01:00:46,350
+So I like the works on serotonin binding receptors.
+
+565
+01:00:46,710 --> 01:00:54,030
+Uh, I mentioned cocaine in the last lecture as again another an interest rate, a harmful drug.
+
+566
+01:00:54,540 --> 01:01:03,749
+Uh, but can lead to, um, some really fascinating changes in plasticity, structural dependent changes within the brain.
+
+567
+01:01:03,750 --> 01:01:09,150
+And that's, um, not necessarily conserved across all of these drugs, but it can be one of the effects.
+
+568
+01:01:10,410 --> 01:01:14,309
+OOP need some water. All right. We're almost sadly out of time.
+
+569
+01:01:14,310 --> 01:01:22,200
+But yeah, I wanted to give a bit more context to, um, you know, that the impact of these drugs on the brain.
+
+570
+01:01:23,190 --> 01:01:28,020
+Right. Kind of broadly thinking about, uh, the impact of these neuromodulators.
+
+571
+01:01:28,380 --> 01:01:29,910
+Right. So this is a psycho stimulant.
+
+572
+01:01:30,300 --> 01:01:38,820
+Um, it, uh, affects the sympathetic nervous system, which means that, again, it's going to influence this fight or flight response.
+
+573
+01:01:38,820 --> 01:01:42,600
+Elevated heart rate, blood pressure, uh, dilated pupils.
+
+574
+01:01:43,050 --> 01:01:49,709
+Um, right. The way it it works on the molecular level is actually preventing, um,
+
+575
+01:01:49,710 --> 01:01:57,720
+dopamine from being, uh, a receptor into, uh, your presynaptic synapse or your neuron.
+
+576
+01:01:58,320 --> 01:02:04,290
+Um, and so it actually blocks, it'll enact interact because in tight with these,
+
+577
+01:02:04,290 --> 01:02:09,510
+uh, dopamine transporters that will again take dopamine from inside in,
+
+578
+01:02:09,660 --> 01:02:15,240
+um, inside the synaptic cleft back into your neuron so that it can be released again.
+
+579
+01:02:15,810 --> 01:02:23,430
+What, uh, cocaine will do will actually prevent that reuptake lead to a lot more dopamine being present in the synaptic cleft,
+
+580
+01:02:23,700 --> 01:02:29,880
+which, again, can lead to this really increased stimulation of whatever post-synaptic neuron as you're just getting,
+
+581
+01:02:30,270 --> 01:02:38,880
+uh, either higher increase in the number of receptors that are bound or these are, uh, they can keep binding and leading to a long effect over time.
+
+582
+01:02:39,300 --> 01:02:41,910
+Right. So just increase concentration of dopamine.
+
+583
+01:02:42,210 --> 01:02:50,310
+Uh, and then particularly in the nucleus accumbens, uh, and the frontal cortex, nucleus accumbens may seem familiar.
+
+584
+01:02:50,910 --> 01:02:55,649
+That's part of the basal ganglia, which is really important in, uh, learning and memory.
+
+585
+01:02:55,650 --> 01:02:59,430
+Right. That's where a lot of dopamine is actually being produced in the brain.
+
+586
+01:02:59,640 --> 01:03:04,890
+And we were just talking about the prefrontal cortex and the huge role it plays, uh, with time.
+
+587
+01:03:04,890 --> 01:03:15,120
+Okay. Yeah. Okay. So I'll end on this really interesting, uh, impact, which kind of drives home the last statement, uh, from the last class.
+
+588
+01:03:15,120 --> 01:03:20,670
+Right. So this idea of structural plasticity that can be modulated by these different types of drugs,
+
+589
+01:03:20,910 --> 01:03:24,990
+including harmful substances, controlled substances like cocaine.
+
+590
+01:03:25,410 --> 01:03:29,729
+Uh, where here this is just, again, a schematic just showing how, um,
+
+591
+01:03:29,730 --> 01:03:39,420
+repeated exposure to cocaine is leading to actually more of these, um, um, dendritic spines on the particular neuron.
+
+592
+01:03:39,780 --> 01:03:48,360
+Right. And that can lead to long term, um, changes, physiological changes, the way the brain is responding to all sorts of stimuli,
+
+593
+01:03:48,570 --> 01:03:53,910
+external stimuli, um, after repeated exposure to that particular drug.
+
+594
+01:03:55,170 --> 01:04:03,989
+Um, yeah. And then this is a little schematic kind of showing all of the interaction of, um, a few different drugs, um,
+
+595
+01:04:03,990 --> 01:04:09,090
+really important systems for memory learning reward in our brain and how that,
+
+596
+01:04:09,360 --> 01:04:15,060
+that can be the substrate for these, uh, plasticity changes, uh, that we see here.
+
+597
+01:04:15,780 --> 01:04:19,560
+Okay. So in there, sorry that. Yeah. Went up to the very end the class.
+
+598
+01:04:19,950 --> 01:04:23,520
+Um, yeah. So that's I'll post all these slides.
+
+599
+01:04:23,940 --> 01:04:27,719
+Um, I will not be here again on Thursday and apologies for that.
+
+600
+01:04:27,720 --> 01:04:35,670
+I'll send updates to everyone. Um, I'll send everyone emails about projects I promise to do at this time.
+
+601
+01:04:36,060 --> 01:04:40,680
+Um, yeah. And I hope you all I won't see you all for a week, so I hope you all have a good week.
+
+602
+01:04:40,680 --> 01:04:44,070
+And yeah, reach out with any questions. Thanks.
+
+603
+01:04:45,820 --> 01:04:48,930
+Oh, so. Yeah. Yeah, absolutely.
+
+604
+01:04:54,330 --> 01:04:57,390
+Well, I guess I also wanted to ask about my final project.
+
+605
+01:04:57,510 --> 01:05:04,890
+Yeah, yeah, it sounds good. If I go to, like, um, that meeting, if I go to a smoke shop and just pick.
+

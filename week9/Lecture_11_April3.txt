@@ -1,0 +1,2321 @@
+1
+00:00:12,450 --> 00:00:17,020
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Oh. All right.
+
+2
+00:00:18,010 --> 00:00:22,060
+Ready to go for activity 11 today?
+
+3
+00:00:22,690 --> 00:00:25,810
+Um, yeah. So bulk up today.
+
+4
+00:00:26,260 --> 00:00:31,750
+Um, I think typical of these activity days, or at least the last portion of a module.
+
+5
+00:00:32,020 --> 00:00:36,640
+Um, I have some example code on Colab,
+
+6
+00:00:36,910 --> 00:00:40,540
+which I'll give you majority of time to kind of sort through and work through
+
+7
+00:00:40,540 --> 00:00:44,410
+on your own and start processing some of the data you collected last week.
+
+8
+00:00:44,650 --> 00:00:48,460
+I think there's, uh, some really interesting readouts that we can play around with.
+
+9
+00:00:48,850 --> 00:00:55,509
+Um, yeah. And I wanted to do it a little differently in terms of, um, go.
+
+10
+00:00:55,510 --> 00:01:00,100
+Yeah, hopefully you'll just have more time to work on this so I can go around and troubleshoot in class, uh,
+
+11
+00:01:00,100 --> 00:01:07,479
+and help people customize and modify the code, because this will be the last kind of big group, you know, coding activity.
+
+12
+00:01:07,480 --> 00:01:13,450
+So hopefully y'all will get some skills and useful information from,
+
+13
+00:01:13,690 --> 00:01:18,970
+from using Colab from hopefully this class and the entire and specifically this, this module.
+
+14
+00:01:19,630 --> 00:01:22,660
+Um, all right. So want to start with a little plug for myself.
+
+15
+00:01:22,660 --> 00:01:26,740
+It was feeling very springy when I was walking uh, over here.
+
+16
+00:01:27,160 --> 00:01:34,149
+Um, yeah. So if you've seen any bumblebee queens around, see these big chunky, um, yeah.
+
+17
+00:01:34,150 --> 00:01:40,900
+Very fuzzy looking bumblebees. Larger than the bumble bees that we were using for our electrophysiology experiments.
+
+18
+00:01:40,900 --> 00:01:44,140
+But they're the queens are going to be the first ones that are emerging in spring.
+
+19
+00:01:44,470 --> 00:01:50,170
+Um, yeah. I'm very interested in sampling these queens, bringing them back to the lab,
+
+20
+00:01:50,170 --> 00:01:54,100
+giving them a nice, comfortable environment for them to grow their colony in,
+
+21
+00:01:54,100 --> 00:02:00,850
+and look at how different stressors in our environment impact their growth and potentially their brains and their offspring's brain.
+
+22
+00:02:00,880 --> 00:02:06,160
+So if you see any queens, let me know or even you know where you potentially have seen them.
+
+23
+00:02:06,160 --> 00:02:11,319
+Yeah. Um. Yeah.
+
+24
+00:02:11,320 --> 00:02:15,280
+So I'm I'm looking for spots around Chicago.
+
+25
+00:02:15,280 --> 00:02:24,760
+This is a new, new space for me generally. Um, so they'll overwinter the queens, they'll actually reuse a lot of small rodent burrows.
+
+26
+00:02:25,120 --> 00:02:31,150
+Um, and so often you'll see queens coming out of very large kind of open grassy fields,
+
+27
+00:02:31,540 --> 00:02:40,239
+and then you'll see them foraging, of course, on lots of flowers. So lots of, um, and they actually like a lot of purple things, like his hops.
+
+28
+00:02:40,240 --> 00:02:48,970
+If you've seen these kind of purpley stalky, like plants, um, lavender, anything with like these strong olfactory cues.
+
+29
+00:02:49,330 --> 00:02:57,040
+Um, yeah, I actually so last year I was starting to look for them that are of course around like the Lincoln Park Conservatory,
+
+30
+00:02:57,340 --> 00:03:01,149
+um, where they have lots of, uh, different plants types.
+
+31
+00:03:01,150 --> 00:03:05,890
+I was seeing some queens pop up, but I'm really curious to see where we could find them around,
+
+32
+00:03:06,220 --> 00:03:09,370
+um, around Bronzeville and kind of a South Side area, so.
+
+33
+00:03:09,910 --> 00:03:13,270
+Yeah. Keep your eyes peeled. All right.
+
+34
+00:03:13,390 --> 00:03:19,990
+Yeah. So here we are. Uh, we'll do a little ah, analysis, which will be a big portion of the write up to come.
+
+35
+00:03:20,560 --> 00:03:23,590
+Uh, because I. Yeah. All right.
+
+36
+00:03:23,590 --> 00:03:26,260
+So reminder what we were working on last week.
+
+37
+00:03:26,260 --> 00:03:36,489
+So we were with a group and we were testing, um, how we can use EEGs to actually measure, um, neural correlates of neural responses, uh, to, to music.
+
+38
+00:03:36,490 --> 00:03:40,510
+And that's, it's cool that everyone kind of settled on doing that experiment.
+
+39
+00:03:40,930 --> 00:03:48,280
+Um, it sounds like there were a few different environmental or experimental parameters, one being novelty or, you know, the speed,
+
+40
+00:03:48,280 --> 00:03:54,880
+the intensity of the music that hopefully would evoke either some novelty response in the brain,
+
+41
+00:03:55,240 --> 00:04:02,830
+um, or, um, differences in stimulus encoding or um, evoking some emotional response.
+
+42
+00:04:02,830 --> 00:04:12,610
+Right. So part of, uh, the write up is just thinking about, uh, what areas of the brain are responsible for interpreting all of that information?
+
+43
+00:04:12,610 --> 00:04:21,760
+What will be more, um, become more, uh, active or more inhibited when we're listening to whatever experiment or whatever music you presented?
+
+44
+00:04:22,330 --> 00:04:27,250
+Uh, and then we'll actually today we'll process that data and see if we can see correlates of it.
+
+45
+00:04:28,150 --> 00:04:32,500
+All right. So where we went over this, uh, um, Tuesday.
+
+46
+00:04:32,500 --> 00:04:36,970
+So where we were recording from. Right. Likely the, the frontal lobe.
+
+47
+00:04:37,270 --> 00:04:41,290
+Right. Uh, the region of the, uh, cortex.
+
+48
+00:04:41,590 --> 00:04:46,510
+Uh, and then we went over how we can actually divide this frontal lobe into, um,
+
+49
+00:04:46,510 --> 00:04:50,409
+really important substructures and many of these which we've covered before.
+
+50
+00:04:50,410 --> 00:04:57,790
+So just highlighting, um, like the primary motor cortex or the, uh, sensory motor cortex, but we,
+
+51
+00:04:57,790 --> 00:05:05,860
+we're recording from this very large region, uh, in the most, uh, anterior section of the brain called the prefrontal cortex.
+
+52
+00:05:06,490 --> 00:05:10,680
+Um, right. And that's responsible for a number of really important features.
+
+53
+00:05:10,690 --> 00:05:20,290
+So things like executive functions, it's, um, kind of named the kind of core personality center of the brain.
+
+54
+00:05:20,560 --> 00:05:23,799
+Um, and then we went over how potentially.
+
+55
+00:05:23,800 --> 00:05:27,790
+Yeah, a few studies are showing how, like, uh, different neurotransmitters and neuromodulators,
+
+56
+00:05:28,150 --> 00:05:33,520
+um, different concentrations correlate with more or less activity within that frontal lobe.
+
+57
+00:05:33,820 --> 00:05:37,810
+Um, and performance on these exact some basic executive function tasks.
+
+58
+00:05:39,010 --> 00:05:44,229
+Right. Yep. So knowing this is subject of the highest cognitive functions and then right,
+
+59
+00:05:44,230 --> 00:05:49,120
+so all of a few of these things maybe we we're thinking are going to be uh,
+
+60
+00:05:49,120 --> 00:05:54,940
+evoked when listening to, uh, music in that experiment we conducted uh, last Thursday.
+
+61
+00:05:56,080 --> 00:06:03,190
+Um, and then we went over. Yeah, we can break that, uh, prefrontal cortex down even into sub sub structures, right?
+
+62
+00:06:03,190 --> 00:06:08,950
+That each play a role in, um, generating the functions described here.
+
+63
+00:06:10,950 --> 00:06:14,700
+Cool. All right. So now this was from last Thursday.
+
+64
+00:06:14,700 --> 00:06:20,400
+We're going to get into, um, more of this, uh, processing pipeline.
+
+65
+00:06:20,640 --> 00:06:26,190
+So what we did, we did a protocol. We ingested some of the signal last week.
+
+66
+00:06:26,580 --> 00:06:33,899
+Um, this portion, this was kind of our two electrodes, at least for this experiment, are kind of average together.
+
+67
+00:06:33,900 --> 00:06:42,240
+So we actually don't have, uh, two different regions. Uh, we'll just be looking at, uh, a composite of the the signal in our prefrontal cortex.
+
+68
+00:06:42,780 --> 00:06:48,239
+Um, and now we're going to and we actually did part of this artifact removal as well.
+
+69
+00:06:48,240 --> 00:06:53,160
+So in that software right there was that filter that I think some people were playing around with.
+
+70
+00:06:53,490 --> 00:06:59,790
+But if you set it on EEG, we were only recording from, I think like one hertz all the way to 50Hz.
+
+71
+00:07:00,180 --> 00:07:08,969
+Right. So that's already doing some of this signal processing. So if you use those settings, um, you'll only see frequencies within that range,
+
+72
+00:07:08,970 --> 00:07:14,280
+which is good because that's ideally what we're what we think it will be the um,
+
+73
+00:07:15,990 --> 00:07:20,640
+the most likely signal to carry some of the neural correlates we're expecting to see.
+
+74
+00:07:21,210 --> 00:07:26,250
+Right. And so we'll start getting into, of course, doing some averages, looking at,
+
+75
+00:07:26,610 --> 00:07:31,290
+I think some of the idea, some of the metrics we were talking about last class, which uh,
+
+76
+00:07:31,290 --> 00:07:35,969
+I'll describe and hopefully be able to do a comparison across different experimental
+
+77
+00:07:35,970 --> 00:07:40,230
+conditions and doing some classification of maybe what each song is evoking.
+
+78
+00:07:41,910 --> 00:07:52,559
+All right. So I wanted to add in this is from, uh, an interesting paper that was doing something very similar to what we did,
+
+79
+00:07:52,560 --> 00:07:59,370
+except they were not only using EEG, but pairing it with, uh, functional, ah, fMRI studies as well.
+
+80
+00:07:59,700 --> 00:08:02,520
+And so they took, uh, volunteers.
+
+81
+00:08:02,850 --> 00:08:13,319
+Um, and then they play these four different, um, classical, uh, compositions to these individuals and then looked at neural responses via the EEG.
+
+82
+00:08:13,320 --> 00:08:20,460
+And after Mari studies couldn't type. Um, and so I have um, I'm just going to play one song here by Rock.
+
+83
+00:08:21,450 --> 00:08:31,380
+Rock man in off um, which is supposed to uh, they said that relatively calm, but in many of the subjects that heard the song,
+
+84
+00:08:31,650 --> 00:08:36,150
+there was just an increased tension increase in, uh, physiological response.
+
+85
+00:08:36,510 --> 00:08:42,690
+So, again, just kind of playing around, I guess this is showing that there is a ton of evidence showing that,
+
+86
+00:08:43,080 --> 00:08:50,580
+uh, we can pick up a lot of these physiological responses, emotional responses from listening to music.
+
+87
+00:08:51,090 --> 00:08:59,249
+And so, um, yeah, if there's follow the four tracks that they played or classical.
+
+88
+00:08:59,250 --> 00:09:03,600
+Right? Yeah. What how are they like what was their hypothesis.
+
+89
+00:09:03,600 --> 00:09:07,860
+What kind of different arousal where they're looking for if it's the same genre of music.
+
+90
+00:09:08,520 --> 00:09:14,700
+Yeah. So, um, I mean, this goes back to remember when we were when, uh,
+
+91
+00:09:14,700 --> 00:09:21,120
+when we were listening to the Radiolab podcast, and I know a select few listen to the audio portion.
+
+92
+00:09:21,120 --> 00:09:28,889
+Does anyone remember, um, there was a classical composition that evoked a really interesting behavioral response.
+
+93
+00:09:28,890 --> 00:09:33,540
+Does anyone remember what that phenomenon was or what happened?
+
+94
+00:09:35,920 --> 00:09:42,750
+What was causing it. I'm not having that like classical session.
+
+95
+00:09:43,380 --> 00:09:50,620
+They gonna like it. So you can say like, I'm on this request and you can't say like, well, it's all classical.
+
+96
+00:09:50,620 --> 00:09:53,669
+Just like, how could there be different times? It's like saying it's all pop.
+
+97
+00:09:53,670 --> 00:09:58,500
+How could they be different? This. Is a different of songs like there's like more smooth classical versus like.
+
+98
+00:10:00,370 --> 00:10:06,700
+Yeah yeah yeah. Essentially. Yeah. That that is it is that there's tons of variability even within the genre.
+
+99
+00:10:06,910 --> 00:10:12,580
+And so the way I was trying to get to with the Radiolab example is that it was a classical composition,
+
+100
+00:10:12,910 --> 00:10:20,410
+but it had these very definite notes, um, within I think some one of the sections within this song,
+
+101
+00:10:20,410 --> 00:10:27,610
+and it led to people writing, right there was actually like people leaving and apparently like fights recorded whenever this the,
+
+102
+00:10:27,970 --> 00:10:34,020
+uh, this was, this concert first happened. Um, so yeah, just an example of how even though, you know, we,
+
+103
+00:10:34,030 --> 00:10:39,490
+we think of classical music as being generally very calming, this is eliciting a very opposite response.
+
+104
+00:10:40,300 --> 00:11:29,230
+Um, yeah. So we'll just play a few seconds. All right.
+
+105
+00:11:29,890 --> 00:11:33,879
+Yeah, I feel like. Yeah. Any any thoughts after listening that close?
+
+106
+00:11:33,880 --> 00:11:38,290
+Attention? Yeah. Like an increased like what's going to happen?
+
+107
+00:11:38,320 --> 00:11:41,790
+Yeah. Right. Very violent. Yeah.
+
+108
+00:11:41,800 --> 00:11:48,610
+Well, yeah. That's. Yeah. I think to some degree, this is, you know, what happened in that, you know, Radiolab example is.
+
+109
+00:11:48,910 --> 00:11:52,990
+Yeah. It's the beginning of my villain arc or something like that. Yeah, exactly.
+
+110
+00:11:54,670 --> 00:11:58,660
+Uh, okay. Let's get back. I was going to say.
+
+111
+00:12:00,090 --> 00:12:03,649
+Kind of cold. Uh, see this variability.
+
+112
+00:12:03,650 --> 00:12:08,570
+And that's a huge portion as well. It's this individuality and responses.
+
+113
+00:12:08,570 --> 00:12:17,090
+And like maybe you have some positive memory with that type where like that frequency, that speed of music or classical music in general.
+
+114
+00:12:17,600 --> 00:12:22,700
+Um, yeah. But guess just giving an example. I know a lot of people did this last week,
+
+115
+00:12:22,700 --> 00:12:30,950
+but this again showing that that song has been shown through fMRI studies to increase overall
+
+116
+00:12:30,950 --> 00:12:37,099
+like emotional responses overall physiological just broadly tension within um the body.
+
+117
+00:12:37,100 --> 00:12:43,610
+And so yeah, again showing that there are these really interesting features that you can pull out that area evoked through music.
+
+118
+00:12:44,210 --> 00:12:49,130
+Um, yeah. And so feel free to if we want to listen to that Bobby songs at some point we can.
+
+119
+00:12:49,130 --> 00:12:52,340
+But just a good example of that. All right.
+
+120
+00:12:52,340 --> 00:13:03,620
+So we also went over, um, these core frequencies that we look at during, uh, using EEGs to look at different stages of sleep.
+
+121
+00:13:04,010 --> 00:13:10,310
+And I bring this up because it's the same wavelength that we're going to use to as readouts of different,
+
+122
+00:13:10,610 --> 00:13:13,940
+um, kind of a behavioral or emotional states.
+
+123
+00:13:14,270 --> 00:13:20,479
+Um, as we're listening to music, or at least this is one of the readouts you can generate, right?
+
+124
+00:13:20,480 --> 00:13:27,920
+Um, yeah. And this is coming from another paper that was looking at using EEG to look at music, emotional responses.
+
+125
+00:13:27,920 --> 00:13:31,580
+And this was a really interesting review. But here these are some nice.
+
+126
+00:13:32,060 --> 00:13:35,750
+Right. Um rates. Are there same frequency bands.
+
+127
+00:13:35,750 --> 00:13:44,239
+So alpha beta gamma theta. Um but now you're associating these frequencies with a different kind of awake state.
+
+128
+00:13:44,240 --> 00:13:48,320
+So alpha is supposed to be more correlated with being more relaxed.
+
+129
+00:13:48,710 --> 00:13:53,360
+Um, beta uh 14 to 30Hz is more in a state of tension.
+
+130
+00:13:53,750 --> 00:13:57,110
+Um, 1 to 3 may be extreme exertion.
+
+131
+00:13:57,440 --> 00:14:02,570
+Um, and the highest, uh, frequencies are a state of concentration.
+
+132
+00:14:02,840 --> 00:14:07,520
+There's a lot of variability on this, um, a lot of individuality.
+
+133
+00:14:07,520 --> 00:14:15,860
+And of course, we're using very noisy EEGs. Um, so part of what we're doing and I have a example where, um,
+
+134
+00:14:16,220 --> 00:14:24,920
+we're going to take out different frequencies which are supposed to be associated with, uh, different, you know, behavioral or neural states.
+
+135
+00:14:25,430 --> 00:14:30,559
+Um, and then look at how that one changes over time when you're listening to a song.
+
+136
+00:14:30,560 --> 00:14:33,830
+And then can you compare that across different songs that you listen to.
+
+137
+00:14:33,830 --> 00:14:40,520
+And do you see differences in, uh, the frequency bands that are most, um, prominent?
+
+138
+00:14:40,730 --> 00:14:44,300
+Yeah. Occurs in people with mental illness.
+
+139
+00:14:44,840 --> 00:14:50,570
+Yeah. That is yeah. I would not have included that as a descriptor there.
+
+140
+00:14:51,020 --> 00:14:58,219
+Um, and in fact, yeah, I would suggest yeah, I will definitely crop that out before, uh, uh, before posting this.
+
+141
+00:14:58,220 --> 00:15:01,490
+Yeah. Um, yeah. That's. And so why is that bad?
+
+142
+00:15:01,910 --> 00:15:09,110
+It's I feel like a very general broad statement, um, occurs with people with mental illness.
+
+143
+00:15:09,110 --> 00:15:16,540
+Yeah. But again, such a broad term and then 4 to 7Hz is also just like a very I don't know,
+
+144
+00:15:16,550 --> 00:15:22,010
+I guess it fits with these other broad terms that they're um, using describe these, uh, frequency bands.
+
+145
+00:15:22,010 --> 00:15:28,460
+But yeah, I think that's just a very incorrect and like general statement,
+
+146
+00:15:28,490 --> 00:15:34,580
+especially to, um, associate with like, mental illness or any kind of mental condition.
+
+147
+00:15:34,580 --> 00:15:37,640
+So, yeah, I'm going to want you to relax.
+
+148
+00:15:37,970 --> 00:15:48,290
+Yeah. Yeah. I mean, like, if you don't have a mental illness like that never shows up like, again, I like I would not,
+
+149
+00:15:48,560 --> 00:15:54,620
+I would not trust and that kind of I mean it seems to be like a really, really low frequency maybe.
+
+150
+00:15:55,790 --> 00:15:57,739
+I don't know when this paper was published.
+
+151
+00:15:57,740 --> 00:16:04,400
+Maybe they're referring to, like, intellectual disabilities where there's, like, barely any neural activity.
+
+152
+00:16:05,330 --> 00:16:09,290
+Yeah, like frequency. It could be.
+
+153
+00:16:09,290 --> 00:16:14,720
+I'll look through I. Yeah. I can't believe I actually I missed that first portion.
+
+154
+00:16:14,900 --> 00:16:19,760
+Um, I think this was published in like two 2025.
+
+155
+00:16:19,850 --> 00:16:21,259
+I'll have to I'll check back.
+
+156
+00:16:21,260 --> 00:16:30,799
+But, um, yeah, I'll see if they have a more specific definition of mental illness, maybe a specific mental illness they're looking at.
+
+157
+00:16:30,800 --> 00:16:35,960
+But yeah, again, I think it's pretty broad and not a great kind of statement to have in there.
+
+158
+00:16:36,260 --> 00:16:39,260
+So yeah, thank you for for bringing that up because I wouldn't want to.
+
+159
+00:16:39,260 --> 00:16:40,550
+Yeah. Just glaze over that.
+
+160
+00:16:41,630 --> 00:16:47,510
+Uh but yeah I'll, I'll look at that right after I send you all on your way playing around with the code and and update everyone.
+
+161
+00:16:48,860 --> 00:16:52,639
+Okay. So now we're getting to our activity today.
+
+162
+00:16:52,640 --> 00:16:57,050
+So yeah, you can either work by yourself or if you want to pair up in your group again.
+
+163
+00:16:57,350 --> 00:17:05,760
+Um, so essentially we're going to. Look at reading our data using a Google Colab and then, um, yeah, come up.
+
+164
+00:17:05,780 --> 00:17:11,870
+Think about your hypothesis. So what regions of the brain do you think will become active when listening to to music?
+
+165
+00:17:12,140 --> 00:17:16,580
+Um, how can that be transcribed translated into EEG data?
+
+166
+00:17:17,120 --> 00:17:27,770
+Um, think about what, uh, what sounds or what music you think will evoke kind of those broad behavioral states minus the last one.
+
+167
+00:17:28,160 --> 00:17:31,580
+Um, and then, yeah, we'll start kind of analyzing our results.
+
+168
+00:17:32,270 --> 00:17:43,850
+So for the analysis, uh, you can navigate to, uh, canvas or the GitHub and then.
+
+169
+00:17:45,860 --> 00:17:49,310
+Yeah, you can just click on this link for the code for activity 11.
+
+170
+00:17:51,800 --> 00:17:56,840
+And then write a very familiar site. Um, I think I deleted.
+
+171
+00:17:56,840 --> 00:18:04,010
+Yeah. So it'll be fun to get a reveal of all the, the figures as you're moving through this one thing.
+
+172
+00:18:04,880 --> 00:18:11,120
+Um, so yeah, this I think the standard pro or.
+
+173
+00:18:11,330 --> 00:18:14,420
+Yeah, standard code here is like importing our libraries.
+
+174
+00:18:14,960 --> 00:18:18,860
+This is going to pull in all of the files associated with the class.
+
+175
+00:18:19,250 --> 00:18:23,840
+And then this one will actually tell you which files are available for you to look at.
+
+176
+00:18:24,080 --> 00:18:28,940
+I know I'm still at the grab a couple files from the last group, which I have a flash drive,
+
+177
+00:18:28,940 --> 00:18:32,860
+and I can upload those really quickly, but this is what I have right now.
+
+178
+00:18:32,870 --> 00:18:42,340
+So you can actually if you see your file, you just copy this path and then you can change this bottom one or like any of these.
+
+179
+00:18:42,350 --> 00:18:47,030
+So this is kind of set up to compare two different audio uh not audio files.
+
+180
+00:18:47,600 --> 00:18:55,220
+Uh but our data is ingested as audio. Um, so there and then we'll say trial two here.
+
+181
+00:18:58,110 --> 00:19:01,649
+Okay. And then this is the last. I'll just the last step.
+
+182
+00:19:01,650 --> 00:19:05,370
+I'll do. And I'll let y'all play around with it. That.
+
+183
+00:19:09,990 --> 00:19:18,160
+Um. Right? Okay, cool. So now we just read in two of these audio paths.
+
+184
+00:19:18,490 --> 00:19:28,360
+All right. Yeah. Our EEG data, EEG data, which is represented as audio because it's, uh, you know, a similar wave structure.
+
+185
+00:19:28,360 --> 00:19:35,770
+Right. We're looking at frequency and amplitude of essentially waves, which is in this case representative of neural activity.
+
+186
+00:19:36,460 --> 00:19:40,420
+Cool. All right. So let everyone navigate there and you can start again.
+
+187
+00:19:40,600 --> 00:19:46,750
+Um, loading your files. And then you can run through this pressing play on each of these tabs.
+
+188
+00:19:47,170 --> 00:19:50,950
+Um, and then we've gone over ways of tweaking each of your figures here.
+
+189
+00:19:50,950 --> 00:19:58,750
+So I encourage you to tweak the title X label, Y label all of these good things that will come around that can help folks as you're going through it.
+
+190
+00:19:59,320 --> 00:20:06,899
+Um, yeah. Um. And I also have.
+
+191
+00:20:06,900 --> 00:20:13,110
+I brought two of the eggs if anyone wants to redo data, but I think y'all collected some good data so far.
+
+192
+00:20:19,520 --> 00:20:25,630
+One. Oh, yeah.
+
+193
+00:20:25,640 --> 00:20:28,730
+And I just gave random names to groups, so.
+
+194
+00:20:30,440 --> 00:20:33,550
+Yeah. Okay.
+
+195
+00:20:33,710 --> 00:20:37,920
+And then I have a flash drive for y'all.
+
+196
+00:20:39,980 --> 00:20:44,900
+Yeah. I think it's, um.
+
+197
+00:20:44,900 --> 00:20:50,030
+Do you remember what you named your. I think, oh, you were yellow.
+
+198
+00:20:50,300 --> 00:20:53,870
+No. Says Davis. Okay. Yeah. So you're group two.
+
+199
+00:20:54,110 --> 00:20:57,470
+Okay. So you can copy any of these files here.
+
+200
+00:21:05,600 --> 00:21:08,860
+Okay. Oh, yeah. Yeah. Cool.
+
+201
+00:21:09,150 --> 00:21:13,540
+Yeah. Are you in? I mean, they're on your laptop.
+
+202
+00:21:13,830 --> 00:21:17,650
+Yeah. Yeah. Yeah. You want, uh, you can just drag them onto.
+
+203
+00:21:20,060 --> 00:21:24,050
+Perfect. Um. It's not.
+
+204
+00:21:27,140 --> 00:21:30,350
+You found the paper? Yeah. Okay, great. Just doesn't touch it.
+
+205
+00:21:30,590 --> 00:21:36,850
+It doesn't mention it. It says something that says read the in the service for all required to be free.
+
+206
+00:21:36,870 --> 00:21:40,370
+Brain disease and mental illness. Perfect. Yeah.
+
+207
+00:21:40,640 --> 00:21:44,210
+What? Yeah. Yeah. Yeah.
+
+208
+00:21:44,630 --> 00:21:48,080
+Well, I'm sorry that made it into the slide. Um.
+
+209
+00:21:48,320 --> 00:21:51,430
+Yeah. Do not. Yeah. No, no. That's fine. Yeah.
+
+210
+00:21:51,440 --> 00:21:56,150
+And thank you for bringing that up. That's. Yeah. Pretty nice.
+
+211
+00:21:56,510 --> 00:22:00,030
+I found it in bad. Habits.
+
+212
+00:22:00,460 --> 00:22:03,840
+And it's made me feel like I like.
+
+213
+00:22:05,680 --> 00:22:08,870
+Oh, I like that. Oh.
+
+214
+00:22:12,070 --> 00:22:18,670
+There we go. That's the only solution I put out.
+
+215
+00:22:18,670 --> 00:22:21,710
+And, yeah, I encourage people to write.
+
+216
+00:22:21,730 --> 00:22:27,020
+There's probably there's a lot of research describing, um, EEG, EEG data.
+
+217
+00:22:27,020 --> 00:22:32,590
+And I'll, I'll post some more examples of what these how we can interpret these bands.
+
+218
+00:22:35,050 --> 00:22:40,180
+I guess it is better. You like it better too. I'll do that for you.
+
+219
+00:22:41,230 --> 00:22:45,690
+Oh, um, you can just drag it into that. Anywhere in that?
+
+220
+00:22:45,700 --> 00:22:50,230
+Yeah, ma'am. Or you can make a living distracted. Mr. Shane, this is, uh.
+
+221
+00:22:50,260 --> 00:22:55,839
+Yeah. So you know what?
+
+222
+00:22:55,840 --> 00:22:59,350
+I think you're right. We do. Okay, now that. That's fine.
+
+223
+00:22:59,800 --> 00:23:02,800
+You sure? Yeah, yeah. I can sort it by there.
+
+224
+00:23:02,830 --> 00:23:06,160
+Yeah. Okay. Yeah. Sweet.
+
+225
+00:23:06,490 --> 00:23:19,600
+All right, so I'll get yours uploaded. Some.
+
+226
+00:23:21,170 --> 00:23:26,600
+Sometimes I forget other things.
+
+227
+00:23:30,200 --> 00:23:36,750
+Okay. But, uh, the studio is definitely gonna love it.
+
+228
+00:23:36,810 --> 00:23:43,440
+Okay, so what do. You think?
+
+229
+00:23:50,050 --> 00:23:56,950
+Oh. Really the with you.
+
+230
+00:23:57,020 --> 00:24:04,419
+You did not. Okay.
+
+231
+00:24:04,420 --> 00:24:15,950
+Group three. In this case.
+
+232
+00:24:22,050 --> 00:24:27,060
+All right. Group three.
+
+233
+00:24:27,090 --> 00:24:34,520
+Perfect. Now put. I mean, it's.
+
+234
+00:25:33,900 --> 00:25:37,469
+Oh my darling. Sorry.
+
+235
+00:25:37,470 --> 00:25:44,120
+That's not my fault. I think all those.
+
+236
+00:25:46,890 --> 00:25:55,990
+Things. Right.
+
+237
+00:25:56,050 --> 00:26:02,820
+I mean. Um.
+
+238
+00:26:04,570 --> 00:26:10,530
+Yeah. I don't really know how to use something like.
+
+239
+00:26:15,330 --> 00:26:20,420
+You. Remember this?
+
+240
+00:26:20,480 --> 00:26:32,530
+It's. It's a dumb. It's useless. They don't.
+
+241
+00:26:34,810 --> 00:26:38,470
+So you used a lot of coal? Yeah.
+
+242
+00:26:38,480 --> 00:26:42,470
+It was. Yeah, it was a lot of, um. You went there for your undergrad?
+
+243
+00:26:42,770 --> 00:26:46,220
+Uh, graduate school? Yeah. Um.
+
+244
+00:26:46,640 --> 00:26:49,780
+Or did you do with thesis? Uh, yeah. Yep. It was on.
+
+245
+00:26:49,790 --> 00:26:57,319
+Yeah. Behavioral neuroscience and software. So it was almost on, like individuality and how the big picture is, like,
+
+246
+00:26:57,320 --> 00:27:03,230
+how we can all perceive our environment very differently, and then how randomness actually adds in,
+
+247
+00:27:03,560 --> 00:27:12,020
+uh, a very significant amount of variability that contributes to our individuality and personality, which is just really hard to measure because.
+
+248
+00:27:12,770 --> 00:27:17,059
+Yeah, yeah. And then how do you random measure stochastic for randomness.
+
+249
+00:27:17,060 --> 00:27:20,830
+So it's that happens. Yeah. Well that's cool. Yeah.
+
+250
+00:27:22,100 --> 00:27:25,819
+So what was for like five minutes. Um, yeah.
+
+251
+00:27:25,820 --> 00:27:33,229
+I guess a big part of it is just show it proving that, um, it can happen and we can measure some amount of this randomness,
+
+252
+00:27:33,230 --> 00:27:40,880
+which is like essentially trying to control for genetics and environment as much as possible and then observing and then measuring,
+
+253
+00:27:41,210 --> 00:27:50,150
+um, the error in your measurement and then showing that, um, the amount of individuality we measure is above statistical noise.
+
+254
+00:27:50,150 --> 00:27:57,080
+It's kind of, uh, the big idea. And then and then I looked in the brain and found which areas of the neural circuitry do we see?
+
+255
+00:27:57,080 --> 00:28:01,560
+More or less randomness. Yep, yep.
+
+256
+00:28:01,910 --> 00:28:05,600
+So you did a lot of physical. Yeah. Yeah, with a lot of coding.
+
+257
+00:28:06,700 --> 00:28:10,130
+Yeah. So it was I never seen any of this stuff like this.
+
+258
+00:28:10,640 --> 00:28:14,070
+Oh, okay. Well good. Yeah. Hopefully. Yeah. And I mean, I've heard about.
+
+259
+00:28:14,750 --> 00:28:17,930
+Are you Gen bio? I am teaching Gen bio.
+
+260
+00:28:18,280 --> 00:28:21,450
+Yeah I. Oh yeah.
+
+261
+00:28:21,590 --> 00:28:25,579
+And she was like I was like oh I'm big. And she's like no. And she, she's like I don't know.
+
+262
+00:28:25,580 --> 00:28:32,840
+This isn't a yeah I've got some big change or big plans for, for next year for.
+
+263
+00:28:35,420 --> 00:28:39,800
+Uh, physics. It's just so unnecessarily hard.
+
+264
+00:28:39,920 --> 00:28:46,879
+It's. Yeah, I've, I mean, she just it's like she's a really hard teacher to have for Gen bio because,
+
+265
+00:28:46,880 --> 00:28:52,110
+you know, she's gone to sleep and she has like a hundred slides, right?
+
+266
+00:28:52,140 --> 00:28:56,180
+I have no words on that. So. Yeah. Yeah.
+
+267
+00:28:56,420 --> 00:29:00,230
+You don't want her to take her class I noticed. Yeah. Here. Yeah.
+
+268
+00:29:00,470 --> 00:29:03,860
+Yeah. It's like 30s. Yeah. You're done.
+
+269
+00:29:03,890 --> 00:29:10,850
+Okay. I've heard. So I actually taught it this year. And so I had all of Doctor Spinks material, um, which.
+
+270
+00:29:10,850 --> 00:29:15,470
+Yeah. So it was just like once, you know, some basic stuff.
+
+271
+00:29:15,680 --> 00:29:20,980
+It's okay to take your class. Yeah. To, like, at the for the intro level, so.
+
+272
+00:29:21,530 --> 00:29:25,730
+Oh, good. Uh, so. Yeah.
+
+273
+00:29:26,500 --> 00:29:32,170
+Like trying to. You excel, right? Yeah, I'm not sure exactly.
+
+274
+00:29:33,470 --> 00:29:39,530
+And he's telling us the steps and then to the test. So this is where we're going to take those steps that there is.
+
+275
+00:29:39,570 --> 00:29:45,350
+Mhm. Mhm. Mhm. Looks like um board work stuff.
+
+276
+00:29:45,830 --> 00:29:50,110
+Mhm. I missed it all because that was what we're doing exactly. Know.
+
+277
+00:29:50,870 --> 00:29:55,750
+But like our the final look at that was that, that was far.
+
+278
+00:29:55,940 --> 00:30:01,730
+Right. And so I y and uh you know it was like a 19.
+
+279
+00:30:03,890 --> 00:30:11,330
+90s business. You an idea? Because I was like, are you just me?
+
+280
+00:30:11,330 --> 00:30:15,140
+You you just always look, it's kind of like at the grab. Uh, yeah.
+
+281
+00:30:15,350 --> 00:30:19,220
+Yeah. And, um, use the graphs to compare your different songs.
+
+282
+00:30:19,730 --> 00:30:25,520
+Yep. Yep. Or you could, if you did multiple songs of your self or for your own self, you can look at that.
+
+283
+00:30:25,790 --> 00:30:29,030
+And then there's at the very end there's like a time series so you can look at.
+
+284
+00:30:29,630 --> 00:30:34,500
+Yeah. Oh yeah. It was a harvest biomass.
+
+285
+00:30:35,820 --> 00:30:40,020
+So. Yeah. So so herbicides come in here.
+
+286
+00:30:40,170 --> 00:30:43,860
+I guess it's like, you know, I don't consider you know what I am.
+
+287
+00:30:44,280 --> 00:30:49,379
+Yeah. I think it's like I think yeah, it's all like that.
+
+288
+00:30:49,380 --> 00:30:57,960
+It's kind of like. It's like I was like, well, you know, I'm like running.
+
+289
+00:30:57,990 --> 00:31:02,460
+It'll they'll get up and just like, hitting some errors here.
+
+290
+00:31:02,940 --> 00:31:11,760
+You know, that's like, okay, let's test our first and second harvest lesson.
+
+291
+00:31:12,060 --> 00:31:17,670
+Yes. I mean I mean, you can hardly wait I see I see you have the one in time.
+
+292
+00:31:17,790 --> 00:31:22,320
+That's right. You're ready right away.
+
+293
+00:31:22,920 --> 00:31:27,930
+Yeah, I guess I was I think I said 82,000.
+
+294
+00:31:28,740 --> 00:31:32,220
+So it wasn't meant to be you know like. Mhm.
+
+295
+00:31:32,370 --> 00:31:39,720
+Mhm. Yeah. We have nothing like that.
+
+296
+00:31:41,310 --> 00:31:45,060
+Oh. Yes, we can use.
+
+297
+00:31:47,070 --> 00:31:50,860
+Like at the end of the semester, and he didn't get exposed to time.
+
+298
+00:31:50,860 --> 00:31:56,640
+So then he just gave everyone, I mean, the spirit. He was so.
+
+299
+00:31:58,280 --> 00:32:05,570
+You know, it's easy to say and how everything is connected to this.
+
+300
+00:32:05,690 --> 00:32:10,700
+This is actually a show that actually, you know, is not, um, that's worth it.
+
+301
+00:32:10,790 --> 00:32:17,510
+Yeah. This is mine isn't. You know, so you responded a lot, but you knew the song.
+
+302
+00:32:17,690 --> 00:32:22,190
+I knew the song. So, um, I think the reason this.
+
+303
+00:32:23,760 --> 00:32:28,930
+Yeah, this is, uh, this a little bit about, like, getting into you.
+
+304
+00:32:28,940 --> 00:32:40,150
+I just like, you know. All right, so there's. This, um, award winning example, but again, it's like this one.
+
+305
+00:32:40,670 --> 00:32:45,650
+I never go to the Sound of Silence. They're like, yeah, basically, you know, it's our great.
+
+306
+00:32:49,290 --> 00:32:53,080
+Actually. Equipment room? Yeah.
+
+307
+00:32:55,170 --> 00:32:59,160
+I think. Yeah. And then like, I was like, calm down.
+
+308
+00:32:59,170 --> 00:33:02,580
+So I'm hoping that you're right. Oh my God.
+
+309
+00:33:03,140 --> 00:33:09,680
+Oh. Do you to.
+
+310
+00:33:12,660 --> 00:33:17,670
+I can't believe that, you know.
+
+311
+00:33:18,840 --> 00:33:21,840
+Uh, in response. Um. Okay.
+
+312
+00:33:21,960 --> 00:33:26,780
+Almost there. I thought I saw her face.
+
+313
+00:33:27,090 --> 00:33:30,960
+Um, I don't know. Uh. Yeah.
+
+314
+00:33:30,990 --> 00:33:35,490
+These are great. I like to mention all the data.
+
+315
+00:33:37,290 --> 00:33:40,740
+I guess I have it every year. I don't know.
+
+316
+00:33:41,020 --> 00:33:44,520
+Um, I don't know. Yeah.
+
+317
+00:33:44,850 --> 00:33:48,510
+So my. I guess I just thought it.
+
+318
+00:33:48,780 --> 00:33:57,000
+All right. Like it was in Connecticut last year, and she was the one who left.
+
+319
+00:33:59,190 --> 00:34:03,300
+Like, I want to do this. You did this one, so I did it.
+
+320
+00:34:04,020 --> 00:34:07,940
+For all of this, and I did all of this in the same way, and then I.
+
+321
+00:34:12,710 --> 00:34:22,540
+It was excellent. Yeah. That's right. And then she'd be like, yeah, no, I was in my house the next one.
+
+322
+00:34:23,470 --> 00:34:27,670
+Oh, okay. I just was completely incorrect in like what I was.
+
+323
+00:34:28,090 --> 00:34:33,810
+And then she said basically with some reason.
+
+324
+00:34:33,820 --> 00:34:39,790
+Yeah. Okay. So yeah. 30s. And so there's two additional stations and like this is where it gets okay.
+
+325
+00:34:40,020 --> 00:34:43,300
+Right. So you click this almost 6%. Yeah.
+
+326
+00:34:44,510 --> 00:34:48,010
+So there's basically no spikes here. Yeah I think around. Cool.
+
+327
+00:34:48,520 --> 00:34:52,710
+Okay. Group three your data is uploaded now.
+
+328
+00:34:52,950 --> 00:34:58,809
+Yeah I mean I think I think it should be refresh like uh yeah.
+
+329
+00:34:58,810 --> 00:35:03,370
+There was at least. Yeah. You may. So you'll have to run everything again.
+
+330
+00:35:03,620 --> 00:35:08,850
+Um, if you get an error, it says destination.
+
+331
+00:35:09,080 --> 00:35:16,300
+Yeah. Um, so either you can do runtime disconnect and delete runtime.
+
+332
+00:35:17,020 --> 00:35:22,860
+I think that should reset everything. So yeah, I was like it was like, oh, let's see if that works in this.
+
+333
+00:35:23,110 --> 00:35:28,630
+Okay. Because I do. Yeah. So now you can try just running everything and see see what happens.
+
+334
+00:35:29,200 --> 00:35:33,820
+Yeah that should work. So the focus was running for once.
+
+335
+00:35:34,240 --> 00:35:37,270
+I do like you. Have a start.
+
+336
+00:35:38,350 --> 00:35:46,960
+Okay, cool. I mean, like, it seems like it was, uh, inability to read, uh, my brain.
+
+337
+00:35:46,970 --> 00:35:53,130
+I was just like. Yeah, exactly like 30s.
+
+338
+00:35:56,600 --> 00:35:59,660
+I was dancing. I started to feel and I started losing a lot of weight.
+
+339
+00:36:00,110 --> 00:36:03,170
+How are you doing? Well, you just switched off, and then I just left.
+
+340
+00:36:03,410 --> 00:36:07,340
+You just have to call these questions and research them.
+
+341
+00:36:07,340 --> 00:36:11,660
+Make me read a lot of people, you know, just like. Yeah, well, no, I'm just not at all.
+
+342
+00:36:12,430 --> 00:36:17,000
+This is like. Okay, number one, this is my right.
+
+343
+00:36:17,010 --> 00:36:20,470
+You have the. No, no no, no.
+
+344
+00:36:20,600 --> 00:36:28,330
+Know if you would like. So that's looking at us and it's just.
+
+345
+00:36:28,370 --> 00:36:32,299
+Yeah, kind of looks like an audio file, um, in the next view.
+
+346
+00:36:32,300 --> 00:36:35,600
+But then you just tabs, you're going to start processing, get to know.
+
+347
+00:36:36,500 --> 00:36:43,160
+Yeah. So that's kind of what I yeah I know I was just scratching.
+
+348
+00:36:44,100 --> 00:36:51,409
+Yeah. That's correct. Um, but at this moment it's all mental illnesses.
+
+349
+00:36:51,410 --> 00:36:54,670
+Right. So we want to bring the ultimate here.
+
+350
+00:36:55,040 --> 00:37:00,890
+But exactly like I couldn't manage this file right just now.
+
+351
+00:37:01,880 --> 00:37:06,740
+As long as I stood up and I made some statements.
+
+352
+00:37:07,700 --> 00:37:13,510
+Yeah, waiting for course, but it's really user, isn't it?
+
+353
+00:37:13,610 --> 00:37:27,200
+Yes it was. Yes I do. So yeah I mean like I said I'm just asking the same you.
+
+354
+00:37:28,760 --> 00:37:32,570
+So before this device I was not the only one.
+
+355
+00:37:33,410 --> 00:37:37,560
+Yeah. No no no no. Yeah I like it.
+
+356
+00:37:37,610 --> 00:37:44,410
+I don't feel so. I thought it was going just be boring.
+
+357
+00:37:45,030 --> 00:37:48,220
+Um. But, um. Yeah.
+
+358
+00:37:48,730 --> 00:37:52,550
+So then I did. I had some of you.
+
+359
+00:37:52,610 --> 00:37:55,719
+I had to say, um. Oh, yeah.
+
+360
+00:37:55,720 --> 00:37:59,710
+I got a course now three months ago. So that's telling the code that we sold.
+
+361
+00:37:59,800 --> 00:38:05,350
+And I was in a stream gym. So actually, yeah, it's about a year old, but I've had them for about nine months.
+
+362
+00:38:05,680 --> 00:38:10,390
+Know, but I'm going to after I graduated, which is this year.
+
+363
+00:38:11,080 --> 00:38:19,780
+So I was pretty inspired with other recordings. Uh, and I just kept building for ten months from zero, um, to good enough to start working.
+
+364
+00:38:19,870 --> 00:38:26,919
+Yeah, that's not working. Yeah. Because obviously he has a lot of energy and he wants to play like that's the best play.
+
+365
+00:38:26,920 --> 00:38:29,920
+Was going to get him. What transformation have I.
+
+366
+00:38:30,020 --> 00:38:33,220
+Okay cool. And you same. He's obsessed with other cats.
+
+367
+00:38:33,400 --> 00:38:36,980
+Every time he's like ready to play the game.
+
+368
+00:38:37,000 --> 00:38:40,540
+I had times where I missed a lot of narratives and.
+
+369
+00:38:40,600 --> 00:38:43,750
+Yeah. Oh yeah.
+
+370
+00:38:45,070 --> 00:38:48,410
+Oh yeah. Like if you want an exchange like tight end and like.
+
+371
+00:38:50,550 --> 00:38:58,360
+You say things like that because I never scroll up and like this.
+
+372
+00:38:58,960 --> 00:39:11,460
+Yeah. That's your average amplitude I literally so I just feel like it's not possible.
+
+373
+00:39:13,140 --> 00:39:18,550
+I want somebody so that you can find, uh, the voice.
+
+374
+00:39:18,610 --> 00:39:21,610
+And so you're just going to show other things and just this one.
+
+375
+00:39:22,060 --> 00:39:27,600
+This one. Just because you're my dad, but I guess.
+
+376
+00:39:32,590 --> 00:39:39,660
+This is just the. Way I want the last thing I learned.
+
+377
+00:39:39,900 --> 00:39:46,290
+Copy that code is modify it so that you can look at, like, a way of upgrades.
+
+378
+00:39:46,440 --> 00:39:51,440
+Different stuff, you know, and someone has to look at your listing.
+
+379
+00:39:51,450 --> 00:39:59,340
+So you might want. So again, because I might get an, you know, just tell me how did you learn how to do so.
+
+380
+00:39:59,400 --> 00:40:03,660
+This is very interesting. This was my yeah.
+
+381
+00:40:03,660 --> 00:40:11,610
+And hopefully this. So I just I don't know I guess I just don't know what to do.
+
+382
+00:40:12,180 --> 00:40:15,460
+Know this is this one, this song from The Rising Sun.
+
+383
+00:40:16,790 --> 00:40:23,010
+Um, and overall on. But yeah, it's like these were actually not wrong yet.
+
+384
+00:40:23,280 --> 00:40:27,689
+Oh, you think this was this was before it started. This was when you two were talking grand.
+
+385
+00:40:27,690 --> 00:40:31,180
+Um, occasionally here we just have this spike. Right. Okay.
+
+386
+00:40:31,300 --> 00:40:36,570
+This is already started. And then once I started relaxing, then I had basically no response.
+
+387
+00:40:36,660 --> 00:40:41,040
+I don't little bit of response. Yes, but summarize this shows a bit better.
+
+388
+00:40:41,040 --> 00:40:46,910
+This is the rock solid spice industry that comes out.
+
+389
+00:40:46,930 --> 00:40:51,149
+Yeah, we've done the Silent Hill out. And there's also been a while.
+
+390
+00:40:51,150 --> 00:40:57,030
+Again, this is a rock song coming on here and I'll do. Yeah, yeah, this song is very cool.
+
+391
+00:40:57,330 --> 00:41:01,890
+But with her she didn't know the song more.
+
+392
+00:41:02,280 --> 00:41:05,280
+Yeah, yeah, that could be here.
+
+393
+00:41:09,030 --> 00:41:14,240
+Unexpected back. It might just be unexpected because when I saw her playing just walk that way sometimes.
+
+394
+00:41:14,490 --> 00:41:17,760
+But I can still hear. Yeah, there's nothing playing. Yeah, yeah.
+
+395
+00:41:17,810 --> 00:41:21,330
+So it could be just any sudden sound.
+
+396
+00:41:21,330 --> 00:41:26,879
+But meanwhile since I knew the song. So. Yeah, yeah, it was fine, I wasn't surprised.
+
+397
+00:41:26,880 --> 00:41:31,980
+Meanwhile, these were surprised when I read, um, okay on that last graph.
+
+398
+00:41:32,550 --> 00:41:36,960
+So this is specifically looking at both helpful waves.
+
+399
+00:41:37,440 --> 00:41:40,740
+Um, so we can, you can change and give me an idea.
+
+400
+00:41:41,100 --> 00:41:45,600
+Yeah. You can change it. All right.
+
+401
+00:41:45,600 --> 00:41:55,180
+So this is your frequency. Minimum frequency maximum 13 is defined as those of the waves which is supposed to be thinking of relaxation.
+
+402
+00:41:55,440 --> 00:42:03,040
+But again it's you know I think there's a lot of variability. But then you can start looking at how that going to start.
+
+403
+00:42:03,300 --> 00:42:07,200
+And this is my favorite. Yeah actually.
+
+404
+00:42:07,950 --> 00:42:14,370
+Oh that's the next line. Yeah okay. And these so it has infinite relaxation.
+
+405
+00:42:14,370 --> 00:42:18,350
+It might also be I would continue to get distracted. So talk to me.
+
+406
+00:42:19,530 --> 00:42:27,540
+Yeah. Now. So that could also be what those are. And then it says these happen doesn't happen at the 62nd mark happens the 75 second time.
+
+407
+00:42:27,700 --> 00:42:31,320
+Come back after this with this can.
+
+408
+00:42:31,630 --> 00:42:36,180
+Yeah. Because I literally have it. So again it's a couple seconds after.
+
+409
+00:42:36,180 --> 00:42:40,290
+Yeah. Yeah very cool. So all right.
+
+410
+00:42:40,680 --> 00:42:45,810
+Yeah. And again right at the beginning it's like they're just trying to get some.
+
+411
+00:42:48,990 --> 00:42:56,170
+Exercise on their minds. Okay.
+
+412
+00:42:57,560 --> 00:43:02,580
+Yeah. Um. Yeah. I didn't want to say all my code words.
+
+413
+00:43:02,820 --> 00:43:06,300
+Yeah. And I thought I still have to bury my parents.
+
+414
+00:43:07,180 --> 00:43:12,570
+I'm not sure. Yeah. I'm sorry.
+
+415
+00:43:12,960 --> 00:43:16,140
+Yeah. Okay. Thank you.
+
+416
+00:43:16,500 --> 00:43:20,550
+Okay. So this is where the first one. Doesn't even get to the title bear.
+
+417
+00:43:21,130 --> 00:43:28,720
+That's what I like, but it's not so bad. You know, everyone was like that on purpose.
+
+418
+00:43:29,280 --> 00:43:36,570
+Yeah. I just. Yeah, actually, I really like this.
+
+419
+00:43:37,230 --> 00:43:42,780
+Okay. Scroll up. Yeah. So the only thing I can access a tiny.
+
+420
+00:43:44,860 --> 00:43:48,880
+Yeah. So this one's like you're, uh. So they're both.
+
+421
+00:43:49,180 --> 00:43:57,430
+It's the same. It's the same thing. Yeah. The very next one is comparing whatever someone's favorite song was in the world.
+
+422
+00:43:57,730 --> 00:44:01,580
+Right in the corner. Yeah.
+
+423
+00:44:02,070 --> 00:44:10,120
+So. Yeah. Uh, right here is a line of code that's converting that to audio.
+
+424
+00:44:10,150 --> 00:44:15,690
+Yep. Exactly. So if I write a song, the exact same thing, but I like, um, plug in audio has to.
+
+425
+00:44:15,710 --> 00:44:20,750
+Then I would go for it. Yep. And that's what we do in that revenue stream.
+
+426
+00:44:21,190 --> 00:44:27,639
+Yeah. So if you scroll up a little bit, it's exactly the same code as above.
+
+427
+00:44:27,640 --> 00:44:30,990
+But this finding on a path 1.0. So it work.
+
+428
+00:44:31,270 --> 00:44:34,580
+Yeah. And a ton of similarities.
+
+429
+00:44:35,770 --> 00:44:39,610
+Yeah. I mean, clear difference. Amen.
+
+430
+00:44:40,350 --> 00:44:44,740
+Yeah. And, you know, like, uh, scroll down and like this.
+
+431
+00:44:45,280 --> 00:44:51,459
+And then this next part, I only do it's only coded for the first like audio path one.
+
+432
+00:44:51,460 --> 00:44:55,030
+So your favorite song so you can. Yeah. This is interesting.
+
+433
+00:44:56,080 --> 00:44:59,260
+I don't know. Yeah. I don't know how I would interpret this.
+
+434
+00:44:59,290 --> 00:45:03,920
+Yeah that's good. So this is looking at all the different frequencies across your entire song.
+
+435
+00:45:04,030 --> 00:45:08,620
+So aggregated. So you got a lot. This is frequency and then count.
+
+436
+00:45:08,830 --> 00:45:13,100
+Oh, wow. I got a lot of mentally ill stuff. I'm.
+
+437
+00:45:13,290 --> 00:45:18,350
+I'm so bad that I let that slip in. No, that's the other.
+
+438
+00:45:18,400 --> 00:45:24,520
+I look up for another a better. Um, and then this is looking specifically at alpha waves.
+
+439
+00:45:24,790 --> 00:45:28,750
+So you have this peak around 12 seconds. We're not.
+
+440
+00:45:29,140 --> 00:45:36,280
+Yeah. Which could be. Yeah. And I, uh, at least from that paper that's classifying it as relaxation, but I don't.
+
+441
+00:45:36,370 --> 00:45:40,480
+Yeah. I don't know if we can trust in you. Big. Um, yeah.
+
+442
+00:45:41,290 --> 00:45:45,970
+So you can keep that for other songs. Um.
+
+443
+00:45:47,650 --> 00:45:51,500
+And it's nice. Oh. Oh. Did you.
+
+444
+00:45:51,520 --> 00:45:54,970
+Let's see you at work. Um, no.
+
+445
+00:45:57,010 --> 00:46:00,610
+How did you get this opening? The way you did your.
+
+446
+00:46:01,000 --> 00:46:04,500
+Oh, this is thanking me. I don't know.
+
+447
+00:46:05,230 --> 00:46:08,950
+I might have said I was like, oh, yeah. So that's.
+
+448
+00:46:08,950 --> 00:46:16,680
+He was already nice. Um, he was already kind of generic. It's like hard.
+
+449
+00:46:18,300 --> 00:46:22,210
+Him. Yeah. Oh, yeah.
+
+450
+00:46:22,370 --> 00:46:26,530
+Yeah, yeah. Those will all be audio files.
+
+451
+00:46:26,680 --> 00:46:30,370
+So you can listen to several minutes here. I love the free minigame.
+
+452
+00:46:30,780 --> 00:46:34,660
+Um, I don't think I will see the monitor play around that.
+
+453
+00:46:35,080 --> 00:46:38,530
+Yeah, I think you can use other ones.
+
+454
+00:46:39,790 --> 00:46:43,330
+I'm using several times. Yeah.
+
+455
+00:46:43,660 --> 00:46:49,600
+Okay. Oh, my. I know everything on this.
+
+456
+00:46:49,840 --> 00:46:54,160
+Oh. You did? Yeah, you already did.
+
+457
+00:46:54,460 --> 00:47:03,460
+Oh, yeah. Yes I know. I think I'm going to think talk to the last one I have done.
+
+458
+00:47:03,550 --> 00:47:08,890
+Ooh. Directly off my big subtitle. Second thing. Um, what do you think this graph is showing?
+
+459
+00:47:09,370 --> 00:47:12,600
+I know they're getting people at the same time. Yeah. Yeah.
+
+460
+00:47:13,470 --> 00:47:18,730
+Yeah. The ad or the price band that's on there?
+
+461
+00:47:20,410 --> 00:47:25,139
+I don't know. Um, it's just it's a lot of these.
+
+462
+00:47:25,140 --> 00:47:29,350
+So hard to find. What is that about?
+
+463
+00:47:30,510 --> 00:47:30,800
+Yeah.
+
+464
+00:47:31,000 --> 00:47:38,740
+Oh, that slide back up the basics manual like that is how these are, like, average notes pop up when you're considering the first stage of sleep.
+
+465
+00:47:39,100 --> 00:47:46,120
+And then also, you are supposed to be classified like you can do, at least by not being very difficult to trust online.
+
+466
+00:47:46,760 --> 00:47:55,460
+Oh yeah, that would be awesome. So you can actually I think that like, I, you don't do like all the time.
+
+467
+00:47:57,070 --> 00:48:02,600
+Oh, yeah. So you can pick whatever. You know, that is what they say.
+
+468
+00:48:02,830 --> 00:48:06,100
+So. Yes. Are not getting anywhere.
+
+469
+00:48:07,860 --> 00:48:10,990
+You're not? I don't know. Wait.
+
+470
+00:48:11,080 --> 00:48:16,959
+What is yours? And it's gonna be like, what?
+
+471
+00:48:16,960 --> 00:48:21,850
+It's supposed to get on the whole thing.
+
+472
+00:48:22,570 --> 00:48:25,810
+Oh, wait for me. Yes, yes. Um.
+
+473
+00:48:27,670 --> 00:48:34,390
+Stephen. Oh, no. Oh, I said, oh, I haven't set it in the file because.
+
+474
+00:48:34,440 --> 00:48:37,720
+Because it went well. Okay. Human sociability.
+
+475
+00:48:37,810 --> 00:48:43,870
+Oh, I have here. So. I married love, and not only love.
+
+476
+00:48:43,870 --> 00:48:47,410
+That is it. You also better.
+
+477
+00:48:47,470 --> 00:48:50,930
+Okay. That's actually a funny thing. A lot of animals, though. Oh, yeah?
+
+478
+00:48:51,060 --> 00:48:54,270
+Yeah. Doing nice things. Okay. Cool.
+
+479
+00:48:54,690 --> 00:48:59,220
+Um. Yeah. Do you have a list of assignments? I do, yeah.
+
+480
+00:48:59,310 --> 00:49:04,230
+Children. Some young kids. So it's actually a similar setting.
+
+481
+00:49:05,400 --> 00:49:14,310
+And to do. It to be gentler with kids and, like, more patience because I think they're really cool.
+
+482
+00:49:14,580 --> 00:49:19,650
+Okay. Highlighting something really quick because I think a lot of people are reaching the end of ages.
+
+483
+00:49:20,070 --> 00:49:23,250
+Um, oh, I have to run everything in advance.
+
+484
+00:49:23,250 --> 00:49:27,000
+But, uh uh uh. Sorry.
+
+485
+00:49:28,470 --> 00:49:34,140
+Yeah, I. Got, uh, it was the first.
+
+486
+00:49:38,370 --> 00:49:45,780
+Um, okay. So a lot of people are getting to this last figure, which I think is a really interesting one.
+
+487
+00:49:46,110 --> 00:49:53,009
+Uh, does anyone want to give their interpretation of what is happening within this figure?
+
+488
+00:49:53,010 --> 00:49:56,010
+And sorry, the x axis, I did not. Yeah, it looks a little wonky.
+
+489
+00:50:05,190 --> 00:50:11,220
+Right. So, um, I know the title is a good giveaway here.
+
+490
+00:50:13,390 --> 00:50:16,959
+Oh, that's what it's like. It's not relaxing. That's right. Exactly.
+
+491
+00:50:16,960 --> 00:50:22,060
+Yeah. So that's the idea is like, kind of based off again, we're taking, um,
+
+492
+00:50:22,060 --> 00:50:27,670
+this paper's interpretation kind of with a grain of salt, but we can find other, other interpretations.
+
+493
+00:50:27,670 --> 00:50:33,130
+But that 8 to 13 frequency range is classified as alpha bands.
+
+494
+00:50:33,430 --> 00:50:36,940
+And so this paper describes that as being in a relaxed state.
+
+495
+00:50:37,360 --> 00:50:43,089
+Right. And so if we go back here, um, this is supposed to be alpha waves over time.
+
+496
+00:50:43,090 --> 00:50:48,190
+So listening to whatever song you're playing here, uh, and so we define whatever,
+
+497
+00:50:48,430 --> 00:50:53,170
+uh, frequency range at the very top of this block of code, right above that figure.
+
+498
+00:50:53,320 --> 00:50:56,380
+So you can change this, right? This is looking at alpha waves.
+
+499
+00:50:56,800 --> 00:51:00,790
+Let's say we want to look at uh beta. So 14 to 30.
+
+500
+00:51:01,240 --> 00:51:06,160
+Now let's modify this to be 1430.
+
+501
+00:51:06,700 --> 00:51:12,040
+And then we'll just change the title here to be obey the beta waves.
+
+502
+00:51:13,150 --> 00:51:21,940
+Right. And so now we have a different graph. And we can try and interpret if we're using this this paper's classification.
+
+503
+00:51:21,940 --> 00:51:30,700
+Right. That's supposed to be a state of tension. Right. So maybe these these peaks are showing periods in your song that may be evoking some tension,
+
+504
+00:51:30,700 --> 00:51:41,469
+or maybe there's some external stimulus that's causing tension. Again, I think very valid point to talk about the amount of noise.
+
+505
+00:51:41,470 --> 00:51:50,650
+And again, this paper having that in that really broad general like incorrect classification of like mental state at the very end.
+
+506
+00:51:50,650 --> 00:51:57,490
+So take all this kind of as a grain of salt and I'll find some more, um, papers kind of classifying these different frequencies.
+
+507
+00:51:57,490 --> 00:52:01,900
+But yeah, I think this is a really cool, um, graph to play around with, right?
+
+508
+00:52:02,800 --> 00:52:04,840
+Uh, yeah. So that's that's all I wanted to highlight.
+
+509
+00:52:04,870 --> 00:52:12,430
+Any other big questions while we're as a group or anything interesting, people want to bring up the for folks attention.
+
+510
+00:52:16,270 --> 00:52:21,250
+No. All right. Cool. Well, I'll let y'all keep working. That was just the one thing I wanted to highlight.
+
+511
+00:52:23,870 --> 00:52:28,020
+Oh, what does this writer do? Um, also good question.
+
+512
+00:52:28,040 --> 00:52:39,870
+Um, so I want I'm hoping. Thinking about next week because, um, yeah, I think I think we've done all the hard part here.
+
+513
+00:52:40,140 --> 00:52:46,860
+It's really the, the turn in for this will be like, what's your hypothesis?
+
+514
+00:52:46,860 --> 00:52:54,240
+What was your experiment? Um, what regions of the brain do you think are becoming active, and how is that translated into your EEG data?
+
+515
+00:52:54,630 --> 00:53:01,500
+And then, uh, the previous activity was playing around with looking at, um, uh,
+
+516
+00:53:01,500 --> 00:53:08,730
+transcripts of lectures that correlate with, uh, sleep, the amount of sleep an individual has received.
+
+517
+00:53:08,970 --> 00:53:17,070
+And so that one, it's just a couple sentences on understanding how, uh, sleep can influence the brain and different structures that are regulating it.
+
+518
+00:53:17,370 --> 00:53:21,599
+So I think it's again, also a relatively I don't know, I, I'm aiming for maybe a week,
+
+519
+00:53:21,600 --> 00:53:26,430
+week and a half, but I'll post that right after class with the write up. Does that seem reasonable?
+
+520
+00:53:26,700 --> 00:53:29,850
+Yeah. Okay, cool. Doesn't seem too long. Yeah.
+
+521
+00:53:29,910 --> 00:53:34,380
+No, it. We won't be too long. That's why I'm, like, curious. Because I don't have time for more than.
+
+522
+00:53:35,080 --> 00:53:39,630
+Yeah, and that's a motivator to kind of get this off the table and kind of keep it somewhat short.
+
+523
+00:53:41,420 --> 00:53:51,190
+Um, yeah. So. How are your results looking?
+
+524
+00:53:51,730 --> 00:53:59,050
+I look really good. I just got really excited looking at it again, something I think I kind of like near each other.
+
+525
+00:53:59,320 --> 00:54:04,050
+Yeah, I like that. Okay, so this is my roll.
+
+526
+00:54:04,300 --> 00:54:09,040
+Have you done lots of graphs? Okay. Yeah. This is this is the this is the favorite time okay.
+
+527
+00:54:09,130 --> 00:54:14,150
+This is the thing. And then this is. Looking at the way.
+
+528
+00:54:14,580 --> 00:54:17,850
+Yeah, we were just heartbroken. I didn't know how to do that to myself.
+
+529
+00:54:18,180 --> 00:54:24,330
+Yeah, yeah, yeah. You listen back. I mean, you can do the same graph or.
+
+530
+00:54:24,360 --> 00:54:27,410
+Yeah. I mean, this is said this is favorite song. Nothing. No.
+
+531
+00:54:27,420 --> 00:54:35,560
+Okay. Nothing. So you can do the same graph for nothing. See how those upper waves change over time to you in the way you do that.
+
+532
+00:54:35,580 --> 00:54:44,770
+So scroll. Go to that code block right before the final.
+
+533
+00:54:48,130 --> 00:54:53,590
+Oh, those. Yeah. Yeah. I want to see what James said.
+
+534
+00:54:53,590 --> 00:54:58,210
+Not to change audio one to audio two to change that.
+
+535
+00:54:58,240 --> 00:55:04,450
+Um. And that, I think should change my life since this whole thing.
+
+536
+00:55:04,450 --> 00:55:09,070
+You. I find.
+
+537
+00:55:09,180 --> 00:55:15,220
+I think it's like spiritual stuff. Yeah, yeah.
+
+538
+00:55:15,470 --> 00:55:20,080
+Uh. Pretty cool. As much as I.
+
+539
+00:55:26,940 --> 00:55:36,819
+Yes. It's scientific, like it's always needed to be someone doing this one because that someone.
+
+540
+00:55:36,820 --> 00:55:40,570
+Yeah, if someone is just going, we're crazy to lose it.
+
+541
+00:55:40,570 --> 00:55:47,380
+I think. I think it gets pretty close over here and ready to go first.
+
+542
+00:55:47,830 --> 00:55:54,370
+Just going to have some fun. I'll get started with animals, but only for things associated with novelty.
+
+543
+00:55:54,610 --> 00:55:57,639
+It's like you do. Um, yeah. So it's like.
+
+544
+00:55:57,640 --> 00:56:01,150
+It's like we call this, like a new experience. It's like.
+
+545
+00:56:01,150 --> 00:56:04,510
+So you present a very large animal to meet with.
+
+546
+00:56:04,990 --> 00:56:12,550
+When you're kind of mixing songs, it may appear as like a no socially, except actually you're probably 30s after that initial.
+
+547
+00:56:12,580 --> 00:56:16,270
+Yeah. Mine looks very similar to. Yeah from prefrontal.
+
+548
+00:56:16,480 --> 00:56:23,350
+Oh, yes. Um. Audio information as you're just having massive singing.
+
+549
+00:56:25,030 --> 00:56:28,780
+Absolutely. I think yeah. Like stimulus.
+
+550
+00:56:28,780 --> 00:56:32,440
+Stimulus trigger, you know. Yeah.
+
+551
+00:56:34,180 --> 00:56:40,950
+Here, let me show you. I was going to add it onto your blog.
+
+552
+00:56:41,370 --> 00:56:46,240
+No, but I'm curious since I feel like how much of this is.
+
+553
+00:56:49,310 --> 00:56:52,460
+Another North Carolina transfer quarter.
+
+554
+00:56:53,690 --> 00:57:01,040
+How do you mean? This was an actual lecture against a lot of the immune.
+
+555
+00:57:04,480 --> 00:57:10,850
+System parts of what we do with prefrontal stuff.
+
+556
+00:57:11,530 --> 00:57:22,099
+You can actually hear the lines that like, you know, seeing something different than a couple of days ago.
+
+557
+00:57:22,100 --> 00:57:35,670
+Kind of fun. Yeah. I really I really think I kind of like, at least for six weeks before 1996, I remember well, not.
+
+558
+00:57:36,910 --> 00:57:42,260
+He said that peaks and valleys in the same way.
+
+559
+00:57:42,680 --> 00:57:47,890
+Um, yes. So I have a version that runs on the reference pie,
+
+560
+00:57:47,900 --> 00:57:59,120
+but I think it's a lot more so it's called twice a week like this because it is better if you're customers are single.
+
+561
+00:58:00,950 --> 00:58:05,330
+So this is the point about LinkedIn. I guess this is not.
+
+562
+00:58:06,700 --> 00:58:16,840
+So a lot of work. And, um, yeah, a lot of music is dependent on today's generating harmonies.
+
+563
+00:58:17,490 --> 00:58:27,280
+And there's still virtually that simple dissonance that is in terms of like when you're trying to really kind of.
+
+564
+00:58:29,770 --> 00:58:36,480
+There's going to be less. That's an order of business. Obviously, it's not that hard for them.
+
+565
+00:58:36,660 --> 00:58:46,250
+They're going to use. But if they're right now for, you know, menus and ability kind of things a.
+
+566
+00:58:48,810 --> 00:58:58,530
+Little bit every once in a while they'll think that this is great because that's what it's like to have sometimes every once in awhile.
+
+567
+00:58:59,460 --> 00:59:03,860
+Yeah I think. That just is that.
+
+568
+00:59:03,960 --> 00:59:08,190
+Yeah. Essentially translates. It's not something that you basically like I was listening to music every other day.
+
+569
+00:59:08,390 --> 00:59:14,290
+I really feel like. Yeah I know, I know.
+
+570
+00:59:14,980 --> 00:59:23,280
+So yeah. But yeah, it's I mean, it's overdue the idea of doing some things just to collect money better than others and a lot of that.
+
+571
+00:59:23,330 --> 00:59:30,900
+But actually. Exactly. I was like, I mean, it's a lot or it's the once.
+
+572
+00:59:31,350 --> 00:59:35,190
+Yeah. And you can what? You can play around if you want to. Yeah.
+
+573
+00:59:35,850 --> 00:59:39,160
+That's for you to evolution.
+
+574
+00:59:39,830 --> 00:59:42,870
+I heard about, you know, how to get a lot of that stuff.
+
+575
+00:59:44,440 --> 00:59:50,200
+Cool. All right. Yeah, that's. So this is kind of a big idea I wanted to cover for today.
+
+576
+00:59:51,580 --> 00:59:57,880
+Um, yeah. I'll post the write up for this stuff right after class.
+
+577
+00:59:58,300 --> 01:00:03,310
+Uh, but other than that, if people have questions, come ask me. But you're free to go if you'd like.
+
+578
+01:00:03,730 --> 01:00:09,540
+Uh. Or you can. Yeah. Stick around and talk about final project stuff or whatever this project is.
+
+579
+01:00:09,970 --> 01:00:13,770
+Cool. So thanks. It's probably best to.
+
+580
+01:00:14,240 --> 01:00:17,526
+I wouldn't get the other parts. Or as you said, that's you know, it's not that's not that's basically like the lifespan of.
+
