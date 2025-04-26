@@ -1,0 +1,1629 @@
+1
+00:00:09,170 --> 00:00:13,090
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Hey. All right. Yeah.
+
+2
+00:00:13,100 --> 00:00:21,770
+Welcome to the second to last week of class, which is pretty wild that we've made it through almost the entire semester.
+
+3
+00:00:22,430 --> 00:00:31,040
+Almost at the finish line. Um, yeah. So today, the structure, I was thinking, um, we'll talk a little bit about.
+
+4
+00:00:31,520 --> 00:00:37,190
+Yeah, updates what we have left, um, a little bit about neurodegenerative diseases.
+
+5
+00:00:37,550 --> 00:00:42,900
+Uh, and then we'll have time to work on final projects or check in with me.
+
+6
+00:00:42,920 --> 00:00:48,860
+I'll give some people some updates on, um, things I have for Thursday and.
+
+7
+00:00:48,860 --> 00:00:55,860
+Yeah, we'll we'll go from there. Yeah, two.
+
+8
+00:00:55,890 --> 00:01:01,410
+Yeah, I can wild while that we're here. Um, so second to last week.
+
+9
+00:01:01,620 --> 00:01:06,120
+Uh, I'm thinking we'll do the same thing on Thursday.
+
+10
+00:01:06,120 --> 00:01:09,959
+Although I know it was maybe a little chaotic.
+
+11
+00:01:09,960 --> 00:01:12,750
+Or at least I only showed up in this room too late.
+
+12
+00:01:13,290 --> 00:01:18,420
+Um, maybe I can reverse the order, but make sure that folks in the lab will have everything set up.
+
+13
+00:01:19,170 --> 00:01:26,730
+Um, yeah. And I know a lot of people will be running some animal assays on Thursday.
+
+14
+00:01:27,300 --> 00:01:32,730
+Um, yeah. So I'll make sure. I think I have everything ready to go for folks.
+
+15
+00:01:32,730 --> 00:01:35,969
+And again, at the in the class, I'll go around and get some updates.
+
+16
+00:01:35,970 --> 00:01:40,200
+But yeah, any any feedback any anyone.
+
+17
+00:01:40,590 --> 00:01:44,280
+Yeah. Feedback from last week or comments.
+
+18
+00:01:44,280 --> 00:01:48,190
+Questions. Okay.
+
+19
+00:01:50,510 --> 00:01:54,079
+Cool. All right. And then assignments left for the term.
+
+20
+00:01:54,080 --> 00:01:57,770
+So we just have uh we'll do one more.
+
+21
+00:01:58,280 --> 00:01:59,329
+Let's see discussion.
+
+22
+00:01:59,330 --> 00:02:07,940
+So we'll have next Tuesday, which I miss, which will probably be another kind of mixed work on projects getting maybe slides together.
+
+23
+00:02:07,940 --> 00:02:13,460
+Data analysis with me before on Thursday we'll have our presentation day.
+
+24
+00:02:14,000 --> 00:02:24,170
+Um, but I want to do, uh, this our final canvas discussion will be find either an article or it could be like pop science,
+
+25
+00:02:24,590 --> 00:02:31,309
+um, something related to neuroscience that maybe you've encountered this semester,
+
+26
+00:02:31,310 --> 00:02:33,890
+or even if it relates to stuff we've covered,
+
+27
+00:02:34,190 --> 00:02:41,419
+you know that something that has stuck with you has lived in your brain for a while and post that in canvas in a couple sentences,
+
+28
+00:02:41,420 --> 00:02:50,420
+isn't it just to share? Um, yeah, I think kind of crowdsourcing and getting some, some interesting kind of current topics on neuroscience is,
+
+29
+00:02:50,720 --> 00:02:56,180
+is the goal for the last discussion, and I'll post some more details on that, uh, in canvas.
+
+30
+00:02:56,990 --> 00:03:01,240
+Um, yeah. I mean, yes, our final project. Right.
+
+31
+00:03:01,610 --> 00:03:08,140
+And so I, I went over this. I'm not going to spend too much time on this again, but, uh, yeah, the idea.
+
+32
+00:03:08,150 --> 00:03:14,300
+So next Thursday we'll do final presentations and then the write up will be due.
+
+33
+00:03:14,690 --> 00:03:21,470
+Um, I'm there in the Fridays final, the Friday at the end of finals week at midnight.
+
+34
+00:03:22,010 --> 00:03:30,049
+Um, and again for the presentations, um, don't stress too much or give me ideas to present your idea,
+
+35
+00:03:30,050 --> 00:03:33,950
+your project, and then get feedback during the class.
+
+36
+00:03:34,370 --> 00:03:39,140
+Um, and yeah, and then be able to incorporate that into your writing.
+
+37
+00:03:39,530 --> 00:03:46,930
+Yeah. Right. Hopefully you kind of like, are you looking for, like, a phone, like lab report or like what?
+
+38
+00:03:46,940 --> 00:03:56,870
+You know, um, you can I mean, if it is helpful to organize in that way, I think that was the initial goal.
+
+39
+00:03:56,870 --> 00:04:02,649
+But let's see, just pulling up. Um, yeah.
+
+40
+00:04:02,650 --> 00:04:10,420
+So for the write up. Right. There's no I'm not giving, um, any kind of minimum or maximum word limits,
+
+41
+00:04:10,840 --> 00:04:15,729
+but essentially you can imagine kind of taking what would be your presentation,
+
+42
+00:04:15,730 --> 00:04:20,740
+converting that into, you know, a written form, including those two figures.
+
+43
+00:04:20,740 --> 00:04:27,460
+Right. Having a little bit of an introduction. Um, so kind of like a write up, write up a Json.
+
+44
+00:04:27,490 --> 00:04:37,690
+Um, but again, I'm not I'm not giving you restrictions on how, how much or how little to write on it does that if that kind of makes sense.
+
+45
+00:04:37,690 --> 00:04:44,169
+But again, having write up in the sense that you need to have these five sections, which again,
+
+46
+00:04:44,170 --> 00:04:53,139
+you'd probably have in a typical lab class, um, and you'll be getting feedback on your presentation, which will also include this.
+
+47
+00:04:53,140 --> 00:04:58,750
+So this is kind of me giving you encouragement as to what to include in your write up.
+
+48
+00:04:59,140 --> 00:05:02,799
+Um, and then you have, yeah, those minimum citations to include in it.
+
+49
+00:05:02,800 --> 00:05:08,890
+So I think it's just write two in the intro, um, and then at least one in the conclusion.
+
+50
+00:05:08,890 --> 00:05:11,890
+So pretty minimal on that. Um, yeah.
+
+51
+00:05:11,890 --> 00:05:17,230
+Does that kind of answer your question? With.
+
+52
+00:05:22,680 --> 00:05:26,790
+Yeah. And again and then for the presentation, which will be next Thursday.
+
+53
+00:05:26,790 --> 00:05:30,210
+Right. Having at least these five slides.
+
+54
+00:05:30,720 --> 00:05:40,170
+Right. Intro hypothesis methods results, conclusions. And again don't you don't need to stress too much about, um, having everything perfect.
+
+55
+00:05:40,680 --> 00:05:48,540
+Again. It's just we want to present the ideas and um, we want to give you feedback on getting things together for good.
+
+56
+00:05:48,540 --> 00:05:55,680
+Right. Um, and kind of sharing. Yeah. What your what interesting question you've been working on, uh, for this last bit of class.
+
+57
+00:05:57,150 --> 00:06:00,720
+Oh yeah. Any questions on that?
+
+58
+00:06:01,290 --> 00:06:07,130
+Yeah. Sweet. Okay.
+
+59
+00:06:07,490 --> 00:06:12,170
+Yeah. So we'll talk a little bit about some neurodegeneration.
+
+60
+00:06:12,800 --> 00:06:18,140
+Uh, and then we'll have the rest of the time for, you know, working through final projects or.
+
+61
+00:06:18,140 --> 00:06:21,890
+Yeah, you can take the time. You can have the time back for yourself if you like.
+
+62
+00:06:24,640 --> 00:06:27,850
+All right. So I want to start out with just an open ended question.
+
+63
+00:06:28,360 --> 00:06:34,810
+Um, so what do you all know about neurodegenerative diseases as a whole?
+
+64
+00:06:35,560 --> 00:06:42,460
+Right. And so maybe there's a couple, um, kind of well known diseases that are kind of popping out to you.
+
+65
+00:06:42,910 --> 00:06:48,430
+Um, just to give you, you know, two, two words to start thinking about.
+
+66
+00:06:48,760 --> 00:06:53,470
+Right. So how does dementia fit into this idea of neurodegeneration?
+
+67
+00:06:53,830 --> 00:07:00,760
+And then what about Alzheimer's disease? How does that fit into, um, our broad understanding of narrative degeneration.
+
+68
+00:07:00,770 --> 00:07:06,580
+So I'll give you like a few seconds. You can either think to yourself or chat with neighbor if you want.
+
+69
+00:07:06,910 --> 00:07:10,750
+Um, you know, how how do these all of these concepts kind of link together?
+
+70
+00:07:43,850 --> 00:07:51,080
+But. Back to your parking.
+
+71
+00:07:52,360 --> 00:08:00,040
+Yeah, I think now, generally, as hard as we are of gendered diseases, uh, they often don't come from a brain function.
+
+72
+00:08:02,980 --> 00:08:08,620
+Or, um, sort of background. Uh, the human on this, I assume different countries have different.
+
+73
+00:08:11,550 --> 00:08:19,530
+Whereas I know. Is it an Alzheimer's and Parkinson's disease which you can feel?
+
+74
+00:08:19,550 --> 00:08:22,990
+I know I. I'm ready to go.
+
+75
+00:08:23,920 --> 00:08:28,780
+I don't know if that's it. Yeah, that's like my hand.
+
+76
+00:08:29,860 --> 00:08:33,090
+I was like, we're mad at you. And I was always right.
+
+77
+00:08:33,100 --> 00:08:38,830
+I just like. Yeah, I, I absolutely I.
+
+78
+00:08:40,420 --> 00:08:44,370
+Yeah, yeah, yeah, I like my grandmother enough.
+
+79
+00:08:44,380 --> 00:08:51,420
+So when you're getting to me. So I have one thing to talk to you about Thanksgiving.
+
+80
+00:08:51,790 --> 00:08:55,209
+Uh, so I'm gonna take you with you guys. Yeah.
+
+81
+00:08:55,210 --> 00:09:00,420
+And like you said, you know, from the first little thing, it's the second level.
+
+82
+00:09:00,480 --> 00:09:04,150
+It's, uh, I know, so that's third parties. Yeah.
+
+83
+00:09:05,980 --> 00:09:11,190
+Um. Yeah. Um. I'm not.
+
+84
+00:09:11,200 --> 00:09:20,950
+Normally, I like to do something weird about it, but I didn't remember what it was, so I was like, yeah, all these, all this, uh.
+
+85
+00:09:20,950 --> 00:09:25,460
+Oh, my God. Be able to cross the street and then you keep going on.
+
+86
+00:09:26,080 --> 00:09:31,170
+Really? I mean, you can check. I mean, I make sure you're.
+
+87
+00:09:31,180 --> 00:09:35,070
+I don't know exactly, but like. Neuron degeneration.
+
+88
+00:09:35,210 --> 00:09:39,500
+It looks like it's obviously not, but it just seems you should be using to your head.
+
+89
+00:09:39,620 --> 00:09:44,570
+Um, and to associate that, my motion, you just cut off and probably have some to go from there.
+
+90
+00:09:45,740 --> 00:09:49,440
+First of all, it probably difficult to damage both sides, right?
+
+91
+00:09:49,760 --> 00:09:55,690
+So you probably only get like one year, like when I didn't have to do any of those.
+
+92
+00:09:56,790 --> 00:10:01,800
+And anything like that I think is considered awesome.
+
+93
+00:10:01,890 --> 00:10:06,540
+Approaches to comparing. But there.
+
+94
+00:10:08,510 --> 00:10:14,320
+Systems and patterns. Just overall content.
+
+95
+00:10:16,250 --> 00:10:19,450
+But that's not all you're picking up on.
+
+96
+00:10:19,460 --> 00:10:27,500
+You're probably going to go back once. I don't know if you're sorry because it's easy to overcome some.
+
+97
+00:10:30,350 --> 00:10:36,440
+Discomfort that we have. You see that. But yeah usually I'm talking about just like this right here on the site.
+
+98
+00:10:36,590 --> 00:10:40,250
+Like I actually like. Like, what are you generating? I'm not reading this.
+
+99
+00:10:40,310 --> 00:10:51,200
+Yeah I just yeah. So then it's like, yeah, it's of the word in this degrading versus actually sensory perception because they
+
+100
+00:10:51,200 --> 00:10:56,690
+appear often in kind of I wonder maybe the frontal lobe is more prone to damage.
+
+101
+00:10:57,260 --> 00:11:05,100
+And. I think a lot, a lot for in terms of narrative generation games you like.
+
+102
+00:11:06,520 --> 00:11:12,480
+Especially things like the different cognitive social security systems.
+
+103
+00:11:15,100 --> 00:11:19,110
+All right. Great. Some good discussion. So.
+
+104
+00:11:23,280 --> 00:11:26,400
+Uh, anyone cover something they want to share?
+
+105
+00:11:26,580 --> 00:11:33,480
+Or even, you know, uh, just describing what each of these terms means and how they relate to each other.
+
+106
+00:11:37,540 --> 00:11:41,260
+Yeah. There's no cure.
+
+107
+00:11:41,680 --> 00:11:45,930
+Mhm. There is things I can smell that.
+
+108
+00:11:48,620 --> 00:11:52,970
+I'm pretty. Quality of life. Yeah. Some things may come.
+
+109
+00:11:54,150 --> 00:12:00,260
+Yeah. Yeah yeah yeah yeah.
+
+110
+00:12:00,270 --> 00:12:06,450
+Exactly. Yeah. And that's and we'll probably all probably covered a lot of what the slides will say.
+
+111
+00:12:06,450 --> 00:12:18,419
+But yeah. What's so challenging. And you know um, yeah, about these diseases is that there is no reversible treatment they occur to, they um,
+
+112
+00:12:18,420 --> 00:12:26,090
+impact so many of us if it's not, you know, ourselves that will eventually undergo a neurodegenerative disease.
+
+113
+00:12:26,100 --> 00:12:34,079
+Often it's a family member. Um, I yeah, my grandma and a few other, uh, members of my family had Alzheimer's.
+
+114
+00:12:34,080 --> 00:12:44,069
+And, um. Yeah, there's certainly genetic risks to these things or certainly, um, lifestyle or environment that contributes.
+
+115
+00:12:44,070 --> 00:12:51,390
+And we're still just kind of scraping the surface and starting to piece together a really complex picture of how these,
+
+116
+00:12:51,660 --> 00:12:55,350
+uh, diseases, um, start to occur, what can influence them?
+
+117
+00:12:55,710 --> 00:12:58,290
+Um, what are the correlates and then what are treatments?
+
+118
+00:12:58,290 --> 00:13:04,020
+So, yeah, there's a bunch of really interesting, uh, types of preventative therapies that people can undergo.
+
+119
+00:13:04,650 --> 00:13:07,780
+Um, yeah. Anyone anyone have something?
+
+120
+00:13:07,800 --> 00:13:12,840
+Yeah, I have some. I looked at the correlation between ADHD and Parkinson's.
+
+121
+00:13:12,990 --> 00:13:18,240
+Mhm. It's something like over 70% of people with Parkinson's have been diagnosed ADHD before.
+
+122
+00:13:19,570 --> 00:13:22,709
+Very. Okay. Very heavily. Yeah, yeah.
+
+123
+00:13:22,710 --> 00:13:28,130
+Um, yeah. What is that article or paper just from looking it up.
+
+124
+00:13:28,140 --> 00:13:32,100
+It's there's a bunch of studies, um, going in connection between those two.
+
+125
+00:13:32,190 --> 00:13:36,330
+Yeah. Really interesting. It is the same part of your brain that's being affected in both cases.
+
+126
+00:13:36,720 --> 00:13:40,170
+Yeah. And so I have a few slides on.
+
+127
+00:13:40,710 --> 00:13:45,960
+Um, uh, what specific neurons are degenerating for Parkinson's?
+
+128
+00:13:46,380 --> 00:13:51,930
+Um, and we'll get into the specific neurotransmitters, uh, that are involved in that,
+
+129
+00:13:51,930 --> 00:13:58,380
+but very interesting if you don't if you want to post that in the discussion or I can find another paper and, and post that too.
+
+130
+00:13:58,650 --> 00:14:01,650
+Um, but yeah, very, very interesting link.
+
+131
+00:14:01,980 --> 00:14:07,469
+And I'm assuming that maybe it's not, um, mutually exclusive, right.
+
+132
+00:14:07,470 --> 00:14:13,500
+Of course, not everyone that 70% of folks that have ADHD will develop Alzheimer's,
+
+133
+00:14:13,500 --> 00:14:20,190
+but maybe it's reversibly if looking at folks with Alzheimer's disease, there's a high likelihood of having it.
+
+134
+00:14:21,750 --> 00:14:27,040
+Um, yeah. Interesting. Anyone else? Yeah.
+
+135
+00:14:28,550 --> 00:14:34,290
+Dimensions. Yeah.
+
+136
+00:14:35,100 --> 00:14:38,549
+Just one. Yeah, yeah. And that's that's great.
+
+137
+00:14:38,550 --> 00:14:43,560
+That's one of the main points I want is yeah, dementia is a very broad umbrella term.
+
+138
+00:14:43,590 --> 00:14:45,959
+I'll have a slide on that. What about anyone?
+
+139
+00:14:45,960 --> 00:14:54,450
+Um, did anyone talk about neurodegeneration and neurodegenerative diseases, especially in relation to dementia?
+
+140
+00:14:55,950 --> 00:14:59,090
+Are these two do they mean synonyms?
+
+141
+00:14:59,550 --> 00:15:05,030
+Uh, is there a little bit of difference? Yeah.
+
+142
+00:15:07,850 --> 00:15:11,110
+Because it's a epidemic disease to write.
+
+143
+00:15:11,330 --> 00:15:14,910
+Synopsis. The age and the.
+
+144
+00:15:16,480 --> 00:15:20,170
+It's a muscle movement, too. Yeah. It's also really.
+
+145
+00:15:21,060 --> 00:15:24,120
+Other brain works. Some people, like lose lots of light.
+
+146
+00:15:24,420 --> 00:15:28,120
+Like. Let me see. Yeah, yeah.
+
+147
+00:15:28,130 --> 00:15:33,020
+That's also y'all are touching down on like, the things, the big things I'm going to cover.
+
+148
+00:15:33,290 --> 00:15:38,780
+Uh, but yeah, that's another great point is that you can break this down into a number of different groups,
+
+149
+00:15:39,440 --> 00:15:47,180
+one that focuses on, uh, neuromuscular junction or motor neurons and how that impacts behavior.
+
+150
+00:15:47,540 --> 00:15:50,870
+Um, yeah. All really good discussion.
+
+151
+00:15:51,440 --> 00:15:58,970
+Um, so first, starting with this kind of broad definition of what is this neurodegenerative diseases even.
+
+152
+00:15:59,300 --> 00:16:01,670
+Right. So we've been talking about all this stuff.
+
+153
+00:16:01,670 --> 00:16:07,910
+But you know, these are diseases that cause neurons lose a function or structure over time eventually can lead to cell death.
+
+154
+00:16:08,270 --> 00:16:17,050
+Um, and this can happen. And, um, basically all of our neurons from central nervous system to peripheral nervous system, right.
+
+155
+00:16:17,060 --> 00:16:21,770
+And depending on which neurons they're impacting or which tissues that leads
+
+156
+00:16:21,770 --> 00:16:26,090
+to different phenotypes and can be classified as different types of diseases.
+
+157
+00:16:26,450 --> 00:16:30,499
+Uh, and we also chatted or you all chatted about and brought up, you know,
+
+158
+00:16:30,500 --> 00:16:35,629
+how devastating these these diseases are because there is no reversible cure.
+
+159
+00:16:35,630 --> 00:16:39,770
+There are there are increasingly more preventative care.
+
+160
+00:16:40,070 --> 00:16:50,330
+And I have we actually talked about one um, I think it was in the learning and no, it's one of the sleep lectures of uh, looking at um,
+
+161
+00:16:51,320 --> 00:17:00,590
+uh, research group that was using sound pulses to trigger the, uh, lymphatic system in the brain, uh, through the meninges.
+
+162
+00:17:00,590 --> 00:17:08,450
+And actually, that's responsible for cleaning out a lot of these protein aggregates that can lead to a lot of degenerative diseases.
+
+163
+00:17:08,450 --> 00:17:11,420
+And again, we'll touch on that a little bit later in this lecture.
+
+164
+00:17:12,020 --> 00:17:18,919
+Uh, but hopefully that so neurodegenerative diseases being a very the most broad term as um,
+
+165
+00:17:18,920 --> 00:17:22,520
+you know, diseases that cause these neurons to lose their function or structure over time.
+
+166
+00:17:23,240 --> 00:17:31,760
+Um, and then we can start to break that down. Um, and again, perfectly as mentioned, these are two very broad categories.
+
+167
+00:17:31,760 --> 00:17:36,710
+So you can have motor degeneration or non-motor degeneration.
+
+168
+00:17:36,980 --> 00:17:42,320
+Yeah that's what I. Um, schizophrenia.
+
+169
+00:17:42,750 --> 00:17:50,219
+Sometimes you see deterioration in gray matter with that and sort of fall into this category maritime disease,
+
+170
+00:17:50,220 --> 00:17:53,790
+or is it kind of its own thing would just have some of these qualities?
+
+171
+00:17:54,190 --> 00:17:58,050
+Yeah, yeah, yeah. Really interesting question.
+
+172
+00:17:58,410 --> 00:18:06,570
+Um, I think you could classify it as a type of neurodegenerative disease because of.
+
+173
+00:18:06,600 --> 00:18:11,670
+Yeah. Once you have schizophrenia, often you're, it leads to, you know, a type of cell death.
+
+174
+00:18:12,090 --> 00:18:18,540
+Um, and another qualifier for these newer generative diseases is it's, uh, you're,
+
+175
+00:18:18,810 --> 00:18:24,330
+you're getting cell death and increase rate higher than what you expect from aging alone.
+
+176
+00:18:24,600 --> 00:18:31,559
+Right. So having schizophrenia, um, even while you're aging, is probably leading to, um,
+
+177
+00:18:31,560 --> 00:18:35,970
+like an interaction where you're losing probably even more neurons than, uh.
+
+178
+00:18:37,820 --> 00:18:44,060
+Then? Uh, yeah. Normal. So yeah, I would, I would classify it as a neurodegenerative disease as well.
+
+179
+00:18:44,090 --> 00:18:49,579
+I'm sure there's. Yeah. This is actually something really interesting about schizophrenia specifically,
+
+180
+00:18:49,580 --> 00:18:55,010
+is that there is never been a person who was born blind to develop schizophrenia.
+
+181
+00:18:56,000 --> 00:19:04,480
+Interesting. Okay. There's never been a case of that. So that implies that something in order for schizophrenia to function requires sight.
+
+182
+00:19:04,970 --> 00:19:08,030
+So the limitations you have can still be auditory.
+
+183
+00:19:08,210 --> 00:19:11,570
+Right. But I think that's another example of how those processes work.
+
+184
+00:19:11,700 --> 00:19:14,930
+But I think that there's something in the visual cortex. Yeah.
+
+185
+00:19:15,200 --> 00:19:18,620
+The functional word for those sorts of limitations to occur.
+
+186
+00:19:18,740 --> 00:19:22,390
+Yeah. Also really interesting. Um, yeah.
+
+187
+00:19:22,400 --> 00:19:27,860
+And then thinking of the ways the like phenotypes of schizophrenia and how it like manifests
+
+188
+00:19:27,860 --> 00:19:33,710
+in behavior and like how visual cortex and visual pathways play into that behavior.
+
+189
+00:19:33,890 --> 00:19:45,590
+And like the absence of that. Yeah, maybe there is maybe you have some great, some schizophrenic like, um, diseases or impairments,
+
+190
+00:19:45,590 --> 00:19:50,460
+but maybe they're kind of the phenotype is very different from people that have a website.
+
+191
+00:19:50,480 --> 00:19:54,350
+But yeah. Super. Another cool. Uh, we should find some papers in post.
+
+192
+00:19:54,530 --> 00:19:58,700
+I think that's an interesting, interesting concept. Yeah, yeah.
+
+193
+00:19:59,090 --> 00:20:04,340
+So one of the things about them is they think that's tied not to innovation but to light perception.
+
+194
+00:20:04,730 --> 00:20:09,670
+Um, and so there's more research being done to that area because one of the things that that's.
+
+195
+00:20:11,090 --> 00:20:16,590
+And particularly is it's kind of difficult to find like an origin of reason.
+
+196
+00:20:16,890 --> 00:20:17,160
+Right.
+
+197
+00:20:17,700 --> 00:20:24,450
+We started so right thinking about if there's anything about like late patterns that changes it, or at least that's just what the literature is.
+
+198
+00:20:24,750 --> 00:20:28,590
+Yeah. Yeah, yeah. Very interesting. Yeah. Thanks for for bringing that up.
+
+199
+00:20:28,740 --> 00:20:33,690
+Yeah. Well definitely. Let's definitely post some, some papers and yeah, maybe get a little discussion on that.
+
+200
+00:20:34,500 --> 00:20:42,210
+Um cool. All right. So in summary, schizophrenia could also be classified as a neurodegenerative disease.
+
+201
+00:20:42,540 --> 00:20:49,920
+Um, and then we have these two broad categories where uh, we're focusing on motor degeneration or non-motor degeneration.
+
+202
+00:20:50,880 --> 00:20:58,220
+Uh, but uh, and so does anyone can anyone name a motor neurodegenerative disease.
+
+203
+00:20:59,000 --> 00:21:13,290
+Yeah. So yes, ALS is, uh, one of the another becoming more well known, uh, but uh, fairly common motor neurodegenerative disease.
+
+204
+00:21:13,710 --> 00:21:19,680
+Um, in general, these diseases, as you know, the name implies affect motor neuron.
+
+205
+00:21:19,680 --> 00:21:25,740
+So you'll see a lot of behavior phenotypes, um, as these neurons are starting to degrade.
+
+206
+00:21:26,130 --> 00:21:31,950
+Um, another really common uh, motor neurodegenerative disease is Parkinson's.
+
+207
+00:21:33,420 --> 00:21:39,900
+Um, right. And so very similar. There's uh a number of behavioral phenotypes associated with this.
+
+208
+00:21:40,200 --> 00:21:51,540
+So, uh, you have this Brady Kanisha slowed movement, uh, difficulty initiating movement, um, resting tremors or spontaneous movement rigidity.
+
+209
+00:21:51,810 --> 00:21:57,960
+Uh, and this can typically, if not classified, Parkinson's disease as, uh, leading to,
+
+210
+00:21:58,360 --> 00:22:04,770
+uh, cognitive or psychiatric changes, but it often correlates with these over time.
+
+211
+00:22:05,130 --> 00:22:12,780
+Right. So Parkinson's is more rate affecting those motor neurons and how we can actually initiate, um, uh, movement.
+
+212
+00:22:15,870 --> 00:22:26,400
+Right. And so here's a little, uh, schematic showing the differences between a individual without Parkinson's and the individual with Parkinson's.
+
+213
+00:22:26,940 --> 00:22:32,969
+Um, and does anyone remember roughly what region of the brain this is?
+
+214
+00:22:32,970 --> 00:22:37,040
+And, you know, there's a couple keywords that could help.
+
+215
+00:22:37,050 --> 00:22:42,970
+So the substantia nigra, um, superior, Colo.
+
+216
+00:22:43,170 --> 00:22:52,350
+Cliff, um, and this is highlighting in that center mid brain region.
+
+217
+00:22:54,390 --> 00:23:02,010
+And we we covered this a bit in learning and memory maybe make sense that this region is
+
+218
+00:23:02,010 --> 00:23:08,340
+highlighted for um Parkinson's disease or a motor neurodegenerative disease because it's,
+
+219
+00:23:08,610 --> 00:23:12,540
+this region is responsible for a lot of uh coordinating movement.
+
+220
+00:23:16,520 --> 00:23:22,700
+It is. Right. So substantia nigra which is part of the basal ganglia.
+
+221
+00:23:23,360 --> 00:23:30,260
+Right. So we covered this in uh actually learning memory because of within the basal ganglia.
+
+222
+00:23:30,680 --> 00:23:34,100
+Um right. There's coordination of movement projects to the thalamus.
+
+223
+00:23:34,100 --> 00:23:43,040
+But there's also a high concentration of these dopaminergic neurons, dopamine, um, being sent off to different regions of the brain.
+
+224
+00:23:43,430 --> 00:23:46,760
+And importantly with coordinating movement.
+
+225
+00:23:47,120 --> 00:24:00,320
+Right. This within the, um, substantia nigra, it projects to the uh striatum, which then goes to the thalamus, which then goes to the motor cortex.
+
+226
+00:24:00,890 --> 00:24:05,660
+Um, so if you're starting to see degeneration within that circuit, um,
+
+227
+00:24:05,660 --> 00:24:12,080
+that can lead to an impaired impairment in initiating movement or, uh, performing an action.
+
+228
+00:24:15,450 --> 00:24:20,250
+Yeah. Of course. Great.
+
+229
+00:24:20,400 --> 00:24:25,040
+Great question. Um, yeah. Highlighted with actually.
+
+230
+00:24:25,050 --> 00:24:32,040
+Yeah. So yeah, one of the big differences that we were noticing from the non park is Parkinson's to the Parkinson's.
+
+231
+00:24:41,740 --> 00:24:46,270
+Yeah. Yeah, exactly. Uh, where you.
+
+232
+00:24:46,270 --> 00:24:53,259
+Some people may read the bottom text, but that actually is what gives the, uh, substantia nigra.
+
+233
+00:24:53,260 --> 00:24:58,150
+Its name is from, um, basically a black substance.
+
+234
+00:24:58,480 --> 00:25:02,379
+So the dopaminergic neurons have this black tint to them.
+
+235
+00:25:02,380 --> 00:25:13,240
+So when you do, uh, when people were first doing dissections and were looking at, um, the basal ganglia, they saw these concentrated dark lines.
+
+236
+00:25:13,240 --> 00:25:18,930
+And those were from these dopaminergic neurons, uh, within, uh, um, the basal ganglia.
+
+237
+00:25:18,940 --> 00:25:23,850
+So good observation. Good point. And really it's the absence.
+
+238
+00:25:23,930 --> 00:25:27,550
+Yeah. I think this this image kind of highlights the inflammation there.
+
+239
+00:25:28,060 --> 00:25:37,840
+Often there probably is some inflammation. The biggest uh, characteristic is the, uh, the, uh, degradation of those dopaminergic neurons.
+
+240
+00:25:38,770 --> 00:25:48,130
+But often you're going to get, um, inflammation or immune responses in the brain from a lot of these neurodegenerative diseases because of,
+
+241
+00:25:48,430 --> 00:25:59,319
+um, the different, um, uh, essentially different proteins or aggregates that are causing, um, the degeneration to happen.
+
+242
+00:25:59,320 --> 00:26:05,530
+And often that leads to an immune response and can lead to even more rapid, um, degradation of neurons.
+
+243
+00:26:05,530 --> 00:26:09,400
+So good observation and yeah, good reminder to me.
+
+244
+00:26:11,540 --> 00:26:16,910
+Cool, right? And so as mentioned, some of the, uh, this is part of basal ganglia.
+
+245
+00:26:17,180 --> 00:26:23,299
+Over time, these, uh, these dopaminergic neurons, uh, in Parkinson's will degrade, uh,
+
+246
+00:26:23,300 --> 00:26:30,980
+and that leads to less signal, less dopamine going to the striatum, less dopamine going to be, uh,
+
+247
+00:26:30,980 --> 00:26:35,240
+less signal to the thalamus, and over time leads to, um,
+
+248
+00:26:35,240 --> 00:26:43,670
+just decreased overall communication between all of these different regions of the brain and can lead to, uh, a lot of motor impairment.
+
+249
+00:26:45,530 --> 00:26:52,180
+Cool. Uh, and so this is looking at an example of this circuit.
+
+250
+00:26:52,190 --> 00:27:03,169
+So, uh, in panel A, we're, uh, looking in the, uh, substantia Niagara neuron synapsis on onto the striatal neuron.
+
+251
+00:27:03,170 --> 00:27:10,760
+So in the striatum, uh, which then and then panel B, we're looking at that striatal neuron synapses on to,
+
+252
+00:27:11,090 --> 00:27:18,650
+uh, what would be, uh, a region that projects into the thalamus, basically.
+
+253
+00:27:18,860 --> 00:27:26,479
+Right. So showing that normally from the, um, the, uh, that first region in the basal ganglia to the striatum,
+
+254
+00:27:26,480 --> 00:27:32,629
+you're releasing dopamine that leads to excitatory post-synaptic potential, right?
+
+255
+00:27:32,630 --> 00:27:39,290
+And then eventually that leads to the release of Gaba in your striatal neuron, to that GPI neuron.
+
+256
+00:27:39,680 --> 00:27:49,669
+Uh, and that leads to an I PSP, right. So that's an actually it leads to inhibition, uh, within that, uh, that last region, uh, which is,
+
+257
+00:27:49,670 --> 00:27:58,670
+I believe, the Globus palladium, which is again part of the striatum, uh, that projects to the thalamus.
+
+258
+00:28:00,840 --> 00:28:04,590
+Right. And so if you look at now the Parkinson's version.
+
+259
+00:28:05,040 --> 00:28:08,910
+Right. So now we're as I mentioned, we don't have those dopamine.
+
+260
+00:28:09,270 --> 00:28:14,610
+Uh, we have less dopaminergic neurons. Right. So you're not getting that signal going to the striatum.
+
+261
+00:28:15,030 --> 00:28:19,050
+Right. So you're not getting inhibition at that last neuron.
+
+262
+00:28:19,380 --> 00:28:25,470
+And so it actually leads to more activity in, uh, that final neuron, which can lead,
+
+263
+00:28:25,470 --> 00:28:30,600
+that produces a lot of the tremors, uh, that's associated with Parkinson's disease.
+
+264
+00:28:33,840 --> 00:28:38,280
+Cool. Yeah. And then here's a little schematic of that circuit.
+
+265
+00:28:39,810 --> 00:28:45,500
+Right. So. Substantia nigra striatum.
+
+266
+00:28:45,830 --> 00:28:52,969
+This is that GPI neuron uh, which then projects to the thalamus and then to your motor cortex.
+
+267
+00:28:52,970 --> 00:28:57,260
+Right. Which starts to coordinate your, your movements. Right.
+
+268
+00:28:57,260 --> 00:29:07,670
+So that, um, block the decrease of that dopaminergic signal can actually lead to increased tonic signal or uh, like a baseline signal and lead to,
+
+269
+00:29:07,820 --> 00:29:18,020
+to more tremors actually occurring and overall, um, increased noise to your signal, which makes it more challenging to coordinate movements.
+
+270
+00:29:24,480 --> 00:29:35,400
+Cool. All right. So that was. That way is looking at a type of neurodegenerative disease that was associated with more motor neurons.
+
+271
+00:29:35,880 --> 00:29:42,580
+Um, now we're coming back to this idea of dementia, uh, which we described.
+
+272
+00:29:42,600 --> 00:29:51,630
+I know I was. Um, as being more associated with cognitive cognitive decline, memory and learning decline.
+
+273
+00:29:52,050 --> 00:29:57,750
+Um, typically dementia, uh, um, is a little bit more distinct from these, uh,
+
+274
+00:29:57,750 --> 00:30:05,370
+motor degenerative diseases in the sense that dementia normally has some kind of cognition impairment associated with it.
+
+275
+00:30:07,030 --> 00:30:10,330
+Right. So again, a very broad umbrella term.
+
+276
+00:30:10,630 --> 00:30:18,580
+Uh, but eventually it leads to this, uh, deterioration of cognitive function beyond what we expect from biological aging.
+
+277
+00:30:19,540 --> 00:30:25,840
+Right. And so here we have a fun schematic showing a literal umbrella with dementia inside of it.
+
+278
+00:30:27,700 --> 00:30:34,209
+Right. And so here are some more, um, probably, uh, types of dementia that we've heard of.
+
+279
+00:30:34,210 --> 00:30:41,860
+So Alzheimer's, uh, a type of vascular dementia, uh, Lewy body, frontal temporal lobe, uh, and a few others.
+
+280
+00:30:44,560 --> 00:30:48,550
+Right. So we'll talk a little bit more about Alzheimer's disease.
+
+281
+00:30:49,150 --> 00:30:54,280
+Uh, does anyone know, um, have has anyone heard of vascular dementia?
+
+282
+00:30:58,900 --> 00:31:08,050
+Um, yeah. And it's also kind of a broad term, but it's second, second most common type of dementia, I should say.
+
+283
+00:31:08,080 --> 00:31:15,490
+Does anyone know, uh, the statistics on Alzheimer's and how frequent it is, um, in, like, general population.
+
+284
+00:31:19,290 --> 00:31:22,560
+Yeah. So it's fair, I guess.
+
+285
+00:31:22,610 --> 00:31:25,590
+Uh, yeah. So neurodegenerative diseases.
+
+286
+00:31:26,130 --> 00:31:36,570
+It's basically one in every nine people eventually will have some diagnosis of some, some type of neurodegenerative disease, which is pretty striking.
+
+287
+00:31:36,570 --> 00:31:40,680
+And then, uh, there's a lot of statistics showing that this is actually increasing.
+
+288
+00:31:40,950 --> 00:31:44,669
+But of course with these statistics you have to try and unpack, you know,
+
+289
+00:31:44,670 --> 00:31:51,150
+is it truly increasing or are we just, um, do we just have better tools to really diagnose,
+
+290
+00:31:51,600 --> 00:32:02,610
+um, even kind of, um, less phenotypic, typically, um, apparent and behaviorally apparent uh, types of this, uh, dementia.
+
+291
+00:32:03,900 --> 00:32:08,340
+Um, yeah. So anyway, uh, getting back to, uh, vascular dementia.
+
+292
+00:32:08,700 --> 00:32:13,410
+Um, so this is actually from impairment of blood flow to the brain.
+
+293
+00:32:13,620 --> 00:32:18,120
+So there's a number again, very broad description. There's a number of ways that that can occur.
+
+294
+00:32:18,390 --> 00:32:26,250
+Uh, and then rate the type of impairment uh, depends on what region you're getting decreased blood flow to.
+
+295
+00:32:26,610 --> 00:32:32,910
+Uh, typically some standard, um, uh, phenotypes are right.
+
+296
+00:32:32,940 --> 00:32:38,519
+A lot of this, uh, frontal lobe, um, kind of cognition.
+
+297
+00:32:38,520 --> 00:32:45,149
+So impaired judgment, executive, uh, planning and action, memory problems, uh,
+
+298
+00:32:45,150 --> 00:32:50,070
+slow thinking, difficulty concentrating, changes in behavior, personality.
+
+299
+00:32:50,650 --> 00:32:56,700
+Right. So typically, yeah, what we kind of associate with, uh, that broad umbrella of dementia.
+
+300
+00:32:58,960 --> 00:33:02,440
+Uh, next is Lewy body dementia.
+
+301
+00:33:03,280 --> 00:33:13,479
+Right. And so this now starts to touch on, uh, kind of a common theme that we find across a lot of these diseases, uh, in which, uh,
+
+302
+00:33:13,480 --> 00:33:23,170
+with this form of dementia, there's a specific protein aggregate or deposit that forms in these neurons that are called Lewy bodies.
+
+303
+00:33:23,620 --> 00:33:28,450
+Uh, and that leads to the degradation of these neurons over time.
+
+304
+00:33:28,840 --> 00:33:36,550
+Uh, and typically, it's these Lewy bodies will start to accumulate, uh, with age if you have this form of dementia.
+
+305
+00:33:36,910 --> 00:33:41,380
+And that will lead to, again, degradation of a specific neuron types.
+
+306
+00:33:41,950 --> 00:33:53,710
+Um, and so these Lewy bodies, these are some type of intracellular alpha nucleon protein that aggregates typically uh these are associated with.
+
+307
+00:33:54,220 --> 00:34:01,610
+Um I think also with some type of transcription.
+
+308
+00:34:01,630 --> 00:34:11,380
+So I'm hearing a I think um, some process within, uh, transcribing uh, DNA into m RNA.
+
+309
+00:34:11,740 --> 00:34:17,080
+Uh, but over time, I think you accumulate mutations and it leads to this aggregation, uh,
+
+310
+00:34:17,080 --> 00:34:24,190
+that often will trigger an immune response and leads to, um, the degradation of these neurons.
+
+311
+00:34:27,070 --> 00:34:27,370
+Right.
+
+312
+00:34:27,370 --> 00:34:40,420
+And so now, okay, continuing with that theme of, um, with these, these different types of dementia, there's some kind of accumulation of a protein,
+
+313
+00:34:40,780 --> 00:34:51,759
+um, that often it's some misfolded protein that will aggregate and lead to, um, either structural or functional changes within, uh, neurons.
+
+314
+00:34:51,760 --> 00:34:56,260
+And so that's, uh, what occurs within frontotemporal dementia as well.
+
+315
+00:34:56,620 --> 00:35:03,469
+Um, this is characterized by tau tangles and this other um, aggregates.
+
+316
+00:35:03,470 --> 00:35:13,330
+So this the uh TDP 43 aggregate, which is also um also associated with mRNA transportation.
+
+317
+00:35:13,840 --> 00:35:15,819
+Right. And so again, it's uh,
+
+318
+00:35:15,820 --> 00:35:26,680
+there's some level of mutation that occurs as we age that leads to this aggregation and this pretty common misfolding and that aggregation of this,
+
+319
+00:35:26,800 --> 00:35:32,590
+uh, TDP protein, uh, is a correlate of this frontotemporal dementia.
+
+320
+00:35:37,250 --> 00:35:37,459
+Right.
+
+321
+00:35:37,460 --> 00:35:46,940
+And then, uh, the last type of dementia on this list is, uh, mixed dementia, which essentially is some combination of, uh, a few different types.
+
+322
+00:35:46,940 --> 00:35:50,570
+So often you'll see vascular dementia with Alzheimer's.
+
+323
+00:35:50,960 --> 00:36:00,680
+Um, um, and often there's actually Lewy body accumulation also associated with Parkinson's, I'm pretty sure as well.
+
+324
+00:36:00,830 --> 00:36:11,780
+So there's if, if uh, these, um, kind of founding factors are present in um, or multiple kind of founding,
+
+325
+00:36:11,960 --> 00:36:16,640
+uh, predictors are present in an individual they can classify as this mixed dementia.
+
+326
+00:36:19,360 --> 00:36:26,169
+All right. Um, yeah. So now I want to talk a little bit about a type of Alzheimer's.
+
+327
+00:36:26,170 --> 00:36:31,810
+That or type of dementia we've heard before, likely, uh, which is Alzheimer's disease.
+
+328
+00:36:32,320 --> 00:36:38,140
+Um, rate. And this, again, is the most common type of, uh, of dementia.
+
+329
+00:36:38,890 --> 00:36:44,830
+Um, and it's characterized by these plaques that will form in the brain over time.
+
+330
+00:36:44,830 --> 00:36:53,170
+And so all it's most individuals that have Alzheimer's will have these plaques forming in the brain.
+
+331
+00:36:53,170 --> 00:36:57,340
+But not everyone that has these plaques has Alzheimer's.
+
+332
+00:36:57,340 --> 00:37:04,720
+And. Right. So this is what gets to this complexity of how you can diagnose and predict these neurodegenerative diseases.
+
+333
+00:37:04,930 --> 00:37:14,440
+When you have so many different, uh, factors and biomarkers that have some correlation but are not necessarily determinate.
+
+334
+00:37:14,770 --> 00:37:20,260
+Right. So it's just this really complex picture that makes it hard to, to treat and prevent.
+
+335
+00:37:20,860 --> 00:37:27,790
+Um, right. And so this is showing, uh, a Pet scan specifically for amyloid.
+
+336
+00:37:27,790 --> 00:37:34,630
+And so amyloid beta is another type of protein aggregate that will accumulate in the brain.
+
+337
+00:37:34,660 --> 00:37:39,700
+Um, and this is one of the qualifications for Alzheimer's disease.
+
+338
+00:37:40,000 --> 00:37:43,690
+So these amyloid beta uh aggregates will accumulate.
+
+339
+00:37:43,960 --> 00:37:52,270
+And that leads to a lot of this neurodegeneration across a number of different regions, uh, within the brain.
+
+340
+00:37:53,200 --> 00:38:00,490
+Um, and so before these Pet scans, uh, this is this was, uh, a breakthrough technology and,
+
+341
+00:38:00,580 --> 00:38:04,659
+uh, treatment or not treatment, but way of diagnosing Alzheimer's.
+
+342
+00:38:04,660 --> 00:38:13,540
+Before this, it really was postmortem, uh, uh, autopsies of the brain that allowed us to figure out that there are these,
+
+343
+00:38:13,540 --> 00:38:16,660
+uh, amyloid plaques associated with Alzheimer's.
+
+344
+00:38:16,990 --> 00:38:26,530
+Right. So now this allows for some amount of, uh, of, um, of identifying if these plaques are starting to accumulate.
+
+345
+00:38:26,530 --> 00:38:30,910
+But again, it's not perfectly determinate. Cool.
+
+346
+00:38:31,150 --> 00:38:34,299
+All right. So this is one of the hallmarks of Alzheimer's.
+
+347
+00:38:34,300 --> 00:38:43,629
+So you have these extracellular plaques, these deposits of these uh beta amyloid peptide uh, which is normally uh,
+
+348
+00:38:43,630 --> 00:38:52,780
+this large transmembrane protein that's associated with uh, many of our neurons that's, uh, involved with, uh, synaptic plasticity and learning.
+
+349
+00:38:53,260 --> 00:38:56,410
+Right? So it's yeah, this kind of sad.
+
+350
+00:38:57,160 --> 00:39:07,149
+Um, well, I guess it's it makes sense that once this, uh, protein that's associated with synaptic plasticity and learning starts to misfolding,
+
+351
+00:39:07,150 --> 00:39:15,639
+become inactive, um, which it's really the, this aggregation that seems to be triggering a lot of the degeneration.
+
+352
+00:39:15,640 --> 00:39:24,040
+But, um, it makes sense that we see a lot of this cognitive decline in decreases in overall synaptic plasticity and learning.
+
+353
+00:39:24,340 --> 00:39:28,420
+And, uh, many individuals that have late stage Alzheimer's.
+
+354
+00:39:29,050 --> 00:39:39,340
+Right. And so on. The right here is just this kind of big, comprehensive, um, schematic of all of a bunch of different, um, uh,
+
+355
+00:39:39,340 --> 00:39:45,730
+kind of protein aggregates that can occur in our neurons and that are present for a lot of these neurodegenerative diseases.
+
+356
+00:39:46,030 --> 00:39:55,000
+Right. So here you see that Lewy body, um, these tau tangles, which, uh, we'll cover in the next slide.
+
+357
+00:39:55,390 --> 00:40:06,490
+Uh, and here we have these amyloid plaques, right, that are forming, uh, in the uh, extracellular, uh, space that can lead to,
+
+358
+00:40:06,490 --> 00:40:15,760
+again, this overall, um, uh, kind of rapid neuro or not rapid, but, uh, kind of large scale, uh, degeneration within these neurons.
+
+359
+00:40:17,920 --> 00:40:30,730
+Cool. And then, uh, yeah, the other, uh, correlate and, um, uh, protein aggregate of Alzheimer's is this, uh, tau protein aggregation, which is,
+
+360
+00:40:31,210 --> 00:40:41,020
+uh, normally associated with microtubule binding and is involved in a lot of, uh, um, maintaining structure, uh, within our neurons.
+
+361
+00:40:41,620 --> 00:40:50,200
+Again, uh, with Alzheimer's, this will start to aggregate and form these plaques that are a hallmarks of Alzheimer's.
+
+362
+00:40:52,780 --> 00:41:00,500
+Cool. Um. Let's see. I'm going to.
+
+363
+00:41:00,520 --> 00:41:07,060
+Yeah. We'll just do this one. So I'm going to because I'm running long I want to give us time to chat about projects.
+
+364
+00:41:07,240 --> 00:41:11,260
+I'll just, uh, end on these last two slides.
+
+365
+00:41:11,260 --> 00:41:19,030
+So this is looking at, um, just highlighting these different regions of the brain that, uh, we're going to look at, um,
+
+366
+00:41:19,030 --> 00:41:23,169
+two figures showing the difference between, uh,
+
+367
+00:41:23,170 --> 00:41:30,640
+a control and an individual with Alzheimer's or an individual with Alzheimer's, an individual with Alzheimer's.
+
+368
+00:41:30,880 --> 00:41:40,030
+And looking at how, uh, different regions of the brain are impacted by these plaques and where we see more or less of, uh, neurodegeneration.
+
+369
+00:41:41,500 --> 00:41:49,120
+Right. And so, uh, in this paper, uh, they were actually looking at it would be three different groups.
+
+370
+00:41:49,120 --> 00:41:59,890
+So you had a control group, um, a group that had this, uh, mild cognitive impairment, often from, um, a mild, uh, brain injury.
+
+371
+00:42:00,190 --> 00:42:05,260
+And the idea is that that should have a different signature from Alzheimer's.
+
+372
+00:42:05,800 --> 00:42:10,990
+Uh, and then comparing that with individuals that, that do have Alzheimer's.
+
+373
+00:42:11,740 --> 00:42:22,150
+Right. And so, um, at that top left, we're looking at what regions of the brain, uh, do you see overall increased activity,
+
+374
+00:42:22,990 --> 00:42:29,890
+uh, compared with of your control compared to, uh, the mild cognitive impairment.
+
+375
+00:42:30,880 --> 00:42:38,500
+And then, uh, at the bottom right now, you're looking at the comparison of your control to an individual with Alzheimer's,
+
+376
+00:42:38,500 --> 00:42:43,360
+with the left side being what regions of the brain, uh, do you see more?
+
+377
+00:42:43,540 --> 00:42:47,919
+Um, an increase in activity compared to Alzheimer's.
+
+378
+00:42:47,920 --> 00:42:54,610
+And on the right is how does Alzheimer's disease, uh, increase activity compared to that control?
+
+379
+00:42:55,750 --> 00:43:04,030
+Right. And so some big things that may stick out. Right. Actually looking at you have a lot more activity within the, uh, visual system.
+
+380
+00:43:04,030 --> 00:43:16,540
+So, uh, visual cortex within that control group, uh, you have, uh, more of this are pretty similar, I guess regions of the default mode network.
+
+381
+00:43:16,540 --> 00:43:23,410
+So just baseline kind of overall activity in these, uh, or regions that are associated with kind of like baseline activity.
+
+382
+00:43:23,860 --> 00:43:29,320
+Uh, and then you see, uh, difference between the frontal parietal lobe.
+
+383
+00:43:29,860 --> 00:43:39,400
+Right. Which maybe starts to make sense, um, as right where parietal lobe is integrating a lot of, uh, different sensory information.
+
+384
+00:43:39,760 --> 00:43:45,820
+Um, you're projecting to your thalamus, uh, you're getting a lot of, um,
+
+385
+00:43:46,360 --> 00:43:53,200
+kind of motor action and planning that is coming from that integration of sensory information and.
+
+386
+00:43:53,200 --> 00:44:01,090
+Right. You see, um, differences between that control group and your Alzheimer's group, um, for those regions as well.
+
+387
+00:44:04,220 --> 00:44:07,580
+Cool. All right. So this is the last slide I have.
+
+388
+00:44:07,850 --> 00:44:12,710
+And then we are welcome to chat more. But give us some time to work through projects chat.
+
+389
+00:44:13,040 --> 00:44:21,290
+Um so yeah just ending on uh, this kind of newer study that's been coming out and this is just actually going
+
+390
+00:44:21,290 --> 00:44:26,239
+back to where I was talking about that we touched on in the sleep lecture is that,
+
+391
+00:44:26,240 --> 00:44:31,340
+um, people or researchers are finding, um,
+
+392
+00:44:31,340 --> 00:44:42,530
+more ways that the vascular system or the lymphatic vascular system, uh, surrounding the brain, uh, called the meninges, uh,
+
+393
+00:44:42,530 --> 00:44:50,630
+what role it plays in, uh, preventing Alzheimer's and potentially generating Alzheimer's if that system starts to break.
+
+394
+00:44:51,050 --> 00:45:00,980
+And so essentially, what researcher reaches researchers are finding is that, uh, this system, similar to a lot of our immune system in,
+
+395
+00:45:01,100 --> 00:45:09,350
+um, uh, lymphatic system, will actually, uh, use fluid to clean out different aggregates within the brain.
+
+396
+00:45:09,560 --> 00:45:17,209
+Right. And so that can help remove some of these tau, uh, and uh, amyloid beta plaques as well as, um,
+
+397
+00:45:17,210 --> 00:45:25,460
+with that are surrounded the brain surrounding the brain, um, and leading to, uh, a lot of these, uh, forms of dementia.
+
+398
+00:45:26,180 --> 00:45:34,100
+And so they've done a number of studies. This is actually looking at the mouse brain, uh, where they've manipulated the lymphatic system, uh,
+
+399
+00:45:34,100 --> 00:45:41,989
+the meninges in the mouse and found that, um, yeah, it's even more important than we previously thought.
+
+400
+00:45:41,990 --> 00:45:48,740
+And, um, preventing a lot of these, uh, protein aggregates that can lead to neurodegeneration.
+
+401
+00:45:49,340 --> 00:45:58,579
+Um, yeah. So I'll, I'll post some more papers on this, but I think, yeah, at least something really interesting and really interesting to to end on.
+
+402
+00:45:58,580 --> 00:46:05,030
+And, um, again, mention that study where they're actually triggering, you can trigger this system and trigger,
+
+403
+00:46:05,390 --> 00:46:15,080
+uh, this flushing of the interstitial fluid through this lymphatic system using I think it was like 20Hz sound.
+
+404
+00:46:15,470 --> 00:46:23,180
+And so, uh, a group of researchers at MIT patented, uh, some machine that you can actually, uh,
+
+405
+00:46:23,180 --> 00:46:30,620
+use while you sleep to actually try and trigger, um, that, that flushing of, um, the lymphatic system.
+
+406
+00:46:31,460 --> 00:46:41,990
+Yeah. So all in there, um, and that gives us a little over 20, 25 minutes to, to chat about projects.
+
+407
+00:46:42,170 --> 00:46:43,580
+So cool. Thanks.
+
